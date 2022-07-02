@@ -1,0 +1,4 @@
+08/07/2012 00:00:00|"Miscellaneous notes"|||"the Bw1, Bw2 and Bw3 horizons have been lumped together."|"64452003"|"2086335"
+07/30/2012 00:00:00|"Miscellaneous notes"|||"The Bwss1, Bwss2, and Bwss3 horizons were grouped together. They have similar properties."|"64452031"|"2086336"
+08/07/2012 00:00:00|"Miscellaneous notes"|||"the Bw1, Bw2 and Bw3 horizons have been lumped together."|"64452037"|"2086337"
+07/30/2012 00:00:00|"Miscellaneous notes"|||"The Bwss1, Bwss2, and Bwss3 horizons were grouped together. They have similar properties."|"64452040"|"2086338"

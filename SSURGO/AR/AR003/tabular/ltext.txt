@@ -1,0 +1,4 @@
+11/29/2004 00:00:00|"Certification statements"|||"DMU is certified as of 11/29/2004
+Legend had to be set to 3 due to Soil Data Mart Requirements.
+Spatial data is not certified at this date."|"15092"|"76868"
+08/06/2019 00:00:00|"Edit notes"|||"Status changed from Update to Published."|"15092"|"76869"

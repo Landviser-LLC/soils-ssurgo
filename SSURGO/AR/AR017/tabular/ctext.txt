@@ -1,0 +1,1262 @@
+08/06/2019 00:00:00|"Edit notes"|||"Increased percent composition from 90 to 100% to update total percentate to 100."|"21851395"|"22164042"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Dams is a miscellaneous area."|"21851395"|"22164043"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Yorktown component makes up 95 percent of the map unit. Slopes are 0 to 1 percent. This component is on backswamps, river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is very poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is frequently flooded. It is frequently ponded. A seasonal zone of water saturation is at 0 inches during January, February, March, April, May, June, July, August, September, October, November, December. Organic matter content in the surface horizon is about 5 percent. This component is in the F131BY005AR Wet Clay Bottomland ecological site. Nonirrigated land capability classification is 7w.  This soil meets hydric criteria.   "|"21851400"|"22164051"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY005AR"|"F131BY005AR - Wet Clay Bottomland
+
+Ecological Site Concept
+The ecological site has very deep, very poorly drained soils that are ponded throughout a portion of the year. A wetland plant community exists because it is the lowest position on the landscape, along with the flooding and ponding regimes.
+
+Soil Features
+The Yorktown series consists of very deep, very poorly drained, very slowly permeable soils that formed in clayey alluvium. Only Yorktown is correlated to this ecological site. The taxonomic classification is a very-fine, smectitic, nonacid, thermic Vertic Epiaquept.
+
+Reference Community
+The vegetation that has adapted to the anaerobic conditions are dominant. The United State Army Corps of Engineers (USACOE) classifies plants that occur in wetlands with an estimated probability greater than 99 percent obligate (OBL), and those 67 to 99 percent facultative wetland (FACW) plants. Obligate and facultative wetland plants are the most common encountered throughout the Swamps. When submerged, indicator species include coon's tail (Ceratophyllum demersum) and duckweeds (Azolla sp., Lemna sp., and Wolffia sp.). When the conditions are drier, or more near the periphery, indicator species are swamp smartweed (Polygonum hydropiperoides), marsh seedbox (Ludwigia palustris), and various sedges (Carex sp. and Cyperus sp.).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY005AR"|"21851400"|"22164052"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"21851401"|"22164053"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851401"|"22164054"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851403"|"22164057"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry, frequently flooded soil is a minor component."|"21851403"|"22164058"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851402"|"22164055"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland soil is a minor component."|"21851402"|"22164056"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"21851399"|"22164049"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851399"|"22164050"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851398"|"22164047"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The McGehee component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.  There are no saline horizons within 30 inches of the soil surface. "|"21851398"|"22164048"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851397"|"22164045"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"21851397"|"22164046"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Unnamed, hydric soil is a minor component."|"21851396"|"22164044"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Levee is a miscellaneous area."|"21851394"|"22164040"
+09/30/2005 00:00:00|"Correlation notes"|||"Name change from Levee to Orthents to meet NSSH standards for naming miscellaneous areas."|"21851394"|"22164041"
+11/17/2004 00:00:00|"Edit notes"|"Hydric criteria"||"11/17/04 LK.  The Perry components that is a minor inclusion need to have the flooding vs ponding hydric criteria varified.  There may be an error to the criteria rating for this component."|"21851393"|"22164037"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"21851393"|"22164038"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851393"|"22164039"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Calloway component makes up 50 percent of the map unit. Slopes are 0 to 2 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of fine-silty loess. Depth to a root restrictive layer, fragipan, is 26 to 34 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria.   "|"21851329"|"22163933"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851329"|"22163934"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Waverly soil is a minor component."|"21851328"|"22163932"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851327"|"22163930"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Henry component makes up 40 percent of the map unit. Slopes are 0 to 2 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of coarse-silty loess. Depth to a root restrictive layer, fragipan, is 27 to 35 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 6 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria.   "|"21851327"|"22163931"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851326"|"22163928"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Henry soil is a minor component."|"21851326"|"22163929"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Waverly soil is a minor component."|"21851325"|"22163927"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"21851348"|"22163966"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Unnamed soil is a minor component."|"21851347"|"22163965"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131AY006MO"|"No ecological site description is available."|"21851346"|"22163963"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Waverly component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of fine-silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is low. This soil is frequently flooded. It is not ponded. A seasonal zone of water saturation is at 9 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131AY006MO Wet Braided Terrace Forest ecological site. Nonirrigated land capability classification is 5w.  This soil meets hydric criteria.   "|"21851346"|"22163964"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Water is a miscellaneous area."|"21851345"|"22163962"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Aquents soil is a minor component."|"21851344"|"22163961"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Sharkey soil is a minor component."|"21851343"|"22163960"
+04/04/2012 00:00:00|"Edit notes"|"Taxonomy"|"Classification"|"The classification was updated from Very-fine, montmorillonitic, nonacid, thermic Vertic Haplaquepts to Very-fine, smectitic, thermic Chromic Epiaquerts"|"21851342"|"22163957"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Sharkey component makes up 85 percent of the map unit. Slopes are 0 to 3 percent. This component is on alluvial plains, Quarternary Alluvium Deposits backswamps. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 3w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"21851342"|"22163958"
+08/18/2016 00:00:00|"Correlation notes"|||"The RV slope gradient for this component was changed from 1.5% to 1% in accordance with the NSSH Part 618.55, which specifies that RV slope gradients are only allowed to be populated to one decimal place if the slope is less than 1%.  The logic used to make this adjustment was as follows with a few exceptions.  Well drained and drier components with RV slopes containing a "".5"" were rounded up and Moderately Well Drained and wetter soils containing a "".5"" were rounded down.  "|"21851342"|"22163959"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Aquents soil is a minor component."|"21851341"|"22163956"
+04/04/2012 00:00:00|"Edit notes"|"Taxonomy"|"Classification"|"The classification was updated from Very-fine, montmorillonitic, nonacid, thermic Vertic Haplaquepts to Very-fine, smectitic, thermic Chromic Epiaquerts"|"21851340"|"22163954"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Sharkey component makes up 90 percent of the map unit. Slopes are 1 to 3 percent. This component is on Quarternary Alluvium Deposits backswamps, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 3w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"21851340"|"22163955"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Commerce soil is a minor component."|"21851372"|"22164001"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Aquents soil is a minor component."|"21851371"|"22164000"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Robinsonville soil is a minor component."|"21851370"|"22163999"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Robinsonville component makes up 75 percent of the map unit. Slopes are 0 to 3 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of coarse-loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is occasionally flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent.  Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"21851369"|"22163997"
+08/18/2016 00:00:00|"Correlation notes"|||"The RV slope gradient for this component was changed from 1.5% to 2% in accordance with the NSSH Part 618.55, which specifies that RV slope gradients are only allowed to be populated to one decimal place if the slope is less than 1%.  The logic used to make this adjustment was as follows with a few exceptions.  Well drained and drier components with RV slopes containing a "".5"" were rounded up and Moderately Well Drained and wetter soils containing a "".5"" were rounded down.  "|"21851369"|"22163998"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"21851376"|"22164009"
+11/17/2004 00:00:00|"Edit notes"|"Hydric criteria"||"11/17/04 LK.  The Perry components that is a minor inclusion need to have the flooding vs ponding hydric criteria varified.  There may be an error to the criteria rating for this component."|"21851375"|"22164006"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851375"|"22164007"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"21851375"|"22164008"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland, flooded, long soil is a minor component."|"21851374"|"22164004"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851374"|"22164005"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Portland component makes up 85 percent of the map unit. Slopes are 0 to 3 percent. This component is on backswamps on (Arkansas) river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"21851373"|"22164002"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851373"|"22164003"
+11/17/2004 00:00:00|"Edit notes"|"Hydric criteria"||"11/17/04 LK.  The Perry components that is a minor inclusion need to have the flooding vs ponding hydric criteria varified.  There may be an error to the criteria rating for this component."|"21851315"|"22163913"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"21851315"|"22163914"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851315"|"22163915"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"21851314"|"22163912"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland soil is a minor component."|"21851408"|"22164066"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851408"|"22164067"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"21851407"|"22164065"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Perry component makes up 85 percent of the map unit. Slopes are 1 to 3 percent. This component is on lower backswamps on Red River and Arkansas River river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, May, June, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria.   "|"21851406"|"22164063"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851406"|"22164064"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851405"|"22164061"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry, flooded, long soil is a minor component."|"21851405"|"22164062"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851404"|"22164059"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Perry component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on lower backswamps on Red River and Arkansas River river valleys. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, May, June, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria.   "|"21851404"|"22164060"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Newellton component makes up 20 percent of the map unit. Slopes are 0 to 3 percent. This component is on natural levees, alluvial plains. The parent material consists of clayey alluvium over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is frequently flooded. It is not ponded. A seasonal zone of water saturation is at 33 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 5w.  This soil does not meet hydric criteria.   The soil has a maximum sodium adsorption ratio of 1 within 30 inches of the soil surface."|"21851290"|"22163867"
+12/17/2014 00:00:00|"Miscellaneous notes"|"Performance data"||"This was formerly a miscellaneous land area. There is no historic or updated performance data for crop yields or forestry productivity.
+
+Component Crop Yield:  Newellton data copied from MS143240 Newellton component. Crevasse data copied from MS143095 Crevasse component. Commerce data copied from MS143082 Commerce component. Sharkey data copied from MLRA 131A  Sharkey clay, 0 to 2 percent slopes, frequently flooded data map unit Sharkey component.  Riverwash is a miscellaneous unit with no data.
+Component Forest Productivity:  Newellton data copied from MS143240 Newellton component. Crevasse data copied from MS143095 Crevasse component. Commerce data copied from MS143082 Commerce component. Sharkey data copied from MLRA 131A  Sharkey clay, 0 to 2 percent slopes, frequently flooded data map unit Sharkey component.  Riverwash is a miscellaneous unit with no data."|"21851290"|"22163868"
+01/21/2015 00:00:00|"Miscellaneous notes"|"Hydric rating"|"Manual override"|"Over-ride from AR and MS SSS to keep non hydric rating until this can be investigated in the field.
+
+Delaney and Edgar,
+According to NASIS database calculations, Newellton, Commerce, and Crevasse components of the Alluvial land, frequently flooded map unit should be considered hydric with criterion 4
+1.	Map unit components that are frequently flooded for long duration or very long duration during the growing season that: 
+a.	Based on the range of characteristics for the soil series, will at least in part meet one or more Field Indicators of Hydric Soils in the United States, or
+b.	Show evidence that the soils meet the definition of a hydric soil.
+
+However, on the MS hydric soils list, the alluvial land map unit has only hydric components in the depressions.  I am inclined to leave these components as they currently stand:  not considered hydric because of this historic list and the potential programmatic problems this change would cause.  
+Please let me know what you would like me to do about this.  I am not going to change anything to hydric solely based on a NASIS calculation. RSE
+
+I agree with doing no harm.  When the alluvial land is done in a project, then handle the hydric.   EM
+I agree to let stay as is. One reason, this is atypical of the landscape, setting and concept (riverside) for the subject taxonomic units. DJ"|"21851290"|"22163869"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851368"|"22163996"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851367"|"22163994"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"21851367"|"22163995"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Lonoke component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 1.  This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"21851366"|"22163993"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Calloway soil is a minor component."|"21851365"|"22163991"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851365"|"22163992"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851364"|"22163990"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851363"|"22163988"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Henry component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of coarse-silty loess. Depth to a root restrictive layer, fragipan, is 27 to 35 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 6 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria.   "|"21851363"|"22163989"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Hebert component makes up 50 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of fine-silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 27 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"21851392"|"22164035"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851392"|"22164036"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851391"|"22164034"
+09/22/2014 00:00:00|"Miscellaneous notes"|"T Value"|"ovrd temp workload"|"A review of calculated values within in a single survey area showed that the same series of the same surface phase resulted in multiple calculated values, therefore one value was chosen to be representative, this value was keyed in as an override into all occurrences of this component for this survey area.  The original data value was reentered to change the source code to an M, indicating that this component was reviewed.  "|"21851390"|"22164031"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Crowley component makes up 40 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of loamy and clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY001AR Loamy Terrace ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"21851390"|"22164032"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY001AR"|"F131BY001AR - Loamy Terrace
+
+Ecological Site Concept
+The Loamy Terrace is a tallgrass prairie. The sites are productive are maintained by frequent fires every one to three years.
+
+Soil Features
+The soils consist of very deep, somewhat poorly to poorly drained, slow to impermeable soils. The two soils correlated to this site are Bursley silty clay loam and Crowley silt loam. Their taxonomic descriptions are Fine-silty, mixed, active, thermic Aeric Glossaqualf and Fine, smectitic, thermic Typic Albaqualf, respectively.
+
+Reference Community
+The vegetation adapted to the large, flat expanses was a diverse tallgrass prairie. Switchgrass and big bluestem are the dominant grasses. Other species include: little bluestem, Indiangrass, and eastern gamagrass in wetter areas. Forbs include: compass plant (Silphium laciniatum), prairie blazing star (Liatris spicata), black-eyed susan (Rudbeckia hirta), and partridge pea (Chamaecrista fasciculata).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY001AR"|"21851390"|"22164033"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Gullied land is a miscellaneous area."|"21851339"|"22163953"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Calloway soil is a minor component."|"21851338"|"22163951"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851338"|"22163952"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Henry soil is a minor component."|"21851337"|"22163949"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851337"|"22163950"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Grenada component makes up 90 percent of the map unit. Slopes are 8 to 12 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of fine-silty loess. Depth to a root restrictive layer, fragipan, is 17 to 25 inches. The natural drainage class is moderately well drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 4e.  This soil does not meet hydric criteria.   "|"21851336"|"22163947"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851336"|"22163948"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Calloway soil is a minor component."|"21851335"|"22163945"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851335"|"22163946"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851334"|"22163943"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Henry soil is a minor component."|"21851334"|"22163944"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Grenada component makes up 90 percent of the map unit. Slopes are 3 to 8 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of fine-silty loess. Depth to a root restrictive layer, fragipan, is 17 to 25 inches. The natural drainage class is moderately well drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 3e.  This soil does not meet hydric criteria.   "|"21851333"|"22163941"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851333"|"22163942"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851332"|"22163939"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Calloway soil is a minor component."|"21851332"|"22163940"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Grenada component makes up 90 percent of the map unit. Slopes are 3 to 8 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of fine-silty loess. Depth to a root restrictive layer, fragipan, is 17 to 25 inches. The natural drainage class is moderately well drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 3e.  This soil does not meet hydric criteria.   "|"21851331"|"22163937"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851331"|"22163938"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851330"|"22163935"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Henry soil is a minor component."|"21851330"|"22163936"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851389"|"22164029"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Calloway soil is a minor component."|"21851389"|"22164030"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Henry soil is a minor component."|"21851388"|"22164027"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851388"|"22164028"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Grenada component makes up 85 percent of the map unit. Slopes are 1 to 3 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of fine-silty loess. Depth to a root restrictive layer, fragipan, is 17 to 25 inches. The natural drainage class is moderately well drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria.   "|"21851387"|"22164025"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851387"|"22164026"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Henry soil is a minor component."|"21851362"|"22163986"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851362"|"22163987"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Calloway soil is a minor component."|"21851361"|"22163984"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851361"|"22163985"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Grenada component makes up 85 percent of the map unit. Slopes are 1 to 3 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of fine-silty loess. Depth to a root restrictive layer, fragipan, is 17 to 25 inches. The natural drainage class is moderately well drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria.   "|"21851360"|"22163982"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851360"|"22163983"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851386"|"22164024"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851385"|"22164022"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Henry soil is a minor component."|"21851385"|"22164023"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Calloway soil is a minor component."|"21851384"|"22164020"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851384"|"22164021"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Grenada component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of fine-silty loess. Depth to a root restrictive layer, fragipan, is 17 to 25 inches. The natural drainage class is moderately well drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"21851383"|"22164018"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851383"|"22164019"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851359"|"22163980"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Gallion component makes up 85 percent of the map unit. Slopes are 1 to 3 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of fine-silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"21851359"|"22163981"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851358"|"22163979"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"21851357"|"22163977"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851357"|"22163978"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Gallion component makes up 90 percent of the map unit. Slopes are 1 to 3 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of fine-silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"21851297"|"22163880"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851297"|"22163881"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851296"|"22163879"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851295"|"22163877"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Pulaski component makes up 39 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of coarse-loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 1.  This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"21851295"|"22163878"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"21851294"|"22163875"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851294"|"22163876"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851293"|"22163873"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Gallion component makes up 41 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of fine-silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 1.  This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"21851293"|"22163874"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Dundee component makes up 90 percent of the map unit. Slopes are 0 to 3 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of fine-silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 30 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent.  Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"21851292"|"22163871"
+08/18/2016 00:00:00|"Correlation notes"|||"The RV slope gradient for this component was changed from 1.5% to 1% in accordance with the NSSH Part 618.55, which specifies that RV slope gradients are only allowed to be populated to one decimal place if the slope is less than 1%.  The logic used to make this adjustment was as follows with a few exceptions.  Well drained and drier components with RV slopes containing a "".5"" were rounded up and Moderately Well Drained and wetter soils containing a "".5"" were rounded down.  "|"21851292"|"22163872"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Aquepts soil is a minor component."|"21851291"|"22163870"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Dundee component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of fine-silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 30 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent.  Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"21851356"|"22163976"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Aquepts soil is a minor component."|"21851355"|"22163975"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Commerce soil is a minor component."|"21851382"|"22164017"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Sharkey soil is a minor component."|"21851381"|"22164016"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Commerce component makes up 80 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of fine-silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 33 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"21851380"|"22164015"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Commerce soil is a minor component."|"21851354"|"22163974"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Sharkey soil is a minor component."|"21851353"|"22163973"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Commerce component makes up 80 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of fine-silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 33 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"21851352"|"22163972"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851379"|"22164014"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Henry soil is a minor component."|"21851378"|"22164012"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851378"|"22164013"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Calloway component makes up 90 percent of the map unit. Slopes are 1 to 3 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of fine-silty loess. Depth to a root restrictive layer, fragipan, is 26 to 34 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria.   "|"21851377"|"22164010"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851377"|"22164011"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Henry soil is a minor component."|"21851351"|"22163970"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851351"|"22163971"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851350"|"22163969"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Calloway component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of fine-silty loess. Depth to a root restrictive layer, fragipan, is 26 to 34 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"21851349"|"22163967"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851349"|"22163968"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851324"|"22163925"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Calloway component makes up 41 percent of the map unit. Slopes are 0 to 3 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of fine-silty loess. Depth to a root restrictive layer, fragipan, is 26 to 34 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria.   "|"21851324"|"22163926"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851323"|"22163924"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Grenada component makes up 39 percent of the map unit. Slopes are 0 to 3 percent. This component is on Mississippi Valley Loess Deposits terraces, alluvial plains. The parent material consists of fine-silty loess. Depth to a root restrictive layer, fragipan, is 17 to 25 inches. The natural drainage class is moderately well drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131DY004AR Loess Terrace ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria.   "|"21851322"|"22163922"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131DY004AR"|"F131DY004AR - Loess Terrace
+
+Ecological Site Concept
+The Loess Terrace is a diverse grassland prairie. A fragipan layer exists two to three feet below that surface that restricts root growth and perches water. Vegetative species are adapted to the restrictive layer.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to moderately well drained, very slowly permeable soils that formed in thick loess. These soils have a fragipan between 28 and 37 inches deep that restrict root growth and perch water during winter and early in spring. Soils correlated to this site include: Calloway, Grenada, and Henry.
+
+Reference Community
+The vegetation adapted to the Loess Prairie is a diverse grassland. Grasses occupying the area include: little bluestem (Schizachyrium scoparium), Indiangrass (Sorghastrum nutans), muhly (Muhlenbergia sp.) dropseeds (Sporobolus sp.), and sedges (Carex sp.). Forbs include: blackeyed Susan (Rudbeckia hirta), prairie tea (Croton monanthogynus), blazing star (Liatris sp.), and golden tickseed (Coreopsis tinctoria).
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131D
+Legacy Ecosite ID - F131DY004AR"|"21851322"|"22163923"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Bowdre soil is a minor component."|"21851321"|"22163921"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Bowdre component makes up 80 percent of the map unit. Slopes are 0 to 2 percent. This component is on alluvial plains, Quarternary Alluvium Deposits flood plains. The parent material consists of clayey over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 21 inches during January, February, March, April. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"21851320"|"22163920"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Sharkey soil is a minor component."|"21851319"|"22163919"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Bowdre soil is a minor component."|"21851318"|"22163918"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Sharkey soil is a minor component."|"21851317"|"22163917"
+09/16/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Bowdre component makes up 80 percent of the map unit. Slopes are 0 to 1 percent. This component is on alluvial plains, Quarternary Alluvium Deposits flood plains. The parent material consists of clayey over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 21 inches during January, February, March, April. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"21851316"|"22163916"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Pits is a miscellaneous area."|"21851307"|"22163898"
+09/30/2005 00:00:00|"Correlation notes"|||"Name change from Borrow pits to Udifluvents to meet NSSH standards for naming miscellaneous areas."|"21851307"|"22163899"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland, flooded soil is a minor component."|"21851313"|"22163910"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851313"|"22163911"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"21851312"|"22163908"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851312"|"22163909"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851311"|"22163906"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Portland component makes up 80 percent of the map unit. Slopes are 0 to 1 percent. This component is on backswamps on (Arkansas) river valleys. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"21851311"|"22163907"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Perry component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on lower backswamps on Red River and Arkansas River river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is very high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, May, June, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria.   "|"21851310"|"22163904"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851310"|"22163905"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland soil is a minor component."|"21851309"|"22163902"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851309"|"22163903"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry, flooded, long soil is a minor component."|"21851308"|"22163900"
+06/24/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851308"|"22163901"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Riverwash is a miscellaneous area."|"21851289"|"22163864"
+12/17/2014 00:00:00|"Miscellaneous notes"|"Performance data"||"This was formerly a miscellaneous land area. There is no historic or updated performance data for crop yields or forestry productivity."|"21851289"|"22163865"
+01/21/2015 00:00:00|"Miscellaneous notes"|"Hydric rating"|"Manual override"|"Over-ride from AR and MS SSS to keep non hydric rating until this can be investigated in the field.
+
+Delaney and Edgar,
+According to NASIS database calculations, Newellton, Commerce, and Crevasse components of the Alluvial land, frequently flooded map unit should be considered hydric with criterion 4
+1.	Map unit components that are frequently flooded for long duration or very long duration during the growing season that: 
+a.	Based on the range of characteristics for the soil series, will at least in part meet one or more Field Indicators of Hydric Soils in the United States, or
+b.	Show evidence that the soils meet the definition of a hydric soil.
+
+However, on the MS hydric soils list, the alluvial land map unit has only hydric components in the depressions.  I am inclined to leave these components as they currently stand:  not considered hydric because of this historic list and the potential programmatic problems this change would cause.  
+Please let me know what you would like me to do about this.  I am not going to change anything to hydric solely based on a NASIS calculation. RSE
+
+I agree with doing no harm.  When the alluvial land is done in a project, then handle the hydric.   EM
+I agree to let stay as is. One reason, this is atypical of the landscape, setting and concept (riverside) for the subject taxonomic units. DJ"|"21851289"|"22163866"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Sharkey component makes up 20 percent of the map unit. Slopes are 0 to 2 percent. This component is on flood plains, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is very high. This soil is frequently flooded. It is occasionally ponded. A seasonal zone of water saturation is at 0 inches during January, February, March, April, May, June, July, August, September, October, November, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 5w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent. There are no saline horizons within 30 inches of the soil surface. "|"21851288"|"22163862"
+12/17/2014 00:00:00|"Miscellaneous notes"|"Performance data"||"This was formerly a miscellaneous land area. There is no historic or updated performance data for crop yields or forestry productivity.
+
+Component Crop Yield:  Newellton data copied from MS143240 Newellton component. Crevasse data copied from MS143095 Crevasse component. Commerce data copied from MS143082 Commerce component. Sharkey data copied from MLRA 131A  Sharkey clay, 0 to 2 percent slopes, frequently flooded data map unit Sharkey component.  Riverwash is a miscellaneous unit with no data.
+Component Forest Productivity:  Newellton data copied from MS143240 Newellton component. Crevasse data copied from MS143095 Crevasse component. Commerce data copied from MS143082 Commerce component. Sharkey data copied from MLRA 131A  Sharkey clay, 0 to 2 percent slopes, frequently flooded data map unit Sharkey component.  Riverwash is a miscellaneous unit with no data."|"21851288"|"22163863"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Commerce component makes up 21 percent of the map unit. Slopes are 0 to 3 percent. This component is on natural levees, Mississippi River alluvial plains. The parent material consists of silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is frequently flooded. It is not ponded. A seasonal zone of water saturation is at 33 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 5w.  This soil does not meet hydric criteria.   "|"21851287"|"22163859"
+12/17/2014 00:00:00|"Miscellaneous notes"|"Performance data"||"This was formerly a miscellaneous land area. There is no historic or updated performance data for crop yields or forestry productivity.
+
+Component Crop Yield:  Newellton data copied from MS143240 Newellton component. Crevasse data copied from MS143095 Crevasse component. Commerce data copied from MS143082 Commerce component. Sharkey data copied from MLRA 131A  Sharkey clay, 0 to 2 percent slopes, frequently flooded data map unit Sharkey component.  Riverwash is a miscellaneous unit with no data.
+Component Forest Productivity:  Newellton data copied from MS143240 Newellton component. Crevasse data copied from MS143095 Crevasse component. Commerce data copied from MS143082 Commerce component. Sharkey data copied from MLRA 131A  Sharkey clay, 0 to 2 percent slopes, frequently flooded data map unit Sharkey component.  Riverwash is a miscellaneous unit with no data."|"21851287"|"22163860"
+01/21/2015 00:00:00|"Miscellaneous notes"|"Hydric rating"|"Manual override"|"Over-ride from AR and MS SSS to keep non hydric rating until this can be investigated in the field.
+
+Delaney and Edgar,
+According to NASIS database calculations, Newellton, Commerce, and Crevasse components of the Alluvial land, frequently flooded map unit should be considered hydric with criterion 4
+1.	Map unit components that are frequently flooded for long duration or very long duration during the growing season that: 
+a.	Based on the range of characteristics for the soil series, will at least in part meet one or more Field Indicators of Hydric Soils in the United States, or
+b.	Show evidence that the soils meet the definition of a hydric soil.
+
+However, on the MS hydric soils list, the alluvial land map unit has only hydric components in the depressions.  I am inclined to leave these components as they currently stand:  not considered hydric because of this historic list and the potential programmatic problems this change would cause.  
+Please let me know what you would like me to do about this.  I am not going to change anything to hydric solely based on a NASIS calculation. RSE
+
+I agree with doing no harm.  When the alluvial land is done in a project, then handle the hydric.   EM
+I agree to let stay as is. One reason, this is atypical of the landscape, setting and concept (riverside) for the subject taxonomic units. DJ"|"21851287"|"22163861"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Crevasse component makes up 20 percent of the map unit. Slopes are 0 to 3 percent. This component is on natural levees, alluvial plains. The parent material consists of sandy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is excessively drained.  Water movement in the most restrictive layer is high. Available water to a depth of 60 inches (or restricted depth) is very low. Shrink-swell potential is low. This soil is frequently flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 0 percent.  Nonirrigated land capability classification is 5w.  This soil does not meet hydric criteria.   "|"21851286"|"22163856"
+12/17/2014 00:00:00|"Miscellaneous notes"|"Performance data"||"This was formerly a miscellaneous land area. There is no historic or updated performance data for crop yields or forestry productivity.
+
+Component Crop Yield:  Newellton data copied from MS143240 Newellton component. Crevasse data copied from MS143095 Crevasse component. Commerce data copied from MS143082 Commerce component. Sharkey data copied from MLRA 131A  Sharkey clay, 0 to 2 percent slopes, frequently flooded data map unit Sharkey component.  Riverwash is a miscellaneous unit with no data.
+Component Forest Productivity:  Newellton data copied from MS143240 Newellton component. Crevasse data copied from MS143095 Crevasse component. Commerce data copied from MS143082 Commerce component. Sharkey data copied from MLRA 131A  Sharkey clay, 0 to 2 percent slopes, frequently flooded data map unit Sharkey component.  Riverwash is a miscellaneous unit with no data."|"21851286"|"22163857"
+01/21/2015 00:00:00|"Miscellaneous notes"|"Hydric rating"|"Manual override"|"Over-ride from AR and MS SSS to keep non hydric rating until this can be investigated in the field.
+
+Delaney and Edgar,
+According to NASIS database calculations, Newellton, Commerce, and Crevasse components of the Alluvial land, frequently flooded map unit should be considered hydric with criterion 4
+1.	Map unit components that are frequently flooded for long duration or very long duration during the growing season that: 
+a.	Based on the range of characteristics for the soil series, will at least in part meet one or more Field Indicators of Hydric Soils in the United States, or
+b.	Show evidence that the soils meet the definition of a hydric soil.
+
+However, on the MS hydric soils list, the alluvial land map unit has only hydric components in the depressions.  I am inclined to leave these components as they currently stand:  not considered hydric because of this historic list and the potential programmatic problems this change would cause.  
+Please let me know what you would like me to do about this.  I am not going to change anything to hydric solely based on a NASIS calculation. RSE
+
+I agree with doing no harm.  When the alluvial land is done in a project, then handle the hydric.   EM
+I agree to let stay as is. One reason, this is atypical of the landscape, setting and concept (riverside) for the subject taxonomic units. DJ"|"21851286"|"22163858"
+11/17/2004 00:00:00|"Edit notes"|"Hydric criteria"||"11/17/04 LK.  The Perry components that is a minor inclusion need to have the flooding vs ponding hydric criteria varified.  There may be an error to the criteria rating for this component."|"21851306"|"22163895"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"21851306"|"22163896"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"21851306"|"22163897"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The McGehee component makes up 85 percent of the map unit. Slopes are 0 to 2 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of fine-silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"21851305"|"22163893"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851305"|"22163894"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851304"|"22163892"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"21851303"|"22163890"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851303"|"22163891"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851302"|"22163889"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851301"|"22163887"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Gallion component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of fine-silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 1.  This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"21851301"|"22163888"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"21851300"|"22163885"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851300"|"22163886"
+06/23/2021 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"21851299"|"22163883"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"21851299"|"22163884"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"21851298"|"22163882"

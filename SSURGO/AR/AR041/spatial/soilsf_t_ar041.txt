@@ -1,0 +1,2 @@
+"AR041"|5|"MPI"|"Mine or quarry"|An open excavation from which soil and underlying material have been removed and in which bedrock is exposed. Also denotes surface openings to underground mines. Typically 5 to 10 acres.|"256649"
+"AR041"|5|"SAN"|"Sandy spot"|A spot where the surface layer is loamy fine sand or coarser in areas where the surface layer of the named soils in the surrounding map unit is very fine sandy loam or finer. Typically 5 to 10 acres.|"256650"
