@@ -1,0 +1,24 @@
+"Non-MLRA Soil Survey Area"|"AR043"|"Drew County, Arkansas"||05/01/1972 00:00:00|"certified, major components"|09/10/2021 15:30:26|"AR043 - Drew County
+
+The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s) and in the Project Correlation table.
+
+This dataset also contains the following changes:
+
+A. Recalculated all national, regional, and local interpretations for all components.
+
+B. The dataset was populated with data elements needed to support the Water Erosion Prediction Project (WEPP).
+
+C. The eleven national interpretations listed below are new for Fiscal Year 2021 or revised:
+
+AGR - Industrial Hemp for Fiber and Seed Production
+DHS - Emergency Land Disposal of Milk
+ENG - Deep Infiltration Systems
+ENG - Lined Retention Systems
+ENG - Shallow Infiltration Systems
+ENG - Unlined Retention Systems
+ENG - Ground-based Solar Arrays, Ballast Anchor Systems
+ENG - Ground-based Solar Arrays, Soil-based Anchor Systems
+FOR - Drought Vulnerable Soils
+SOH - Dynamic Soil Properties Response to Biochar
+SOH - Limitations for Aerobic Soil Organisms
+"|"15107"|"76443"|"76345"

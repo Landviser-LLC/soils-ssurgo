@@ -1,0 +1,290 @@
+08/30/2011 00:00:00|"Miscellaneous notes"|"evaluations"|"attribute/spatial"|"Desha County, Arkansas
+MLRA County Information Checklist
+
+
+A methodology for evaluating the amounts and kinds of information for county soil surveys prior to initiating update activities
+
+Preparation
+Assemble all readily available data, both digital and hard copy, including soil survey, lab data, transect data, geology, quads, hypsography, DEM, photography, etc.
+
+Examine the soil survey and develop a conceptual soil-landscape model for the area, based on the soil survey. Take notes as necessary (the SS report block diagrams show the model for the major soils). The evaluation and subsequent update process will be primarily one of refining and documenting this soil-landscape model.
+
+For each category, rate the survey area.  The a) category receives 1 points, b) 2, c) 3, and d) 4.  At the end add up score and prepare a narrative summary.
+
+
+1)	Known Deficiencies		Rating: 4	Evaluator: Brittany Singleton
+Interview users (DCs, soil scientists (including retired mappers), extension agents, etc.). Minimum: interview with DC or FOSA Team Leader.
+
+a)	Significant problems requiring extensive field work (major soils not recognized, and/or soil concepts out of date, and/or significant and unpredictable line placement errors, etc.).
+
+b)	Moderate problems requiring some field work (one or several soils or catenas need revision, etc.).
+
+c)	Only slight, occasional errors requiring minor field work (some line placement problems noted on a few farm plans, etc.).
+
+d)	Looks pretty darn good to me (users are happy with maps as is).
+
+Narrative Summary: Document specific, perceived problems with the old survey.
+
+Gwen Handcock, the Desha County District Conservationist, returned the soil survey questionnaire. She does not know of any problems with it or improvements that can be made. She is happy with it as it is. 
+
+
+
+
+
+
+
+Laboratory Data		Rating:  2		Evaluator: K. Crader
+a)	No lab data available in county, or only for a few pedons from special studies.
+
+b)	Lab data for series Type Locations.
+
+c)	Pedon sampled for every map unit, more or less.
+
+d)	Lab data available for multiple pedons per map unit.
+
+Narrative Summary: Discuss general lab data needs for county. Has profile or horizon data been georeferenced, described, characterized, analyzed, and/or summarized.  Include a workload analysis for entering pedon data into NASIS.  List the series and Type Locations that have lab data and the type of analysis done.
+
+ 
+
+In State Office files:
+
+Bowdre  no lab data in file.
+
+Bruno  Representative profile description in soil survey, but no lab data in file.  One pedon with physical and chemical analysis, but no profile description in file.
+
+Commerce  Representative profile description in soil survey with physical and chemical analysis in file.
+
+Coushatta  Representative profile description in soil survey, but no lab data in file.
+
+Desha  - Representative profile description in soil survey with physical and chemical analysis in file.
+
+Hebert  Representative profile description in soil survey with physical and chemical analysis in file.  One additional profile description with physical and chemical analysis in file.
+
+McGehee  Representative profile description in soil survey with physical and chemical analysis in file.
+
+Newellton  Representative profile description in soil survey with physical and chemical analysis in file.
+
+Perry  Representative profile description in soil survey, but no lab data in file.  Three profile description with physical and chemical analysis in file.  One pedon with physical analysis, but no profile description in file.
+
+Portland  Representative profile description in soil survey with physical and chemical analysis in file.  Two additional profile description with physical and chemical analysis in file.
+
+Rilla  Representative profile description in soil survey with physical and chemical analysis in file.  One additional profile description with physical and chemical analysis in file.
+
+Robinsonville  no lab data in file.
+
+Sharkey  Representative profile description in soil survey with physical and chemical analysis in file.
+
+Tunica  Representative profile description in soil survey with physical and chemical analysis in file.
+
+Tutwiler  Representative profile description in soil survey, but no lab data in file.
+
+
+
+Lab Data not in Survey or Correlation Document
+
+
+Miller  pedon description, physical and chemical analysis for 1 profile.
+
+Pulaski  pedon description, physical and chemical analysis for 1 profile. 
+
+Yahola  pedon description, physical and chemical analysis for 1 profile.  Additional, physical and chemical analysis for three pedons, but no profile description in file.
+
+
+
+2)	Map Unit Composition		Rating: 1	Evaluator: K. Crader
+
+
+a)	No transect data available.
+
+b)	A few transects (less than one per map unit).
+
+c)	Roughly one transect per map unit, with or without soil property data.
+
+d)	Multiple transects per map unit, including soil properties.
+
+Narrative Summary: Discuss documentation needs for county. Has transect data been georeferenced, summarized, etc. Include a workload analysis for entering transect data into NASIS.
+
+No transect data available.
+
+
+
+3)	GIS Evaluation of Line Placement	2	Evaluator: K. Crader
+
+Objective
+Evaluate the compilation precision of soil line placement, compared to hypsography lines and slope maps.
+
+Discussion
+Line placement errors may occur for a variety of reasons, including poor mapping technique, poor stereoscope technique, and line shift due to poor map compilation. Line placement errors may be random (from poor stereoscope technique), systematic (from poor map compilation technique), or some combination thereof. Even a soil survey with an excellent conceptual soils model, a well-designed legend and accurate soil identification can be virtually worthless for GIS analyses if the lines are not precisely georeferenced. This methodology evaluates the line placement precision in upland areas with subjective, visual analysis using simple map overlay via GIS.
+
+Materials Needed
+Digital soil survey
+General soil map (doesnt have to be digital)
+Hypsography lines (either as a line coverage, or as a DRG)
+Optional: Slope map or other hypsography derivative
+
+Procedure
+1)	Select sampling areas within the soil survey. Select about 10 sampling areas of roughly four sections each. Stratify your selection by general soil map unit. Dont sample floodplain GSM areas (unless you have a way of evaluating line placement in these areas). Place more sample areas in GSM units of greater extent. For example, if there are six GSM units, and one is a floodplain unit, you would distribute your sample areas among the five upland units. If one of the GSM units is of minor extent, you might only place one sample in that GSM, and three in the largest GSM. Try to locate areas in the central concept of each GSM (away from transitions), although overlaps into adjacent GSMs are OK. This is not a rigorous statistical test, just a way to look at a representative cross-section of the county uplands.
+2)	Examine each sample area by overlaying soils and hypsography in an ArcView View window. Use the DRG, hypsography line file, slope map or whatever you wish, so that you can see the relationship between the soil lines and the topography. For me, a scale of about 1:8,000 works well. Pan across the sample area, evaluating the line placement. Rate each sample area on a 4-point scale as follows:
+1  Lines are off in most areas; mapping definitely needs to be recompiled.
+2  Lines are shifted in some areas or some areas are off; recompilation is desirable.
+3  A few lines are off or shifted slightly; only minor adjustments are needed.
+4  Line placement is excellent; recompilation is unnecessary.
+3)	Summarize your results by adding all your scores and dividing by the number of samples.
+
+a)	Lines are off in most areas; mapping definitely needs to be recompiled.
+
+b)	Lines are shifted in some areas or some areas are off; recompilation is desirable.
+
+c)	A few lines are off or shifted slightly; only minor adjustments are needed.
+
+d)	Line placement is excellent; recompilation is unnecessary
+
+
+Narrative summary of your results and observations. Note systematic vs random error, recurring patterns, differences among sampled areas, etc. Include suggestions for line adjustment (if any)
+
+The Pine Bluff MLRA Office is responsible for line placement check for areas west of Highway 65 and the Greenville, Mississippi MLRA office is responsible for the area east of Highway 65.  A total of 71 spots were randomly check.  The Arkansas River Alluvium has the most uniform soil pattern in the county.  Most areas appear to be delineated correctly.  The Coushatta and Tutwiler Series will need field investigation. The Coushatta Series will need field work to determine map unit composition.  The Tutwiler map unit has red colors and does not appear to have an argillic horizon.  Re-correlation may be needed.
+
+
+
+
+
+
+4)	Field Verification		Rating: 3	Evaluator: K. Crader
+Plot a series of road transects across the county. Conduct transects, evaluating line placement in relation to the landscape, consistency of mapping, etc. Include soil observations (optional).
+
+a)	Lines do not consistently fit the landscape, and/or units are excessively broad, and/or mapping seems inconsistent.
+
+b)	Many problem areas or soils.
+
+c)	A few problem areas or soils.
+
+d)	Couldnt have done much better myself!
+
+Narrative Summary: Discuss specific observations made along transects, including results from any direct soil observations.
+
+(CoA)-Coushatta complex, 0 to 1 percent slopes.  Total sites checked-1.  This map unit is composed of 70 percent Coushatta soils, 5 to 15 percent Bowdre, Bruno, and Desha soils, and 5 to 15 percent inclusions of other soils as described in map unit write up.  Field investigation to determine map unit composition may be needed.    
+
+(Dh)-Desha Clay.  Total sites checked-2.  Both sites were inclusion of other soils.  Soil lines appear correct.
+
+(He)-Hebert silt loam.  Total sites checked-13.  There were 3 sites that had inclusions of other soils and 10 sites that had no problems.  Soil lines appear correct. 
+
+(Mc)-McGehee silt loam.  Total sites checked-7.  There were 4 sites that had inclusion of other soils and 3 sites that had no problems.  Soil lines appear correct.
+
+(Pe)-Perry clay.  Total sites checked-11.  There were 5 sites that had inclusion of other soils and 6 sites that had no problems.  Soil lines appear correct.
+
+(Po)-Portland silt loam.  Total sites checked-4.  There were 2 sites that had inclusion of other soils and 2 sites that had no problems.  Soil lines appear correct.
+
+(Pr)-Portland clay.  Total sites checked-5.  There were 2 sites that had inclusion of other soils and 3 sites that had no problems.  Soil lines appear correct. 
+
+(RsA)-Rilla silt loam, 0 to 1 percent slopes.  Total sites checked-14.  There were 4 sites that had inclusion of other soils and 10 sites that had no problems.  Soil lines appear correct.
+
+(RsB)-Rilla silt loam, 1 to 3 percent slopes.  Total sites checked-6.  There was 1 site that had inclusion of other soils, 2 sites that cross slope class, and 3 sites that had no problems.  Soil lines appear correct.
+
+(Tw)-Tutwiler silt loam.  Total sites checked-6. All 6 sites were inclusion of other soils.  This map unit has red colors and does not have an argillic horizon.  The Keo series may be a better fit.  Soil lines appear correct.  
+
+
+
+
+
+
+
+5)	Regional Consistency		Rating:  3	Evaluator: K. Crader
+Use GIS to examine distributions of series and map units in the county as compared to their regional distributions, and compared to other regionally significant soils. Evaluate based on expert knowledge.
+
+a)	Inconsistent with regional concepts; county join problems; significant regional soils not recognized in the county, etc.
+
+b)	Many obvious join problems and inconsistencies.
+
+c)	Some join problems and inconsistencies.
+
+d)	Survey seems to be regionally consistent, and will serve as a model for other counties in the region.
+
+Narrative Summary: Discuss specific join issues and regional inconsistencies.
+
+
+Lincoln County joins Desha County
+
+a.	Desha clay joins Sharkey and Desha clays, 0 to 1 percent slopes
+b.	Portland clay joins Portland silt loam
+c.	Rilla silt loam, 0 to 1 percent slopes joins Tutwiler silt loam
+d.	Yorktown silty clay joins unnamed map unit
+e.	Water joins unnamed map unit
+
+Drew County joins Desha County
+
+a.	Hebert joins Rilla
+b.	Rilla joins Tutwiler
+c.	Hebert joins McGehee
+d.	Hebert joins Portland
+e.	Portland joins Perry
+f.	Portland joins McGehee
+g.	Water joins unnamed map unit
+h.	Perry clay joins Desha Clay
+i.	Hebert joins Desha Clay
+
+
+
+6)	The Soil-Landscape Model	Rating: 3	Evaluator: K. Crader
+Based on observations and analysis made in all of the above procedures, evaluate the quality of the existing soil-landscape model, as expressed in the current soil survey.
+
+a)	Weak. Major gaps and/or inconsistencies in the model, which is simplistic or poorly defined.
+
+b)	Fair. Some significant gaps, perhaps from out-of-date concepts.
+
+c)	Pretty good. A few improvements are needed.
+
+d)	Excellent. A good template for surrounding counties.
+
+Narrative Summary: Discuss specific weaknesses with the soil survey soil-landscape model, including unanswered questions.
+
+Coushatta series was establish in McCurtain County, Oklahoma, but the type location is in Red River Parish, Louisiana.  These soils formed in reddish calcareous loamy alluvium of mixed mineralogy on natural levees along rivers that carry sediments from Permian red beds.  This series fits well.
+
+Desha series was establish in Red River County, Texas, but the type location is in Desha County, Arkansas.  These soils formed in clayey alluvium from Permian geological formation in slack water areas along the Arkansas River.  This series fits well.
+
+Hebert series was establish and the type location is in Ouachita Parish, Louisiana.  These soils formed in silty alluvium on natural levees along present and abandoned channels of the Arkansas River.  This series fits well.
+
+McGehee series was establish and the type location is in Chicot County, Arkansas.  These soils formed in silty and clayey alluvium on the Arkansas and Red River bottomlands.  This series fits within the concept of the Arkansas River geographically associated soils.
+
+Perry series was establish in Perry County, Arkansas, but the type location is in Morehouse Parish, Louisiana.  These soils formed in clayey alluvium in back swamp areas along the Arkansas River.  This series fits well.
+
+Portland series was establish and the type location is in Ashley County, Arkansas.  These soils formed in clayey alluvium from Permian formation on flood plain and slack water areas along the Arkansas River.  This series fits well.
+
+Rilla series was establish and the type location is in Ouachita Parish, Louisiana.  These soils formed in reddish silty and loamy alluvium on natural levees along the Arkansas River.  This series fits well.
+
+Tutwiler series was establish and the type location is in Tallahatchie County, Mississippi.  These soils formed in loamy alluvium on natural levees that border former channels of the Mississippi River and its tributaries.  This series fits within the concept of the Southern Mississippi Valley Alluvium geographically associated soils. 
+
+
+
+
+7)	Other Information:  Document all documentation that is not listed above
+
+Footnotes on page 43 Desha County Soil Survey:
+
+1.	McGehee soils in this survey are taxadjuncts to the series.  Soil depth to the 2B horizon is a few inches less than the defined range for the series.
+2.	Some areas of Perry soils are slightly less than 60 percent clay and, therefore, are outside the define range for the series.  These are considered taxadjuncts to the series.
+3.	Tutwiler soils in this survey are taxadjuncts to the series.  They have a hue of 5YR in the B and C horizons and are slightly acid or neutral in the A and B horizons.  The modal soils of the series have hues of 7.5YR and 10YR, and reaction is medium acid to very strongly acid.
+
+
+
+
+
+
+
+
+
+
+
+
+Scoring and Executive Summary  18
+Add up the numbers. Scores will range from 7 (a real stinker) to 28 (outstanding).
+
+Prepare an executive summary of the main problems and issues involved in updating this county. If possible, provide a rough estimate of the workload required for an update.
+
+In Desha County all of the soils formed in alluvium deposited by the Arkansas, Mississippi, and White Rivers.  This alluvium, in some parts of the county is a mixture of all three different river sediments.  Field investigation may be needed to document map unit composition in the (CoA)-Coushatta complex,0 to 1 percent slopes.  The Tutwiler series has red colors and appears not to have an argillic horizon.  Further field investigation may be needed.  There are many sloughs, abandon oxbows and channels with bald cypress and water tupelo trees.  Further field investigation is needed to determine if these areas contain Yorktown soils. 
+
+
+
+
+References: Missouri Statewide Evaluation, Soil Survey Handbook, Soil Taxonomy, NSSH 610.04, 
+"|"15107"|"76971"
+08/06/2019 00:00:00|"Edit notes"|||"Status changed from Update to Published."|"15107"|"76972"

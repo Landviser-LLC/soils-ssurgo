@@ -1,0 +1,7 @@
+"Climate Factor Area (USLE)"|"0"|"Climate Factor"||"15097"|"494714"
+"County or Parish"|"AR017"|"Chicot"|442118|"15097"|"494715"
+"MLRA"|"134"|"Southern Mississippi Valley Loess"|51367|"15097"|"494716"
+"MLRA"|"131B"|"Arkansas River Alluvium"|213061|"15097"|"494717"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|177690|"15097"|"494718"
+"Rainfall Factor Area (USLE)"|"375"|"Rainfall Factor"||"15097"|"494719"
+"State or Territory"|"AR"|"Arkansas"||"15097"|"494720"

@@ -1,0 +1,11 @@
+08/07/2012 00:00:00|"Miscellaneous notes"|||"the Bw1, Bw2 and Bw3 horizons have been lumped together."|"64430796"|"2086026"
+07/19/2006 00:00:00|"Edit notes"|"Nat'l Bulletin"|"Structure"|"Due to mandatory population per National Bulletin 430-7-5, ""Moderate Medium Granular"" structure was populated for every surface horizon.
+
+While not being totaly useless, the data are not measured."|"64430805"|"2086022"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc data elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64430805"|"2086023"
+07/19/2006 00:00:00|"Edit notes"|"Nat'l Bulletin"|"Structure"|"Due to mandatory population per National Bulletin 430-7-5, ""Moderate Medium Granular"" structure was populated for every surface horizon.
+
+While not being totaly useless, the data are not measured."|"64430806"|"2086024"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc data elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64430806"|"2086025"
+08/07/2012 00:00:00|"Miscellaneous notes"|||"the Bw1, Bw2 and Bw3 horizons have been lumped together."|"64430843"|"2086027"
+05/08/2007 00:00:00|"Miscellaneous notes"|||"Populated component horizon data."|"64430895"|"2086028"
