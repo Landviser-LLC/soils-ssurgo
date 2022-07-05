@@ -12,12 +12,16 @@ Need to setup venv (Python 3.9) - previous Python version, as 3.10 does not supp
 `py -m virtualenv -p="[PATH to your Python 3.9]" "[PATH-to-your-repo-folder]\soils-ssurgo\.venv39"`
 
 activate environment
+`.venv39/scripts/activate`
+
+install requirements from requirements.txt
+`pip install -r requirements.txt`
 
 create your branch
 
 `git checkout -b mywork`
 
-When finished one task - PUSH to repo and submit pull request.
+Do coding/data prep work as assigned in Landviser.XYZ portal (eventually we might utilize Issues and Projects tabs here to work on GIS analytic and soft development projects. When finished one task - PUSH to repo and submit pull request.
 
 When pushing a branch first time 
 
@@ -27,7 +31,11 @@ after that you can just
 
 `git push origin`
 
-and changes from local will be pushed to YOUR branch on remote (GitHub, this repo)
+and changes from local will be pushed to YOUR branch on remote (GitHub, this repo). When finished with an assignment - submit PULL request here on GitHub. Someone from the team will jump in and review/approve/merge.
+That will merge your changes to the MASTER and your branch will be deleted.
+For the next task always pull fresh copy from the GitHub repo MASTER branch
+`git pull origin`
+create another branch from master and repeat the above
 
 **REMEMBER:** 
 
@@ -48,11 +56,7 @@ and changes from local will be pushed to YOUR branch on remote (GitHub, this rep
 ## Advanced: Starting from Scratch on new coding project
 
 1. setting up venv for specific Python version:
-   1. ```
-      py -0
-      ```
-
-      #lists all Pythons on Windows PC
+   `py -0`       #lists all Pythons on Windows PC
 
 Need to setup venv (Python 3.9) - previous Python version, as 3.10 does not support Pandas in a full might yet (June 2022). 
 
