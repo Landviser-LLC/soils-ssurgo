@@ -17,7 +17,7 @@ create your branch
 
 `git checkout -b mywork`
 
-Go to TODO folder and read todo.md there for what need to be done. When finished one task - PUSH to repo and submit pull request.
+When finished one task - PUSH to repo and submit pull request.
 
 When pushing a branch first time 
 
