@@ -1,0 +1,49 @@
+08/07/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64451454"|"2086311"
+08/07/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64451455"|"2086312"
+07/19/2006 00:00:00|"Edit notes"|"Nat'l Bulletin"|"Structure"|"Due to mandatory population per National Bulletin 430-7-5, ""Moderate Medium Granular"" structure was populated for every surface horizon.
+
+While not being totaly useless, the data are not measured."|"64451457"|"2086313"
+08/07/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64451457"|"2086314"
+04/25/2006 00:00:00|"Edit notes"|"CEC-ECEC"|"calculation"|"The CEC and ECEC were calculated using the CEC-ECEC calculator in NASIS dated 4/18/06, which uses the soil classification (9th edition), OM, pH (water), Total clay, and CaCO3 clay.  Any prior data or manually entered data for CEC and ECEC was not overwritten.  This data is required for National Bulletin 430-5-7."|"64451514"|"2086315"
+04/25/2006 00:00:00|"Edit notes"|"Water Content"|"calculation"|"The Water Content values were calculated using the Water Content calculator in NASIS dated 6/8/04, which computes the RV values related to 0.1 bar H2O, 0.33 bar H2O, 15 bar H2O, Satiated H2O, and Db oven dry.
+
+The RVs were used as input for the process:  OM%, Rock >10, Rock 3-10, #10 sieve, Db 0.33 bar H2O, or Db 0.1 bar H2O, Total Clay, LEP %,  Texture or Tex Mod & Class.
+Several assumptions were made if values were absent.
+
+Any prior data or manually entered data was not overwritten.  This data is required for National Bulletin 430-5-7 due July 15, 2006."|"64451514"|"2086316"
+09/01/2010 00:00:00|"Edit notes"|"Designation"|"calculation"|"Calculated horizon designation that was previously not calculated."|"64451514"|"2086317"
+06/17/2014 00:00:00|"Edit notes"|"Kf-Kw"|"calculation"|"Calculated Kf and Kw as per NB 430-14-3.  No overrides were authorized.  Used Pangaea Calculator."|"64451514"|"2086318"
+04/25/2006 00:00:00|"Edit notes"|"CEC-ECEC"|"calculation"|"The CEC and ECEC were calculated using the CEC-ECEC calculator in NASIS dated 4/18/06, which uses the soil classification (9th edition), OM, pH (water), Total clay, and CaCO3 clay.  Any prior data or manually entered data for CEC and ECEC was not overwritten.  This data is required for National Bulletin 430-5-7."|"64451515"|"2086319"
+04/25/2006 00:00:00|"Edit notes"|"Water Content"|"calculation"|"The Water Content values were calculated using the Water Content calculator in NASIS dated 6/8/04, which computes the RV values related to 0.1 bar H2O, 0.33 bar H2O, 15 bar H2O, Satiated H2O, and Db oven dry.
+
+The RVs were used as input for the process:  OM%, Rock >10, Rock 3-10, #10 sieve, Db 0.33 bar H2O, or Db 0.1 bar H2O, Total Clay, LEP %,  Texture or Tex Mod & Class.
+Several assumptions were made if values were absent.
+
+Any prior data or manually entered data was not overwritten.  This data is required for National Bulletin 430-5-7 due July 15, 2006."|"64451515"|"2086320"
+09/01/2010 00:00:00|"Edit notes"|"Designation"|"calculation"|"Calculated horizon designation that was previously not calculated."|"64451515"|"2086321"
+07/08/2011 00:00:00|"Edit notes"|"Total Frag Vol RV"|"calculation"|"Calculated Total Fragment Volume RV for Surface Horizon in preparation for K factor calculation for NB 430-9-4.
+
+Adjusted fragment volumes to agree with what is in the official soil survey information and in agreement with the texture modifier.
+
+Manually entered low/high fragment values from survey data and lab data.
+"|"64451515"|"2086322"
+11/17/2011 00:00:00|"Edit notes"|"Rock Frags & Sieves"|"calculation"|"In preparation for the calculation of the K factors according to NB 430-9-4, we ran the calculator for ""Rock Frags & Percent Passing Sieves"" after adjusting fragments ""low, RV, & high"" values and with the prior population of total sand and sand separates by using the Particle Size Estimator calculation required in a prior national mandate. Or using adjusted sand separates populated by the Project Leaders.
+
+Validations were also run before the calculation to make sure that they passed for sum of totals for sand, silt, and clay and that the sand fractions sum to total sand.
+"|"64451515"|"2086323"
+06/17/2014 00:00:00|"Edit notes"|"Kf-Kw"|"calculation"|"Calculated Kf and Kw as per NB 430-14-3.  No overrides were authorized.  Used Pangaea Calculator."|"64451515"|"2086324"
+04/25/2006 00:00:00|"Edit notes"|"CEC-ECEC"|"calculation"|"The CEC and ECEC were calculated using the CEC-ECEC calculator in NASIS dated 4/18/06, which uses the soil classification (9th edition), OM, pH (water), Total clay, and CaCO3 clay.  Any prior data or manually entered data for CEC and ECEC was not overwritten.  This data is required for National Bulletin 430-5-7."|"64451516"|"2086325"
+04/25/2006 00:00:00|"Edit notes"|"Water Content"|"calculation"|"The Water Content values were calculated using the Water Content calculator in NASIS dated 6/8/04, which computes the RV values related to 0.1 bar H2O, 0.33 bar H2O, 15 bar H2O, Satiated H2O, and Db oven dry.
+
+The RVs were used as input for the process:  OM%, Rock >10, Rock 3-10, #10 sieve, Db 0.33 bar H2O, or Db 0.1 bar H2O, Total Clay, LEP %,  Texture or Tex Mod & Class.
+Several assumptions were made if values were absent.
+
+Any prior data or manually entered data was not overwritten.  This data is required for National Bulletin 430-5-7 due July 15, 2006."|"64451516"|"2086326"
+09/01/2010 00:00:00|"Edit notes"|"Designation"|"calculation"|"Calculated horizon designation that was previously not calculated."|"64451516"|"2086327"
+06/17/2014 00:00:00|"Edit notes"|"Kf-Kw"|"calculation"|"Calculated Kf and Kw as per NB 430-14-3.  No overrides were authorized.  Used Pangaea Calculator."|"64451516"|"2086328"
+07/19/2006 00:00:00|"Edit notes"|"Nat'l Bulletin"|"Structure"|"Due to mandatory population per National Bulletin 430-7-5, ""Moderate Medium Granular"" structure was populated for every surface horizon.
+
+While not being totaly useless, the data are not measured."|"64451633"|"2086329"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64451633"|"2086330"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64451634"|"2086331"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64451635"|"2086332"

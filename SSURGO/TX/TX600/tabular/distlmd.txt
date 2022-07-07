@@ -1,0 +1,36 @@
+"Non-MLRA Soil Survey Area"|"TX600"|"Austin and Waller Counties, Texas"||03/01/1981 00:00:00|"certified, major components"|09/10/2021 16:01:19|"TX600
+The Na2y0v3-Nahatche loam, 0 to 1 percent slopes, frequently flooded"" mapunit was edited and improved. The name of the project ""MLRA 86, 87 - Legend Overlap Update"" indicates what was edited.
+The HpCdk0k-Hockley gravelly fine sandy loam, 1 to 5 percent slopes"" mapunit was edited and improved. The name of the project ""MLRA 150A - Missing Irrigated Land Capability Class for Crop Insurance"" indicates what was edited.
+The HzCdk0l-Hockley soils, graded, 1 to 5 percent slopes"" mapunit was edited and improved. The name of the project ""MLRA 150A - Missing Irrigated Land Capability Class for Crop Insurance"" indicates what was edited.
+The Sudk1y-Sumpf clay, frequently flooded, frequently ponded"" mapunit was edited and improved. The name of the project ""MLRA 150A - Missing Irrigated Land Capability Class for Crop Insurance"" indicates what was edited.
+The BuA2ssg6-Burleson clay, 0 to 1 percent slopes"" mapunit was edited and improved. The name of the project ""MLRA 86, 87 - Legend Overlap Update"" indicates what was edited.
+The BoC2s0wk-Boy loamy fine sand, 1 to 5 percent slopes"" mapunit was edited and improved. The name of the project ""MLRA 150A - Component Classification Errors"" indicates what was edited.
+The HoB2v39d-Hockley loamy fine sand, 1 to 3 percent slopes"" mapunit was edited and improved. The name of the project ""MLRA 150A - Missing Irrigated Land Capability Class for Crop Insurance"" indicates what was edited.
+The AxC22shgd-Axtell fine sandy loam, 2 to 5 percent slopes, moderately eroded"" mapunit was edited and improved. The name of the project ""MLRA 86, 87 - Legend Overlap Update"" indicates what was edited.
+The AxD2shg7-Axtell fine sandy loam, 5 to 12 percent slopes"" mapunit was edited and improved. The name of the project ""MLRA 86, 87 - Legend Overlap Update"" indicates what was edited.
+The CyuA2x3yx-Cyfair-Urban land complex, 0 to 1 percent slopes"" mapunit was edited and improved. The name of the project ""MLRA 150A - Missing Irrigated Land Capability Class for Crop Insurance"" indicates what was edited.
+The KauA2vv5g-Katy-Urban land complex, 0 to 1 percent slopes"" mapunit was edited and improved. The name of the project ""MLRA 150A - Missing Irrigated Land Capability Class for Crop Insurance"" indicates what was edited.
+The HoCdk0j-Hockley fine sandy loam, 3 to 5 percent slopes"" mapunit was edited and improved. The name of the project ""MLRA 150A - Missing Irrigated Land Capability Class for Crop Insurance"" indicates what was edited.
+The tabular database was edited and populated according to guidance in Exhibits A and B of National Instruction (NI-305), and Part 610 of the National Soil Survey Handbook. Any spatial data edits were certified correct by the Soil Survey region GIS specialist, State Soil Scientist (SSS), and by the National Digitizing Center. The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s), and in the Project Correlation tables.
+
+The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s) and in the Project Correlation table.
+
+This dataset also contains the following changes:
+
+A. Recalculated all national, regional, and local interpretations for all components.
+
+B. The dataset was populated with data elements needed to support the Water Erosion Prediction Project (WEPP).
+
+C. The eleven national interpretations listed below are new for Fiscal Year 2021 or revised:
+
+AGR - Industrial Hemp for Fiber and Seed Production
+DHS - Emergency Land Disposal of Milk
+ENG - Deep Infiltration Systems
+ENG - Lined Retention Systems
+ENG - Shallow Infiltration Systems
+ENG - Unlined Retention Systems
+ENG - Ground-based Solar Arrays, Ballast Anchor Systems
+ENG - Ground-based Solar Arrays, Soil-based Anchor Systems
+FOR - Drought Vulnerable Soils
+SOH - Dynamic Soil Properties Response to Biochar
+SOH - Limitations for Aerobic Soil Organisms"|"13406"|"76463"|"76365"

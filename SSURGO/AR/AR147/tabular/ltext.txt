@@ -1,0 +1,466 @@
+02/23/2009 00:00:00|"Miscellaneous notes"|"evaluation"|"interpretation"|"1) Known Deficiencies.
+* Flooding needs to be addressed and water table studies conducted.
+* Foot slope soils of Crowleys Ridge need more data for recorrelation.
+* Leveled lands need to be investigated.
+
+
+7)  The Soil-Landscape Model.
+
+No models were identified in the soil survey."|"16403"|"76940"
+02/23/2009 00:00:00|"Miscellaneous notes"|"evaluation"|"attribute"|"2) Laboratory Data.
+More pedon data needs to be collected for complete aggregation of all map units.
+
+
+3) Map Unit Composition.
+Transect data need to be collected on all map units for a comprehensive component composition.
+
+County Summary:
+
+* Will update fairly easy.
+* Geology breaks need to be made.
+* Base saturation studies need to be made as related to geology and map units.
+* Map units need finer slope breaks.
+
+GrC   Grenada silt loam, 3 to 8 percent slopes, eroded          Grenada silt loam, 3 to 8 percent slopes
+GuC   Grubbs silt loam, 3 to 8 percent slopes, eroded           Grubbs silt loam, 3 to 8 percent slopes
+KoA   Kobel silty clay loam, 0 to 1 percent slopes, ponded      Kobel silty clay loam, 0 to 1 percent slopes, frequently flooded, frequently ponded
+
+AR147               Woodruff County, Arkansas
+To correct these errors, use the corresponding query to load the data
+Follow the Missouri NASIS Guide to fix the errors in the correct order
+
+
+
+0 - horizons missing AASHTO tables
+5 - horizons with AASHTO rep yes not equal to one
+0 - components with erosion class rep yes not equal to 1
+0 - components with dual part size and only one mineralogy
+0 - horizons with sum of the RV frag volume not equal to the total frag volume
+0 - horizons with sum of the low frag volume greater than the total low frag volume
+0 - horizons with fragment volume>0 and sieves=100
+55 - horizons with wet layer not coresponding to top of restriction layer
+0 - horizons with bulk denstiy <1 and not Organic
+9 - horizons with caco3=0 and pH>7.4
+0 - horizons with CaCO3>0 and a pH<7.4
+0 - components with reaction class for psamments
+0 - horizons with Cr name that do not match the restriction table depth
+0 - horizons with total frag volume greater than 75%
+0 - horizons with sum of the high frag volume less than the total frag volume
+0 - horizons with the sum of fragvol_l >75 percent
+0 - horizons with rv frag volume>75%
+0 - horizons with fragment size class out of range
+0 - horizons with low fragment size is out of range
+0 - horizons with fragment volume=0 and sieves<100
+0 - horizons with missing fragment table with sieve data
+0 - horizons with no k in name and CaCO3 >15
+0 - components with fragipan restriction depths not match X layers
+0 - horizons with null cec7 and pH>5.5
+0 - horizons with clay=0
+0 - horizons with the same hzname
+40 - horizons with names not calculated
+0 - horizons with thickness!=(bottom depth-top depth)
+0 - horizons where sand, silt, clay do not add to 100
+0 - horizons with cec7=0
+186 - horizons with EC_r=0
+0 - horizons with flat modifiers and not flat in fragment table
+0 - horizons with flat modifiers and not flat sizes in fragment table
+0 - horizons with flat shape and not flat sizes in fragment table
+0 - C horizons with structure
+0 - horizons with Kf equal to Kw and frags >5%
+0 - horizons with Kw greater than kf
+0 - horizons with Kw not equal to kf and frags <5%
+0 - horizons with Ksat=0
+0 - horizons with ksat> 4 and lep > 6
+170 - horizons with null values (national required)
+170 - horizons with null sum of bases
+0 - horizons with particle density not 1.40 or 2.65
+0 - horizons with pH CaCl2 high out of range
+0 - horizons with pH Cacl2 low out of range
+0 - horizons with pHw high out of range
+2 - horizons with pHw low out of range
+0 - components with R horizons that do not match resdepth
+AR147               Woodruff County, Arkansas
+To correct these errors, use the corresponding query to load the data
+Follow the Missouri NASIS Guide to fix the errors in the correct order
+
+
+
+0 - components with no restriction table and R or Cr layer
+0 - horizons with sand parts not equal to total sand
+0 - horizons with silt parts not equal to total silt
+142 - horizons with missing structure table
+0 - horizons with null structure group name
+69 - horizons with texture group not calculated
+0 - horizons with missing unified table
+0 - components with weg and wei not corresponding
+0 - horizons with <15 frag not consistent with modifier
+0 - horizons with <35% rock fragments inconsistent very modifier
+0 - horizons with  35to 60 fragments inconsistent with very modifiers
+0 - horizons with >60 fragments not consistent with extreme modifier
+0 - horizons with >60% fragments not consistent with very modifer
+0 - horizons with frag volume not consistent with by modifier
+0 - horizons with frag volume not consistent with cb modifier
+0 - horizons with frag volume not consistent with cn modifier
+0 - horizons with frag volume not consistent with gr modifier
+0 - horizons with frag volume not consistent with st modifier
+142 - horizons with structure group rep !=1
+0 - horizons with densic material in restriction table with X horizon name
+0 - components missing 2D table
+26 - components missing 3D table
+1 - components missing crop table
+0 - components missing mineralolgy table
+0 - components missing moisture class table
+0 - components with two or more crops with the same name
+0 - components are not aquic and are poorly or very poorly drained
+2 - components are very poorly drained and no ponding
+0 - components have a dual texture class and no strongly contrasting layer in restiction table
+0 - components with very frequently flooded
+22 - components with rare or very rare flooding and duration
+0 - components with flooding and no duration
+0 - components missing geomorphic table
+0 - components with unique month!=12
+0 - components with moisture depth null
+0 - components with moisture status null
+341 - component months with missing moisture table
+0 - mapunits with duplicate names
+0 - components with negligible runoff, low ksat and not ponded
+0 - components with null values in component table (national required)
+0 - components with null values in restrictions table with bottom
+0 - components with null values in restrictions table with no bottom
+0 - components with null values in moisture table
+0 - comonents with null values in month table
+0 - components with missing parent material group table
+0 - components with parent material group name is null
+0 - components with parent material group name not calculated
+0 - horizons with particle density not 1.40 or 2.65
+AR147               Woodruff County, Arkansas
+To correct these errors, use the corresponding query to load the data
+Follow the Missouri NASIS Guide to fix the errors in the correct order
+
+
+
+10 - components with runoff and ponded
+0 - components with ponding and no depth
+0 - components with temp class not equal to temp regime
+0 - components with water table top depth low > bottom depth high
+0 - components with a space in the name
+0 - components with null crop yield
+0 - mapunits with no slope in the name
+72 - components with landform/landscape not having rv rows equal to 2
+0 - mapunits with consociation and >1 major component
+0 - mapunits with complex or undifferentiated group and only one major component
+0 - components with inconsistent crop coverkind
+0 - components with inconsistent tree coverkind
+0 - components with inconsistent grass coverkind
+0 - components with major compflag no and >10%
+0 - components with major compflag yes and <10%
+42 - components with null moisture subclass
+0 - datamapunits with component percentage sum not equal 100
+0 - mapunits with correlation rep count!=1
+0 - components with dual part size and missing restrictions table
+0 - mapunits with eroded in name and no erosion class
+0 - components with erosion class and missing accelerated table
+0 - components with different taxonomy classifications
+0 - components with hydric 2* and not aquic
+0 - components with hydric 2* and <poorly drained
+0 - components with hydric 2* and wet layer >30 cm
+0 - components with hydric 3 and not frequently ponded for long duration
+0 - components with hydric 4 and not frequently flooded for long duration
+7 - components not hydric 2* and poorly or very poorly drained
+7 - components not hydric 2* and aquic conditions
+7 - components not hydric 2* and wet layer <30cm
+2 - components not hydric 3 and ponded for long duration
+5 - components not hydric 4 and flooded for long duration
+0 - components with hydric properties missing hydric table
+0 - components with hydric rating no and hydric code not null
+0 - components with hydric rating no and hydriccon not null
+0 - components with hydric rating null
+0 - components with hydric rating yes and  hydric code not exists
+2 - components with hydric rating yes and  hydriccon is null
+0 - components with hydrologic group a not consistent with <low runoff
+27 - components with hydrologic group b or c  not consistent with medium runoff
+13 - components with hydrologic group d not consistent with >high runoff
+0 - mapunits with frag in name missing surface fragments table
+0 - components missing slope shape table
+42 - components with T value not 1-5 or is null
+42 - components with missing tax family mineralology"|"16403"|"76941"
+02/23/2009 00:00:00|"Miscellaneous notes"|"evaluation"|"spatial"|"4) GIS Evaluation of Line Placement.
+* Bulltown has shade differences
+* Yancopin has meader scrolls
+* Jacksport may cross slope classes rice levees very close and show undulation
+* Kobel soils have shade differences
+* Kobel soils have different flooding at same elevation on join line
+* Yancopin has depressions that could be delineated
+* McCorey has shade differences and ponded areas
+* Water needs adjusting
+* New water needs delineating
+* Overcup may cross slope classes
+* Kobel soils may cross slope classes
+* Tuckerman has shade differences
+* Crowley may cross slope classes as indicated by rice levees
+* Hillemann may cross slope classes as indicated by rice levees
+
+
+5) Field Verification.
+* Most of the mapping appears fairly good.
+* Slope breaks need refined.
+* Series need to be confined geologically.
+* Flood plains, stream terraces, toe slopes need the most work.
+
+areasymbol	musym	muname	musym_1	muname_1	areasymbol_1
+AR147	KlA	Kobel silty clay loam, 0 to 1 percent slopes, frequently flooded	SF	Sharkey soils, frequently flooded	AR095
+AR147	BsB	Teksob loam, 1 to 3 percent slopes	BkB	Bosket fine sandy loam, gently undulating	AR095
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	Ca	Calhoun silt loam	AR037
+AR147	ClB	Calloway silt loam, 1 to 3 percent slopes	Ca	Calhoun silt loam	AR037
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	Ca	Calhoun silt loam	AR037
+AR147	ClB	Calloway silt loam, 1 to 3 percent slopes	Ca	Calhoun silt loam	AR037
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	Ca	Calhoun silt loam	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	Za	Zachary silt loam	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	Za	Zachary silt loam	AR037
+AR147	KlA	Kobel silty clay loam, 0 to 1 percent slopes, frequently flooded	SF	Sharkey soils, frequently flooded	AR095
+AR147	YpB	Yancopin silty clay loam, 0 to 3 percent slopes, frequently flooded	CF	Commerce soils, frequently flooded	AR095
+AR147	KlA	Kobel silty clay loam, 0 to 1 percent slopes, frequently flooded	17	Kobel silty clay loam, frequently flooded	AR680
+AR147	KlA	Kobel silty clay loam, 0 to 1 percent slopes, frequently flooded	SF	Sharkey soils, frequently flooded	AR095
+AR147	YpB	Yancopin silty clay loam, 0 to 3 percent slopes, frequently flooded	MF	Mhoon soils, frequently flooded	AR095
+AR147	YpB	Yancopin silty clay loam, 0 to 3 percent slopes, frequently flooded	6	Commerce silt loam, frequently flooded	AR680
+AR147	BsB	Teksob loam, 1 to 3 percent slopes	BkB	Bosket fine sandy loam, gently undulating	AR095
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	17	Kobel silty clay loam, frequently flooded	AR680
+AR147	KlA	Kobel silty clay loam, 0 to 1 percent slopes, frequently flooded	SF	Sharkey soils, frequently flooded	AR095
+AR147	BsB	Teksob loam, 1 to 3 percent slopes	BkB	Bosket fine sandy loam, gently undulating	AR095
+AR147	AmA	Amagon silt loam, 0 to 1 percent slopes	Am	Amagon silt loam	AR095
+AR147	BsB	Teksob loam, 1 to 3 percent slopes	BkB	Bosket fine sandy loam, gently undulating	AR095
+AR147	AmA	Amagon silt loam, 0 to 1 percent slopes	Am	Amagon silt loam	AR095
+AR147	BsB	Teksob loam, 1 to 3 percent slopes	BkB	Bosket fine sandy loam, gently undulating	AR095
+AR147	AmA	Amagon silt loam, 0 to 1 percent slopes	Am	Amagon silt loam	AR095
+AR147	BsB	Teksob loam, 1 to 3 percent slopes	BkB	Bosket fine sandy loam, gently undulating	AR095
+AR147	AmA	Amagon silt loam, 0 to 1 percent slopes	Am	Amagon silt loam	AR095
+AR147	YpB	Yancopin silty clay loam, 0 to 3 percent slopes, frequently flooded	6	Commerce silt loam, frequently flooded	AR680
+AR147	KlA	Kobel silty clay loam, 0 to 1 percent slopes, frequently flooded	17	Kobel silty clay loam, frequently flooded	AR680
+AR147	KoA	Kobel silty clay loam, 0 to 1 percent slopes, ponded	SF	Sharkey soils, frequently flooded	AR095
+AR147	YaB	Yancopin silty clay loam, 0 to 3 percent slopes, rarely flooded	5	Commerce silt loam, 0 to 1 percent slopes	AR680
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	He	Henry silt loam	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	Ca	Calhoun silt loam	AR037
+AR147	TbB	Taylorbay silt loam, 0 to 3 percent slopes, frequently flooded	6	Commerce silty clay loam, frequently flooded	AR145
+AR147	YpB	Yancopin silty clay loam, 0 to 3 percent slopes, frequently flooded	16	Kobel silty clay, frequently flooded	AR145
+AR147	YpB	Yancopin silty clay loam, 0 to 3 percent slopes, frequently flooded	16	Kobel silty clay, frequently flooded	AR145
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	ClB	Calloway silt loam, 1 to 3 percent slopes	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	KlA	Kobel silty clay loam, 0 to 1 percent slopes, frequently flooded	14	Jackport silty clay loam, 0 to 1 percent slopes	AR145
+AR147	TbB	Taylorbay silt loam, 0 to 3 percent slopes, frequently flooded	6	Commerce silty clay loam, frequently flooded	AR145
+AR147	W	Water	W	Large water	AR145
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	ClB	Calloway silt loam, 1 to 3 percent slopes	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	KoA	Kobel silty clay loam, 0 to 1 percent slopes, ponded	SF	Sharkey soils, frequently flooded	AR095
+AR147	KoA	Kobel silty clay loam, 0 to 1 percent slopes, ponded	SF	Sharkey soils, frequently flooded	AR095
+AR147	AsB	Askew fine sandy loam, 1 to 3 percent slopes	Fo	Foley-Calhoun-Bonn complex	AR095
+AR147	McA	McCrory fine sandy loam, 0 to 1 percent slopes	Ma	McCrory fine sandy loam	AR095
+AR147	BsC	Teksob loam, 3 to 8 percent slopes	BkB	Bosket fine sandy loam, gently undulating	AR095
+AR147	BsA	Teksob loam, 0 to 1 percent slopes	BkA	Bosket fine sandy loam, 0 to 1 percent slopes	AR095
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Fo	Foley-Calhoun-Bonn complex	AR095
+AR147	BsA	Teksob loam, 0 to 1 percent slopes	BkA	Bosket fine sandy loam, 0 to 1 percent slopes	AR095
+AR147	McA	McCrory fine sandy loam, 0 to 1 percent slopes	Ma	McCrory fine sandy loam	AR095
+AR147	AmA	Amagon silt loam, 0 to 1 percent slopes	Am	Amagon silt loam	AR095
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Fo	Foley-Calhoun-Bonn complex	AR095
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Fo	Foley-Calhoun-Bonn complex	AR095
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Fo	Foley-Calhoun-Bonn complex	AR095
+AR147	KoA	Kobel silty clay loam, 0 to 1 percent slopes, ponded	MF	Mhoon soils, frequently flooded	AR095
+AR147	GuB	Grubbs silt loam, 1 to 3 percent slopes	Gs	Grubbs silt loam	AR095
+AR147	OvA	Overcup silt loam, 0 to 1 percent slopes	Cr	Crowley silt loam	AR095
+AR147	FdA	Forestdale silty clay loam, 0 to 1 percent slopes, frequently flooded	Tf	Tichnor soils, frequently flooded	AR095
+AR147	JpA	Jackport silty clay loam, 0 to 1 percent slopes	Jc	Jackport silty clay loam	AR095
+AR147	OvA	Overcup silt loam, 0 to 1 percent slopes	Cr	Crowley silt loam	AR095
+AR147	GrC	Grenada silt loam, 3 to 8 percent slopes, eroded	GrC	Grenada silt loam, 3 to 8 percent slopes	AR095
+AR147	GuB	Grubbs silt loam, 1 to 3 percent slopes	Gs	Grubbs silt loam	AR095
+AR147	TuA	Tuckerman silty clay loam, 0 to 1 percent slopes, frequently flooded	MF	Mhoon soils, frequently flooded	AR095
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	He	Henry silt loam	AR123
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	He	Henry silt loam	AR123
+AR147	GuB	Grubbs silt loam, 1 to 3 percent slopes	HmB	Hillemann silt loam, 1 to 3 percent slopes	AR123
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	Za	Zachary silt loam	AR123
+AR147	GuB	Grubbs silt loam, 1 to 3 percent slopes	HmA	Hillemann silt loam, 0 to 1 percent slopes	AR123
+AR147	GuB	Grubbs silt loam, 1 to 3 percent slopes	HmA	Hillemann silt loam, 0 to 1 percent slopes	AR123
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	Za	Zachary silt loam	AR123
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	HmA	Hillemann silt loam, 0 to 1 percent slopes	AR123
+AR147	GrC	Grenada silt loam, 3 to 8 percent slopes, eroded	HmB	Hillemann silt loam, 1 to 3 percent slopes	AR123
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	Za	Zachary silt loam	AR123
+AR147	GuB	Grubbs silt loam, 1 to 3 percent slopes	HmB	Hillemann silt loam, 1 to 3 percent slopes	AR123
+AR147	GuB	Grubbs silt loam, 1 to 3 percent slopes	HmB	Hillemann silt loam, 1 to 3 percent slopes	AR123
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	Za	Zachary silt loam	AR123
+AR147	GuB	Grubbs silt loam, 1 to 3 percent slopes	HmB	Hillemann silt loam, 1 to 3 percent slopes	AR123
+AR147	BsB	Teksob loam, 1 to 3 percent slopes	BkB	Bosket fine sandy loam, gently undulating	AR095
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	HmA	Hillemann silt loam, 0 to 1 percent slopes	AR123
+AR147	BsA	Teksob loam, 0 to 1 percent slopes	BkA	Bosket fine sandy loam, 0 to 1 percent slopes	AR095
+AR147	BsB	Teksob loam, 1 to 3 percent slopes	BkB	Bosket fine sandy loam, gently undulating	AR095
+AR147	BsA	Teksob loam, 0 to 1 percent slopes	BkA	Bosket fine sandy loam, 0 to 1 percent slopes	AR095
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Fo	Foley-Calhoun-Bonn complex	AR095
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	16	Kobel silty clay loam, 0 to 1 percent slopes	AR680
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	Za	Zachary silt loam	AR123
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	16	Kobel silty clay loam, 0 to 1 percent slopes	AR680
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	He	Henry silt loam	AR123
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	ClB	Calloway silt loam, 1 to 3 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR123
+AR147	GrC	Grenada silt loam, 3 to 8 percent slopes, eroded	ClA	Calloway silt loam, 0 to 1 percent slopes	AR123
+AR147	GrC	Grenada silt loam, 3 to 8 percent slopes, eroded	Za	Zachary silt loam	AR123
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	Za	Zachary silt loam	AR123
+AR147	ClB	Calloway silt loam, 1 to 3 percent slopes	Za	Zachary silt loam	AR123
+AR147	ClB	Calloway silt loam, 1 to 3 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR123
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	KlA	Kobel silty clay loam, 0 to 1 percent slopes, frequently flooded	17	Kobel silty clay loam, frequently flooded	AR680
+AR147	YpB	Yancopin silty clay loam, 0 to 3 percent slopes, frequently flooded	6	Commerce silt loam, frequently flooded	AR680
+AR147	KlA	Kobel silty clay loam, 0 to 1 percent slopes, frequently flooded	17	Kobel silty clay loam, frequently flooded	AR680
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR123
+AR147	GrB	Grenada silt loam, 1 to 3 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR123
+AR147	GrB	Grenada silt loam, 1 to 3 percent slopes	Za	Zachary silt loam	AR123
+AR147	GrC	Grenada silt loam, 3 to 8 percent slopes, eroded	Za	Zachary silt loam	AR123
+AR147	ClB	Calloway silt loam, 1 to 3 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR123
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	Za	Zachary silt loam	AR123
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	Za	Zachary silt loam	AR123
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	W	Water	He	Henry silt loam	AR123
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	ClB	Calloway silt loam, 1 to 3 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR123
+AR147	ClB	Calloway silt loam, 1 to 3 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR123
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	GrB	Grenada silt loam, 1 to 3 percent slopes	He	Henry silt loam	AR123
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR123
+AR147	WvA	Wiville fine sandy loam, 0 to 1 percent slopes	Pa	Patterson fine sandy loam	AR067
+AR147	TrA	Tuckerman loam, 0 to 1 percent slopes, frequently flooded	Pa	Patterson fine sandy loam	AR067
+AR147	PaB	Patterson fine sandy loam, 0 to 2 percent slopes	Pa	Patterson fine sandy loam	AR067
+AR147	PaB	Patterson fine sandy loam, 0 to 2 percent slopes	DvA	Dundee silt loam, 0 to 1 percent slopes	AR067
+AR147	PaB	Patterson fine sandy loam, 0 to 2 percent slopes	Pa	Patterson fine sandy loam	AR067
+AR147	PaB	Patterson fine sandy loam, 0 to 2 percent slopes	DvU	Dundee silt loam, undulating	AR067
+AR147	PaB	Patterson fine sandy loam, 0 to 2 percent slopes	Pa	Patterson fine sandy loam	AR067
+AR147	BuC	Bulltown loamy fine sand, 1 to 8 percent slopes	Pa	Patterson fine sandy loam	AR067
+AR147	BuC	Bulltown loamy fine sand, 1 to 8 percent slopes	BoU	Bosket fine sandy loam, undulating	AR067
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	Za	Zachary silt loam	AR037
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	Za	Zachary silt loam	AR037
+AR147	W	Water	ClB	Calloway silt loam, 1 to 3 percent slopes	AR037
+AR147	ClB	Calloway silt loam, 1 to 3 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	AmA	Amagon silt loam, 0 to 1 percent slopes	Fc	Foley-Calhoun complex	AR067
+AR147	GrC	Grenada silt loam, 3 to 8 percent slopes, eroded	Fc	Foley-Calhoun complex	AR067
+AR147	GrC	Grenada silt loam, 3 to 8 percent slopes, eroded	DvA	Dundee silt loam, 0 to 1 percent slopes	AR067
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	DvA	Dundee silt loam, 0 to 1 percent slopes	AR067
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	Fc	Foley-Calhoun complex	AR067
+AR147	DuA	Dundee silt loam, 0 to 1 percent slopes	DeU	Dexter silt loam, undulating	AR067
+AR147	AsB	Askew fine sandy loam, 1 to 3 percent slopes	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	DvA	Dundee silt loam, 0 to 1 percent slopes	AR067
+AR147	AsB	Askew fine sandy loam, 1 to 3 percent slopes	DvA	Dundee silt loam, 0 to 1 percent slopes	AR067
+AR147	CaA	Calhoun silt loam, 0 to 1 percent slopes	Co	Crowley silt loam	AR067
+AR147	GuC	Grubbs silt loam, 3 to 8 percent slopes, eroded	DvA	Dundee silt loam, 0 to 1 percent slopes	AR067
+AR147	JpA	Jackport silty clay loam, 0 to 1 percent slopes	Co	Crowley silt loam	AR067
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Fc	Foley-Calhoun complex	AR067
+AR147	McA	McCrory fine sandy loam, 0 to 1 percent slopes	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	AsB	Askew fine sandy loam, 1 to 3 percent slopes	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	McA	McCrory fine sandy loam, 0 to 1 percent slopes	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	TuA	Tuckerman silty clay loam, 0 to 1 percent slopes, frequently flooded	Af	Amagon and Forestdale silt loams	AR067
+AR147	BsB	Teksob loam, 1 to 3 percent slopes	BoA	Bosket fine sandy loam, 0 to 1 percent slopes	AR067
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	McA	McCrory fine sandy loam, 0 to 1 percent slopes	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	TuA	Tuckerman silty clay loam, 0 to 1 percent slopes, frequently flooded	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	TuA	Tuckerman silty clay loam, 0 to 1 percent slopes, frequently flooded	W	Water	AR067
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	DuA	Dundee silt loam, 0 to 1 percent slopes	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	TuA	Tuckerman silty clay loam, 0 to 1 percent slopes, frequently flooded	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	TuA	Tuckerman silty clay loam, 0 to 1 percent slopes, frequently flooded	W	Water	AR067
+AR147	TuA	Tuckerman silty clay loam, 0 to 1 percent slopes, frequently flooded	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	TuA	Tuckerman silty clay loam, 0 to 1 percent slopes, frequently flooded	Fm	Foley-Calhoun-McCrory complex	AR067
+AR147	TrA	Tuckerman loam, 0 to 1 percent slopes, frequently flooded	Fc	Foley-Calhoun complex	AR067
+AR147	WvB	Wiville fine sandy loam, 1 to 3 percent slopes	DvU	Dundee silt loam, undulating	AR067
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Fc	Foley-Calhoun complex	AR067
+AR147	WvB	Wiville fine sandy loam, 1 to 3 percent slopes	BoA	Bosket fine sandy loam, 0 to 1 percent slopes	AR067
+AR147	WvC	Wiville fine sandy loam, 3 to 8 percent slopes	BoU	Bosket fine sandy loam, undulating	AR067
+AR147	KoA	Kobel silty clay loam, 0 to 1 percent slopes, ponded	Sh	Sharkey silty clay loam	AR067
+AR147	W	Water	W	Large water	AR145
+AR147	TbB	Taylorbay silt loam, 0 to 3 percent slopes, frequently flooded	Sh	Sharkey silty clay loam	AR067
+AR147	TpB	Tipp silty clay loam, 0 to 3 percent slopes, frequently flooded	St	Staser silt loam	AR067
+AR147	Lv	Levee	Eg	Egam silt loam	AR067
+AR147	TiB	Tipp silty clay loam, 0 to 3 percent slopes, rarely flooded	Eg	Egam silt loam	AR067
+AR147	TiB	Tipp silty clay loam, 0 to 3 percent slopes, rarely flooded	W	Water	AR067
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	YaB	Yancopin silty clay loam, 0 to 3 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	YaB	Yancopin silty clay loam, 0 to 3 percent slopes, rarely flooded	W	Water	AR067
+AR147	YaB	Yancopin silty clay loam, 0 to 3 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	YaB	Yancopin silty clay loam, 0 to 3 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	YaB	Yancopin silty clay loam, 0 to 3 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	YaB	Yancopin silty clay loam, 0 to 3 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	DvA	Dundee silt loam, 0 to 1 percent slopes	AR067
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	YaB	Yancopin silty clay loam, 0 to 3 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	KoA	Kobel silty clay loam, 0 to 1 percent slopes, ponded	Sh	Sharkey silty clay loam	AR067
+AR147	YaB	Yancopin silty clay loam, 0 to 3 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	KbA	Kobel silty clay loam, 0 to 1 percent slopes, rarely flooded	Sh	Sharkey silty clay loam	AR067
+AR147	JpA	Jackport silty clay loam, 0 to 1 percent slopes	Ja	Jackport silty clay loam	AR067
+AR147	FdA	Forestdale silty clay loam, 0 to 1 percent slopes, frequently flooded	Ja	Jackport silty clay loam	AR067
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Ja	Jackport silty clay loam	AR067
+AR147	TrA	Tuckerman loam, 0 to 1 percent slopes, frequently flooded	Fc	Foley-Calhoun complex	AR067
+AR147	McA	McCrory fine sandy loam, 0 to 1 percent slopes	DvA	Dundee silt loam, 0 to 1 percent slopes	AR067
+AR147	FdA	Forestdale silty clay loam, 0 to 1 percent slopes, frequently flooded	Gb	Grubbs silt loam	AR067
+AR147	JpA	Jackport silty clay loam, 0 to 1 percent slopes	Ja	Jackport silty clay loam	AR067
+AR147	JpA	Jackport silty clay loam, 0 to 1 percent slopes	Co	Crowley silt loam	AR067
+AR147	JpA	Jackport silty clay loam, 0 to 1 percent slopes	Ja	Jackport silty clay loam	AR067
+AR147	JpA	Jackport silty clay loam, 0 to 1 percent slopes	Co	Crowley silt loam	AR067
+AR147	JpA	Jackport silty clay loam, 0 to 1 percent slopes	Co	Crowley silt loam	AR067
+AR147	GuC	Grubbs silt loam, 3 to 8 percent slopes, eroded	Co	Crowley silt loam	AR067
+AR147	GuC	Grubbs silt loam, 3 to 8 percent slopes, eroded	Co	Crowley silt loam	AR067
+AR147	GuC	Grubbs silt loam, 3 to 8 percent slopes, eroded	Ja	Jackport silty clay loam	AR067
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	ClA	Calloway silt loam, 0 to 1 percent slopes	AR037
+AR147	HeA	Henry silt loam, 0 to 1 percent slopes	He	Henry silt loam	AR037
+AR147	GrB	Grenada silt loam, 1 to 3 percent slopes	ClB	Calloway silt loam, 1 to 3 percent slopes	AR037
+AR147	TcA	Tichnor silt loam, 0 to 1 percent slopes, frequently flooded	ClB	Calloway silt loam, 1 to 3 percent slopes	AR037
+AR147	HmA	Hillemann silt loam, 0 to 1 percent slopes	CrA	Crowley and Hillemann silt loams, 0 to 1 percent slopes	AR037
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	CrA	Crowley and Hillemann silt loams, 0 to 1 percent slopes	AR037
+AR147	HmA	Hillemann silt loam, 0 to 1 percent slopes	CrA	Crowley and Hillemann silt loams, 0 to 1 percent slopes	AR037
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	CrA	Crowley and Hillemann silt loams, 0 to 1 percent slopes	AR037
+AR147	HmA	Hillemann silt loam, 0 to 1 percent slopes	CrA	Crowley and Hillemann silt loams, 0 to 1 percent slopes	AR037
+AR147	DuA	Dundee silt loam, 0 to 1 percent slopes	Pa	Patterson fine sandy loam	AR067
+AR147	DuA	Dundee silt loam, 0 to 1 percent slopes	DeU	Dexter silt loam, undulating	AR067
+AR147	McA	McCrory fine sandy loam, 0 to 1 percent slopes	Fc	Foley-Calhoun complex	AR067
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Fc	Foley-Calhoun complex	AR067
+AR147	HmA	Hillemann silt loam, 0 to 1 percent slopes	Ca	Calhoun silt loam	AR037
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Af	Amagon and Forestdale silt loams	AR067
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	Fc	Foley-Calhoun complex	AR067
+AR147	ClB	Calloway silt loam, 1 to 3 percent slopes	Cr	Crowley and Hillemann silt loams	AR067
+AR147	ClA	Calloway silt loam, 0 to 1 percent slopes	Cr	Crowley and Hillemann silt loams	AR067
+AR147	JpA	Jackport silty clay loam, 0 to 1 percent slopes	Fo	Forestdale silty clay loam	AR067
+AR147	DuA	Dundee silt loam, 0 to 1 percent slopes	DvU	Dundee silt loam, undulating	AR067
+AR147	GuC	Grubbs silt loam, 3 to 8 percent slopes, eroded	BoU	Bosket fine sandy loam, undulating	AR067
+AR147	OvA	Overcup silt loam, 0 to 1 percent slopes	Fo	Forestdale silty clay loam	AR067
+AR147	FdA	Forestdale silty clay loam, 0 to 1 percent slopes, frequently flooded	DvU	Dundee silt loam, undulating	AR067
+AR147	GuC	Grubbs silt loam, 3 to 8 percent slopes, eroded	BoU	Bosket fine sandy loam, undulating	AR067
+AR147	AmA	Amagon silt loam, 0 to 1 percent slopes	Af	Amagon and Forestdale silt loams	AR067
+AR147	FbA	Foley-Bonn complex, 0 to 1 percent slopes	DvA	Dundee silt loam, 0 to 1 percent slopes	AR067
+AR147	DuA	Dundee silt loam, 0 to 1 percent slopes	DvU	Dundee silt loam, undulating	AR067
+AR147	OvA	Overcup silt loam, 0 to 1 percent slopes	Co	Crowley silt loam	AR067
+AR147	GuC	Grubbs silt loam, 3 to 8 percent slopes, eroded	Co	Crowley silt loam	AR067
+AR147	AmA	Amagon silt loam, 0 to 1 percent slopes	Af	Amagon and Forestdale silt loams	AR067
+AR147	AmA	Amagon silt loam, 0 to 1 percent slopes	DvA	Dundee silt loam, 0 to 1 percent slopes	AR067"|"16403"|"76942"
+10/27/2003 00:00:00|"Edit notes"|"Land Category Acres"||"Land Category acres for Other Non-Federal Lands was changed from 367,028 to 367,029 to equal 1992 NRI acres."|"16403"|"76943"

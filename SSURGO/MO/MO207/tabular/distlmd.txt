@@ -1,0 +1,7 @@
+"Non-MLRA Soil Survey Area"|"MO207"|"Stoddard County, Missouri"||03/01/1983 00:00:00|"certified, major components"|09/02/2021 01:46:42|"The 903122rzr2-Fontaine silt loam, 0 to 3 percent slopes"" mapunit was edited and improved. The name of the project ""WEPP 2021 Errors - More Than One RV Texture Group 7"" indicates what was edited.
+The tabular database was edited and populated according to guidance in Exhibits A and B of National Instruction (NI-305), and Part 610 of the National Soil Survey Handbook. Any spatial data edits were certified correct by the Soil Survey region GIS specialist, State Soil Scientist (SSS), and by the National Digitizing Center. The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s), and in the Project Correlation table.
+The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s) and in the Project Correlation table.
+This dataset also contains the following changes:
+A. Recalculated all national, regional, and local interpretations for all components.
+B. The dataset was populated with data elements needed to support NCCPI soil interpretations and CART.
+"|"15200"|"74908"|"74810"

@@ -1,0 +1,7 @@
+02/19/2016 00:00:00|"Edit notes"|"pH"||"pH changed from original entry to match manuscript description."|"64449066"|"2086250"
+02/19/2016 00:00:00|"Edit notes"|"pH"||"pH changed from original entry to match manuscript description."|"64449087"|"2086251"
+02/19/2016 00:00:00|"Edit notes"|"pH"||"pH changed from original entry to match manuscript description."|"64449088"|"2086252"
+02/19/2016 00:00:00|"Edit notes"|"pH"||"pH changed from original entry to match manuscript description."|"64449089"|"2086253"
+04/09/2007 00:00:00|"Edit notes"|||"Changed Ksat Value from 4-9-14 (l-rv-h) to 1.4-2.7-4.0 (l-rv-h) to reflect Ksat for these rice producing soils.  This is historically what the Ksat and permeablility data have been."|"64449217"|"2086254"
+04/09/2007 00:00:00|"Edit notes"|||"Changed Ksat Value from 4-9-14 (l-rv-h) to 1.4-2.7-4.0 (l-rv-h) to reflect Ksat for these rice producing soils.  This is historically what the Ksat and permeablility data have been."|"64449220"|"2086255"
+02/04/2015 00:00:00|"Miscellaneous notes"|"particle size distri"|"B/E horizons"|"Because this horizon is a B/E The textures for the two components of the horizon are B: silt loam, silt and E: very fine sandy loam.  These widely seperated texturescannot be accuratly accounted for in particle size distribution (l,rv,h for sand silt and clay).  The data was not seperated in the original pedon description and was therefore kept together for this project."|"64449250"|"2086249"

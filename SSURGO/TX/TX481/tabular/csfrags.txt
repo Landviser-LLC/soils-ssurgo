@@ -1,0 +1,8 @@
+0|2|2||||"Carbonate nodules"|5|5|20|"Nonflat"|"Subrounded"|"Weakly cemented"|"21828586"|"4702369"
+0|0|1||||"Shell fragments"|2|4|5|"Flat"|"Subrounded"|"Noncemented"|"21828587"|"4702370"
+0|2|2||||"Carbonate nodules"|5|5|20|"Nonflat"|"Subrounded"|"Weakly cemented"|"21828756"|"4702384"
+|0||||||||||||"21828765"|"4702373"
+|0||||||||||||"21828766"|"4702374"
+|0||||||||||||"21828769"|"4702376"
+|0||||||||||||"21828770"|"4702375"
+0|1|1||||"Carbonate nodules"|2|2|2|"Nonflat"|"Subrounded"|"Strongly cemented"|"21828785"|"4702377"
