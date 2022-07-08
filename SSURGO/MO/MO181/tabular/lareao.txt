@@ -1,0 +1,7 @@
+"Climate Factor Area (USLE)"|"3"|"Climate Factor"|404243|"17430"|"482685"
+"County or Parish"|"MO181"|"Ripley"|404243|"17430"|"482686"
+"MLRA"|"116A"|"Ozark Highland"|376823|"17430"|"482687"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|27420|"17430"|"482688"
+"National Park Service Land"|"OZAR"|"Ozark National Scenic Riverways"||"17430"|"482689"
+"Rainfall Factor Area (USLE)"|"250"|"Rainfall Factor"|404243|"17430"|"482690"
+"State or Territory"|"MO"|"Missouri"|404243|"17430"|"482691"

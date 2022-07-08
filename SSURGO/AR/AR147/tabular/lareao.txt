@@ -1,0 +1,8 @@
+"Climate Factor Area (USLE)"|"0"|"Climate Factor"||"16403"|"494838"
+"County or Parish"|"AR147"|"Woodruff"|380102|"16403"|"494839"
+"MLRA"|"134"|"Southern Mississippi Valley Loess"|62253|"16403"|"494840"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|316849|"16403"|"494841"
+"MLRA Soil Survey Area"|"7-MIL"|"Milan, Tennessee"||"16403"|"494842"
+"MLRA Soil Survey Regional Office Area"|"7"|"Auburn, AL"||"16403"|"494843"
+"Rainfall Factor Area (USLE)"|"300"|"Rainfall Factor"|380102|"16403"|"494844"
+"State or Territory"|"AR"|"Arkansas"||"16403"|"494845"

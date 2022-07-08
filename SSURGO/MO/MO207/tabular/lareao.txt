@@ -1,0 +1,6 @@
+"Climate Factor Area (USLE)"|"3"|"Climate Factor"|530496|"15200"|"482824"
+"County or Parish"|"MO207"|"Stoddard"|530496|"15200"|"482825"
+"MLRA"|"134"|"Southern Mississippi Valley Loess"|188065|"15200"|"482826"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|342431|"15200"|"482827"
+"Rainfall Factor Area (USLE)"|"250"|"Rainfall Factor"|530496|"15200"|"482828"
+"State or Territory"|"MO"|"Missouri"|530496|"15200"|"482829"

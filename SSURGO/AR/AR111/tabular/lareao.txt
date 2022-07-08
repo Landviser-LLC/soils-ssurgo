@@ -1,0 +1,8 @@
+"Climate Factor Area (USLE)"|"0"|"Climate Factor"||"15132"|"494970"
+"County or Parish"|"AR111"|"Poinsett"|489466|"15132"|"494971"
+"MLRA"|"134"|"Southern Mississippi Valley Loess"|164734|"15132"|"494972"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|324732|"15132"|"494973"
+"MLRA Soil Survey Area"|"7-MIL"|"Milan, Tennessee"||"15132"|"494974"
+"MLRA Soil Survey Regional Office Area"|"7"|"Auburn, AL"||"15132"|"494975"
+"Rainfall Factor Area (USLE)"|"275"|"Rainfall Factor"|489466|"15132"|"494976"
+"State or Territory"|"AR"|"Arkansas"||"15132"|"494977"

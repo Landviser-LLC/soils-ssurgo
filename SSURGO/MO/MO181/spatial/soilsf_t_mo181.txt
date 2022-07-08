@@ -1,0 +1,3 @@
+"MO181"|7|"GPI"|"Gravel pit"|An open excavation from which soil and underlying material have been removed and used, without crushing, as a source of sand or gravel. Typically 0.25 to 5 acres.|"258018"
+"MO181"|7|"SAN"|"Sandy spot"|A spot where the surface layer is loamy fine sand or coarser in areas where the surface layer of the named soils in the surrounding map unit is very fine sandy loam or finer. Typically 0.25 to 5 acres.|"258019"
+"MO181"|7|"WET"|"Wet spot"|A somewhat poorly drained to very poorly drained area that is at least two drainage classes wetter than the named soils in the surrounding map unit. Typically 0.25 to 5 acres.|"258020"

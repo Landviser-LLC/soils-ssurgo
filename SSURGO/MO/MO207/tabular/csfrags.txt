@@ -1,0 +1,5 @@
+0.01|0.06|0.1|7.01|16.25|50|"Chert fragments"|250|400|600|"Nonflat"|"Subangular"|"Indurated"|"21303774"|"4514040"
+0.1|2|3|1|3|17|"Chert fragments"|250|400|600|"Nonflat"|"Subangular"|"Indurated"|"21303791"|"4514042"
+0.1|2|3|1|3|17|"Chert fragments"|250|400|600|"Nonflat"|"Subrounded"|"Indurated"|"21303792"|"4514044"
+0.1|2|3|1|3|17|"Cherty limestone fragments"|250|400|600|"Flat"|"Subangular"|"Indurated"|"21303793"|"4514041"
+0.1|2|3|4|8|20|"Chert fragments"|250|425|600|"Nonflat"|"Subrounded"|"Indurated"|"21303796"|"4514043"

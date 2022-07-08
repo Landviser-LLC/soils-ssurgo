@@ -1,0 +1,3 @@
+"TX039"|4|"GPI"|"Gravel pit"|An open excavation from which soil and underlying material have been removed and used, without crushing, as a source of sand or gravel. Typically 0.1 to 4 acres.|"285680"
+"TX039"|4|"MPI"|"Mine or quarry"|An open excavation from which soil and underlying material have been removed and in which bedrock is exposed. Also denotes surface openings to underground mines. Typically 0.1 to 4 acres.|"285681"
+"TX039"|4|"OWL"|"Oil waste land"|An area that is damaged from surface contamination of brine and oil. The areas are mostly barren of vegetation. Typically 0.1 to 5 acres.|"285682"

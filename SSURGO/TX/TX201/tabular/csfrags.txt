@@ -1,0 +1,3 @@
+0|4|7||||"Shell fragments"|2|4|75|"Nonflat"|"Subrounded"|"Strongly cemented"|"21661239"|"4651223"
+0|2|2||||"Carbonate nodules"|5|5|20|"Nonflat"|"Subrounded"|"Weakly cemented"|"21661698"|"4651224"
+0.1|0.5|1||||"Chert fragments"|12|20|25|"Nonflat"|"Subrounded"|"Indurated"|"21661938"|"4651183"

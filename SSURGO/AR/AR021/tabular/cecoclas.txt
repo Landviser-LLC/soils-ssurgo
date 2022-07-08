@@ -1,0 +1,6 @@
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131AY005MO"|"Loamy Braided Terrace Forest"|"21852187"|"7904189"
+"Missouri Vegetative Classes"||"Woody Vegetation"|"Trees/Timber"|"21852187"|"7904191"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131DY003AR"|"Sodic Terrace"|"21852168"|"7904190"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F134XY207AL"|"Western Fragipan Uplands - PROVISIONAL"|"21852154"|"7904187"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F134XY206AL"|"Western Fragipan Terrace - PROVISIONAL"|"21852154"|"7904188"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F134XY207AL"|"Western Fragipan Uplands - PROVISIONAL"|"21852172"|"7904186"

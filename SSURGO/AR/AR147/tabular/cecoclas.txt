@@ -1,0 +1,4 @@
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131DY002AR"|"Clayey Flood Plain"|"21854992"|"7908799"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131DY005AR"|"Loamy Prairie Terrace"|"21854987"|"7908798"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F131AY001MO"|"Claypan Terrace Woodland"|"21854996"|"7908797"
+"Missouri Vegetative Classes"||"Mixed Native Vegetation"|"Mixed/Transitional"|"21854996"|"7908800"

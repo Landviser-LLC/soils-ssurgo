@@ -1,0 +1,7 @@
+"Climate Factor Area (USLE)"|"0"|"Climate Factor"||"15117"|"495097"
+"County or Parish"|"AR067"|"Jackson"|410330|"15117"|"495098"
+"MLRA"|"118A"|"Arkansas Valley and Ridges, Eastern Part"|35615|"15117"|"495099"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|374715|"15117"|"495100"
+"MLRA Soil Survey Regional Office Area"|"7"|"Auburn, AL"||"15117"|"495101"
+"Rainfall Factor Area (USLE)"|"275"|"Rainfall Factor"||"15117"|"495102"
+"State or Territory"|"AR"|"Arkansas"||"15117"|"495103"

@@ -1,0 +1,25 @@
+08/07/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64455903"|"2086404"
+08/07/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64455904"|"2086405"
+07/19/2006 00:00:00|"Edit notes"|"Nat'l Bulletin"|"Structure"|"Due to mandatory population per National Bulletin 430-7-5, ""Moderate Medium Granular"" structure was populated for every surface horizon.
+
+While not being totaly useless, the data are not measured."|"64455906"|"2086406"
+08/07/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64455906"|"2086407"
+07/19/2006 00:00:00|"Edit notes"|"Nat'l Bulletin"|"Structure"|"Due to mandatory population per National Bulletin 430-7-5, ""Moderate Medium Granular"" structure was populated for every surface horizon.
+
+While not being totaly useless, the data are not measured."|"64455950"|"2086408"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64455950"|"2086409"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64455951"|"2086410"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64455952"|"2086411"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64455990"|"2086412"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64455991"|"2086413"
+07/19/2006 00:00:00|"Edit notes"|"Nat'l Bulletin"|"Structure"|"Due to mandatory population per National Bulletin 430-7-5, ""Moderate Medium Granular"" structure was populated for every surface horizon.
+
+While not being totaly useless, the data are not measured."|"64455992"|"2086414"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64455992"|"2086415"
+07/19/2006 00:00:00|"Edit notes"|"Nat'l Bulletin"|"Structure"|"Due to mandatory population per National Bulletin 430-7-5, ""Moderate Medium Granular"" structure was populated for every surface horizon.
+
+While not being totaly useless, the data are not measured."|"64456016"|"2086416"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64456016"|"2086417"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64456017"|"2086418"
+08/09/2006 00:00:00|"Edit notes"|"Nat'l Bull"|"Misc elements"|"Due to mandated population of data elements, a zero value for CaCO3, gypsum, clay sized carbonate, EC, or SAR means zero was assumed and no measured value is available."|"64456018"|"2086419"
+02/04/2015 00:00:00|"Miscellaneous notes"|"particle size distri"|"B/E horizons"|"Because this horizon is a B/E The textures for the two components of the horizon are B: silt loam, silt and E: very fine sandy loam.  These widely seperated texturescannot be accurated accounted for in particle size distribution (l,rv,h for sand silt and clay).  The data was not seperated in the original pedon description and was therefore kept together for this project."|"64456041"|"2086420"

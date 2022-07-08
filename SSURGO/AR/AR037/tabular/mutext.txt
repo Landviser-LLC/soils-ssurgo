@@ -1,0 +1,1288 @@
+09/05/2013 00:00:00|"Miscellaneous notes"|"properties"|"cracks"|"(MS119) The Soil Survey of Quitman County, Mississippi (Issued December 1958), in the description of Alligator clay, level phase (Aa) states, ""This soil develops deep, wide cracks during long dry seasons""."|"564366"|"2410862"
+09/05/2013 00:00:00|"Miscellaneous notes"|"properties/tillage"|"plast./moist."|"(MS119) The Soil Survey of Quitman County, Mississippi (Issued December 1958), in the description of Alligator clay, level phase (Aa) states, ""Farming practices in this poorly drained clayey soil are influenced by the weather. Usually moisture conditions are right for tillage for only a short period. The soil varies from too plastic and sticky when wet to too hard when dry""."|"564366"|"2410863"
+09/05/2013 00:00:00|"Miscellaneous notes"|"MU composition"|"inclusions"|"(MS137) The Soil Survey of Tate County, Mississippi (Issued March 1967) states, ""Soils that are coarser textured in the lower part make up about 3 to 6 percent of mapped areas, and soils in depressions (Dowling) make up about 4 percent. A few small areas that have a silty clay loam surface layer are included. Also included are some areas that have a somewhat darker profile, and in a few places, a slightly alkaline lower subsoil""."|"564366"|"2410864"
+09/05/2013 00:00:00|"Miscellaneous notes"|"use/mgmt"|"crop suit."|"(MS137) The Soil Survey of Tate County, Mississippi (Issued March 1967) states, ""Large areas of this soil have been cleared and are used for crops. The soil is used chiefly for soybeans, rice, and cotton. A good system of V- and W-ditches and good row arrangement are needed for good production. The content of organic matter should be maintained to improve tilth and to increase infiltration. The soil tends to shrink and crack when it dries. It is suited to row crops, pasture, and adapted to hardwoods""."|"564366"|"2410865"
+09/05/2013 00:00:00|"Miscellaneous notes"|"use/mgmt"|"crop prod."|"(MS119) The Soil Survey of Quitman County, Mississippi (Issued December 1958), in the description of Alligator clay, level phase (Aa) states, ""Where this soil occurs in ridge and depression areas or in areas adjacent to small bayous rather than in large uniform areas with slightly less than one-half percent slope, it's capabilities for growing most row crops are much higher""."|"564366"|"2410866"
+09/05/2013 00:00:00|"Miscellaneous notes"|"MU composition"|"inclusions"|"(AR111) The Soil Survey of Poinsett County, Arkansas (Issued June 1977) states, ""Included in mapping are small areas of undulating soils and spots of Amagon, Earle, Sharkey, and Tunica soils""."|"564366"|"2410867"
+09/05/2013 00:00:00|"Miscellaneous notes"|"use/mgmt"|"crop suit."|"(AR111) The Soil Survey of Poinsett County, Arkansas (Issued June 1977) states, ""The main crops are soybeans and cotton. Other suitable crops are grain sorghum, rice, and winter small grain. Suitable pasture plants are bermudagrass, tall fescue, and white clover""."|"564366"|"2410868"
+09/05/2013 00:00:00|"Miscellaneous notes"|"use/mgmt"|"drainage"|"(AR111) The Soil Survey of Poinsett County, Arkansas (Issued June 1977) states, ""This soil is suited to cultivated crops, but excess water is a severe hazard. Farming operations are often delayed several days after a rain unless surface drains have been installed. Under good management that includes adequate drainage, clean-tilled crops that leave large amounts of residue can be grown year after year""."|"564366"|"2410869"
+09/06/2013 00:00:00|"Miscellaneous notes"|"MU composition"|"inclusions"|"(AR077) The Soil Survey of Lee County, Arkansas (Issued August 1977) states, ""Included in mapping were small areas of gently undulating soils and spots of Sharkey, Earle, Tunica, and Newellton soils""."|"564366"|"2410870"
+09/06/2013 00:00:00|"Miscellaneous notes"|"use/mgmt"|"drainage"|"(AR077) The Soil Survey of Lee County, Arkansas (Issued August 1977) states, ""This soil is suited to farming, but excess water is a severe hazard. Fieldwork is frequently delayed several days after a rain unless surface drains are installed. Clean-tilled crops that leave large amounts of residue can be safely grown year after year if this soil is adequately drained and good management is used""."|"564366"|"2410871"
+09/06/2013 00:00:00|"Miscellaneous notes"|"use/mgmt"|"crop suit."|"(AR077) The Soil Survey of Lee County, Arkansas (Issued August 1977) states, ""The main crops are soybeans and cotton. Grain sorghum and rice are also suited. Winter small grain can be grown if drainage is adequate. Adapted pasture plants are bermudagrass, tall fescue, and white clover""."|"564366"|"2410872"
+09/06/2013 00:00:00|"Miscellaneous notes"|"MU composition"|"inclusions"|"(AR037) The Soil Survey of Cross County, Arkansas (Issued August 1968) states, ""A few spots of Earle soils were included in mapping""."|"564366"|"2410873"
+09/06/2013 00:00:00|"Miscellaneous notes"|"properties"|"cracks"|"(AR037) The Soil Survey of Cross County, Arkansas (Issued August 1968) states, ""When dry this soil contracts, and when wet it expands and seals. Infiltration of water is very slow, except when the soil is cracked; then it is very rapid until the cracks seal""."|"564366"|"2410874"
+09/06/2013 00:00:00|"Miscellaneous notes"|"use/mgmt"|"wetness/tilth"|"(AR037) The Soil Survey of Cross County, Arkansas (Issued August 1968) states, ""Because this soil can be cultivated inly within a narrow range of moisture content, farming operations commonly have to be delayed for several days after a rain, unless good surface drains have been provided. the preparation of a seedbed is difficult, and tilth is difficult to maintain""."|"564366"|"2410875"
+09/05/2013 00:00:00|"Miscellaneous notes"|"Map Unit"|"historical concept"|"(AR111) The Soil Survey of Poinsett County, Arkansas (Issued June 1977) states, ""This level soil is commonly in large tracts on broad flats. Mapped areas range from 20 to more than 1,000 acres in size""."|"564366"|"2410876"
+09/06/2013 00:00:00|"Miscellaneous notes"|"Map Unit"|"historical concept"|"(AR077) The Soil Survey of Lee County, Arkansas (Issued August 1977) states, ""This soil generally is in large areas on broad slack-water flats. Areas range up to several hundred acres in size""."|"564366"|"2410877"
+02/05/2014 00:00:00|"Map unit description"|"map unit concept"||"National Mapunit Symbol  2t234
+ 
+Mapunit Name - Alligator clay, 0 to 1 percent slopes, rarely flooded, brief duration, west
+
+MLRA131A  Southern Mississippi River Alluvium
+
+Geographic Extent:
+This mapunit is correlated in four counties in Arkansas.  These counties are Cross (AR037), Lee (AR077), Mississippi (AR093) and Poinsett (AR111). The OSD is located in LeFlore County, MS. 
+
+Climate:
+Mean annual precipitation: 1219 to 1321 mm (48 to 52 inches)
+Mean annual air temperature: 10 to 21.6 degrees C (50 to 71 degrees F)
+Frost-free period: 225 to 290 days
+Soil Moisture Class: Udic
+
+Geographic Setting: 
+Major Component: 
+The Alligator soils are in backswamps and on broad flats of the alluvial plains of the Mississippi River and its tributaries. They have a dark grayish brown clay surface layer and a subsoil of light brownish gray to grayish brown clay.
+
+Minor Components:  
+The Earle soils are in slightly higher positions, often separating broad flats (or, slack-water areas) from the natural levee and are typically underlain by coarser textured sediments.
+
+The Sharkey soils occupy slightly lower positions in backswamps and on broad flats than the Alligator soils but have a higher pH.
+
+The Tunica soils are in slightly higher positions, often separating broad flats (or, slack-water areas) from the natural levee and are typically underlain by coarser textured sediments.
+
+*Earle soils are more commonly associated with Alligator soils and Tunica soils are more commonly associated with Sharkey soils due to their respective pH levels.
+
+Parent Material:
+Clayey alluvium deposited by flooding of the Mississippi River and its tributaries
+
+Typical Vegetation or Crops:
+This mapunit is used for crop production and pastureland. The typical row crops grown are soybeans and cotton. Other suitable crops include grain sorghum, rice and wheat. Typical pasture grasses grown are Bermuda-grass and tall fescue. 
+Presently, there are no ecological sites developed or assigned to the components of this mapunit.   
+
+Mapunit Composition and Reliability:
+Alligator: 90 percent
+Earle: 5 percent 
+Sharkey: 3 percent
+Tunica: 2 percent
+The mapunit composition was determined from the compositions around which this SDJR project was centered. The minor components were altered slightly to more accurately reflect soils on the natural landscape by replacing Aquents with named components commonly associated with Alligator soils. This SDJR project reduced the number of mapunits and data mapunits from four to one.
+This mapunit is supported by six pedon descriptions (two of these six pedon descriptions are duplicates). These six pedon descriptions are the Taxonomic Unit Descriptions from the four counties where this mapunit is correlated. 
+
+Classification:
+Alligator classification: Very-fine, smectitic, thermic Chromic Dystraquerts
+The Alligator series was established in 1950 in Quitman County, Mississippi.
+
+Pertinent soil properties and qualities, and interpretations:
+The Alligator soils in this mapunit are deep, poorly drained, very slowly permeable soils formed in clayey alluvium of the Mississippi River and its tributaries. They have a high shrink-swell potential and, when dry, have deep wide cracks in the upper part of the soil. Intersecting slickensides are within a depth of 40 inches. This soil is saturated in the surface layer and along cracks and slickenside faces in the subsoil from December through April in normal years.
+
+Reaction: Reaction ranges from strongly acid to very strongly acid in the surface and the upper part of the B horizon. While the lower part of the B horizon commonly ranges from moderately acid to very strongly acid, it can range as low as moderately alkaline. Where a C horizon is present, it ranges from neutral to moderately alkaline. 
+
+Other Expert Knowledge Gained Through SDJR:
+The official series description for Alligator was reviewed and updated for SDJR. 
+
+Field work will be required throughout this mapunits distribution to collect pedon descriptions and transects for pedon documentation and minor component percentages as well as sampling to aide in updating classification. There are many minor components listed in the old survey manuscripts (and simply as Aquents in NASIS). The minor components which are listed for multiple counties have been designated as minor components for the MLRA Map Unit. Field work is needed to determine the percentage of these minor components as part of this map unit. The survey manuscripts used to compile the map units that are part of this project are very old (ranging from 1968 to 1977). At that time Alligator was classified as a Vertic Haplaquept. It is now recognized as a Chromic Dystraquert and as such warrants updated pedons (with horizonation assigned from current soil taxonomy).
+Many of the Alligator map units that exist have pH RV's in the upper part of the soil that hover around 5.0 (in 1:1 water; a taxonomic requirement for Dystraquerts). Some are above 5.0. Little data exists about the EC of these soils. A study could be conducted to test the EC and pH of the soils of these map units, potentially classifying them as Epiaquerts or Endoaquerts rather than Dystraquerts.
+
+
+Spatial Data Quality:
+Where Poinsett, Cross and Mississippi Counties join Crittenden County, and where Cross and Lee Counties join St. Francis County, joins warrant more detailed examination as many of the map units stop 'cold' at county lines. 
+
+This map unit warrants review of flooding phases as it is mapped in both the protected and unprotected sides of the St. Francis River levee system. It is believed that mapping was done prior to installation of the levee system. 
+
+
+
+
+ 
+
+
+
+
+
+"|"564366"|"2410878"
+08/09/2005 00:00:00|"Nontechnical description"|"WQL"|"068"|"These soils have a severe surface runoff potential and a low leaching index. Nutrient movement to surface waters is a hazard on these soils. Nutrient movement to ground waters is normally not a hazard on these soils. A system of conservation practices or management techniques that reduces runoff, erosion and nutrient availability should be planned on these soils."|"564366"|"2410879"
+09/26/2013 00:00:00|"Miscellaneous notes"|"MLRA DMU"|"reason"|"This Data Map Unit is being created in order to combine similar Data Map Units from the following counties in Arkansas as part of the Soil Data Join 
+Re-correlation initiative:
+
+-Cross (037AaA)
+-Lee (077Ac)
+-Mississippi (093Aa)
+-Poinsett (111Aa)"|"564366"|"2411062"
+08/09/2005 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"|"068"|"These soils have a severe surface runoff potential and a low leaching index. Nutrient movement to surface waters is a hazard on these soils. Nutrient movement to ground waters is normally not a hazard on these soils. A system of conservation practices or management techniques that reduces runoff, erosion and nutrient availability should be planned on these soils."|"564366"|"2411064"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564366"|"2411065"
+|"Nontechnical description"|"SOI"|"001"|"This is a very deep, poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water capacity is high. This soil has high to very high shrink-swell potential, and shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564367"|"2410880"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564367"|"2410881"
+08/09/2005 00:00:00|"Nontechnical description"|"WQL"|"068"|"These soils have a severe surface runoff potential and a low leaching index. Nutrient movement to surface waters is a hazard on these soils. Nutrient movement to ground waters is normally not a hazard on these soils. A system of conservation practices or management techniques that reduces runoff, erosion and nutrient availability should be planned on these soils."|"564367"|"2410882"
+08/15/2019 00:00:00|"Correlation notes"|||"In accordance with CART guidance the component percent for  Aquents was adjusted from  5 to 10 so the component total would equal 100 percent for the DMU
+"|"564367"|"2411050"
+08/09/2005 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"|"068"|"These soils have a severe surface runoff potential and a low leaching index. Nutrient movement to surface waters is a hazard on these soils. Nutrient movement to ground waters is normally not a hazard on these soils. A system of conservation practices or management techniques that reduces runoff, erosion and nutrient availability should be planned on these soils."|"564367"|"2411066"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564367"|"2411067"
+08/09/2005 00:00:00|"Nontechnical description"|"WQL"|"068"|"These soils have a severe surface runoff potential and a low leaching index. Nutrient movement to surface waters is a hazard on these soils. Nutrient movement to ground waters is normally not a hazard on these soils. A system of conservation practices or management techniques that reduces runoff, erosion and nutrient availability should be planned on these soils."|"564368"|"2410883"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564368"|"2410884"
+|"Nontechnical description"|"SOI"|"001"|"This is a very deep, poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water capacity is high. This soil has high to very high shrink-swell potential, and shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564368"|"2410885"
+08/15/2019 00:00:00|"Correlation notes"|||"In accordance with CART guidance the component percent for  Aquents was adjusted from  5 to 10 so the component total would equal 100 percent for the DMU
+"|"564368"|"2411051"
+08/09/2005 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"|"068"|"These soils have a severe surface runoff potential and a low leaching index. Nutrient movement to surface waters is a hazard on these soils. Nutrient movement to ground waters is normally not a hazard on these soils. A system of conservation practices or management techniques that reduces runoff, erosion and nutrient availability should be planned on these soils."|"564368"|"2411068"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564368"|"2411069"
+08/09/2005 00:00:00|"Nontechnical description"|"WQL"|"068"|"These soils have a severe surface runoff potential and a low leaching index. Nutrient movement to surface waters is a hazard on these soils. Nutrient movement to ground waters is normally not a hazard on these soils. A system of conservation practices or management techniques that reduces runoff, erosion and nutrient availability should be planned on these soils."|"564369"|"2410886"
+|"Nontechnical description"|"SOI"|"085"|"This is a very deep, poorly drained soil on broad flats of stream terraces. This soil formed in thin loamy sediments underlain by clayey alluvium. Permeability is very slow and available water capacity is medium. A perched water table is within 12 inches of the surface during the winter and early spring. Depth to layers with high clay content ranges for about 6 to 14 inches."|"564369"|"2410887"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564369"|"2410888"
+08/15/2019 00:00:00|"Correlation notes"|||"In accordance with CART guidance the component percent for  Aquents was adjusted from  5 to 10 so the component total would equal 100 percent for the DMU
+"|"564369"|"2411052"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564369"|"2411070"
+08/09/2005 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"|"068"|"These soils have a severe surface runoff potential and a low leaching index. Nutrient movement to surface waters is a hazard on these soils. Nutrient movement to ground waters is normally not a hazard on these soils. A system of conservation practices or management techniques that reduces runoff, erosion and nutrient availability should be planned on these soils."|"564369"|"2411071"
+|"Nontechnical description"|"SOI"|"001"|"This is a very deep, poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water capacity is high. This soil has high to very high shrink-swell potential, and shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564370"|"2410889"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564370"|"2410890"
+08/09/2005 00:00:00|"Nontechnical description"|"WQL"|"068"|"These soils have a severe surface runoff potential and a low leaching index. Nutrient movement to surface waters is a hazard on these soils. Nutrient movement to ground waters is normally not a hazard on these soils. A system of conservation practices or management techniques that reduces runoff, erosion and nutrient availability should be planned on these soils."|"564370"|"2410891"
+08/15/2019 00:00:00|"Correlation notes"|||"In accordance with CART guidance the component percent for  Aquents was adjusted from  5 to 10 so the component total would equal 100 percent for the DMU
+"|"564370"|"2411053"
+08/09/2005 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"|"068"|"These soils have a severe surface runoff potential and a low leaching index. Nutrient movement to surface waters is a hazard on these soils. Nutrient movement to ground waters is normally not a hazard on these soils. A system of conservation practices or management techniques that reduces runoff, erosion and nutrient availability should be planned on these soils."|"564370"|"2411072"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564370"|"2411073"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2t236
+
+MLRA MU Name: Amagon silt loam, 0 to 1 percent slopes"|"564371"|"2410892"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 134 - Amagon sil, 0-1%
+"|"564371"|"2410893"
+04/16/2014 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Amagon silt loam, 0 to 1 percent slopes (Nat'l MU Sym: 2t236)is 1995AR147001
+
+Other pedons associated with the 2t236 MU are:
+
+1975AR021001
+1976AR031001
+1966AR037002
+AR037 Amagon TP
+1974AR095001
+1973AR111002
+1976AR121001
+"|"564371"|"2410894"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"The representative pedons for all non-MLRA soil survey manuscripts associated with this project already existed in the NASIS database. No additional pedon entry was required. 
+
+Pedons associated with this project are as follows:
+
+The representative profile of Amagon silt loam from the Soil Survey of Randolph County, Arkansas (Issued April 1980), User Pedon ID: 1976AR121001  
+
+The representative profile of Amagon silt loam, 0 to 1 percent slopes from the Soil Survey of Woodruff County, Arkansas (Issued 2003), User Pedon ID: 1995AR147001
+
+The representative profile of Amagon silt loam from the Soil Survey of Clay County, Arkansas (Issued July 1978), User Pedon ID: 1975AR021001
+
+The representative profile of Amagon silt loam from the Soil Survey of Cross County, Arkansas (Issued August 1968), User Pedon ID: 1966AR037002
+
+The representative profile of Amagon silt loam from the Soil Survey of Poinsett County, Arkansas (Issued June 1977), User Pedon ID: 1973AR111002
+
+The representative profile of Amagon silt loam from the Soil Survey of Craighead County, Arkansas (Issued December 1979), User Pedon ID: 1976AR031001
+
+The representative profile of Amagon silt loam from the Soil Survey of Monroe County, Arkansas (Issued June 1978), User Pedon ID: 1974AR095001
+
+
+
+
+
+
+
+
+"|"564371"|"2410895"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"The MUDs and TUDs reviewed for this project are:
+
+-Soil Survey of Monroe County, Arkansas (Issued June 1978)
+  -Amagon silt loam (Am)
+  
+-Soil Survey of Randolph County, Arkansas (Issued April 1980)
+  -Amagon silt loam (1)
+  
+-Soil Survey of Craighead County, Arkansas (Issued December 1979)
+  -Amagon silt loam (2)
+  
+-Soil Survey of Poinsett County, Arkansas (Issued June 1977)
+  -Amagon silt loam (An)
+  
+-Soil Survey of Cross County, Arkansas (Issued August 1968)
+  -Amagon silt loam (An)
+  
+-Soil Survey of Clay County, Arkansas (Issued July 1978)
+  -Amagon silt loam (10)
+  
+-Soil Survey of Woodruff County, Arkansas (Issued 2003)
+  -Amagon silt loam, 0 to 1 percent slopes (AmA)
+"|"564371"|"2410896"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"564371"|"2410897"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) Combine with Amagon silt loam, 0 to 1 percent slopes (Natl MU Sym: 2pqqq) from Missouri. 
+2) Determine which minor components are most accurate for this map unit. Update Data Map Unit to reflect 
+   these components in regard to component and component percentage
+3) Investigate joins of this map unit within Arkansas. Current spatial distribution suggests some 
+   misjoins between county boundaries.
+"|"564371"|"2410898"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"No lab data was found during the course of this project"|"564371"|"2410899"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"No update/revision to the OSD were identified during the course of this project"|"564371"|"2410900"
+04/16/2014 00:00:00|"Map unit description"|"map unit concept"||"National Mapunit Symbol  2t236
+ 
+Mapunit Name - Amagon silt loam, 0 to 1 percent slopes
+
+MLRA 131A:  Southern Mississippi River Alluvium
+
+Geographic Extent:
+This mapunit is correlated in seven counties in Arkansas.  These counties are Craighead (AR031), Cross (AR037), Clay (AR021), Monroe (AR095), Randolph (AR121), Poinsett (AR111) and Woodruff (AR147). The series was established in Calloway County, Kentucky in 1937. The OSD Type Location is in Madison County, Mississippi. 
+
+Climate:
+Mean annual precipitation: 1118 to 1270 mm (44 to 50 inches)
+Mean annual air temperature: 8.8 to 22.2 degrees C (48 to 72 degrees F)
+Frost-free period: 195 to 290 days
+Soil Moisture Class: Aquic
+
+Geographic Setting: 
+Major Component: 
+The Amagon soils are on low terraces in the Southern Mississippi River Alluvium. 
+
+Minor Component:  
+The minor component 'Unnamed Hydric Soils' occur in similar positions as the Amagon soils. The 'Unnamed Hydric Soils' are mostly comprised of Aqualfs (Order: Alfisol; Suborder: Aqualfs). 
+
+Parent Material:
+Loamy alluvium
+
+Typical Vegetation or Crops:
+This soil is suitable for crop production and pastureland. The predominant crops grown on this soil are cotton, soybeans, rice and grain sorghum. Pasture grasses grown include common and improved bermudagrasses and tall fescue. 
+Presently, there are no ecological sites developed or assigned to the components of this mapunit.   
+
+Mapunit Composition and Reliability:
+Amagon: 90 percent
+Unnamed Hydric Soils: 10 percent 
+This mapunit is supported by eight pedon descriptions. These eight pedon descriptions are the Taxonomic Unit Descriptions from the seven counties where this mapunit is correlated (one of these pedon descriptions is a duplicate). 
+
+Classification:
+Amagon classification: Fine-silty, mixed, active, thermic Typic Endoaqualfs 
+
+Pertinent soil properties and qualities, and interpretations:
+The Amagon soils in this mapunit consist of very deep, poorly drained soils that formed in loamy alluvium on low terraces. They have a seasonal water table perched within 12 inches of the surface from December through April in most years. Dominant slope gradients are between 0 and 1 percent. 
+
+Reaction: Reaction is moderately acid through strongly acid in the surface and moderately acid through slightly alkaline in the subsoil.
+
+Other Expert Knowledge Gained Through SDJR:
+The official series description for Amagon was reviewed for SDJR. 
+
+Spatial Data Quality:
+Joins between Arkansas counties will need to be investigated. Spatial distribution is slighlty irregular. An attempt should also be made to join this map unit to Amagon silt loam, 0 to 1 percent slopes (Natl MU Sym: 2pqqq) in Missouri 
+
+
+
+
+
+
+ 
+
+
+
+
+
+"|"564371"|"2410901"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564371"|"2411074"
+08/09/2005 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"|"075"|"These soils have an moderate surface runoff potential and a low leaching index. Nutrient movement to surface waters could be a hazard on these soils. In addition to management practices such as soil tests and proper application rates, a system of practices that reduces runoff and erosion should be planned on these soils."|"564371"|"2411075"
+|"Nontechnical description"|"AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"564372"|"2410902"
+|"Nontechnical description"|"SOI"|"015"|"This is a very deep, somewhat poorly drained soil on floodplains of upland drainageways. This soil formed in loamy alluvium derived mainly from adjacent loess uplands. Permeability is moderate and available water capacity is high. A seasonal high water table is within 1.0 to 2.0 of the surface during the winter and early spring. Flooding is occasional for brief periods during the winter and early spring."|"564372"|"2410903"
+08/09/2005 00:00:00|"Nontechnical description"|"WQL"|"067"|"These soils have a slight surface runoff potential and a low leaching index. Nutrient movement to surface waters and ground waters will normally not be a hazard on these soils if management practices such as soil tests and proper application rates are applied."|"564372"|"2410904"
+08/09/2005 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"|"067"|"These soils have a slight surface runoff potential and a low leaching index. Nutrient movement to surface waters and ground waters will normally not be a hazard on these soils if management practices such as soil tests and proper application rates are applied."|"564372"|"2411076"
+|"Miscellaneous notes"|"NONTECH - AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"564372"|"2411077"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564373"|"2410905"
+|"Nontechnical description"|"SOI"|"047"|"This is a very deep, somewhat poorly drained soil on higher elevations of slack-water areas. This soil formed in thin beds of clayey alluvium over coarser textured sediments. Permeability is slow and available water capacity is medium. Depth to coarser textures range from 14 to 20 inches. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564373"|"2410906"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564373"|"2411078"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564374"|"2410907"
+|"Nontechnical description"|"SOI"|"047"|"This is a very deep, somewhat poorly drained soil on higher elevations of slack-water areas. This soil formed in thin beds of clayey alluvium over coarser textured sediments. Permeability is slow and available water capacity is medium. Depth to coarser textures range from 14 to 20 inches. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564374"|"2410908"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564374"|"2411079"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564375"|"2410909"
+|"Nontechnical description"|"SOI"|"047"|"This is a very deep, somewhat poorly drained soil on higher elevations of slack-water areas. This soil formed in thin beds of clayey alluvium over coarser textured sediments. Permeability is slow and available water capacity is medium. Depth to coarser textures range from 14 to 20 inches. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564375"|"2410910"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564375"|"2411080"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564376"|"2410911"
+|"Nontechnical description"|"SOI"|"005"|"Calhoun is a very deep, poorly drained soil on broad flats and in depressions. This soil formed in thick deposits of silty material. Permeability is slow and available water capacity is high. A perched water table is within 1.0 foot of the surface during the winter and early spring."|"564376"|"2410912"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564376"|"2411081"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2t238
+
+MLRA MU Name: Calloway silt loam, 0 to 1 percent slopes"|"564377"|"2410913"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 134 - Calloway sil, 0-1%
+"|"564377"|"2410914"
+04/16/2014 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Calloway silt loam, 0 to 1 percent slopes (Nat'l MU Sym: 2t238)is 1995AR055007 (1995AR055007 test is a blank pedon)
+
+Other pedons associated with the 2t238 MU are:
+
+Calloway component: 
+1995AR147006 (1995AR147006 test is a blank pedon)
+AR123 Calloway TP (same as 1964AR123008)
+1964AR123008 (same as AR123 Calloway TP)
+AR037 Calloway TP (same as 1966AR037006)
+1966AR037006 (same as AR037 Calloway TP)
+1973AR111007
+1976AR031006
+1974AR077005 (same as ARO77 Calloway silt loam)
+ARO77 Calloway silt loam (same as 1974AR077005)
+1974AR095005
+1971AR107007
+1970AR10723
+AR107 Calloway silt loam TP"|"564377"|"2410915"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"The representative pedons for all non-MLRA soil survey manuscripts associated with this project already existed in the NASIS database. No additional pedon entry was required. 
+
+Pedons associated with this project are as follows:
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Greene County, Arkansas (Issued 2006), User Pedon ID: 1995AR055007  
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Woodruff County, Arkansas (Issued 2003), User Pedon ID: 1995AR147006
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of St. Francis County, Arkansas (Issued November 1966), User Pedon ID: 1964AR123008 and AR123 Calloway TP (These pedons are duplicate)
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Cross County, Arkansas (Issued August 1968), User Pedon ID: 1966AR037006 and AR037 Calloway TP (These pedons are duplicate)
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Poinsett County, Arkansas (Issued June 1977), User Pedon ID: 1973AR111007
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Craighead County, Arkansas (Issued December 1979), User Pedon ID: 1976AR031006
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Lee County, Arkansas (Issued August 1977), User Pedon ID: 1974AR077005 and ARO77 Calloway silt loam (These pedons are duplicate)
+
+The representative profile of Calloway silt loam from the Soil Survey of Monroe County, Arkansas (Issued June 1978), User Pedon ID: 1974AR095005
+
+The representative profile of Calloway silt loam from the Soil Survey of Phillips County, Arkansas (Issued November 1974), User Pedon ID: 1971AR107007, 1970AR10723, AR107 Calloway silt loam TP
+
+
+
+
+
+
+
+"|"564377"|"2410916"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"The MUDs and TUDs reviewed for this project are:
+
+-Soil Survey of Monroe County, Arkansas (Issued June 1978)
+  -Calloway silt loam (Cb)
+  
+-Soil Survey of Lee County, Arkansas (Issued August 1977)
+  -Calloway silt loam, 0 to 1 percent slopes (CbA)
+  
+-Soil Survey of Craighead County, Arkansas (Issued December 1979)
+  -Calloway silt loam, 0 to 1 percent slopes (9)
+  
+-Soil Survey of Poinsett County, Arkansas (Issued June 1977)
+  -Calloway silt loam, 0 to 1 percent slopes (CaA)
+  
+-Soil Survey of Cross County, Arkansas (Issued August 1968)
+  -Calloway silt loam, 0 to 1 percent slopes (ClA)
+  
+-Soil Survey of St. Francis County, Arkansas (Issued November 1966)
+  -Calloway silt loam, 0 to 1 percent slopes (ClA)
+  
+-Soil Survey of Greene County, Arkansas (Issued 2006)
+  -Calloway silt loam, 0 to 1 percent slopes (7A)
+  
+-Soil Survey of Woodruff County, Arkansas (Issued 2003)
+  -Calloway silt loam, 0 to 1 percent slopes (ClA)
+  
+-Soil Survey of Phillips County, Arkansas (Issued November 1974)
+  -Calloway silt loam, 0 to 1 percent slopes (CbA)"|"564377"|"2410917"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"564377"|"2410918"
+04/16/2014 00:00:00|"Map unit description"|"map unit concept"||"National Mapunit Symbol  2t238
+ 
+Mapunit Name - Calloway silt loam, 0 to 1 percent slopes
+
+MLRA 134:  Southern Mississippi Valley Loess
+
+Geographic Extent:
+This mapunit is correlated in nine counties in Arkansas.  These counties are Craighead (AR031), Cross (AR037), Greene (AR055), Lee (AR077), Monroe (AR095), Phillips (AR107), Poinsett (AR111), St. Francis (AR123) and Woodruff (AR147). The series was established in Calloway County, Kentucky in 1937. The OSD Type Location is in Madison County, Mississippi. 
+
+Climate:
+Mean annual precipitation: 1143 to 1320 mm (45 to 52 inches)
+Mean annual air temperature: 10 to 21.4 degrees C (50 to 71 degrees F)
+Frost-free period: 235 to 295 days
+Soil Moisture Class: Udic
+
+Geographic Setting: 
+Major Component: 
+The Calloway soils are on broad, nearly level to gently sloping uplands and stream terraces in the Southern Mississippi Valley Loess. They have a seasonally high water table perched over a thick fragipan. The surface layer is dark grayish brown silt loam. Underneath the surface layer is a yellowish brown layer with light gray clay depletions. Below this layer lies a grayish brown to very pale brown compact and brittle fragipan which perches water.
+
+Minor Components:  
+The minor component 'Unnamed Hydric Soils' occur in similar positions, slighlty lower than Calloway soils. The 'Unnamed Hydric Soils' are mostly comprised of Aqualfs (Order: Alfisol; Suborder: Aqualfs). 
+
+Parent Material:
+Loess or water re-worked loess deposits
+
+Typical Vegetation or Crops:
+This soil is suitable for crop production and pastureland. The predominant crops grown on this soil are cotton, soybeans and rice. Other crops include wheat, corn and grain sorghum. Pasture grasses grown include common and improved bermudagrasses and tall fescue. 
+Presently, there are no ecological sites developed or assigned to the components of this mapunit.   
+
+Mapunit Composition and Reliability:
+Calloway: 90 percent
+Unnamed Hydric Soils: 10 percent 
+The mapunit composition was determined from the compositions around which this SDJR project was centered. Unnamed Hydric Soils as a minor component replaces the Calhoun, Henry, Bonn and Foley series until field examination determines the most appropriate usage of those components. This SDJR project reduced the number of mapunits and data mapunits from nine to one.
+This mapunit is supported by sixteen pedon descriptions. These sixteen pedon descriptions are the Taxonomic Unit Descriptions from the nine counties where this mapunit is correlated (some of these pedon descriptions are duplicates). 
+
+Classification:
+Calloway classification: Fine-silty, mixed, active, thermic Aquic Fraglossudalfs
+
+Pertinent soil properties and qualities, and interpretations:
+The Calloway soils in this mapunit consist of very deep, somewhat poorly drained soils that formed in thick loess or water reworked loess deposits on broad nearly level to gently sloping uplands and stream terraces. They have a seasonally high water table perched over a thick fragipan. Dominant slope gradients are between 0 and 3 percent and range to 5 percent. Solum thickness exceeds 60 inches. Depth to the fragipan ranges from 14 to 38 inches. Black and brown concretions range from few to many in all horizons.The lower part of the solum ranges from strongly acid through slightly alkaline. Runoff is low to medium and permeability is slow in the fragipan. The soil is saturated in the layers below 1 to 2 feet deep and above the fragipan during January through April in normal years.
+
+Reaction: Reaction is very strongly acid through moderately acid in the upper part of the solum. The lower part of the solum ranges from strongly acid through slightly alkaline.
+
+Other Expert Knowledge Gained Through SDJR:
+The official series description for Calloway was reviewed for SDJR. 
+
+Field work will be required throughout this mapunits distribution to collect pedon descriptions and transects for pedon documentation and minor component composition. There are many minor components listed in the old survey manuscripts. Field work is needed to determine the percentage of these minor components as part of this map unit and to examine the joins between Greene and Clay Counties, Arkansas. The current OSD is described to a depth of 1.5 meters and warrants revision to extend this description to 2 meters, bringing it up to standards of the National Cooperative Soil Survey.
+
+Spatial Data Quality:
+Where Greene County joins Clay County warrants more detailed examination. 
+
+
+
+
+
+
+ 
+
+
+
+
+
+"|"564377"|"2410919"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) Investigate joins between Clay and Greene Counties, AR
+2) Determine which minor components are most accurate for this map unit. Update Data Map Unit to reflect 
+   these components in regard to component and component percentage
+3) OSD should be updated to two meters using field observation compiled from type locations"|"564377"|"2410920"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"OSD warrants updating from 60 inches to two meters. This will require field work and/or extensive review of transect/obervation data."|"564377"|"2410921"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"No lab data was found during the course of this project"|"564377"|"2410922"
+|"Miscellaneous notes"|"NONTECH - AGR"|"017"|"This soil is well suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drainage may be needed in a few areas. This soil is well suited for pasture and hayland. Wetness is also a moderate limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564377"|"2411082"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2t23c
+
+MLRA MU Name: Calloway silt loam, 1 to 3 percent slopes"|"564378"|"2410923"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 134 - Calloway sil, 1-3%
+"|"564378"|"2410924"
+04/16/2014 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Calloway silt loam, 1 to 3 percent slopes (Nat'l MU Sym: 2t23c)is 1995AR055007 (1995AR055007 test is a blank pedon).
+
+Other pedons associated with the 2t238 MU are:
+
+Calloway component: 
+1995AR147006 (1995AR147006 test is a blank pedon)
+AR123 Calloway TP (same as 1964AR123008)
+1964AR123008 (same as AR123 Calloway TP)
+AR037 Calloway TP (same as 1966AR037006)
+1966AR037006 (same as AR037 Calloway TP)
+1973AR111007
+1976AR031006
+1974AR077005 (same as ARO77 Calloway silt loam)
+ARO77 Calloway silt loam (same as 1974AR077005)
+1971AR107007
+1970AR10723
+AR107 Calloway silt loam TP
+
+These pedons are typical pedons for the Calloway silt loam, 0 to 1 percent slopes map unit (Nat'l MU Sym: 2t238). The soil survey manuscripts denote that these pedons are also representative for the Calloway silt loam, 1 to 3 percent slopes map units as well (Nat'l MU Sym: 2t23c)"|"564378"|"2410925"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"The representative pedons for all non-MLRA soil survey manuscripts associated with this project already existed in the NASIS database. No additional pedon entry was required. 
+
+Pedons associated with this project are as follows:
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Greene County, Arkansas (Issued 2006), User Pedon ID: 1995AR055007  
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Woodruff County, Arkansas (Issued 2003), User Pedon ID: 1995AR147006
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of St. Francis County, Arkansas (Issued November 1966), User Pedon ID: 1964AR123008 and AR123 Calloway TP (These pedons are duplicate)
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Cross County, Arkansas (Issued August 1968), User Pedon ID: 1966AR037006 and AR037 Calloway TP (These pedons are duplicate)
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Poinsett County, Arkansas (Issued June 1977), User Pedon ID: 1973AR111007
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Craighead County, Arkansas (Issued December 1979), User Pedon ID: 1976AR031006
+
+The representative profile of Calloway silt loam, 0 to 1 percent slopes from the Soil Survey of Lee County, Arkansas (Issued August 1977), User Pedon ID: 1974AR077005 and ARO77 Calloway silt loam (These pedons are duplicate)
+
+The representative profile of Calloway silt loam from the Soil Survey of Phillips County, Arkansas (Issued November 1974), User Pedon ID: 1971AR107007, 1970AR10723, AR107 Calloway silt loam TP
+
+
+
+
+
+
+
+"|"564378"|"2410926"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"The MUDs and TUDs reviewed for this project are:
+
+-Soil Survey of Lee County, Arkansas (Issued August 1977)
+  -Calloway silt loam, 1 to 3 percent slopes (CbB)
+  
+-Soil Survey of Craighead County, Arkansas (Issued December 1979)
+  -Calloway silt loam, 1 to 3 percent slopes (10)
+  
+-Soil Survey of Poinsett County, Arkansas (Issued June 1977)
+  -Calloway silt loam, 1 to 3 percent slopes (CaB)
+  
+-Soil Survey of Cross County, Arkansas (Issued August 1968)
+  -Calloway silt loam, 1 to 3 percent slopes (ClB)
+  
+-Soil Survey of St. Francis County, Arkansas (Issued November 1966)
+  -Calloway silt loam, 1 to 3 percent slopes (ClB)
+  
+-Soil Survey of Greene County, Arkansas (Issued 2006)
+  -Calloway silt loam, 1 to 3 percent slopes (7B)
+  
+-Soil Survey of Woodruff County, Arkansas (Issued 2003)
+  -Calloway silt loam, 1 to 3 percent slopes (ClB)
+  
+-Soil Survey of Phillips County, Arkansas (Issued November 1974)
+  -Calloway silt loam, 1 to 3 percent slopes (CbB)"|"564378"|"2410927"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"564378"|"2410928"
+04/16/2014 00:00:00|"Map unit description"|"map unit concept"||"National Mapunit Symbol  2t23c
+ 
+Mapunit Name - Calloway silt loam, 1 to 3 percent slopes
+
+MLRA 134:  Southern Mississippi Valley Loess
+
+Geographic Extent:
+This mapunit is correlated in eight counties in Arkansas.  These counties are Craighead (AR031), Cross (AR037), Greene (AR055), Lee (AR077), Phillips (AR107), Poinsett (AR111), St. Francis (AR123) and Woodruff (AR147). The series was established in Calloway County, Kentucky in 1937. The OSD Type Location is in Madison County, Mississippi. 
+
+Climate:
+Mean annual precipitation: 1143 to 1320 mm (45 to 52 inches)
+Mean annual air temperature: 10 to 21.4 degrees C (50 to 71 degrees F)
+Frost-free period: 235 to 295 days
+Soil Moisture Class: Udic
+
+Geographic Setting: 
+Major Component: 
+The Calloway soils are on broad, nearly level to gently sloping uplands and stream terraces in the Southern Mississippi Valley Loess. They have a seasonally high water table perched over a thick fragipan. The surface layer is dark grayish brown silt loam. Underneath the surface layer is a yellowish brown layer with light gray clay depletions. Below this layer lies a grayish brown to very pale brown compact and brittle fragipan which perches water.
+
+Minor Components:  
+The minor component 'Unnamed Hydric Soils' occur in similar positions, slighlty lower than Calloway soils. The 'Unnamed Hydric Soils' are mostly comprised of Aqualfs (Order: Alfisol; Suborder: Aqualfs). 
+
+Parent Material:
+Loess or water re-worked loess deposits
+
+Typical Vegetation or Crops:
+This soil is suitable for crop production and pastureland. The predominant crops grown on this soil are cotton, soybeans and rice. Other crops include wheat, corn and grain sorghum. Pasture grasses grown include common and improved bermudagrasses and tall fescue. 
+Presently, there are no ecological sites developed or assigned to the components of this mapunit.   
+
+Mapunit Composition and Reliability:
+Calloway: 90 percent
+Unnamed Hydric Soils: 10 percent 
+The mapunit composition was determined from the compositions around which this SDJR project was centered. Unnamed Hydric Soils as a minor component replaces the Calhoun, Henry, Bonn and Foley series until field examination determines the most appropriate usage of those components. This SDJR project reduced the number of mapunits and data mapunits from nine to one.
+This mapunit is supported by sixteen pedon descriptions. These sixteen pedon descriptions are the Taxonomic Unit Descriptions from the nine counties where this mapunit is correlated (some of these pedon descriptions are duplicates). 
+
+Classification:
+Calloway classification: Fine-silty, mixed, active, thermic Aquic Fraglossudalfs
+
+Pertinent soil properties and qualities, and interpretations:
+The Calloway soils in this mapunit consist of very deep, somewhat poorly drained soils that formed in thick loess or water reworked loess deposits on broad nearly level to gently sloping uplands and stream terraces. They have a seasonally high water table perched over a thick fragipan. Dominant slope gradients are between 0 and 3 percent and range to 5 percent. Solum thickness exceeds 60 inches. Depth to the fragipan ranges from 14 to 38 inches. Black and brown concretions range from few to many in all horizons.The lower part of the solum ranges from strongly acid through slightly alkaline. Runoff is low to medium and permeability is slow in the fragipan. The soil is saturated in the layers below 1 to 2 feet deep and above the fragipan during January through April in normal years.
+
+Reaction: Reaction is very strongly acid through moderately acid in the upper part of the solum. The lower part of the solum ranges from strongly acid through slightly alkaline.
+
+Other Expert Knowledge Gained Through SDJR:
+The official series description for Calloway was reviewed for SDJR. 
+
+Field work will be required throughout this mapunits distribution to collect pedon descriptions and transects for pedon documentation and minor component composition. There are many minor components listed in the old survey manuscripts. Field work is needed to determine the percentage of these minor components as part of this map unit and to examine the joins between Greene and Clay Counties, Arkansas. The current OSD is described to a depth of 1.5 meters and warrants revision to extend this description to 2 meters, bringing it up to standards of the National Cooperative Soil Survey.
+
+Spatial Data Quality:
+Where Greene County joins Clay County warrants more detailed examination. 
+
+
+
+
+
+
+ 
+
+
+
+
+
+"|"564378"|"2410929"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) Investigate joins between Clay and Greene Counties, AR
+2) Determine which minor components are most accurate for this map unit. Update Data Map Unit to reflect 
+   these components in regard to component and component percentage
+3) OSD should be updated to two meters using field observation compiled from type locations"|"564378"|"2410930"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"OSD warrants updating from 60 inches to two meters. This will require field work and/or extensive review of transect/obervation data."|"564378"|"2410931"
+04/16/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"No lab data was found during the course of this project"|"564378"|"2410932"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564378"|"2411083"
+|"Nontechnical description"|"AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564379"|"2410933"
+|"Nontechnical description"|"SOI"|"004"|"Calloway is a deep, somewhat poorly drained soil on broad flats and terraces. This soil formed in thick deposits of silty material. Permeability is slow and available water capacity is medium. A perched water table is within 1.0 to 2.0 feet of the surface during the winter and early spring. A compact, brittle fragipan at about 18 to 32 inches restricts the penetration of roots and movement of water."|"564379"|"2410934"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564379"|"2411084"
+|"Nontechnical description"|"SOI"|"014"|"This is a very deep, moderately well drained soil on floodplains of upland drainageways. This soil formed in loamy alluvium derived mainly from adjacent loess uplands. Permeability is moderate and available water capacity is high. A seasonal high water table is within 2.0 to 3.0 feet of the surface during the winter and early spring. Flooding is occasional for brief periods during the winter and early spring."|"564380"|"2410935"
+|"Nontechnical description"|"AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"564380"|"2410936"
+|"Miscellaneous notes"|"NONTECH - AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"564380"|"2411085"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564381"|"2410937"
+|"Nontechnical description"|"SOI"|"054"|"This is a very deep, somewhat poorly drained soil on broad flats of terraces. This soil formed in loamy sediments underlain by clayey alluvium. Permeability is very slow and available water capacity is high. A perched water table is within 1.0 to 2.0 feet of the surface during the winter and early spring. Depth to layers with high clay content ranges from about 12 to 30 inches."|"564381"|"2410938"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564381"|"2411086"
+|"Nontechnical description"|"AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564382"|"2410939"
+|"Nontechnical description"|"SOI"|"054"|"This is a very deep, somewhat poorly drained soil on broad flats of terraces. This soil formed in loamy sediments underlain by clayey alluvium. Permeability is very slow and available water capacity is high. A perched water table is within 1.0 to 2.0 feet of the surface during the winter and early spring. Depth to layers with high clay content ranges from about 12 to 30 inches."|"564382"|"2410940"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564382"|"2411087"
+02/04/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"none observed
+"|"564383"|"2410941"
+02/04/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"564383"|"2410942"
+02/04/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"The MUDs and TUDs reviewed for this project are:
+
+  
+-Soil Survey of Craighead County, Arkansas (Issued December 1979)
+  -Dubbs fine sandy loam (16)
+  
+-Soil Survey of Cross County, Arkansas (Issued August 1968)
+  -Dubbs fine sandy loam (DbB)
+  
+-Soil Survey of St. Francis County, Arkansas (Issued 1964)
+  -Dubbs fine sandy loam (DbB)
+  "|"564383"|"2410943"
+02/04/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"None entered
+"|"564383"|"2410944"
+02/04/2016 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Dubbs fine sandy loam, 0 to 3 percent slopes (Nat'l MU Sym: 2wn5j)is 1976AR031010
+
+Other pedons associated with the 2wn5j MU are:
+
+
+1966AR037009
+1964AR123001
+"|"564383"|"2410945"
+02/04/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 131A - Dubbs fsl, 0-3%
+"|"564383"|"2410946"
+02/04/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2wn5j
+
+MLRA MU Name: Dubbs fine sandy loam, 0 to 3 percent slopes"|"564383"|"2410947"
+02/04/2016 00:00:00|"Map unit description"|"map unit concept"||"Mapunit name: Dubbs fine sandy loam, 0 to 3 percent slopes
+
+MLRA 131A - Mississippi Valley Alluvium
+
+Geographic Extent: The Dubbs series consists of very deep, well drained soils that have moderately permeablity. These soils are on nearly level to sloping natural levees or low terraces of the Mississippi River and its tributaries in the Southern Mississippi Valley Alluvium Major Land Resource Area. The series is of large extent.
+
+Mapunit Composition and Reliability: 86% Dubbs, Amagon 5%, Dundee  5%, Aquents 4% (RVs)
+
+Minor Components:
+
+Amagon - lower, concave positions, poorly drained
+Dundee - slightly lower positions, somewhat poorly drained, 
+Aquents - low, drainageway positions with recent alluvium, poorly drained 
+
+Dubbs Soil Description:
+
+Typically, the surface layer is brown fine sandy loam about 12 inches thick. The upper part of the subsoil layer is dark yellowish brown silt loam to a depth of about 20 inches. The middle part is dark brown silt loam and dark brown mottled silty clay loam to a depth of about 41 inches. The lower part is dark brown loam to a depth of about 45  inches. The substratum is yellowish brown loamy sand that extends to a depth of 72 inches or more.
+
+Geographic Setting: Dubbs soils mainly are on natural levees or low terraces along former channels of the Mississippi River and its tributaries. 
+
+Dubbs soils:
+
+Soil Taxonomic Classification: Fine-silty, mixed, active, thermic Typic Hapludalfs
+Soil moisture subclass: Udic
+Soil moisture class: udic
+Parent material and geology: loamy alluvium
+Landforms: Natural levees
+Down-slope shape: Convex
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range: All aspects
+Dominant use: Cropland
+
+Properties and Qualities:
+
+Slope: 0 to 3 percent
+Percent of area covered by surface fragments: none
+Depth range to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate (0.6 to 2.0 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Depth to seasonal high water table, minimum: More than 72 inches
+Representative total available water capacity to 60 inches: High (About 9.5 inches)
+Natural drainage class: Well drained
+Runoff class: Low
+Flooding frequency: None
+Ponding frequency: None
+
+Climate:
+
+Mean annual precipitation: 35 to 61 inches (894 to 1545 millimeters)
+Mean annual air temperature: 48 to 72 degrees F (9 to 22 degrees C)
+Frost-free period: 195 to 290 days
+Soil moisture class: Udic
+
+
+Typical vegetation or crops: Row crops, predominately corn soybeans, cotton
+
+Other uses: forestland
+"|"564383"|"2410948"
+02/04/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"OSD updated as part of this project"|"564383"|"2410949"
+02/04/2016 00:00:00|"Miscellaneous notes"|"evaluation notes"|"attribute"|"1) Distribution gap occurs in Poinsett County, AR. This is due to slope class and surface texture inconsistencies. A project has been created to address these issues (Dubbs Join Inconsistencies)"|"564383"|"2410950"
+|"Miscellaneous notes"|"NONTECH - AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564383"|"2411088"
+|"Nontechnical description"|"AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564384"|"2410951"
+|"Nontechnical description"|"SOI"|"009"|"This is a very deep, well drained soil on higher parts of natural levees bordering abandonded stream channels. The soil formed in loamy alluvium. Permeability is moderate and available water capacity is high."|"564384"|"2410952"
+|"Miscellaneous notes"|"NONTECH - AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564384"|"2411089"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564385"|"2410953"
+|"Nontechnical description"|"SOI"|"010"|"This is a very deep, somewhat poorly drained soil on the lower parts of natural levees bordering abandoned stream channels. This soil formed in loamy alluvium. Permeability is moderately slow and available water capacity is high. A seasonal high water table is within 1.0 to 2.0 feet of the surface during the winter and early spring."|"564385"|"2410954"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564385"|"2411090"
+|"Nontechnical description"|"SOI"|"010"|"This is a very deep, somewhat poorly drained soil on the lower parts of natural levees bordering abandoned stream channels. This soil formed in loamy alluvium. Permeability is moderately slow and available water capacity is high. A seasonal high water table is within 1.0 to 2.0 feet of the surface during the winter and early spring."|"564386"|"2410955"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564386"|"2410956"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564386"|"2411091"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564387"|"2410957"
+|"Nontechnical description"|"SOI"|"010"|"This is a very deep, somewhat poorly drained soil on the lower parts of natural levees bordering abandoned stream channels. This soil formed in loamy alluvium. Permeability is moderately slow and available water capacity is high. A seasonal high water table is within 1.0 to 2.0 feet of the surface during the winter and early spring."|"564387"|"2410958"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564387"|"2411092"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564388"|"2410959"
+|"Nontechnical description"|"SOI"|"010"|"This is a very deep, somewhat poorly drained soil on the lower parts of natural levees bordering abandoned stream channels. This soil formed in loamy alluvium. Permeability is moderately slow and available water capacity is high. A seasonal high water table is within 1.0 to 2.0 feet of the surface during the winter and early spring."|"564388"|"2410960"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564388"|"2411093"
+|"Nontechnical description"|"SOI"|"057"|"This is a very deep, somewhat poorly drained soil on higher elevations of slackwater areas. This soil formed in moderately thick beds of clayey alluvium over coarser textured sediments. Permeability is very slow and available water capacity is high. Depth to coarser textured sediments range from about 20 to 36 inches. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564389"|"2410961"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564389"|"2410962"
+08/15/2019 00:00:00|"Correlation notes"|||"In accordance with CART guidance the component percent for  Aquents was adjusted from  5 to 10 so the component total would equal 100 percent for the DMU
+"|"564389"|"2411054"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564389"|"2411094"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564390"|"2410963"
+|"Nontechnical description"|"SOI"|"057"|"This is a very deep, somewhat poorly drained soil on higher elevations of slackwater areas. This soil formed in moderately thick beds of clayey alluvium over coarser textured sediments. Permeability is very slow and available water capacity is high. Depth to coarser textured sediments range from about 20 to 36 inches. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564390"|"2410964"
+08/15/2019 00:00:00|"Correlation notes"|||"In accordance with CART guidance the component percent for  Aquents was adjusted from  5 to 10 so the component total would equal 100 percent for the DMU
+"|"564390"|"2411055"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564390"|"2411095"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564391"|"2410965"
+|"Nontechnical description"|"SOI"|"057"|"This is a very deep, somewhat poorly drained soil on higher elevations of slackwater areas. This soil formed in moderately thick beds of clayey alluvium over coarser textured sediments. Permeability is very slow and available water capacity is high. Depth to coarser textured sediments range from about 20 to 36 inches. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564391"|"2410966"
+08/15/2019 00:00:00|"Correlation notes"|||"In accordance with CART guidance the component percent for  Aquents was adjusted from  5 to 10 so the component total would equal 100 percent for the DMU
+"|"564391"|"2411056"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564391"|"2411096"
+|"Nontechnical description"|"SOI"|"057"|"This is a very deep, somewhat poorly drained soil on higher elevations of slackwater areas. This soil formed in moderately thick beds of clayey alluvium over coarser textured sediments. Permeability is very slow and available water capacity is high. Depth to coarser textured sediments range from about 20 to 36 inches. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564392"|"2410967"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564392"|"2410968"
+08/15/2019 00:00:00|"Correlation notes"|||"In accordance with CART guidance the component percent for  Aquents was adjusted from  5 to 10 so the component total would equal 100 percent for the DMU
+"|"564392"|"2411057"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564392"|"2411097"
+|"Nontechnical description"|"SOI"|"011"|"Foley is a very deep, poorly drained soil on broad flats and in depressions. This soil formed in loamy sediments. Permeability is very slow and available water capacity is medium. A perched water table is within 1.0 foot of the surface during the winter and early spring. This soil has a high content of sodium and magnesium in the subsoil, typically at a depth of about 20 to 36 inches."|"564393"|"2410969"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564393"|"2410970"
+08/15/2019 00:00:00|"Correlation notes"|||"In accordance with CART guidance the component percent for  Aqualfs was adjusted from  5 to 10 so the component total would equal 100 percent for the DMU
+"|"564393"|"2411058"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564393"|"2411098"
+|"Nontechnical description"|"AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564395"|"2410971"
+|"Nontechnical description"|"SOI"|"006"|"This is a deep, moderately well drained soil on uplands and terraces. This soil formed in thick deposits of silty material. Permeability is slow and available water capacity is medium. A perched water table is within 2.0 to 3.0 feet of the surface during the winter and early spring. A compact, brittle fragipan at about 20 to 32 inches restricts the penetration of roots and movement of water."|"564395"|"2410972"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564395"|"2411099"
+|"Nontechnical description"|"AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564396"|"2410973"
+|"Nontechnical description"|"SOI"|"006"|"This is a deep, moderately well drained soil on uplands and terraces. This soil formed in thick deposits of silty material. Permeability is slow and available water capacity is medium. A perched water table is within 2.0 to 3.0 feet of the surface during the winter and early spring. A compact, brittle fragipan at about 20 to 32 inches restricts the penetration of roots and movement of water."|"564396"|"2410974"
+08/15/2019 00:00:00|"Correlation notes"|||"In accordance with CART guidance the component percent for  Aqualfs was adjusted from  5 to 10 so the component total would equal 100 percent for the DMU
+
+"|"564396"|"2411059"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564396"|"2411100"
+03/19/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2v7sh
+
+MLRA MU Name: Henry silt loam, 0 to 1 percent slopes"|"564398"|"2410975"
+03/19/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 134 - Henry sil, 0-1% 
+"|"564398"|"2410976"
+03/19/2015 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Henry silt loam, 0 to 2 percent slopes (Nat'l MU Sym: 2v7sf) is 
+User Project ID: 1970AR10717
+
+Other pedons associated with the 2v7sf MU are:
+
+AR037 Henry TP
+1974AR077014
+1970AR10717
+1973AR111017
+AR123 Henry TP
+1976AR031016
+1995AR147013
+"|"564398"|"2410977"
+03/19/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"None"|"564398"|"2410978"
+03/19/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"AR037 Henry TP
+1974AR077014
+1970AR10717
+1973AR111017
+AR123 Henry TP
+1976AR031016
+1995AR147013
+"|"564398"|"2410979"
+03/19/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"564398"|"2410980"
+03/19/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) County line joins will have to be investigated in the field.
+
+2) Crop yield data is probably out of date, needs adjusting to modern standards."|"564398"|"2410981"
+03/19/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"None needed"|"564398"|"2410982"
+03/19/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"None found"|"564398"|"2410983"
+03/19/2015 00:00:00|"Map unit description"|"map unit concept"||"Mapunit Name - Henry silt loam, 0 to 1 percent slopes
+
+MLRA 134 - Southern Mississippi Valley Loess
+
+Geographic Extent:  In this project: depressions, broad drainageways, or on nearly level areas in the uplands or on terraces of low relief in Cross (AR037), Lee (AR 077),
+Phillips (AR107), Poinsett (AR111), St. Francis (AR123), Craighead (AR031), Woodruff (AR147)
+
+
+Climate:
+Mean annual precipitation: 1194 to 1270 mm (47 to 50 inches)
+Mean annual air temperature: 9.4 to 21.1 degrees C (49 to 70 degrees F)
+Frost-free period: 225 to 265 days
+
+Soil Moisture Class: Aquic 
+
+Geographic Setting:
+Loess more than 4 feet in thick in depressions and nearly level areas on uplands and terraces; MLRA 134.
+
+ 
+Major Component: 
+Henry silt loam
+
+
+Minor Components:  
+Aqualfs
+Calloway
+
+Parent Material: Loess
+
+
+Typical Vegetation or Crops: Row cropped, mostly rice and soybeans, some pature and hayland. Wooded where idle 
+ 
+
+Mapunit Composition and Reliability: Map unit composition is a composite of the data in the published surveys involved in this project. This SDJR project reduced the number of mapunits and data mapunits from seven to one.  There are seven pedons associated with this project.  These are the Typifying pedons for correlated map unit of the respective surveys.
+90% Henry
+ 5% Aqualfs
+ 5% Calloway
+
+Classification: Coarse silty, mixed, active, thermic Typic Fragiaqualf
+
+
+Pertinent soil properties and qualities, and interpretations: Henry soils are episaturated, having a fragipan layer starting at 18 inches or more.  They are coarse silty and poorly drained.  The parent material is loess.  Typically the surface is dark grayish brown silt loam 5 inches thick; the subsurface is gray silt loam (albic material) to a depth of 25 inches; the upper subsoil (fragipan) is gray silt loam that is firm and brittle to a depth of 60 inches; the lower subsoil is gray silt loam (parent material) to at least 72 inches. 
+
+
+Reaction: ranges from very strongly acid to strongly acid
+
+
+Other Expert Knowledge Gained Through SDJR:  Review of the manuscripts demonstrates a consistant concept of this map unit with similar inclusions.  
+
+"|"564398"|"2410984"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564398"|"2411101"
+|"Nontechnical description"|"AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"564399"|"2410985"
+|"Miscellaneous notes"|"NONTECH - AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"564399"|"2411102"
+|"Nontechnical description"|"AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"564400"|"2410986"
+|"Miscellaneous notes"|"NONTECH - AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"564400"|"2411103"
+|"Nontechnical description"|"AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564401"|"2410987"
+|"Miscellaneous notes"|"NONTECH - AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564401"|"2411104"
+|"Nontechnical description"|"AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564402"|"2410988"
+|"Miscellaneous notes"|"NONTECH - AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564402"|"2411105"
+|"Nontechnical description"|"AGR"|"002"|"These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564403"|"2410989"
+|"Miscellaneous notes"|"NONTECH - AGR"|"002"|"These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564403"|"2411106"
+07/27/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2wn6b
+
+MLRA MU Name: Loring silt loam, 1 to 3 percent slopes, west"|"564404"|"2410990"
+07/27/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 134 - Loring sil, 1-3%, west
+"|"564404"|"2410991"
+07/27/2016 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Loring silt loam, 1 to 3 percent slopes, west (Nat'l MU Sym: 2wn6b)is 1975AR021018
+
+Other pedons associated with the 2wn6b MU are:
+
+
+1974AR077018
+1966AR037019
+1964AR123018
+1995AR055019
+1971AR107019
+
+
+"|"564404"|"2410992"
+07/27/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"None entered"|"564404"|"2410993"
+07/27/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"The MUDs and TUDs reviewed for this project are:
+
+-Soil Survey of Cross County, Arkansas (Issued August 1968)
+  -Loring silt loam, 1 to 3 percent slopes (LgB)
+  
+-Soil Survey of Clay County, Arkansas (Issued July 1978)
+  -Loring silt loam, 1 to 3 percent slopes (32)
+  
+-Soil Survey of Greene County, Arkansas (Issued 2006)
+  -Loring silt loam, 1 to 3 percent slopes (24B)
+  
+-Soil Survey of Lee County, Arkansas (Issued August 1977)
+  -Loring silt loam, 1 to 3 percent slopes (LoB)
+  
+-Soil Survey of Phillips County, Arkansas (Issued November 1974)
+  -Loring silt loam, 1 to 3 percent slopes (LoB)
+ 
+-Soil Survey of St Francis, Arkansas (Issued November 1966)
+  -Loring silt loam, 1 to 3 percent slopes (LgB)"|"564404"|"2410994"
+07/27/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"564404"|"2410995"
+07/27/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"The Loring OSD was updated to semi-tabular format during the course of another SDJR project"|"564404"|"2410996"
+07/27/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"S1957AR123001"|"564404"|"2410997"
+07/27/2016 00:00:00|"Map unit description"|"map unit concept"||"Mapunit name: Loring silt loam, 1 to 3 percent slopes, west
+
+MLRA 134 - Southern Mississippi Valley Loess
+
+Geographic Extent: Loring soils are on nearly level to strongly sloping uplands and terraces of the Southern Mississippi Valley Loess (MLRA 134). Slopes range from 0 to 20 percent. The series is of large extent.
+
+Mapunit Composition and Reliability: 92% Loring
+
+Minor Components:
+
+8% Aqualfs
+
+Mapunit Composition and Reliability:
+Loring: 92 percent
+Memphis: 8 percent 
+
+Loring Soil Description:
+
+Typically, the surface layer is brown silt loam about 15 cm thick (6 inches). The subsurface layer is brown silt loam to about 25 cm (10 inches). The upper part of the subsoil layer is brown silt loam or silty clay loam to a depth of about 69 cm (27 inches). The middle part is a fragipan that is brown silt loam to a depth of about 132 cm (52 inches). The lower part is brown silt loam to a depth of 200 cm. 
+
+Geographic Setting: 
+Major component:
+Loring soils are on nearly level to gently sloping upland ridges and backslopes and terrace treads and risers. Slopes range from 1 to 3 percent. The soils formed in loess which is more than 4 feet thick.  
+
+Minor component:
+Aqualfs soils are on lower concave spots and may or may not have fragipans.
+
+
+Loring soils:
+
+Soil Taxonomic Classification: Fine-silty, mixed, active, thermic Oxyaquic Fragiudalfs
+Soil moisture subclass: oxyaquic
+Soil moisture class: udic
+Parent material and geology: loess
+Landforms: Terraces and Upland ridges
+Down-slope shape: Linear
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range: All aspects
+Dominant use: Cropland
+
+Properties and Qualities:
+
+Slope: 1 to 3 percent
+Percent of area covered by surface fragments: none
+Depth range to first water and root restrictive layer: Fragipan 45 to 117 cm (18 to 46 inches)
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate 4 to 14 micrometers/sec (0.6 to 2.0 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: very slow 0.420 to 1.4 micrometers/sec (.06 to .2 in/hr)   
+Depth to seasonal high water table, minimum: About 54 cm (20 inches), perched 
+Representative total available water capacity to 60 inches: Low (About 5.8 inches)
+Natural drainage class: Moderately Well drained
+Runoff class: medium
+Flooding frequency: None
+Ponding frequency: None
+
+Climate:
+
+Mean annual precipitation: 1143 to 1245 millimeters (45 to 51 inches)
+Mean annual air temperature: 8.9 to 21.7 degrees C (48 to 71 degree F)
+Soil moisture class: Udic
+
+
+Typical vegetation or crops: Row crops, predominately corn, soybeans, cotton
+
+Other uses: forestland"|"564404"|"2410998"
+07/27/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) A future project has been created to address the need to separate polygons of Loring mapunits based upon their occurance on either Crowley's Ridge or on the Pleistocene terraces west of Crowley's Ridge (Project name: Loring upland/terrace phases)
+
+2) Crop yields are outdated and should be researched and increased to reflect modern practices
+
+3) Variability in Ksat values, particularly in fragipan layers, should be researched and resolved.
+
+4) Minor components for the DMUs in this project were variable (Calhoun, Henry, Calloway, and Aqualfs). Aqualfs was used as a place holder as all are in that family. Field investigation needed to clarify content and proportions."|"564404"|"2410999"
+07/26/2016 00:00:00|"Miscellaneous notes"|"Minor components"|"aqualfs"|"The use of Aqualfs as a minor component is due to the variablility of minor compnents across the six counties involved in this project. It encompasses Calhoun, Henry, and Calloway (all of which are aqualfs)."|"564404"|"2411063"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564404"|"2411107"
+|"Nontechnical description"|"SOI"|"006"|"This is a deep, moderately well drained soil on uplands and terraces. This soil formed in thick deposits of silty material. Permeability is slow and available water capacity is medium. A perched water table is within 2.0 to 3.0 feet of the surface during the winter and early spring. A compact, brittle fragipan at about 20 to 32 inches restricts the penetration of roots and movement of water."|"564405"|"2411000"
+|"Nontechnical description"|"AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564405"|"2411001"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564405"|"2411108"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2wn71
+
+MLRA MU Name: Loring silt loam, 3 to 8 percent slopes, west"|"564406"|"2411002"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 134 - Loring sil, 3-8%, west
+"|"564406"|"2411003"
+07/28/2016 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Loring silt loam, 3 to 8 percent slopes, west (Nat'l MU Sym: 2wn71)is 1995AR055019
+
+Other pedons associated with the 2wn71 MU are:
+
+Loring components: 
+
+1964AR123018
+1966AR037019
+
+Memphis component: 
+
+1963MS021501
+
+
+
+"|"564406"|"2411004"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"All pedons already existed in NASIS
+"|"564406"|"2411005"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"The MUDs and TUDs reviewed for this project are:
+
+-Soil Survey of Cross County, Arkansas (Issued August 1978)
+  -Loring silt loam, 3 to 8 percent slopes (LgC)
+ 
+-Soil Survey of Greene, Arkansas (Issued 2006)
+  -Loring silt loam, 3 to 8 percent slopes (24C)
+
+-Soil Survey of St Francis, Arkansas (Issued November 1966)
+  -Loring silt loam, 3 to 8 percent slopes (LgC)
+  
+  
+  
+ "|"564406"|"2411006"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"564406"|"2411007"
+07/28/2016 00:00:00|"Map unit description"|"map unit concept"||"Mapunit name: Loring silt loam, 3 to 8 percent slopes, west
+
+MLRA 134 - Southern Mississippi Valley Loess
+
+Geographic Extent: Loring soils are on nearly level to strongly sloping uplands and terraces of the Southern Mississippi Valley Loess (MLRA 134). Slopes range from 0 to 20 percent. The series is of large extent.
+
+Mapunit Composition and Reliability: 93% Loring
+
+Minor Components:
+
+7% Memphis 
+
+Mapunit Composition and Reliability:
+Loring: 93 percent
+Memphis: 7 percent 
+
+Loring Soil Description:
+
+Typically, the surface layer is brown silt loam about 13 cm thick (5 inches). The subsurface layer is brown silt loam to about 28 cm (11 inches). The upper part of the subsoil layer is brown silty clay loam or silt loam to a depth of about 81 cm (32 inches). The lower part is a fragipan that is brown silt loam or silty clay loam to a depth of about 200 cm (80 inches). 
+
+Geographic Setting: 
+Major component:
+Loring soils are on gently sloping upland ridges and backslopes and terrace treads and risers. Slopes range from 0 to 20 percent. The soils formed in loess which is more than 4 feet thick.  
+
+Minor component:
+Memphis soils are on higher convex spots and do not have fragipans
+
+
+Loring soils:
+
+Soil Taxonomic Classification: Fine-silty, mixed, active, thermic Oxyaquic Fragiudalfs
+Soil moisture subclass: Oxyaquic
+Soil moisture class: udic
+Parent material and geology: loess
+Landforms: Terraces and Upland ridges
+Down-slope shape: Convex
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range: All aspects
+Dominant use: Cropland
+
+Properties and Qualities:
+
+Slope: 3 to 8 percent
+Percent of area covered by surface fragments: none
+Depth range to first water and root restrictive layer: Fragipan 45 to 96 cm (18 to 38 inches)
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate 4 to 14 micrometers/sec (0.6 to 2.0 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: very slow 0.420 to 1.4 micrometers/sec (.06 to .2 in/hr)   
+Depth to seasonal high water table, minimum: About 66 cm (26 inches), perched 
+Representative total available water capacity to 60 inches: Low (About 5.8 inches)
+Natural drainage class: Moderately Well drained
+Runoff class: medium
+Flooding frequency: None
+Ponding frequency: None
+
+Climate:
+
+Mean annual precipitation: 1143 to 1245 millimeters (45 to 51 inches)
+Mean annual air temperature: 8.9 to 21.7 degrees C (48 to 71 degree F)
+Soil moisture class: Udic
+
+
+Typical vegetation or crops: Row crops, predominately corn, soybeans, cotton
+
+Other uses: forestland
+
+
+
+
+
+
+ 
+
+
+
+
+
+"|"564406"|"2411008"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) A future project has been created to address the need to separate polygons of Loring mapunits based upon their occurance on either Crowley's Ridge or on the Pleistocene terraces west of Crowley's Ridge (Project name: Loring upland/terrace phases)
+
+2) Numerous Greene County misjoins with Clay and Craighead Counties (both slope and erosion factor) and one misjoin with Cross County should be resolved.
+
+3) There is variability in Ksat values of the fragipan layers across the Loring SDJR projects. Data is needed to confirm this wide variability, or to establish an acceptable mean value for all Loring  
+
+4) As with most SDJR projects, crop yield data is outdated and should be investigated and revised to reflect modern agricultural practices."|"564406"|"2411009"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"The Loring OSD was updated to semi-tabular format during the course of another SDJR project"|"564406"|"2411010"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"S1957AR123001"|"564406"|"2411011"
+|"Miscellaneous notes"|"NONTECH - AGR"|"002"|"These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564406"|"2411109"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2wn6g
+
+MLRA MU Name: Loring silt loam, 3 to 8 percent slopes, eroded"|"564407"|"2411012"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 134 - Loring sil, 3-8%, eroded
+"|"564407"|"2411013"
+07/28/2016 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Loring silt loam, 3 to 8 percent slopes, west (Nat'l MU Sym: 2wn6g) is 1974AR077018
+
+Other pedons associated with the 2wn6g MU are:
+
+
+1973AR111020
+1966AR037019
+1964AR123018
+
+"|"564407"|"2411014"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"The MUDs and TUDs reviewed for this project are:
+
+-Soil Survey of Cross County, Arkansas (Issued August 1968)
+  -Loring silt loam, 3 to 8 percent slopes (LgC2)
+  
+-Soil Survey of Lee County, Arkansas (Issued August 1977)
+  -Loring silt loam, 3 to 8 percent slopes (LoC2)
+  
+-Soil Survey of Poinsett County, Arkansas (Issued June 1977)
+  -Loring silt loam, 3 to 8 percent slopes (LgC2)
+ 
+-Soil Survey of St Francis, Arkansas (Issued November 1966)
+  -Loring silt loam, 3 to 8 percent slopes (LgC2)"|"564407"|"2411015"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"564407"|"2411016"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) A future project has been created to address the need to separate polygons of Loring mapunits based upon their occurance on either Crowley's Ridge or on the Pleistocene terraces west of Crowley's Ridge (Project name: Loring upland/terrace phases)
+
+2) Crop yields are outdated and should be researched and increased to reflect modern practices.
+
+3) Variability in Ksat values, particularly in fragipan layers, should be researched and resolved."|"564407"|"2411017"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"The Loring OSD was updated to semi-tabular format during the course of another SDJR project"|"564407"|"2411018"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"Pedons were already in NASIS "|"564407"|"2411019"
+07/28/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"None found during the course of this project"|"564407"|"2411020"
+07/28/2016 00:00:00|"Map unit description"|"map unit concept"||"Mapunit name: Loring silt loam, 3 to 8 percent slopes, eroded
+
+MLRA 134 - Southern Mississippi Valley Loess
+
+Geographic Extent: Loring soils are on nearly level to strongly sloping uplands and terraces of the Southern Mississippi Valley Loess (MLRA 134). Slopes range from 0 to 20 percent. The series is of large extent.
+
+Mapunit Composition and Reliability: 93% Loring
+
+Minor Components:
+
+7% Memphis 
+
+Mapunit Composition and Reliability:
+Loring: 93 percent
+Memphis: 7 percent 
+
+Loring Soil Description:
+
+Typically, the surface layer is brown silt loam about 13 cm thick (5 inches). The subsurface layer is brown silt loam to about 28 cm (11 inches). The upper part of the subsoil layer is brown silty clay loam or silt loam to a depth of about 81 cm (32 inches). The lower part is a fragipan that is brown silt loam or silty clay loam to a depth of about 200 cm (80 inches). 
+
+Geographic Setting: 
+Major component:
+Loring soils are on gently sloping upland ridges and backslopes and terrace treads and risers. Slopes range from 3 to 8 percent. The soils formed in loess which is more than 4 feet thick.  
+
+Minor component:
+Memphis soils are on higher convex spots and do not have fragipans
+
+
+Loring soils:
+
+Soil Taxonomic Classification: Fine-silty, mixed, active, thermic Oxyaquic Fragiudalfs
+Soil moisture subclass: Oxyaquic
+Soil moisture class: udic
+Parent material and geology: loess
+Landforms: Terraces and Upland ridges
+Down-slope shape: Convex
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range: All aspects
+Dominant use: Cropland
+
+Properties and Qualities:
+
+Slope: 3 to 8 percent
+Percent of area covered by surface fragments: none
+Depth range to first water and root restrictive layer: Fragipan 45 to 96 cm (18 to 38 inches)
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate 4 to 14 micrometers/sec (0.6 to 2.0 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: very slow 0.420 to 1.4 micrometers/sec (.06 to .2 in/hr)   
+Depth to seasonal high water table, minimum: About 66 cm (26 inches), perched 
+Representative total available water capacity to 60 inches: Low (About 5.8 inches)
+Natural drainage class: Moderately Well drained
+Runoff class: medium
+Flooding frequency: None
+Ponding frequency: None
+
+Climate:
+
+Mean annual precipitation: 1219 to 12955 millimeters (48 to 51 inches)
+Mean annual air temperature: 10 to 21.7 degrees C (50 to 71 degree F)
+Soil moisture class: Udic
+
+
+Typical vegetation or crops: Corn, soybeans, wheat
+
+Other uses: pasture and hayland, forestland
+
+
+"|"564407"|"2411021"
+|"Miscellaneous notes"|"NONTECH - AGR"|"002"|"These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564407"|"2411110"
+04/25/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"None entered"|"564408"|"2411022"
+04/25/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"564408"|"2411023"
+04/25/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"The Loring OSD was updated to semi-tabular format during the course of another SDJR project"|"564408"|"2411024"
+04/25/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2wn72
+
+MLRA MU Name: Loring silt loam, 8 to 12 percent slopes, eroded, west"|"564408"|"2411025"
+04/25/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 134 - Loring sil, 8-12%, eroded, west
+"|"564408"|"2411026"
+04/25/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"No lab data was found during the course of this project"|"564408"|"2411027"
+04/25/2016 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for this map unit is: 1974AR077018
+
+Other pedons associated with this map unit are:
+
+1966AR037019
+1964AR123018
+"|"564408"|"2411028"
+04/25/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"1974AR077018
+1966AR037019
+1964AR123018"|"564408"|"2411029"
+04/25/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) A future project has been created to address the need to separate polygons of Loring mapunits based upon their occurance on either Crowley's Ridge or on the Pleistocene terraces west of Crowley's Ridge (Project name: Loring upland/terrace phases)
+
+2) As in most projects, the crop yields in NASIS do not reflect modern, best practice yield expectations. These should be updated to modern figures."|"564408"|"2411030"
+04/25/2016 00:00:00|"Map unit description"|"map unit concept"||"Mapunit name: Loring silt loam, 8 to 12 percent slopes, eroded, west
+
+MLRA 134 - Southern Mississippi Valley Loess
+
+Geographic Extent: Loring soils are on nearly level to strongly sloping uplands and terraces of the Southern Mississippi Valley Loess (MLRA 134). Slopes range from 0 to 20 percent. The series is of large extent.
+
+Mapunit Composition and Reliability: 100% Loring
+
+Minor Components:
+
+None 
+
+Loring Soil Description:
+
+Typically, the surface layer is brown silt loam about 13 cm thick (5 inches). The upper part of the subsoil layer is dark brown silt loam to a depth of about 66 cm (26 inches). The lower part is brown silt loam to a depth of about 132 cm (52 inches). The substratum is brown and mottled brown silt loam that extends to a depth of more than 200 cm (80 inches).
+
+Geographic Setting: These Loring soils are on strongly sloping to moderately steep uplands and terraces. Slopes range from 8 to 12 percent. The soils formed in loess which is more than 4 feet thick.  
+
+Loring soils:
+
+Soil Taxonomic Classification: Fine-silty, mixed, active, thermic Oxyaquic Fragiudalfs
+Soil moisture subclass: oxyaquic
+Soil moisture class: udic
+Parent material and geology: loess
+Landforms: Upland and terrace sideslopes
+Down-slope shape: Convex
+Across-slope shape: Linear or Convex
+Aspect, representative: Southeast
+Aspect, range: All aspects
+Dominant use: Cropland
+
+Properties and Qualities:
+
+Slope: 8 to 12 percent
+Percent of area covered by surface fragments: none
+Depth range to first water and root restrictive layer: Fragipan 66 to 132 cm (26 to 52 inches)
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate 4 to 14 micrometers/sec (0.6 to 2.0 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: very slow 0.420 to 1.4 micrometers/sec (.06 to .2 in/hr)   
+Depth to seasonal high water table, minimum: About 56 cm (22 inches), perched 
+Representative total available water capacity to 60 inches: Low (About 5.8 inches)
+Natural drainage class: Moderately Well drained
+Runoff class: very high
+Flooding frequency: None
+Ponding frequency: None
+
+Climate:
+
+Mean annual precipitation: 1219 to 1295 millimeters (48 to 51 inches)
+Mean annual air temperature: 10.0 to 21.7 degrees C (50 to 71 degree F)
+Soil moisture class: Udic
+
+
+Typical vegetation or crops: pastureland
+
+Other uses: forestland"|"564408"|"2411031"
+|"Miscellaneous notes"|"NONTECH - AGR"|"003"|"These soils are poorly suited for cultivated crops, and moderately suited for pasture and hay. Runoff is rapid and erosion is a very severe hazard if cultivated crops are grown. Conservation practices need to be intensified as slope length and gradient increase. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"564408"|"2411111"
+|"Nontechnical description"|"SOI"|"006"|"This is a deep, moderately well drained soil on uplands and terraces. This soil formed in thick deposits of silty material. Permeability is slow and available water capacity is medium. A perched water table is within 2.0 to 3.0 feet of the surface during the winter and early spring. A compact, brittle fragipan at about 20 to 32 inches restricts the penetration of roots and movement of water."|"564409"|"2411032"
+|"Nontechnical description"|"AGR"|"028"|"These soils are generally unsuited for cultivated crops and moderately suited for pasture and hayland. Runoff is rapid and erosion is a very severe hazard in areas without adequate cover. Adapted pasture plants include common and improved bermudagrass, tall fescue, and native grasses. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"564409"|"2411033"
+03/12/2020 00:00:00|"Correlation notes"|||"NSSC is requested Regional Offices to correct errors in SSURGO that cause problems with the National Commodity Crop Productivity Index (NCCPI) Interpretation.  The dominant components in this DMU was originally populated with the same component percentages.  This issue was aremedied by adjust RV percentages by +/- 1% based on the order of components listed in the MU name.  For DMU's with three components of like percentage, the first named component was adjusted up 1% and the last named component was adjusted down 1%.
+
+"|"564409"|"2411060"
+|"Miscellaneous notes"|"NONTECH - AGR"|"028"|"These soils are generally unsuited for cultivated crops and moderately suited for pasture and hayland. Runoff is rapid and erosion is a very severe hazard in areas without adequate cover. Adapted pasture plants include common and improved bermudagrass, tall fescue, and native grasses. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"564409"|"2411112"
+|"Nontechnical description"|"AGR"|"028"|"These soils are generally unsuited for cultivated crops and moderately suited for pasture and hayland. Runoff is rapid and erosion is a very severe hazard in areas without adequate cover. Adapted pasture plants include common and improved bermudagrass, tall fescue, and native grasses. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"564410"|"2411034"
+|"Nontechnical description"|"SOI"|"006"|"This is a deep, moderately well drained soil on uplands and terraces. This soil formed in thick deposits of silty material. Permeability is slow and available water capacity is medium. A perched water table is within 2.0 to 3.0 feet of the surface during the winter and early spring. A compact, brittle fragipan at about 20 to 32 inches restricts the penetration of roots and movement of water."|"564410"|"2411035"
+|"Miscellaneous notes"|"NONTECH - AGR"|"028"|"These soils are generally unsuited for cultivated crops and moderately suited for pasture and hayland. Runoff is rapid and erosion is a very severe hazard in areas without adequate cover. Adapted pasture plants include common and improved bermudagrass, tall fescue, and native grasses. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"564410"|"2411113"
+|"Nontechnical description"|"AGR"|"028"|"These soils are generally unsuited for cultivated crops and moderately suited for pasture and hayland. Runoff is rapid and erosion is a very severe hazard in areas without adequate cover. Adapted pasture plants include common and improved bermudagrass, tall fescue, and native grasses. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"564411"|"2411036"
+|"Nontechnical description"|"SOI"|"006"|"This is a deep, moderately well drained soil on uplands and terraces. This soil formed in thick deposits of silty material. Permeability is slow and available water capacity is medium. A perched water table is within 2.0 to 3.0 feet of the surface during the winter and early spring. A compact, brittle fragipan at about 20 to 32 inches restricts the penetration of roots and movement of water."|"564411"|"2411037"
+03/12/2020 00:00:00|"Correlation notes"|||"NSSC is requested Regional Offices to correct errors in SSURGO that cause problems with the National Commodity Crop Productivity Index (NCCPI) Interpretation.  The dominant components in this DMU was originally populated with the same component percentages.  This issue was aremedied by adjust RV percentages by +/- 1% based on the order of components listed in the MU name.  For DMU's with three components of like percentage, the first named component was adjusted up 1% and the last named component was adjusted down 1%.
+
+"|"564411"|"2411061"
+|"Miscellaneous notes"|"NONTECH - AGR"|"028"|"These soils are generally unsuited for cultivated crops and moderately suited for pasture and hayland. Runoff is rapid and erosion is a very severe hazard in areas without adequate cover. Adapted pasture plants include common and improved bermudagrass, tall fescue, and native grasses. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"564411"|"2411114"
+|"Nontechnical description"|"AGR"|"028"|"These soils are generally unsuited for cultivated crops and moderately suited for pasture and hayland. Runoff is rapid and erosion is a very severe hazard in areas without adequate cover. Adapted pasture plants include common and improved bermudagrass, tall fescue, and native grasses. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"564412"|"2411038"
+|"Nontechnical description"|"SOI"|"013"|"This is a very deep, well drained soil on terraces and uplands. This soil formed in thick deposits of silty material. Permeability is moderate and available water capacity is high. Erodibility potential is moderate to high."|"564412"|"2411039"
+|"Miscellaneous notes"|"NONTECH - AGR"|"028"|"These soils are generally unsuited for cultivated crops and moderately suited for pasture and hayland. Runoff is rapid and erosion is a very severe hazard in areas without adequate cover. Adapted pasture plants include common and improved bermudagrass, tall fescue, and native grasses. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"564412"|"2411115"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564413"|"2411040"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564413"|"2411116"
+|"Nontechnical description"|"AGR"|"025"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, soybeans, and winter small grains. This soil responds well to fertilization, and tilth is easy to maintain by returning crop residue to the soil. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for cropland use or pasture and hayland."|"564414"|"2411041"
+|"Nontechnical description"|"SOI"|"049"|"This is a very deep, well drained soil on higher parts of natural levees. This soil formed in stratified loamy alluvium. Permeability is moderate to moderately rapid and available water capacity is high."|"564414"|"2411042"
+|"Miscellaneous notes"|"NONTECH - AGR"|"025"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, soybeans, and winter small grains. This soil responds well to fertilization, and tilth is easy to maintain by returning crop residue to the soil. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for cropland use or pasture and hayland."|"564414"|"2411117"
+|"Nontechnical description"|"SOI"|"006"|"This is a deep, moderately well drained soil on uplands and terraces. This soil formed in thick deposits of silty material. Permeability is slow and available water capacity is medium. A perched water table is within 2.0 to 3.0 feet of the surface during the winter and early spring. A compact, brittle fragipan at about 20 to 32 inches restricts the penetration of roots and movement of water."|"564415"|"2411043"
+|"Nontechnical description"|"AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564415"|"2411044"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564415"|"2411118"
+|"Nontechnical description"|"AGR"|"002"|"These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564416"|"2411045"
+|"Nontechnical description"|"SOI"|"006"|"This is a deep, moderately well drained soil on uplands and terraces. This soil formed in thick deposits of silty material. Permeability is slow and available water capacity is medium. A perched water table is within 2.0 to 3.0 feet of the surface during the winter and early spring. A compact, brittle fragipan at about 20 to 32 inches restricts the penetration of roots and movement of water."|"564416"|"2411046"
+|"Miscellaneous notes"|"NONTECH - AGR"|"002"|"These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564416"|"2411119"
+09/30/2005 00:00:00|"Correlation notes"|||"Name change from Rough broken land to Gullied land, gravelly to meet NSSH standards for naming miscellaneous areas.  These are steep dissected areas on the eastern side of Crowleys ridge."|"564417"|"2411047"
+|"Nontechnical description"|"SOI"|"008"|"This is a very deep, poorly drained soil on floodplains. This soil formed in loamy alluvium. Permeability is slow and available water capacity is high. A perched water table is within 1.0 foot of the surface during the winter and early spring. Slope gradient is typically less than 1 percent. Flooding is frequent for brief to long periods during the winter and early spring."|"564420"|"2411048"
+|"Nontechnical description"|"AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"564420"|"2411049"
+|"Miscellaneous notes"|"NONTECH - AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"564420"|"2411120"

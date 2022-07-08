@@ -1,0 +1,111 @@
+10/21/2014 00:00:00|"Edit notes"|"pH range"||"narrative pH ranges in manuscript entered as middle of the range for given pH (e.g. - Moderately acid = 5.8, slightly acid = 6.3"|"64442330"|"2086143"
+10/20/2014 00:00:00|"Miscellaneous notes"|"additional info"||"Additional info for Horizon:
+
+few roots that have yellowish red and brown stains lning their channels
+Peds have shiny surface
+few fine black accretions
+"|"64442330"|"2086167"
+10/21/2014 00:00:00|"Edit notes"|"pH range"||"narrative pH ranges in manuscript entered as middle of the range for given pH (e.g. - Moderately acid = 5.8, slightly acid = 6.3"|"64442331"|"2086144"
+10/20/2014 00:00:00|"Edit notes"|"additional info"||"Additional info for Horizon:
+
+Bssg: 
+
+few coarse faint dark grayish brown (10YR4/2) mottles
+few slickensides
+common pressure faces
+peds have shiny faces
+few roots that have brown stains along their channels
+clear wavy boundary
+
+
+"|"64442331"|"2086145"
+10/20/2014 00:00:00|"Edit notes"|"additional info"||"Additional info for Horizon:
+(this layer is a combination of Ap and A2)
+
+Ap: 
+
+few fine roots
+abrupt smooth boundary
+medium acid (entered as ""moderately acid"")
+
+A2:
+
+common fine distinct mottles (no color described)
+common fine roots
+common fine black accretions
+strongly acid
+clear smooth boundary"|"64442332"|"2086146"
+10/21/2014 00:00:00|"Edit notes"|"pH range"||"narrative pH ranges in manuscript entered as middle of the range for given pH (e.g. - Moderately acid = 5.8, slightly acid = 6.3"|"64442332"|"2086147"
+10/21/2014 00:00:00|"Edit notes"|"pH range"||"narrative pH ranges in manuscript entered as middle of the range for given pH (e.g. - Moderately acid = 5.8, slightly acid = 6.3"|"64442333"|"2086148"
+10/20/2014 00:00:00|"Edit notes"|"additional info"||"Additional info for Horizon from manuscript:
+(this layer is a combination of Cg1 and Cg2)
+
+Cg1:
+
+Olive gray (5Y 5/2)
+few root channels
+few fine black accretions
+clear smooth boundary
+
+Cg2:
+
+Olive gray (5Y 5/2)
+common fine distinct brown mottles
+patchy clay films in vertical crevices
+common fine black accretions
+few white calcium carbonate concretions
+gradual smooth boundary
+
+
+
+"|"64442333"|"2086149"
+10/21/2014 00:00:00|"Edit notes"|"pH range"||"narrative pH ranges in manuscript entered as middle of the range for given pH (e.g. - Moderately acid = 5.8, slightly acid = 6.3"|"64442334"|"2086150"
+10/20/2014 00:00:00|"Edit notes"|"additional info"||"Additional info for Horizon:
+
+BCssg:
+
+few slickensides
+few roots that have brown stains along their channels
+clear wavy boundary
+
+
+"|"64442334"|"2086151"
+04/25/2006 00:00:00|"Edit notes"|"CEC-ECEC"|"calculation"|"The CEC and ECEC were calculated using the CEC-ECEC calculator in NASIS dated 4/18/06, which uses the soil classification (9th edition), OM, pH (water), Total clay, and CaCO3 clay.  Any prior data or manually entered data for CEC and ECEC was not overwritten.  This data is required for National Bulletin 430-5-7."|"64442345"|"2086152"
+04/25/2006 00:00:00|"Edit notes"|"Water Content"|"calculation"|"The Water Content values were calculated using the Water Content calculator in NASIS dated 6/8/04, which computes the RV values related to 0.1 bar H2O, 0.33 bar H2O, 15 bar H2O, Satiated H2O, and Db oven dry.
+
+The RVs were used as input for the process:  OM%, Rock >10, Rock 3-10, #10 sieve, Db 0.33 bar H2O, or Db 0.1 bar H2O, Total Clay, LEP %,  Texture or Tex Mod & Class.
+Several assumptions were made if values were absent.
+
+Any prior data or manually entered data was not overwritten.  This data is required for National Bulletin 430-5-7 due July 15, 2006."|"64442345"|"2086153"
+09/01/2010 00:00:00|"Edit notes"|"Designation"|"calculation"|"Calculated horizon designation that was previously not calculated."|"64442345"|"2086154"
+06/17/2014 00:00:00|"Edit notes"|"Kf-Kw"|"calculation"|"Calculated Kf and Kw as per NB 430-14-3.  No overrides were authorized.  Used Pangaea Calculator."|"64442345"|"2086155"
+04/25/2006 00:00:00|"Edit notes"|"CEC-ECEC"|"calculation"|"The CEC and ECEC were calculated using the CEC-ECEC calculator in NASIS dated 4/18/06, which uses the soil classification (9th edition), OM, pH (water), Total clay, and CaCO3 clay.  Any prior data or manually entered data for CEC and ECEC was not overwritten.  This data is required for National Bulletin 430-5-7."|"64442346"|"2086156"
+04/25/2006 00:00:00|"Edit notes"|"Water Content"|"calculation"|"The Water Content values were calculated using the Water Content calculator in NASIS dated 6/8/04, which computes the RV values related to 0.1 bar H2O, 0.33 bar H2O, 15 bar H2O, Satiated H2O, and Db oven dry.
+
+The RVs were used as input for the process:  OM%, Rock >10, Rock 3-10, #10 sieve, Db 0.33 bar H2O, or Db 0.1 bar H2O, Total Clay, LEP %,  Texture or Tex Mod & Class.
+Several assumptions were made if values were absent.
+
+Any prior data or manually entered data was not overwritten.  This data is required for National Bulletin 430-5-7 due July 15, 2006."|"64442346"|"2086157"
+09/01/2010 00:00:00|"Edit notes"|"Designation"|"calculation"|"Calculated horizon designation that was previously not calculated."|"64442346"|"2086158"
+07/08/2011 00:00:00|"Edit notes"|"Total Frag Vol RV"|"calculation"|"Calculated Total Fragment Volume RV for Surface Horizon in preparation for K factor calculation for NB 430-9-4.
+
+Adjusted fragment volumes to agree with what is in the official soil survey information and in agreement with the texture modifier.
+
+Manually entered low/high fragment values from survey data and lab data.
+"|"64442346"|"2086159"
+11/17/2011 00:00:00|"Edit notes"|"Rock Frags & Sieves"|"calculation"|"In preparation for the calculation of the K factors according to NB 430-9-4, we ran the calculator for ""Rock Frags & Percent Passing Sieves"" after adjusting fragments ""low, RV, & high"" values and with the prior population of total sand and sand separates by using the Particle Size Estimator calculation required in a prior national mandate. Or using adjusted sand separates populated by the Project Leaders.
+
+Validations were also run before the calculation to make sure that they passed for sum of totals for sand, silt, and clay and that the sand fractions sum to total sand.
+"|"64442346"|"2086160"
+06/17/2014 00:00:00|"Edit notes"|"Kf-Kw"|"calculation"|"Calculated Kf and Kw as per NB 430-14-3.  No overrides were authorized.  Used Pangaea Calculator."|"64442346"|"2086161"
+04/25/2006 00:00:00|"Edit notes"|"CEC-ECEC"|"calculation"|"The CEC and ECEC were calculated using the CEC-ECEC calculator in NASIS dated 4/18/06, which uses the soil classification (9th edition), OM, pH (water), Total clay, and CaCO3 clay.  Any prior data or manually entered data for CEC and ECEC was not overwritten.  This data is required for National Bulletin 430-5-7."|"64442347"|"2086162"
+04/25/2006 00:00:00|"Edit notes"|"Water Content"|"calculation"|"The Water Content values were calculated using the Water Content calculator in NASIS dated 6/8/04, which computes the RV values related to 0.1 bar H2O, 0.33 bar H2O, 15 bar H2O, Satiated H2O, and Db oven dry.
+
+The RVs were used as input for the process:  OM%, Rock >10, Rock 3-10, #10 sieve, Db 0.33 bar H2O, or Db 0.1 bar H2O, Total Clay, LEP %,  Texture or Tex Mod & Class.
+Several assumptions were made if values were absent.
+
+Any prior data or manually entered data was not overwritten.  This data is required for National Bulletin 430-5-7 due July 15, 2006."|"64442347"|"2086163"
+09/01/2010 00:00:00|"Edit notes"|"Designation"|"calculation"|"Calculated horizon designation that was previously not calculated."|"64442347"|"2086164"
+06/17/2014 00:00:00|"Edit notes"|"Kf-Kw"|"calculation"|"Calculated Kf and Kw as per NB 430-14-3.  No overrides were authorized.  Used Pangaea Calculator."|"64442347"|"2086165"
+11/13/2015 00:00:00|"Edit notes"|"horiz. discontinuity"||"Discontinuity removed from Cg horizon compared to component pedon (1971AR067019). Discontinuit is not mentioned in OSD and texture does not change dramatically (FSL to LFS)"|"64442358"|"2086166"
+02/04/2015 00:00:00|"Miscellaneous notes"|"particle size distri"|"B/E horizons"|"Because this horizon is a B/E The textures for the two components of the horizon are B: silt loam, silt and E: very fine sandy loam.  These widely seperated texturescannot be accuratly accounted for in particle size distribution (l,rv,h for sand silt and clay).  The data was not seperated in the original pedon description and was therefore kept together for this project."|"64442390"|"2086168"

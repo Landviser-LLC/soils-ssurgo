@@ -1,0 +1,6 @@
+"Firm"||||"Deformable"|"Moderately sticky"|"Moderately plastic"|Yes|"62721224"|"7103676"
+"Loose"||||"Deformable"|"Nonsticky"|"Nonplastic"|Yes|"62721227"|"7103679"
+"Firm"||||"Deformable"|"Moderately sticky"|"Moderately plastic"|Yes|"62721225"|"7103677"
+"Friable"||||"Deformable"|"Nonsticky"|"Nonplastic"|Yes|"62721226"|"7103678"
+"Friable"|||||||Yes|"62721230"|"7103680"
+"Friable"|||||||Yes|"62721233"|"7103681"
