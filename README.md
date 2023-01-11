@@ -1,6 +1,6 @@
-# soils-ssurgo - to work SmartRice
+# soils API (SSURGO db - USA)
 
-Planning this SSURGO repo. This is a learning repo on basics of Git, Python, Virtual Environments, Spatial Data, ArcGIS, QGIS, webmaps.
+Planning this SSURGO repo. This is a learning repo on basics of Git, Python, Virtual Environments, Spatial Data, ArcGIS, QGIS, PostgreSQL, Geoserver, webmaps.
 
 ## Beginner: clone and contribute to this repo
 
