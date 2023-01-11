@@ -1,0 +1,1352 @@
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564186"|"2592429"
+|"Nontechnical description"|"SOI"|"140"|"Bowdre is a very deep, somewhat poorly drained soil on higher elevations of slack-water areas. This soil formed in thin beds of clayey alluvium over coarser textured sediments. Permeability is slow and available water capacity is medium. Depth to coarser textures range from 14 to 20 inches. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564186"|"2592430"
+|"Nontechnical description"|"SOI"|"141"|"Desha is a very deep, somewhat poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water is high. This soil has high to very high shrink-swell potential, and shrinks and cracks when dry and the cracks seal when the soil is wet."|"564186"|"2592431"
+|"Nontechnical description"|"SOI"|"142"|"Robinsonville is a very deep, well drained soil on higher parts of natural levees. This soil formed in stratified loamy alluvium. Permeability is moderate to moderately rapid and available water capacity is high."|"564186"|"2592432"
+08/15/2019 00:00:00|"Correlation notes"|||"In accordance with CART guidance the component percent for Desha was adjusted from 25 to 30 so the component total would equal 100 percent for the DMU
+"|"564186"|"2592488"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564186"|"2592503"
+|"Nontechnical description"|"AGR"|"029"|"This soil is moderately suited to cultivated crops. Droughtiness, however, is a severe limitation during the summer months, and wind erosion is a severe hazard in the spring. Winter cover crops and crops that leave large amounts of residue are recommended. The main crops are soybeans and winter small grains. This soil is moderately suited to pasture and hayland. Droughtiness is the main restriction. Adapted pasture plants include bahiagrass and bermudagrass."|"564187"|"2592433"
+|"Nontechnical description"|"SOI"|"052"|"This is a very deep, excessively drained soil on floodplains, commonly on natural levees along streams and abandoned stream channels. This soil formed in stratified sandy and loamy sediments. Permeability is rapid and available water capacity is low."|"564187"|"2592434"
+|"Miscellaneous notes"|"NONTECH - AGR"|"029"|"This soil is moderately suited to cultivated crops. Droughtiness, however, is a severe limitation during the summer months, and wind erosion is a severe hazard in the spring. Winter cover crops and crops that leave large amounts of residue are recommended. The main crops are soybeans and winter small grains. This soil is moderately suited to pasture and hayland. Droughtiness is the main restriction. Adapted pasture plants include bahiagrass and bermudagrass."|"564187"|"2592504"
+|"Nontechnical description"|"SOI"|"045"|"This is a very deep, somewhat poorly drained soil on natural levees. This soil formed in loamy alluvium. Permeability is moderately slow and available water capacity is high. A seasonal water table is within 1.0 to 2.0 feet of the surface during the winter and early spring."|"564188"|"2592435"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564188"|"2592436"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564188"|"2592505"
+|"Nontechnical description"|"SOI"|"045"|"This is a very deep, somewhat poorly drained soil on natural levees. This soil formed in loamy alluvium. Permeability is moderately slow and available water capacity is high. A seasonal water table is within 1.0 to 2.0 feet of the surface during the winter and early spring."|"564189"|"2592437"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564189"|"2592438"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564189"|"2592506"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564190"|"2592439"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564190"|"2592507"
+09/26/2012 00:00:00|"Map unit description"|"map unit concept"||"Desha silt loam, 0 to 1 percent slopes, rarely flooded in this MLRA 131B map unit formed on broad slack water areas along the Arkansas River and its former channels.  Slopes range from 0 to 1 percent.  The Desha series consists of very deep, somewhat poorly drained, very slowly permeable soils that formed in clayey alluvium from Permian geological formations.  This map unit is mapped in Arkansas, Desha, Jefferson, and Lincoln Counties, Arkansas.  Included with this soil in mapping are a few small areas of Perry and Portland soils.  Desha soils are adjacent to Portland soils and have a mollic epipedon. Perry soils are on slightly lower position and are poorly drained.  
+The future needs for this map unit is to refine the differences with flooding phases  between adjoining counties.  Lincoln County has Desha clay, occasionally flooded joining Desha County with Desha clay. 
+"|"564191"|"2592440"
+08/03/2012 00:00:00|"Correlation notes"|||"This data mapunit was created July, 2012 to be used to update the  Desha Clay, 0 to 1 %, occasionally flooded map unit that occurs in Jefferson and Lincoln Counties, AR in MLRA 133B. 
+
+The data map unit was created by editing a copy of DMU ID: (Desha County, AR 041Dh), which had been previously edited and had many properties populated. Most data elements, including elevation, MAT,  and MAAT were reviewed and populated so this DMU could be used through-out MLRA 133B.
+
+The surface layer (Ap) from the original DMU (AR041De) was pasted into the new edited DMU for Desha map units. All appropriate calculations and validations were ran.
+
+DMU population was conducted using lab data from similar soils. Desha pedons were reviewed and the ones determined to be good representative pedons were used to update characteristics such as horizon thickness.
+sharkey was removed from the component table.
+"|"564191"|"2592489"
+09/26/2012 00:00:00|"Map unit description"|"map unit concept"||"Desha clay, 0 to 1 percent slopes in this MLRA 131B map unit formed on broad slack water areas along the Arkansas River and its former channels.  Slopes range from 0 to 1 percent.  The Desha series consists of very deep, somewhat poorly drained, very slowly permeable soils that formed in clayey alluvium from Permian geological formations.  This map unit is mapped in Arkansas, Desha, Jefferson, and Lincoln Counties, Arkansas.  Included with this soil in mapping are a few small areas of Perry and Portland soils.  Desha soils are adjacent to Portland soils and have a mollic epipedon. Perry soils are on slightly lower position and are poorly drained.  
+The future needs for this map unit is to refine the differences with flooding phases  between adjoining counties.  Lincoln County has Desha clay, occasionally flooded joining Desha County with Desha clay. 
+"|"564192"|"2592441"
+08/03/2012 00:00:00|"Correlation notes"|||"This data mapunit was created July, 2012 to be used to replace two Desha Clay, 0 to 1 % map units that occur over two counties in MLRA 133B. 
+
+The data map unit was created by editing a copy of DMU ID: (Desha County, AR 041Dh), which had been previously edited and had many properties populated. Most data elements, including elevation, MAT,  and MAAT were reviewed and populated so this DMU could be used through-out MLRA 133B.
+
+DMU population was conducted using preexisting lab data. Desha pedons were reviewed and the ones determined to be good representative pedons were used to update characteristics such as horizon thickness.
+
+components: Sharkey was removed from the component table
+"|"564192"|"2592490"
+03/22/2015 00:00:00|"Nontechnical description"|"PHG"||"Hebert silt loam, 0 to 1 % slopes is moderately suited for pastureland."|"564193"|"2592442"
+04/08/2015 00:00:00|"Miscellaneous notes"|"evaluation"||" PROJECT EVALUATION
+PROJECT NAME: SDJR - MLRA 131B  Hebert silt loam, 0 to 1 percent slopes
+
+Natmusym 	Ssarea: Musym 	Muname 	Dmudesc 	Muacres 
+2s1yy	9-PNB: HbA	Hebert silt loam,	MLRA 131B - Hebert silt loam, 0 to 1 percent slopes	316,490
+mfs9	AR001: 8A	Hebert silt loam, 	001008A	12,741
+lyzw	AR003: 15	Hebert silt loam, 	003015	34,514
+ly2s	AR041: He	Hebert silt loam	041He	39,489
+lzdn	AR043: Ha	Hebert silt loam	043Ha	10,877
+lyrm	AR660: 19	Hebert silt loam	660019	36,021
+ly60	AR680: 11	Hebert silt loam, 	680011	65,252
+1vxp3	LA021: He	Hebert silt loam	021He	14,789
+1vt93	LA025: Hb	Hebert silt loam	025Hb	10,659
+m3xq	LA067: Hr	Hebert silt loam	067Hr	57,648
+1vx9c	LA073: Hb	Hebert silt loam	073Hb	21,731
+1vkcn	LA083: Hb	Hebert silt loam	083Hb	12,769
+
+
+
+Summary of published manuscript Map Unit Descriptions 
+Hebert silt loam, 0 to 1 percent slopes is currently mapped in eleven soil surveys thru out the 9-PNB MLRA region. The Map Unit Descriptions in each of these surveys were all fairly consistent with one another concerning this map unit. Cropland use was the majority land use for this map unit and this map unit was found along natural levee systems thru out this MLRA. There were some degree of variations among the minor components of this map unit. Rilla, Gallion, Perry, and Portland soils were the most common minor components found in the each map unit description. The Land capability class was either a 2w or 2w5 thru out all of the surveys.
+
+Composition: Hebert soils are 88 percent of the map unit based on map unit descriptions in the manuscripts and NASIS data population.
+Minor Components:
+ Gallion, Perry, Portland, Rilla are the minor components listed in the manuscripts and NASIS. Percentages for individual minor components were not listed in the manuscript..  All of this data will be used to assign estimated percentages to the mlra map unit components.
+Landscape, Landform and Positions for Components:
+
+Major Components:
+Hebert: Landscape: Alluvial Plains
+        Landform:  Natural Levees
+
+Minor Components:
+Gallion:  Landscape: Alluvial Plains
+	      Landform:  Natural Levees
+
+Rilla:  Landscape: Alluvial Plains
+        Landform:  Natural Levees
+          
+Perry: Landscape: Alluvial Plains
+       Landform:  Backswamps
+           
+Portland:  Landscape: Alluvial Plains
+           Landform:   Flood Plains
+
+Major Land Uses:
+About 95 percent Cultivated Cropland, 3 percent pasture and 2 percent forestland.
+Additional items
+	Hebert is found along rivers and flood plain type areas
+	Series Established in Louisiana
+	Hebert silt loam, 0 to 1% covers majority of the counties within the Arkansas River Alluvium MLRA
+
+
+
+List of data inconsistencies between units being harmonized and decisions:
+No Major data inconsistencies has been noted with harmonizing of this SDJR Project
+
+
+Lab Data:
+(List pedon IDs, if there is no lab data or lab data is inadequate, identify the need for a future mlra update project)
+KSSL   084LA021020
+University University of Arkansas Pedon#s62C01, 62C027, 59DS07, 66DS15
+Local  N/A.
+
+Pedon Data in NASIS:
+There are 14pedons to support the map unit concept. LA073 Hebert Type (HbA) was the Representative Pedon selected for the development of the Hebert silt loam, 0 to 1% DMU.. 
+Other Attribute Issues:
+	The parent material consists of silty alluvium material from the Arkansas River
+	 Depth to a root restrictive layer is greater than 60 inches. 
+	The natural drainage class is somewhat poorly drained.  
+	Percent of area covered by surface fragments: None specified
+	Depth to first water and root restrictive layer: No restrictive layer
+	Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate (0.6 to 2.0 in/hr)
+	Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+	Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Moderate. (3.2 LEP)
+	Salinity class and maximum representative value within 40 inches: Non saline (0.0 mmhos/cm)
+	Salinity class and maximum high value within 40 inches: Non saline (0.0 mmhos/cm)
+	Sodicity class and sodium adsorption ratio(SAR) maximum representative value within 40 inches: Non sodic (0 SAR)
+	Sodicity class and sodium adsorption ratio(SAR) maximum high value within 40 inches: Non sodic (0 SAR)
+	Calcium Carbonate Equivalent, maximum representative value within 40 inches: 0 percent
+	Gypsum, maximum representative value in the soil profile: 0 percent
+	Representative total available water capacity to 60 inches: High (About 9.9 inches)
+	Runoff class: Negligible
+	Flooding frequency: None.
+
+
+
+
+
+
+Future Project Needs: 
+	Future Field Project: Hebert silt loam, 0 to 1 % slope Project: Retrieving 232 description/transects of Hebert map unit. Purpose: Gather 232 descriptions and Transects of Hebert silt loam, 0 to 1% slopes are needed in the Pine Bluff MLRA to have documentation on the map unit.
+	Future Field Project: Hebert silt loam, 0 to 1 % slopes Project: Ammoozemeter study of Hebert silt loam Purpose: Conduct a permeability study of the Hebert silt loam map unit to have hard data of Hebert in the Pine Bluff MLRA.
+	Future Field Project: Hebert silt loam, 0 to 1% slopes Project: Lab Characterization Sample of Hebert for KSSLPurpose: Obtain a sample of Hebert silt loam, 0 to 1% slopes to have characterization data on the series.
+	Future Field Project:  Flooding Analysis to determine if a flooding phase needs to be added to Hebert silt loam, 0 to 1 percent slopes. Reasoning being is due to the fact that this map unit is found on natural levees.
+	Future Field Project: Develop 3d-Scan of Hebert Soil Purpose: Gather additional detail information concerning the Hebert Soil Series.
+	Future Field Project:  The Hebert sampled in Caldwell Parish, LA is superactive, additional lab data from different sites in needed to determine is Hebert is active or superactive.
+
+
+
+
+
+
+
+
+
+
+Evaluation of map unit interpretations (subcategory interpretation)
+
+Interpretation Join Issues:
+No major interpretation issues were found doing the harmonization of this project.
+
+
+
+Evaluation of the map unit delineations (subcategory spatial)
+
+Join Issues:
+Hebert silt loam, 0 to 1% delineations will need to be evaluated in more detail where the map unit crosses into Chicot County, Arkansas from Drew and Desha County. In addition the Hebert silt loam, 0 to 1% map unit from Arkansas County, Arkansas will need to be evaluated where it crosses into Jefferson County, Arkansas, and in Lonoke/Prairie, County where the map unit comes into Pulaski County, Arkansas.
+
+
+Spatial Data Quality: 
+Slope Analysis: 
+No slope analysis was conducted.
+
+"|"564193"|"2592443"
+03/22/2015 00:00:00|"Map unit description"|"map unit concept"||"Edited, 04/14/2015          
+
+Mapunit concept notes and issues:  USE THIS REPORT ONLY AS AN ANALYSIS TOOL to compare mapunit descriptions in Published Soil Surveys to the mapunit descriptions generated from NASIS.  REPLACE ALL OF THE TEXT in 'Mapunit concept notes and issues:' WITH YOUR OWN CONCISE FREE FORM TEXT BASED ON THIS ANALYSIS.  After analysis, the 'Map unit concept notes and issues' is placed in mapunit text in NASIS, and completes the development of the MLRA map unit and documents the mapunit concept as required by the NSSH. This free-form text explains issues discovered when moving the historical county map unit phase concepts into the new MLRA map unit concept documented in NASIS.  It should be concise with correct spelling and proper grammar.  This section explains any significant issues and or unresolved issues discovered while creating the mlra map unit for a project and describes the methods used to create the mapunit concept documented in mapunit composition in the mlra mapunit for the completed project.  Provide additional details from your analysis, experience, and tacit knowledge about the map unit concept, that this NASIS report cannot provide.  You should describe the basis for populating the map unit composition(such as former NASIS population, manuscript MUDS, and or transects, to determine future project documentation needs.  Provide a list of all pertinent issues related to the mapunit concept, that need to be addressed in a future project. Identify any flaws in the mapunit concept related to the accuracy of delineations(spatial issues) and identify spatial areas that should be field verified.  Provide any notes on landform position or geology, that are not already in the geomorphic information for major and minor components.  Map unit concept notes created are to be entered in the map unit text table using: Kind = map unit description, Category = map unit concept, Subcategory= (Leave it Null).
+
+Map Unit Description for Mapunit Concept Analysis:
+The description and data in this report below are historical information that documents the mapunit concept description the last time it was updated.  The information in this report below should not be used for any official use of soil information except as an archived description of the concept of the soil map unit.
+
+Map unit name: Hebert silt loam, 0 to 1 percent slopes
+
+Map Unit Setting
+
+Major land resource area: MLRA 131B
+Landscape: Alluvial plains
+Elevation: 49.2 to 89 feet (15.0 to 27.0 meters)
+Mean annual precipitation: 41 to 62 inches (1049 to 1576 millimeters)
+Mean annual air temperature: 55 to 75 degrees F (13 to 24 degrees C)
+Frost-free period: 230 to 283 days
+Interpretive focus: Not specified
+Order of mapping: 2
+
+Composition estimates
+
+Major components:
+Hebert and similar soils: 88 percent
+Minor components: 12 percent
+
+Estimates are based on observations, descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Hebert soils
+
+Hebert soils
+Percent of map unit: 88 percent
+Parent material and geology: Holocene silty alluvium
+Landforms: Natural levees
+
+Typical Profile
+
+Ap--0 to 6 inches; dark grayish brown silt loam
+E--6 to 11 inches; grayish brown silt loam
+Bt--11 to 23 inches; light brownish gray silty clay loam, with strong brown masses of oxidized iron
+Bt--23 to 36 inches; reddish brown silt loam, with yellowish red masses of oxidized iron
+Bt--36 to 50 inches; dark yellowish brown silt loam, with grayish brown iron depletions
+Bc--50 to 64 inches; brown silt loam, with strong brown iron depletions
+C--64 to 80 inches; brown very fine sandy loam, with strong brown masses of oxidized iron
+
+Properties and Qualities
+
+Slope: 0 to 1 percent
+Percent of area covered by surface fragments: None specified
+Depth range to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderately slow (0.2 to 0.6 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Representative total available water capacity to 60 inches: High (About 10.8 inches)
+Natural drainage class: Somewhat poorly drained
+Runoff class: Low
+Flooding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Low. (2.8 LEP)
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 2w
+Land capability subclass, irrigated: None specified
+Ecological site name: None specified
+Ecological site number: None specified
+Typical vegetation: None specified
+
+Minor Component Descriptions
+
+Gallion soils
+Percent of map unit: 3 percent
+Parent material and geology: Holocene silty alluvium
+Landforms: Natural levees
+Geomorphic positions, three-dimensional:  Rise
+Down-slope shape: Linear, convex
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Perry soils
+Percent of map unit: 3 percent
+Parent material and geology: Holocene clayey alluvium
+Landforms: Backswamps
+Geomorphic positions, three-dimensional:  Dip
+Down-slope shape: Linear
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Portland soils
+Percent of map unit: 3 percent
+Parent material and geology: Holocene clayey alluvium
+Landforms: Flood plains
+Geomorphic positions, three-dimensional:  Talf
+Down-slope shape: Linear
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Rilla soils
+Percent of map unit: 3 percent
+Parent material and geology: Holocene loamy alluvium
+Landforms: Natural levees
+Geomorphic positions, three-dimensional:  Rise
+Down-slope shape: Linear
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Use and Managment: Cropland
+
+"|"564193"|"2592444"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564193"|"2592508"
+07/31/2014 00:00:00|"Miscellaneous notes"|"SDJR"|"Supporting Doc"|"Name of SDJR Project: SDJR MLRA 131B McGehee silt loam, 0 to 1 percent slopes
+SSO responsible: 9-PNB
+Name and National MUSYM of new MLRA MU, DMU ID of new MLRA MU
+McGehee silt loam, 0 to 1 percent slopes
+Natl MUSYM: 2tzrn
+DMU ID: 367771
+Comp Rec ID: 2301365
+
+List of Counties evaluated for SDJR Project:
+MapUnit Name				Natl MUSYM	Area SYM	MU	Acres	      NASIS Group 
+McGehee silt loam, 0 to 1 % slopes	lz6m		AR001		9C	20926	      9-PNB
+McGehee silt loam			ly2v		AR041		Mc	13415	      9-PNB
+McGehee silt loam			lz6m		AR017		McA	5636	      9-PNB
+
+Pedons Entered In NASIS
+2014AR660003 NASIS
+1967AR017001 NASIS
+2014AR041003 NASIS
+
+Lab Data Available:
+No Lab Data Available for McGehee is available
+
+
+List of Future Field Projects:
+	The T.P.of McGehee is located in Chicot, Arkansas located in the Pine Bluff MLRA. To ensure that the original T.P. hasnt been disturb a field check of the T.P. is recommended to ensure that the location hasnt been disturb and possible need to be moved.
+	The McGehee soil is established with in the Pine Bluff MLRA and developing a monolith will provide a display and provide educational opportunities to the public concerning the soils of Arkansas.
+	Conducting a KSAT Study of McGehee will provide hard data for the McGehee soil series and the Pine Bluff MLRA. For future mapunit and correlation activities.
+	Obtain 232 Pedon Description and Transect Data of McGehee sl, 0 to 1% for additional office data.
+	Ground Truth the 0-1% McGehee silt loam map unit to aid in developing soil catena model.
+	Sample McGehee to have lab analysis ran on the series.
+"|"564195"|"2592445"
+08/19/2014 00:00:00|"Edit notes"|"SDJR"|"NASIS Report -Class"|"U.S. DEPARTMENT OF AGRICULTURE                                                                     PAGE -   1 OF   1
+NATURAL RESOURCES CONSERVATION SERVICE                                                             08/08/2014
+
+                                           Classification of soils in MLRA Arkansas River Alluvium       
+
+________________________________________________________________________________________________________________________________
+|Survey |musym  |mukey   |compname        |kind      |pct |cokey   |sir    |Classification                                      
+|_______|_______|________|________________|__________|____|________|_______|____________________________________________________
+|       |       |        |                |          |    |        |       |                                                    
+| AR017 |McA    |  565273|Aqualfs         |Taxon     |   5|  823700|       |                                                    
+|       |       |        |                |above     |    |        |       |                                                    
+|       |       |        |                |family    |    |        |       |                                                    
+| AR041 |Mc     |  564195|Aqualfs         |Taxon     |  10|  821360|       |                                                    
+|       |       |        |                |above     |    |        |       |                                                    
+|       |       |        |                |family    |    |        |       |                                                    
+| AR660 |22     |  564843|Aquents         |Taxon     |   5|  822845|       |                                                    
+|       |       |        |                |above     |    |        |       |                                                    
+|       |       |        |                |family    |    |        |       |                                                    
+| AR017 |McA    |  565273|McGehee         |Series    |  85|  823697|AR0063 |Fine-silty, mixed, active, thermic Aeric Ochraqualfs
+| AR041 |Mc     |  564195|McGehee         |Series    |  90|  821359|AR0063 |Fine-silty, mixed, active, thermic Aeric Ochraqualfs
+| AR660 |22     |  564843|McGehee         |Series    |  90|  822844|AR0063 |Fine-silty, mixed, active, thermic Aeric Ochraqualfs
+"|"564195"|"2592446"
+08/19/2014 00:00:00|"Edit notes"|"SDJR"|"NASIS Report- Chem"|"U.S. DEPARTMENT OF AGRICULTURE                                                                PAGE -   1 OF   1
+NATURAL RESOURCES CONSERVATION SERVICE                                                               08/12/2014
+                                       CHEMICAL PROPERTIES OF THE SOILS
+                                            Arkansas River Alluvium                                            
+
+______________________________________________________________________________________________________________
+|                 |       |      |         |         |         |         |        |               |           |
+|    Map symbol   | Depth | Clay | Cation- |Effective|   Soil  | Calcium | Gypsum |    Salinity   |   Sodium  |
+|  and soil name  |       |      | exchange| cation- | reaction|carbonate|        |               | adsorption|
+|                 |       |      | capacity| exchange|         |         |        |               |   ratio   |
+|                 |       |      |         | capacity|         |         |        |               |           |
+|_________________|_______|______|_________|_________|_________|_________|________|_______________|___________|
+|                 |  In   | Pct  |meq/100g |meq/100g |   pH    |   Pct   |  Pct   |   mmhos/cm    |           |
+|                 |       |      |         |         |         |         |        |               |           |
+AR041: Mc: McGehee silt loam                                                              
+| McGehee 90------|  0-7  | 7-27 | 5.0-15  |   ---   | 5.1-6.0 |    0    |   0    |       0       |     0     |
+| ----------------|  7-16 |20-35 |  10-30  |   ---   | 5.1-6.0 |    0    |   0    |       0       |     0     |
+| ----------------| 16-41 |40-60 |  15-35  |   ---   | 5.1-7.8 |    0    |   0    |       0       |     0     |
+| ----------------| 41-72 |40-60 |  15-35  |   ---   | 5.1-8.4 |    0    |   0    |       0       |     0     |
+|                 |       |      |         |         |         |         |        |               |           |
+AR660: 22: McGehee silt loam                                                              
+| McGehee 90------|  0-7  | 7-27 | 5.0-15  |   ---   | 5.1-6.0 |    0    |   0    |       0       |     0     |
+| ----------------|  7-14 |20-35 |  10-30  |   ---   | 5.1-6.0 |    0    |   0    |       0       |     0     |
+| ----------------| 14-30 |30-45 |  15-35  |   ---   | 5.1-7.8 |    0    |   0    |       0       |     0     |
+| ----------------| 30-60 |40-60 |  15-35  |   ---   | 5.1-8.4 |    0    |   0    |       0       |     0     |
+|                 |       |      |         |         |         |         |        |               |           |
+AR017: McA: McGehee silt loam, 0 to 1 percent slopes                                      
+| McGehee 85------|  0-17 | 7-27 | 5.0-15  |   ---   | 5.1-6.0 |    0    |   0    |       0       |     0     |
+| ----------------| 17-24 |20-35 |  10-30  |   ---   | 5.1-6.0 |    0    |   0    |       0       |     0     |
+| ----------------| 24-52 |40-60 |  15-35  |   ---   | 5.1-7.8 |    0    |   0    |       0       |     0     |
+| ----------------| 52-60 |40-60 |  15-35  |   ---   | 5.1-8.4 |    0    |   0    |       0       |     0     |
+"|"564195"|"2592447"
+08/19/2014 00:00:00|"Edit notes"|"SDJR"|"NASIS Report-Engin"|"Table 15:  Engineering Index Properties
+                                                            Desha County, Arkansas        
+
+(Absence of an entry indicates that the data were not estimated.)
+_______________________________________________________________________________________________________________________________________
+                 |       |       |               |       Classification      |  Fragments  |     Percentage passing    |      |      
+    Map symbol   |Horizon| Depth | USDA texture  |___________________________|_____________|       sieve number--      |Liquid| Plas-
+  and soil name  |       |       |               |             |             | >10  | 3-10 |___________________________| limit|ticity
+                 |       |       |               |   Unified   |    AASHTO   |inches|inches|   4  |  10  |  40  |  200 |      |index 
+_________________|_______|_______|_______________|_____________|_____________|______|______|______|______|______|______|______|______
+                 |       |  In   |               |             |             | Pct  | Pct  |      |      |      |      | Pct  |      
+                 |       |       |               |             |             |      |      |      |      |      |      |      |      
+                 |       |       |               |             |             |      |      |      |      |      |      |      |      
+AR041: Mc: McGehee silt loam                                                                                                          
+ Mcgehee---------|A      |  0-7  |Silt loam      |ML, CL-ML, CL|A-6, A-4     |   0  |   0  | 100  | 100  |70-95 |50-90 |20-35 | 2-15 
+ ----------------|BA     |  7-16 |Silty clay loam|CL           |A-7, A-6     |   0  |   0  | 100  | 100  |95-100|70-90 |30-43 |11-20 
+ ----------------|2BC    | 16-41 |Silty clay     |CH           |A-7          |   0  |   0  | 100  | 100  |95-100|75-95 |50-65 |25-40 
+ ----------------|2C     | 41-72 |Clay           |CH           |A-7          |   0  |   0  | 100  | 100  |95-100|75-95 |50-65 |25-40 
+                 |       |       |               |             |             |      |      |      |      |      |      |      |      
+AR660: 22: McGehee silt loam                                                                                                          
+ Mcgehee---------|Ap     |  0-7  |Silt loam      |ML, CL-ML, CL|A-6, A-4     |   0  |   0  | 100  | 100  |70-95 |50-90 |20-35 | 2-15 
+ ----------------|Bg     |  7-14 |Silt loam      |CL           |A-7, A-6     |   0  |   0  | 100  | 100  |95-100|70-90 |30-43 |11-20 
+ ----------------|Bt     | 14-30 |Silty clay loam|CL, CH       |A-6, A-7     |   0  |   0  | 100  | 100  |95-100|75-95 |35-65 |25-40 
+ ----------------|2BC    | 30-60 |Silty clay     |CH           |A-7          |   0  |   0  | 100  | 100  |95-100|75-95 |50-65 |25-40 
+                 |       |       |               |             |             |      |      |      |      |      |      |      |      
+AR017: McA: McGehee silt loam, 0 to 1 percent slopes                                                                                  
+ Mcgehee---------|Ap     |  0-17 |Silt loam      |ML, CL-ML, CL|A-6, A-4     |   0  |   0  | 100  | 100  |70-95 |50-90 |20-35 | 2-15 
+ ----------------|Bt     | 17-24 |Silty clay loam|CL           |A-7, A-6     |   0  |   0  | 100  | 100  |95-100|70-90 |30-43 |11-20 
+ ----------------|2BC    | 24-52 |Silty clay     |CH           |A-7-6, A-7   |   0  |   0  | 100  | 100  |95-100|75-95 |50-65 |25-40 
+ ----------------|2C     | 52-60 |Silty clay     |CH           |A-7-5, A-7   |   0  |   0  | 100  | 100  |95-100|75-95 |50-65 |20-40 
+"|"564195"|"2592448"
+08/28/2014 00:00:00|"Miscellaneous notes"|"SDJR"|"Map Unit Concept"|"Mapunit Concept Note
+
+National Mapunit Symbol-- Mapunit Name
+2tzrnMcGehee silt loam, 0 to 1 percent slopes
+
+MLRA:  131B Arkansas River Alluvium
+
+Geographic Extent:
+The McGehee silt loam; map units in MLRA(s) 131B are in this Soil Data Join Recorrelation (SDJR) project. These map units are correlated in Desha, Jefferson, Lincoln Counties in Arkansas.The total map unit acres in this project are 44,054, and the SDJR reportable acres are 8,811.
+
+Geographic Setting: 
+Soil Moisture Class: Aquic
+Mean annual precipitation: 1121 to 1614mm
+Mean annual air temperature: 11. 1 to 23.5 degrees C 
+Frost-free period: 230 to 290 days
+Elevation: 30 to 73 meters 
+
+Geomorphic Setting: 
+Major Component(s):
+The McGehee Silt loam  soils occur in thick silty and clayey alluvium, near the Arkansas River.. 
+
+Minor Components:  
+ Perry soils is on similar landscape with a clayey texture
+ Herbert soils and Unnamed Hydric Component are on similar landscapes McGehee series.
+
+Parent Material and Geology:
+Arkansas and Red River Alluvium in the Holocene Geological formation
+
+Typical Vegetation or Crops:
+This soil has high potential for row crops and small
+grains. The main crops are cotton, soybeans, and rice.
+Other suitable crops are corn and grain sorghum.
+Adapted pasture plants are bermudagrass and tall fescue.
+The soil responds well to fertilization. Farming operations
+are delayed a few days after a rain because of excess
+water, and surface drains are needed.
+This soil has high potential for hardwood trees such as
+eastern cottonwood, cherrybark oak, water oak, willow
+oak, and sweetgum.
+
+
+Mapunit Composition and Reliability:
+McGehee soils and similar soils: 85 percent
+Herbert and similar soils: 5 percent 
+Perry and similar soils: 5 percent
+Unnamed Hydric Component: 5 percent
+
+The mapunit composition was estimated from the mapunit description in the published manuscripts and needs to be verified with transects in a future MLRA project.  
+
+Classification:
+McGehee: Fine Silty, mixed, active, thermic Aeric Epiaqualfs
+
+
+No KSSL data available
+University of Arkansas Lab Sample: 2342-2347
+
+Pertinent soil properties and qualities, and interpretations:
+
+Typically, the surface layer is dark brown silt loam
+about 7 inches thick. The upper part of the subsoil extends
+to a depth of about 14 inches. It is grayish brown, mottled silt loam. The middle part is reddish brown, mottled
+silty clay loam that extends to a depth of about 30
+inches. The lower part, extending to a depth of 60 inches
+or more, is dark reddish brown silty clay.
+
+Slope: 0 to 1 percent
+Percent of area covered by surface fragments: None specified
+Depth to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Slow (0.06 to 0.2 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: High. (6.2 LEP)
+Representative total available water capacity to 60 inches: High (About 10.7 inches)
+Natural drainage class: Somewhat poorly drained
+Runoff class: Low
+Flooding frequency: None
+
+Other Expert Knowledge Gained Through SDJR:
+	McGehee series established in Chicot County, Arkansas
+	Flood Plain Soil
+	
+Spatial Data Quality:  No spatial data errors identified
+"|"564195"|"2592449"
+07/30/2014 00:00:00|"Map unit description"|"historical data"|"Jefferson/Lincoln Co"|"Jefferson/Lincoln
+22-McGehee silt loam. This somewhat poorly drained,
+level soil is on low terraces and natural levees. Slope is
+less than 1 percent. Individual areas are 20 to 400 acres.
+Typically, the surface layer is dark brown silt loam
+about 7 inches thick. The upper part of the subsoil extends
+to a depth of about 14 inches. It is grayish brown, mottled silt loam. The middle part is reddish brown, mottled
+silty clay loam that extends to a depth of about 30
+inches. The lower part, extending to a depth of 60 inches
+or more, is dark reddish brown silty clay.
+Included with this soil in mapping are small areas of
+Rilla, Hebert, Portland, and Perry soils. These included
+soils make up less than 10 percent of the unit.
+This soil is high in natural fertility. Reaction is strongly
+acid or medium acid in the surface layer and in the upper
+part of the subsoil and slightly acid to moderately alkaline
+in the lower part of the subsoil and in the underlying
+material. Permeability is slow, and available water capacity
+is high. Tilth is easy to maintain.
+This soil has high potential for row crops and small
+grains. The main crops are cotton, soybeans, and rice.
+Other suitable crops are corn and grain sorghum.
+Adapted pasture plants are bermudagrass and tall fescue.
+The soil responds well to fertilization. Farming operations
+are delayed a few days after a rain because of excess
+water, and surface drains are needed.
+This soil has high potential for hardwood trees such as
+eastern cottonwood, cherrybark oak, water oak, willow
+oak, and sweetgum. Wetness is a moderate limitation to
+equipment use in managing and harvesting the tree crop,
+but is usually overcome by logging during the dry
+seasons.
+This soil has low potential for most urban uses. Wetness
+and shrink-swell potential are severe limitations for
+dwellings, streets, and industrial sites. Slow permeability
+and wetness are severe limitations for septic tank absorption
+fields. These limitations are difficult or impractical to
+overcome. Capability unit Ilw-3; woodland suitability
+group 2w5
+
+"|"564195"|"2592450"
+07/30/2014 00:00:00|"Map unit description"|"historical data"|"Desha Co"|"Desha County:
+
+McGehee silt loam (Mc)    In this soil the surface ]aver consists of brown to dark gra3'ish-brovrn silt loan{ 7 inches tbick. The u pper pa rt of the subsoil is grayish brown to reddish-brmvn siltv clay loam mottled w ith brown, reel,  nnd  gray.  Belo,,:is  dask  grayish-hrmYn  to d ark reddish -brovrn day or silty cla.v mottled 11ith brmrn, red, and gray.
+Inclnded  in mapping 1vere a fe11spots of  Hebert, Port l and, and Hilla soils.
+Rnnoff is slow. and excess water is a moderate hazard. Perrneabili_ty is lmv, and the available water capacit:r is high. Xat ural fertility is high. Reaction is medium acid or strongl y acid in the snrface layer and uppermost part of the subsoil. It is sl ightly acid to moderately alkaline in the lower pa rt.
+If drained. this soil is well  suited to crops. In un..
+drained areas, farming operntions are commonl.'' delayed in spring. Tilth is easy to maintain. (Capabilit y unit II1v-l ; 1rnoclland group 2w3)
+
+
+"|"564195"|"2592451"
+07/30/2014 00:00:00|"Map unit description"|"historical data"|"Chicot Co"|"Chicot co. MUD
+McGehee silt loam, 0 to 1 percent slopes (McA).-This soil has a dark-brown silt loam surface layer that is about6 inches thick. Immediately below the surface layer ispale-brown silt loam that grades to brownish-grey siltloam. The subsoil is reddish-brown silty clay loam thatgrades to gray clay. Included in the mapped areas of this soil are small spotsof somewhat poorly drained Hebert and Portland soils.This soil is slightly wet,. The available moisture capac-ity is very high, and permeability is slow. The organic-matter content is medium, and fertility is medium. Thissoil can be cultivated throughout a wide range of moisturecontent without clodding or crusting. A plowpan forms,however, if the soil is plowed to the same depth for a longperiod. Most of the acreage is in soybeans, cotton, orpasture. Yields are good if proper management isapplied. (Capability unit IIw-3
+"|"564195"|"2592452"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564195"|"2592509"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564196"|"2592453"
+|"Nontechnical description"|"SOI"|"047"|"This is a very deep, somewhat poorly drained soil on higher elevations of slack-water areas. This soil formed in thin beds of clayey alluvium over coarser textured sediments. Permeability is slow and available water capacity is medium. Depth to coarser textures range from 14 to 20 inches. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564196"|"2592454"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564196"|"2592510"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564197"|"2592455"
+|"Nontechnical description"|"SOI"|"047"|"This is a very deep, somewhat poorly drained soil on higher elevations of slack-water areas. This soil formed in thin beds of clayey alluvium over coarser textured sediments. Permeability is slow and available water capacity is medium. Depth to coarser textures range from 14 to 20 inches. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet."|"564197"|"2592456"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564197"|"2592511"
+09/26/2012 00:00:00|"Map unit description"|"map unit concept"||"The very deep, poorly drained, very slowly permeable Perry silt loam, 0 to 1 percent slopes, developed in the extensive clayey back swamp areas of the Arkansas River floodplain.  The landscape in most areas consist of long smooth slopes, dominantly 0 to 1 percent,  but ranges from 0 to 3 percent gently undulating, on ridges and  swales.  Soils in this MLRA 131B map unit is mapped in Arkansas, Chicot, Desha, Drew, Faulkner, Jefferson, Lincoln, Lonoke, Perry, and Pulaski Counties in Arkansas and Caldwell, Catahoula, Morehouse, Ouachita, Richland, Union, and West Carroll Parish, in Louisiana.  Included with this soil in mapping are a few small areas of Desha, Gallion, Hebert, Portland, Rilla, and Yorktown soils.   Desha soils are on broad flats and somewhat poorly drained.  Gallion and Rilla soils are on natural levees, are well drained, and nonvertic.  Portland soils are on adjacent broad flats and better drained than Perry soils.  Yorktown soils are on low ponded back swamps and very poorly drained.    
+The future needs for this map unit include investigating  differences  between  flooding phases:   Jefferson County has Perry clay, occasionally flooded joining Arkansas county Perry clay, 0 to 1 percent slopes, frequently flooded;   Morehouse, Richland, and Caldwell Parishes  has  Perry clay, 0 to 1 percent slopes joining Ouachita Parish with Perry clay, occasionally flooded.  Also, surface texture phases will need to be refine Perry clay joins Perry silty clay, or Perry silt loam. 
+"|"564198"|"2592457"
+08/06/2012 00:00:00|"Correlation notes"|||"This data map unit was developed as part of SDJR to harmonize  the Perry silt loam map unit from desha county, AR and the ""Perry silt loam"" overwash map unit from Chicot county, AR.
+
+The newly update DMU for Perry clay, 0-1% was utilzed as the basis. The suface layer from Chicot county was pasted in, edited, and updated to meet current standards. "|"564198"|"2592491"
+09/26/2012 00:00:00|"Correlation notes"|"amendment"|"name change"|"This map unit name was changed from Perry silt loam, to Perry silt loam, 0 to 1 percent slopes."|"564198"|"2592513"
+09/26/2012 00:00:00|"Map unit description"|"map unit concept"||"The very deep, poorly drained, very slowly permeable Perry clay, 0 to 1 percent slopes developed in the extensive clayey back swamp areas of the Arkansas River floodplain.  The landscape in most areas consist of long smooth slopes, dominantly 0 to 1 percent.  Soils in this MLRA 131B map unit is mapped in Arkansas, Chicot, Desha, Drew, Faulkner, Jefferson, Lincoln, Lonoke, Perry, and Pulaski Counties in Arkansas and Caldwell, Catahoula, Morehouse, Ouachita, Richland, Union, and West Carroll Parish, in Louisiana.  Included with this soil in mapping are a few small areas of Desha, Gallion, Hebert, Portland, Rilla, and Yorktown soils.   Desha soils are on broad flats and somewhat poorly drained.  Gallion and Rilla soils are on natural levees, are well drained, and nonvertic.  Portland soils are on adjacent broad flats and better drained than Perry soils.  Yorktown soils are on low ponded back swamps and very poorly drained.    
+
+The future needs for this map unit include investigating  differences  between  flooding phases:   Jefferson County has Perry clay, occasionally flooded joining Arkansas county Perry clay, 0 to 1 percent slopes, frequently flooded;   Morehouse, Richland, and Caldwell Parishes  has  Perry clay, 0 to 1 percent slopes joining Ouachita Parish with Perry clay, occasionally flooded.  Also, surface texture phases will need to be refine Perry clay joins Perry silty clay, or Perry silt loam. 
+"|"564199"|"2592458"
+08/04/2012 00:00:00|"Correlation notes"|||"SDJR  MLRA 133B  Perry Clay, 0 to 1 percent slopes
+
+The Perry clay map units in MLRA 133B are part of the MLRA map unit consolidation project (SDJR).  The map unit concepts will be identified from the soil survey manuscripts and the map units consolidated so that data population is consistent wherever they are mapped.  Publication map unit symbols and names for this project will stay the same.  The consolidation project will reduce the number of map units and data mapunits to as few national map unit symbols as possible.  The new data mapunits will be modified using available data from existing data mapunits, NASIS pedons, and university lab data.  The map units will meet national standards.  The official series descriptions will be reviewed and updated during this process..  Currently, this map unit is mapped in 11 counties and parishes in Arkansas and Louisiana with 11  data mapunits. These 11 data mapunits will be consolidated to 1 data mapunit 
+
+Edits will be based off of the Morehouse Parish DMU, which is the site of the OSD. An overview off all map units showed that this was a good representative DMU"|"564199"|"2592492"
+09/26/2012 00:00:00|"Correlation notes"|"amendment"|"name change"|"This map unit name was changed from Perry clay, to Perry clay, 0 to 1 percent slopes."|"564199"|"2592514"
+09/26/2012 00:00:00|"Map unit description"|"map unit description"||"Portland silt loam, 0 to 1 percent slopes consists of very deep, somewhat poorly drained, very slowly permeable soils on slight rises of broad flats that were clayey back swamps areas of the Arkansas River flood plain.  Slopes range from 0 to 1 percent.   Soils in this MLRA 131B map unit are mapped in Ashley, Chicot, Desha, Drew, Jefferson, Lincoln, and Lonoke Counties in Arkansas and Caldwell, Morehouse, Ouachita, Richland, and Union Parishes in Louisiana.  Included with this soil in mapping are a few small areas of Desha, Gallion, Hebert, Perry, Rilla, and Sterlington soils.  Desha soils are adjacent to Portland soils and have a mollic epipedon.    Gallion, Hebert, Rilla, and Sterlington soils are on higher positions and are loamy throughout.   The Perry soils are poorly drained and are on slightly lower positions.   
+The future needs for this map unit include investigating differences between flooding phases:  Jefferson County has Portland clay, occasionally flooded joining Arkansas County with Portland clay, 0 to 1 percent slopes, frequently flooded;  Morehouse Parish has Portland clay joining Union Parish with Portland clay, frequently flooded.    Also, surface texture phases will need to be refined Portland clay joins Portland silty clay, 0 to 1 percent slopes, Portland silt loam joins Portland silty clay, 0 to 1 percent slopes, or Portland clay joins Portland silt loam, 0 to 1 percent slopes.
+"|"564200"|"2592459"
+08/08/2012 00:00:00|"Correlation notes"|||"DMU was created as part of SDJR for  MLRA 131B Portland silt loam, 0 to 1 percent slopes
+
+The Portland silt loam, 0 to 1 percent slopes map units in MLRA 131B are part of the MLRA map unit consolidation project (SDJR).  The map unit concepts will be identified from the soil survey manuscripts and the map units consolidated so that data population is consistent wherever they are mapped.  Publication map unit symbols and names for this project will stay the same.  The consolidation project will reduce the number of map units and data mapunits to as few national map unit symbols as possible.  The new data mapunits will be modified using available data from existing data mapunits, NASIS pedons, and university lab data.  The map units will meet national standards.  The official series descriptions will be reviewed and updated during this process.  Currently, this map unit is mapped in 5 counties and parishes in Arkansas and Louisiana with 5  data mapunits. These 5 data mapunits will be consolidated to 1 data mapunit .
+
+The upated DMU will be based off of the Portland Clay, 0 to 1% slopes DMU from Arkansas County, AR. Surface texture/surface horizons will be updated when applicable and appropriate. Surface texture for this DMU was based off the Portland silt loam Ap horizon from Ashley county, AR , as was the map unit composition."|"564200"|"2592493"
+08/08/2012 00:00:00|"Miscellaneous notes"|"flood frequency"||"The Data map unit from Morehouse Parish listed rare flooding. Rare flooding was not mentioned in this manuscript.
+
+The manuscript from Ouchita parish mentions flooding, but the DMU did not rerlect any flooding. 
+
+None of the other DMU's for Portland Silt loam reflect flooding. 
+ Needs more investigation."|"564200"|"2592494"
+09/26/2012 00:00:00|"Correlation notes"|"amendment"|"name change"|"This map unit name was changed from Portland silt loam, to Portland silt loam, 0 to 1 percent slopes."|"564200"|"2592515"
+09/26/2012 00:00:00|"Map unit description"|"map unit concept"||"Portland clay, 0 to 1 percent slopes, consists of very deep, somewhat poorly drained, very slowly permeable soils on slight rises of broad flats that were clayey back swamps areas of the Arkansas River flood plain.  Slopes range from 0 to 1percent.   Soils in this MLRA 131B map unit are mapped in Ashley, Chicot, Desha, Drew, Jefferson, Lincoln, and Lonoke Counties in Arkansas and Caldwell, Morehouse, Ouachita, Richland, and Union Parishes in Louisiana.  Included with this soil in mapping are a few small areas of Desha, Gallion, Hebert, Perry, Rilla, and Sterlington soils.  Desha soils are adjacent to Portland soils and have a mollic epipedon.    Gallion, Hebert, Rilla, and Sterlington soils are on higher positions and are loamy throughout.   The Perry soils are poorly drained and are on slightly lower positions.   
+The future needs for this map unit include investigating differences between flooding phases:  Jefferson County has Portland clay, occasionally flooded joining Arkansas County with Portland clay, 0 to 1 percent slopes, frequently flooded;  Morehouse Parish has Portland clay joining Union Parish with Portland clay, frequently flooded.    Also, surface texture phases will need to be refined Portland clay joins Portland silty clay, 0 to 1 percent slopes, Portland silt loam joins Portland silty clay, 0 to 1 percent slopes, or Portland clay joins Portland silt loam, 0 to 1 percent slopes.
+"|"564201"|"2592460"
+08/07/2012 00:00:00|"Correlation notes"|||"SDJR  MLRA 131B Portland Clay, 0 to 1 percent slopes
+The Portland Clay, 0 to 1 percent slopes map units in MLRA 131B are part of the MLRA map unit consolidation project (SDJR).  
+The DMU was based off of the the AR County, AR DMU for portland clay, 0 to 1%. 
+
+The map unit concepts will be identified from the soil survey manuscripts and the map units consolidated so that data population is consistent wherever they are mapped.  Publication map unit symbols and names for this project will stay the same.  The consolidation project will reduce the number of map units and data mapunits to as few national map unit symbols as possible.  The new data mapunits will be modified using available data from existing data mapunits, NASIS pedons, and university lab data.  The map units will meet national standards.  The official series descriptions will be reviewed and updated during this process.  Currently, this map unit is mapped in 9 counties and parishes in Arkansas and Louisiana with 9  data mapunits. These 9 data mapunits will be consolidated to 1 data mapunit .
+"|"564201"|"2592495"
+09/26/2012 00:00:00|"Correlation notes"|"amendment"|"name change"|"This map unit name was changed from Portland clay, to Portland clay, 0 to 1 percent slopes."|"564201"|"2592516"
+04/01/2013 00:00:00|"Correlation notes"||||"564202"|"2592496"
+|"Miscellaneous notes"|"NONTECH - AGR"|"025"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, soybeans, and winter small grains. This soil responds well to fertilization, and tilth is easy to maintain by returning crop residue to the soil. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for cropland use or pasture and hayland."|"564202"|"2592517"
+|"Miscellaneous notes"|"NONTECH - AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"564203"|"2592518"
+12/10/2012 00:00:00|"Miscellaneous notes"|"Map Unit"|"Evaluation"|"Evaluation of Documentation for Sharkey clay, 0-1% slopes, rarely flooded
+The Sharkey clay soils, rarely flooded, with 0 to 1 percent slope exist on the broad flats, backswamps, and lower natural levees of the alluvial plain of the Mississippi River and its former channels and distributaries, mainly in the St. Francis and Tensas Basins.  Evaluation of similarly named map units throughout the Lower Mississippi Valley (LMV) revealed that there were many units of Sharkey clay, with an average slope of less than 1 and classified as rarely flooded.  Documentation of every variety was compiled and reviewed, in order to design a new comprehensive MLRA map unit for those that were similarly named and had similar characteristics, properties, and interpretations.  In most cases, the only data (map unit descriptions, concepts, pedon descriptions, lab analyses, and interpretations) available for each map unit was that which was found in the published soil survey manuscripts.  There was very little specific data in NASIS through Map Unit and Data Mapunit, and KSSL queries.  There is very little field data available, as well.  Many of these are vintage surveys that did not survive the archival process.  
+
+Historical Information, such as published Soil Survey Manuscripts included the following map units: 
+1) AR041 (Desha County, AR) Sharkey clay (Sh)
+2) LA083 (Richland Parish, LA) Sharkey clay (Sa)
+3) LA065 (Madison Parish, LA) Sharkey clay (Sc)
+4) LA059 (La Salle Parish, LA) Sharkey clay (Sg)
+5) LA041 (Franklin Parish, LA) Sharkey clay (Sh)
+6) LA035 (East Carroll Parish, LA) Sharkey clay (Se)
+7) LA029 (Condordia Parish, LA) Sharkey clay (Sh)
+8) LA025 (Catahoula Parish, LA) Sharkey clay (Se)
+9) LA009 (Avoyelles Parish, LA) Sharkey clay (Sa)
+10) LA107 (Tensas Parish, LA) Sharkey clay, 0 to 1 percent slopes (ShA)
+
+
+
+
+KSSL Laboratory Investigation queries found Sharkey pedon lab data from 1945 through 2000 in Missouri, Kentucky, Arkansas, Mississippi and Louisiana (38 pedons).  Primary characterization data was useful to find ranges when designing the new MLRA Map Unit.  The Madison Parish and Tensas Parish Type Locations did have primary characterization data from the KSSL.  
+	
+Compilation of university research included: 1) Mississippi Agricultural and Forestry Experiment Station (MAFES) publication Soils and Land Resources of Mississippi (1975); 2) MAFES Bulletin 1057 Sharkey Soils in Mississippi (1996); 3) USDA Forest Service Research Paper SO-127 Hardwood Suitability for and Properties of Important Midsouth Soils (1976); 4) Louisiana Agricultural Experiment Station Bulletin No. 796 Soils of the Mississippi River Alluvial Plain in Louisiana; 5) US Army Corps of Engineers Geomorphology and Quaternary Geologic History of the Lower Mississippi Valley (1994).
+
+Historic lab data from field was unavailable due to the vintage of these surveys.  Recent field data, such as pedon descriptions, and local area expertise was available from the MLRA soil scientists and project leaders in each portion of the LMV.  
+
+Historic typical pedon descriptions were found only in the published soil survey manuscripts for most of the map units.  These were then archived in NASIS and linked to the specific project.  
+"|"564204"|"2592461"
+12/10/2012 00:00:00|"Miscellaneous notes"|"Map Unit"|"Reference"|"Mississippi State University:  Mississippi Agriculture and Forestry Experiment Station Bulletin 1057 by David E. Pettry (Professor and Soil Scientist, Department of Plant and Soil Sciences) and Richard E. Switzer (Senior Research Assistant, Department of Plant and Soil Sciences) September 1996.
+
+http://msucares.com/pubs/bulletins/b1057.htm#objectives
+
+
+Preface
+This research was conducted in response to observations by farmers, foresters, nurserymen, developers, soil scientists, and others indicating that Sharkey soils might have been incorrectly classified. 
+Sharkey soils are dominant in the Mississippi Delta, comprising more than a million acres in the state of Mississippi and more than 3 million acres in the United States. The soils extend from the Gulf of Mexico northward to Kentucky in the Southern Mississippi River Valley Alluvium and are immensely important to Mississippi and the nation for food and fiber production. Early soil researchers compared the importance of these alluvial soils to those of the Tigris and Euphrates River Valleys, whose development gave rise to ancient Babylonian agriculture and the dawn of civilization. 
+Sharkey soils in Mississippi were largely mapped and classified prior to adoption of Soil Taxonomy Soil Classification System in 1965. Subsequent classification and interpretations were made without temporal field research. Detailed agricultural production data provided a basis for classifying Sharkey soils as prime farmland, but no temporal data existed for classification as hydric soils and Inceptisols. 
+Intensive field and laboratory studies of four Sharkey soil sites in Washington County, Mississippi for 5 years clearly indicate the Sharkey series should be reclassified as Vertisols. The Sharkey soils exhibit maximal properties definitive for Vertisols with pedogenic expression typifying the Vertisol Order on a global basis. The hydrologic data show the Sharkey pedons had average water table depths below 100 inches. Average soil moisture contents decreased with increased depth, and subsoils exhibited small seasonal variations. 
+This research clearly verifies field observations over the past two decades. Sharkey soils in Mississippi should be reclassified for proper interpretation and utilization. 
+________________________________________
+Acknowledgments
+This research was supported by the National Council of the Paper Industry for Air and Stream Improvement and the Mississippi Agricultural and Forestry Experiment Station. We gratefully acknowledge the valuable assistance of John Hodges for the vegetation data and critical review. The assistance and encouragement of Bob Hinton and Floyd Brent of the Soil Conservation Service are greatly appreciated. The field assistance of Yaan Cheng, Tim Deen, and fellow graduate students is also acknowledged and appreciated. 
+Special thanks are extended to Dawn McGinley for her patience and diligence in manuscript preparation and to Keith Remy for his guidance and critical review of the publication. 
+
+
+Objectives
+This research evolved to define and provide a temporal data base of soil morphological, chemical, and hydrologic parameters for the Sharkey series, the dominant soil in the Mississippi Delta region. 
+
+The research objectives were to: 
+
+Determine morphological, chemical, and physical properties of a soil series listed as a hydric soil. 
+Determine dissolved oxygen contents and depth to water table and relate to soil morphological characteristics. 
+Document forest vegetation and determine relationships to water table depths, dissolved oxygen levels, and soil temperature. 
+Interpret data to ascertain if this soil is properly classified as hydric. 
+The Sharkey soil series was studied because of the vast acreage it comprises over a broad region and its importance to society. The study was conducted from 1991 to 1995. 
+
+Introduction
+The Sharkey soil series was established in Yazoo County, Mississippi in 1901, and it is one of the oldest soils recognized in the United States. Sharkey is the dominant soil mapped in Mississippi, comprising about one million acres. It is also a dominant soil in the nation, with at least 3 million acres mapped. Many of the original theories concerning the origin and properties of Sharkey soils have persisted since it was established. These soils were initially recognized as clayey, expansive soils occurring on nearly level topography on lower parts of natural levees, terraces, and flood plains of the Mississippi River and tributaries. Their clayey, sticky, and plastic nature gave rise to usage of the terms ""gumbo"" and ""buckshot"" when referring to Sharkey soils. 
+
+Sharkey soils occur in the Southern Mississippi Valley Alluvium major land resource area (MLRA 131) and extend from the Gulf of Mexico to Kentucky. These soils are extensive in Arkansas, Kentucky, Louisiana, Mississippi, Missouri, and Tennessee on the Mississippi River flood plain and terraces. Slope gradients are 0 to 5%, with short slopes that typically occur as parallel ridges and swales. Sharkey soils formed in clayey alluvium of recent Holocene age and have clay contents of 60 to 90% in the subsoils. Soil reaction ranges from strongly acid in surface horizons to moderately alkaline in the subsoil. Sharkey soils are typically dark gray to gray, with brownish, yellowish, or reddish mottles. These soils are currently classed as poorly drained with slow surface runoff and permeability. The expansive clay develops large cracks each year. The Sharkey series is designated prime farmland and hydric soil. 
+
+Although classed as poorly drained in soil surveys, several phases of Sharkey soils were mapped indicating a range of drainage or wetness. In the county where the Sharkey series was established, the latest Yazoo County Soil Survey (Scott et al., 1975) mapped Sharkey clay depressional phase (11,500 acres) and Sharkey clay (60,790 acres). Sharkey depressional phase was much wetter than other phases of the same soil series. 
+
+In other Delta counties, such as Washington (Morris, 1961), Sharkey clay, level phase, 0 to % slopes, was mapped on broad flats or in slightly depressed areas (36,630 acres). Sharkey clay, nearly level phase,  to 2% slopes, comprised 100,460 acres or 21.6% of Washington County. Other Sharkey units in the county were Sharkey clay, gently sloping phase, 2 to 5% slopes, which included areas with slopes up to 8%; Sharkey silty clay loam, nearly level phase,  to 2% slopes; and Sharkey very fine sandy loam, nearly level overwash phase,  to 2% slopes. 
+
+The soil surveys recognized the effects of topography on soil wetness and used different phases of Sharkey to depict landscape and drainage differences that were important to land use and management (Appendix Table 1). 
+
+The soil surveys of Mississippi Delta counties delineated associated soils wetter than Sharkey in depressions, low swales, and drains as the Dowling series. Low, wet areas flooded much of the time were mapped Swamp, and frequently flooded soils near streams were mapped Alluvial Soils (Morris, 1961). In recent years, Dowling soils were office-correlated into the Sharkey series. Nearly a half-million acres of wetter Dowling soils were correlated to Sharkey soils (Appendix Table 2). 
+
+The Mississippi Delta counties were largely mapped and published prior to adoption of Soil Taxonomy (USDA, 1975). The soils were reclassified without additional field mapping and studies. Office correlations merged Dowling and Alluvial soils with very limited or no additional field data of a modern nature. Hence, the drainage and wetness concepts of the Sharkey soils became more general and nondefinitive. Extensive agricultural production data for various crops provided a factual data base for classifying soils, including Sharkey, as prime farmland soils. However, no comparable data existed to provide a framework for classifying Sharkey as a hydric soil. 
+
+The Sharkey series was classed hydric (SCS, 1987) based upon criteria (2B3), ""water table at less than 1.5 feet from the surface for a significant period (usually a week or more) during the growing season if permeability is less than 6.0 in/h in any layer within 20 inches."" Other phases of Sharkey soils classed as hydric were: Sharkey commonly flooded (criteria 2B2, 4); Sharkey, overwash (2B2); Sharkey, ponded (2B2, 3). The list of hydric soils was created by computer using criteria developed by the National Technical Committee for Hydric Soils (SCS, 1987). Water table criteria for Sharkey soils mapped in Mississippi have not been clearly established by field validation over a temporal period. 
+
+Sharkey soils were classified as Grumusols prior to Soil Taxonomy, based on shrinking, swelling, and cracking properties. In the Tunica County, Mississippi Soil Survey completed in 1942, Simonson (1956) reported the organic matter content in the A1 horizon was common to many Grumusols. Humic Gley soils were wetter and had very high organic matter contents in surface horizons because of wet, reduced conditions. After 1965, Sharkey soils were reclassified without field studies as very-fine, montmorillonitic, nonacid, thermic Vertic Haplaquepts in spite of numerous data indicating a Vertisol classification (Holmes and Hearn, 1942; Bruce et al., 1958; Fowlkes et al., 1956; Morris, 1961). The Washington County Soil Survey (Morris, 1958) reported cracks in Sharkey soils 1 to 5 inches wide extending several feet in depth. 
+
+Large acreages of Sharkey soils are used intensely for production of soybeans, rice, wheat, cotton, grain sorghum, oats, catfish, hay crops, and pasture. Uncleared areas remain in forest. 
+
+
+
+--------------------------------------------------------------------------------
+
+
+General Nature of Study Area
+The study sites are in the Southern Mississippi Valley Alluvium Major Land Resource Area (MLRA-131), commonly referred to as the Delta (Figure 1). The Delta comprises about 36,130 square miles (93,600 km2) in Arkansas, Kentucky, Louisiana, Mississippi, Missouri, and Tennessee (USDA, 1981) and is one of the largest contiguous agricultural areas in the United States. 
+
+The Mississippi Delta is an elliptical-shaped physiographic region comprising the western part of Mississippi (Figure 2). The area is bounded on the west by the Mississippi River, and it abruptly meets the loessial bluffs, which rise above the Delta on the east. The largest part of the Delta extends from Memphis, Tennessee to Vicksburg, Mississippi, a distance of about 200 miles. The Delta is about 75 miles wide at its widest point in the state. The area is nearly level, which is typical of large flood plains. The general slope extends to the south. Elevations range from 217 feet near Memphis to about 94 feet above mean sea level at Vicksburg. In addition to the Mississippi River, the main streams are the Yazoo, Big and Little Sunflower, Tallahatchie, and Cold Water Rivers. Abandoned stream meanders and oxbow lakes are common. 
+
+The Mississippi River Valley was formed over the last 1.5 million years through a series of down-cuttings and subsequent refillings directly related to advancing and recycling continental glaciation (Saucier, 1974). The last change from braided to meandering stream conditions occurred 10,000 to 12,000 years ago. Meander belts reflect the previous course changes of the Mississippi River. 
+
+The climate of the Mississippi Delta is warm and humid, with hot summers and moderate winters. The mean annual temperature is about 63 F, and the mean annual rainfall is about 51 inches. The area generally has 220 to 260 frost-free days (Pettry, 1977). 
+
+The Delta's soils are very productive under proper management, and they are suited to a wide range of crops. One of the early technical studies (Holmes and Hearn, 1942) stressed the agricultural importance of the Mississippi alluvial soils and compared them in importance to soils of the Tigris and Euphrates Rivers and the birth of civilization. 
+
+
+
+--------------------------------------------------------------------------------
+
+
+Soil Genesis in the Delta
+The factors of soil formation are parent material, climate, organisms, time, and relief (Jenny, 1941). The length of time a material has been in place and under the influence of local climate and vegetation often determines the kind of soil found. Recently deposited alluvium usually shows little development or formation of soil horizons. 
+
+Parent Material
+Parent material is ""the physical body of soil and its associated chemical and mineralogical properties at the starting point of a particular set of other soil-forming factors"" (Buol, Hole, and McCracken, 1973). Generally, parent material exerts greater influence on younger soils than on older landscapes. The original parent material becomes less recognizable as weathering and soil formation proceed. 
+
+The Mississippi Delta parent material is dominantly alluvium deposited by the Mississippi River and its tributaries. The sediments originated in the vast, diverse Mississippi drainage system, which comprises a large area of the United States. Consequently, the materials have diverse mineral suites because of their heterogeneous origin and differential stages of weathering, and previous pedogenic development. The surficial materials are primarily two types. The first, sands and loamy deposits, occurs as old natural levees of previous stream beds. The other type of sediment consists of clayey materials located in ""slackwater"" areas (interfluves) between streams. Water velocity decreases as it overflows its banks and moves away from the stream bed. This results in heavier sandier materials being deposited near the stream and clayey sediments being carried in suspension until a low velocity is achieved and they are deposited. The slackwater areas are usually lower in elevation than stream-side deposits (Logan, 1916) and act as a sink for finer-textured materials. 
+
+Time
+The present surface of the Delta was deposited in recent times in the Holocene geologic timeframe. Material was deposited on a broad scale by the Mississippi River until the levee on the Mississippi side of the river was completed. Local flooding and sedimentation continue to occur in ""backwater"" areas, where drainage waters flowing into the Mississippi River back up during high flow periods. 
+
+Sediments forming the land surface were deposited during and after the advances of Wisconsin glaciers, the latest active in the North Central States about 11,000 years ago (Arnold and Libby, 1951). The present surface of the Mankato drift has been exposed about 8,000 years, and the soils in the Mississippi Delta counties could be slightly older (Simonson, 1956). 
+
+Relief 
+The Delta is characterized by level relief and low hydraulic gradients. Small differences in elevation (microrelief) have a major impact on water movement. A few inches difference in relief in the Delta has a major impact on water movement and soil development. 
+
+Climate
+The climate of the Delta is warm and humid, with hot summers and mild winters. The temperature and precipitation are conducive to intense weathering. 
+
+Organisms 
+The region was primarily a hardwood forest with intermittent swamps and bayous before it was cleared for cropland. Diverse species, including oaks, gums, ash, hickory, black willow, and cypress, covered this region. A limited area of forest cover still exists in the Mississippi Delta. 
+
+
+
+--------------------------------------------------------------------------------
+
+
+Methods and Materials
+Study sites were located in forested areas in Washington County, Mississippi on the MAFES Delta Branch Experiment Station Forest near Stoneville, and in Percy Quinn State Park, about 25 miles south of Stoneville (Figure 3). The sites were selected in natural wooded areas representative of the Sharkey series with typical bottomland hardwood vegetation. The areas had not been previously cleared or cultivated. Two research sites were installed February 1991 at each location about 0.5 mile apart in two phases of the Sharkey series (Table 1). 
+
+The Delta Experimental Forest sites were about 10 miles east and the Percy Quinn Park sites about 8 miles east of the Mississippi River (Figure 3). The sites were not subject to flooding. 
+
+Batteries of piezometers were installed 40 inches apart at 10, 20, 40, and 120 inches depth. Piezometers were constructed of 3-inch diameter polyvinylchloride (PVC) tubes permeated with 0.125-inch diameter holes. Washed gravel was placed in the bottom of the holes and piezometers were driven and fitted snugly into 3-inch diameter auger holes. A clay seal was packed around the piezometer at the soil surface. A vented cap covered the piezometers, which extended about 6 inches above the soil surface. An unlined 3-inch diameter bore hole was drilled to 120 inches about 40 feet from the piezometers and the surface was covered. Piezometers were installed in February and March 1991. No water was encountered during installation at any of the depths. Water levels were measured monthly or more frequently for the duration of the study. Piezometers were pumped dry and allowed to equilibrate to verify water levels. 
+
+Field Characterization and Sampling
+Soils were examined by hand auger in transects to locate representative pedons for detailed characterization and evaluate spatial variability. Soil pits were excavated by hand shovels. Landscape elements were determined at each site. Soil morphological parameters were determined (USDA, 1994), including horizonation and depth, Munsell color, texture, structure, consistence, mottling and redoximorphic features, presence of concretions, topography and thickness of horizon boundaries, and size and distribution of roots. 
+
+Nondisturbed core samples were taken in selected horizons for determination of bulk density, saturated hydraulic conductivity, and moisture retention. Duplicate core samples were taken from selected horizons within a one-meter distance of a contiguous pedon by cutting back the face of the pit and exposing each horizon from the surface to the bottom of the pit. 
+
+Surface microrelief was determined on 10-foot intervals in directional transects with a transit level. Soil microdepressions were measured by rigid steel tape and transit level. 
+
+Soil moisture content was monitored gravimetrically on a temporal basis in 10-inch increments from the surface using 100-gram auger samples. Soil temperature was measured in the epipedon with a soil thermometer (ReoTemp Instrument Corporation). 
+
+Dissolved oxygen levels and temperature of soil water were measured with a YSI model 58 dissolved oxygen meter (Yellow Springs Instrument Co., Inc.). A submersible stirring oxygen probe was lowered into the piezometers containing water to determine oxygen levels. 
+
+Fresh soil peds from the surface through the solum were tested with , -1-dipyridyl solution for nonvisible redoximorphic features (soluble iron) on a temporal basis (Soil Survey Staff, 1994). 
+
+Laboratory Methods
+Bulk Density
+Soil bulk density was determined by the method described by Blake (1995) on nondisturbed cores taken with a double-cylinder sampler. The inner cylinder of known volume was dried in the oven at 110 C for 24 hours and weighed. The bulk density was calculated by the following formula: 
+
+Bulk density =  sample oven-dry weight 
+volume of sample 
+
+Saturated Hydraulic Conductivity
+The constant-head method (Klute, 1965) was used on the nondisturbed cores. The cores were saturated in standing water for 48 hours and then placed on a constant head permeameter rack to equilibrate for one hour. Water passing through the cores was measured at 10-minute intervals for a total of five measurements. Values reported are the average value of five observations. 
+
+Moisture Retention
+The pressure membrane method (Richard, 1949) was used with the natural aggregates of the nondisturbed cores. The cores were saturated with water for 24 hours on a presoaked ceramic porous plate. Pressures of 0.03, 0.1, 0.3, 0.6, and 1.5 MPa were maintained until equilibrium was achieved. The moisture contents were calculated on an oven-dry basis. 
+
+Soil Analysis
+Soil samples were air-dried in the laboratory, crushed with a wood cylinder, and sieved through a No. 10 sieve to remove coarse fragments larger than 2 mm (USDA, 1992). Particle size distribution was determined by hydrometer method and sieving (Day, 1965). Organic matter was determined by wet combustion procedure (Allison, 1935). Extractible acidity was determined by the barium chloride-triethanolamine method (Peech, 1965). Exchangeable aluminum was determined in KC1 extractions following the procedure of Yuan (1959). Exchangeable cations were extracted with neutral N NH4OAC and determined by atomic absorption spectrophotometry (USDA, 1992). Soil pH was measured in water and 0.1 N KC1 using a 1:1 soil-to-liquid ratio. Iron was fractionated using the method of Gamble and Daniels (1972). Total Fe was analyzed by HF and HC1O4 digestion in Pt crucibles (Jackson, 1982). Total sulfur was determined on soil ground to pass a 60-mesh sieve with a sulfur analyzer (Model LECO SC 132). 
+
+Mineralogy
+Clay fractions of selected horizons were separated by centrifugal centrifugation. They were analyzed by x-ray diffraction (Jackson, 1956) with a Norelco Geiger counter spectrophotometer using Cu K radiation and a Ni filter. Mineral type and content were estimated from basal spacings and x-ray peak intensity. Microscopic examinations were made of soil peds using conventional light microscopy. Coefficient of linear extensibility (COLE) was determined on < 2 mm extruded soil paste (Shafer and Singer, 1976) where: 
+
+COLE = Length wet - length dry 
+length dry 
+
+Results and Discussion
+Morphology
+The representative Sharkey pedons had ochric epipedons and cambic subsurface horizons (Tables 2, 3, 4, and 5). Surfaces were dark to very dark grayish-brown in hues of 10YR with values of 3 to 4 and chromas of 2. The upper subsoil was dark to very dark gray in hues of 10YR with values of 4 to 5 and chromas of 1 to 2 with strong brown mottles. Soil color became brighter with increased depth. Site 1 was yellowish-red in 5YR hues below 120 inches depth and highly mottled above this depth. Site 2 had pale brown color with 3 chromas below 36 inches. Site 3 was brownish-yellow to strong brown below 60 inches, and Site 4 was grayish-brown below 50 inches. 
+
+The forested soils had well-developed angular blocky structure in the upper sola. The subsoil had compound structure consisting of coarse prismatic parting to angular and subangular blocky structure. Pockets and cracks were evident in the upper sola, with common pressure faces on peds. The surface horizons contained many roots, which extended to depths of 40 inches and greater and promoted structural development. The roots also created many macrovoids in the surface horizon. The soils had friable to firm consistency in the surface horizon and firm subsoils, which were sticky and plastic when moist. 
+
+Intersecting slickensides were very prominent features in the Sharkey pedons, reflecting the shrinking and swelling properties, except for Site 2, which had loam textures at 36 inches. The slickensides became wider with depth and were prominent to depths of 60 inches and greater. The soils had cracks at the surface each year of the study. The cracks ranged to 3 inches wide and extended to depths of 3 feet and greater. The cracks were visible from May to October, and they would close and reopen after significant precipitation events. The forest litter tended to obscure the surface cracks, which were exposed when the litter was removed. 
+
+White gypsum (CaSO4 2H2O) crystals were prominent features at 40 to 70 inches in the subsoils of sites 1, 3, and 4. The gypsum occurred in a clay matrix as clusters in veins and pockets with individual crystals ranging to 4 mm and larger. The crystal habit of the gypsum was both tabular and fibrous. Round, black concretions occurred intermingled with gypsum at 50 to 65 inches in Site 1. The concretions occurred at different depths in Sites 3 and 4. 
+
+The morphological features of the Sharkey soils at the four sites corresponded very closely with previous descriptions and mapping concepts (Brown et al., 1970; Schumacher et al., 1988; Bruce et al., 1958; Holmes and Hearn, 1942; Morris, 1961; Rogers, 1958; Wynn, 1959). The earlier descriptions of Sharkey were limited by the relatively shallow depths at which they were examined. Recognition of brighter colors with increasing depth requires deeper examination (> 60 inches). Also, the common occurrence of gypsum in the subsoils and pronounced compound structure had not been previously recognized and stressed. Cracks that extend to the surface, large intersecting slickensides, and compound structure are distinctive features of the Sharkey pedons. 
+
+Particle Size Distribution
+All the sites had clay textures in the epipedon (Appendix Table 3). Sites 1, 3, and 4 had clay contents exceeding 60% to depths of 60 inches (Figure 4). Site 2 had loamy materials below 30 inches with clay contents ranging to 72% in the upper sola (Figure 4). 
+
+Site 1 had clay contents exceeding 60% to depths of 100 inches, with less than 5% sand to 90 inches, and silt contents less than 30% in the upper 30 inches. Site 2 had average clay content of 56% in the upper 30 inches, with less than 20% sand (Figure 5), and silt contents of 20 to 44%. Clay contents exceeded 40% to depths of 70 inches in Site 3, with less than 10% sand in the upper 50 inches, and silt contents of 23 to 13%. Site 4 had greater than 68% clay in the upper 80 inches, accompanied by sand contents less than 5%, and silt contents of 26 to 13%. 
+
+Fine clay dominated the clay fraction in all sites with fine clay (<0.2 )/coarse clay (2 to 0.2 ) ratios ranging from 1.2 to 1.84. There was no indication of fine clay accumulation with increased depth suggesting no eluviation/illuviation. The sand was dominated by very fine and fine fractions reflecting low energy deposition. 
+
+Chemical Properties
+Chemical properties are presented in Appendix Table 4. Organic matter decreased regularly with depth (Figure 6). Maximum contents exceeded 3% and occurred in the thin ochric epipedon. Soil pH levels were very strongly acid in the surface horizons and increased with depth to slightly alkaline levels at 60 inches depth (Figure 7). Calcium was the dominant exchangeable cation and Ca/Mg levels were less than 2. Cation exchange capacities exceeded 50 cmolc kg-1 in the upper 70 inches of Sites 1, 3, and 4 and were greater than 30 cmolc kg-1 in Site 2. Higher exchangeable acidity levels in the upper 20 inches correspond to lower pH levels reflecting the effects of organic matter and weathering. Exchangeable Al3+ was very low or not detectable. 
+
+Total S levels corresponded to the presence of gypsum crystals with maximum values occurring in subsoil Bssyg horizons of Sites 1, 3, and 4 (Figure 8). Sulfur contents were lower in Site 2 where no gypsum was detected. The gypsum appears to be authigenic and probably formed by precipitation and crystallation in an oxidized environment. 
+
+Soil Bulk Density
+Bulk density levels were extremely low in the surface horizons (Table 6) because of a dense root mat and presence of large macrovoids. Values ranged from 0.77 g cm-3 in Site 2 to 1.01 g cm-3 in Site 3 in the 0- to 6-inch surface horizon. Bulk densities increased slightly in the subsoil but were relatively low because of the high content of montmorillonitic clay. The higher values in the subsoil of Site 2 reflect the loamy textures and lower montmorillonite clay content. 
+
+Soil Moisture Retention
+Soil moisture retention data for selected depths are presented in Table 7. Terms applicable to soil moisture retention are: field capacity, permanent wilting point, and available water capacity. Field capacity is the amount of water in the soil after excess gravitational water has drained and the downward water movement has decreased (Veihmeyer and Hendrickson, 1931). Field capacity is defined as the moisture content at one-third (1/3) atmospheric tension (0.03 MPa). Permanent wilting point occurs at 15 atmospheres (1.5 MPa) and is the moisture content of the soil where plants wilt and cannot recover even under saturated conditions. Available water represents the soil water that plants can withdraw, and it is defined as the difference between field capacity and permanent wilting point. 
+
+Soil moisture retention values were very similar for the four sites except for lower values in Site 2. The available water was greater in the surface horizons because of higher organic matter content. The high moisture retention at field capacity (0.03 MPa) and permanent wilting point (1.5 MPa) is typical of soils with high montmorillonite clay contents. 
+
+Saturation point is the moisture content of the soil when all the pores are filled with water, and it was measured in the laboratory by the Direct Method (Gardner, 1965). Saturation values in the surface horizons ranged from 74 to 88% at all four sites with variation caused by differences in the amount of organic matter and degree of decomposition. The high moisture contents at saturation are due to the high clay content, organic matter, and expansive montmorillonite clay. 
+
+Saturated Hydraulic Conductivity
+Saturated conductivity in the surface horizon was high because of the presence of roots and associated macrovoids (Table 8). The process of taking cores of the root-matted surface horizon also may have created additional fissures. Very low hydraulic conductivity was measured in the clayey subsoil horizons. Soil cores were not taken in volumes containing cracks and krotovinas. 
+
+Mineralogy
+Montmorillonite dominates the fine clay fraction (<0.2 ) at all sites. The coarse clay fraction (2 to 0.2) consists of montmorillonite, illite, kaolinite, and quartz. The silt fraction contains quartz, feldspars, and mica. 
+
+Coefficient of Linear Extensibility (COLE)
+The COLE values of the upper 60 inches of Sites 1, 3, 4, and the upper 30 inches of Site 2 far exceeded the value of 0.09 considered minimum for Vertisols and ranged to 0.28. The COLE values decreased in the loamy subsoil of Site 2 to values less than 0.02. Total clay and montmorillonite contents have been shown to be highly correlated to COLE values (Karathanasis and Hajek, 1985). The high values indicate the very expansive nature of these cracking soils. 
+
+Microscopic Examination
+Peds from surface and subsoil horizons from each site were examined under reflected light at 50 to 150X. Observations of root-soil matrix in surface horizons revealed no oxidized rhizopheres. Faunal pellets were common in the surface horizons. The soil had very tight adhesion to the roots. Scattered flecks of 5YR and 7.5YR hues were mixed throughout the matrix. Pressure faces on ped surfaces gave the appearance of ""scales."" The gray matrix had a dull, waxy appearance. Slickenside surfaces were polished and striated and appeared to have a thin coating of colloidal organic matter. In deeper horizons, gypsum crystals had a very sharp boundary with the surrounding matrix. Some crystals had a thin CaCO3 effloresced coating. Concretions were embedded in random patterns in deep subsoil horizons with gradual and sharp boundaries with the matrix. 
+
+Extractable Fe
+Acid ammonium oxalate (Feo) and dithionite-citrate-bicarbonate (Fed) extracted Fe are presented in Table 9. The oxalate extraction dissolves the amorphous Fe, and the dithionite extraction dissolves the crystalline Fe (McKeague and Day, 1966). Amorphous Feo was dominant in the upper sola of all sites and dominant at all depths in Site 1. Both Feo and Fed levels in Site 2 dropped sharply in the loamy subsoil materials. 
+
+Total Fe
+Total Fet (Perchloric acid digestion) levels (Table 10) revealed the Sharkey soils have abundant Fe content. Maximum Fet values were 44,800 ppm in Site 1, 39,400 ppm in Site 2, 46,800 ppm in Site 3, and 51,000 ppm in Site 4. Fet contents decreased in the loamy materials of Site 2 subsoil. The Fe that exists as a structural component of silicates may be estimated by the difference between total Fet and dithionite extractable Fe = (Fet - Fed) according to Blume and Schwertman (1969). Santos et al. (1986) reported the presence of iron-rich montmorillonite in the fine clay fraction in three Boralfs. Other researchers have reported the main phyllosilicate clay in selected soils was comprised of Fe-rich montmorillinite that contained less Fe than nontronite (Mermut et al., 1984). 
+
+Exchangeable Fe
+Temporal analyses for exchangeable Fe (ferrous) during wetter winter and spring seasons revealed only trace levels (<1 ppm) in the Sharkey pedons (Table 11). In saturated reduced soils, soluble ferrous iron would tend to displace other cations on the soil exchange complex resulting in significant exchangeable Fe (Gotoh and Patrick, 1974; Richardson and Hole, 1979). Gotoh and Patrick (1974) detected 1,065 to 1,979 ppm exchangeable Fe under controlled reduced conditions in the laboratory using Crowley soil. The lack of exchangeable Fe suggests oxidized microsites. 
+
+Extractable Mn
+Schwertmann and Fanning (1976) reported that permanent soil wetness may lead to complete loss of Fe and Mn by leaching. McDaniel and Bush (1991) quantified the differential movement of Fe and Mn in saturated soils and suggested the relationship could be used to infer the saturated status of soils. Dithionite extractable Mn contents of the Sharkey pedons (Table 12) were similar to levels of upland Vertisols in the state. Higher levels occurred at depths of 40 inches in Sites 1, 3, and 4, and at the textural break in Site 2. Mn levels tended to coincide with presence of concretions in the subsoil. The Mn levels indicate solubility and removal of Mn has not occurred in the Sharkey soils. 
+
+Fe Contents in Surface and Subsurface Waters
+Surface and subsurface waters were periodically sampled and analyzed during the study with emphasis on ferrous iron levels. Average levels of ferrous iron were as follows for January sampling: 
+
+Source Fe (ppm) 
+Road ditch 1.77 
+Stump hole 0.16 
+Creek 3.66 
+Piezometer H2O at 110 inches 0.08 
+
+Soil water contained extremely low Fe levels, and runoff waters were also very low in ferrous Fe throughout the duration of the study. 
+
+Soil Color -- Fe Relationships
+The Sharkey soils have dominant gray colors but contain high levels of Fe similar to well-drained Vertisols in upland positions. The content and form of Fe in soils have long been related to soil color, which has been used to infer drainage and wetness. Soils with low chromas (2 or less) are often considered gleyed. Early workers (Bloomfield, 1950, 1951) suggested gleyed soil color resulted from unmasking of soil material by the removal of iron oxide coatings to expose the mineral grains. Daniels et al. (1961) suggested soils with high Munsell values and low chromas usually have little free iron, and may have small amounts of weatherable iron-bearing materials. These researchers further stated that coloration patterns and redoximorphic features are difficult to understand in these soils. Later work by Bloomfield (1952) reported soils can have significant amounts of extractable Fe and yet be gleyed (chroma 2 or less). Bloomfield suggested the iron was present as an organoferrous complex adsorbed on the mineral surface. Recent research (Dobos et al., 1990) attributed the lower chromas to hematite dissolution allowing goethite and nonoxide minerals to influence color strongly. 
+
+Daniels et al. (1961) noted that neutral and gley hues relate to the presence of ferrous iron. Various researchers (Maubach et al., 1994; Daniels et al., 1961) have reported that ferrous iron occurs only in reduced or waterlogged soils depleted of oxygen. The accepted field test (SCS, 1994) to determine the presence of ferrous iron and reduced conditions uses an indicator reaction. The Keys to Soil Taxonomy (SCS, 1994) state, ""A freshly broken surface of a field-wet soil sample is treated with , -1-dipyridyl in neutral 1-normal ammonium-acetate solution. The appearance of a strong red color on the freshly broken surface indicates the presence of reduced iron ions."" 
+
+, -1-dipyridyl Tests
+Freshly broken soil peds from the surface to 70 inches depth were tested seasonally with , -1-dipyridyl solution for the presence of ferrous Fe as demonstrated in Table 13. Tests were repeated frequently during the wetter winter and spring months. No positive reactions were detected throughout the total study. Tests were conducted at surface moisture contents as high as 78% with negative results (data not presented). These tests indicate the Sharkey soils did not have reduced conditions producing soluble ferrous iron and agree with analyses indicating 0 to trace levels of exchangeable Fe. 
+
+Inherited Soil Color
+One of the very difficult and complex aspects of soil color analysis is determining if the color is a reflection of the parent material, relic from previous environmental conditions, or due to current weathering and pedogenesis. One of the early comprehensive studies of the Mississippi River Alluvium (Brown, 1970) reported some of the soil color characteristics were believed to be inherited from the parent materials. This research considered the red colors to be relict from the Permian Red Bed materials deposited by rivers and resistant to color change. A more recent study of Louisiana delta soils (Schumaker et al., 1988) recognized that soil color could be inherited directly from initial sediments or created during weathering processes. Scientific explanations of red colors persisting in delta soils as relic and resistant to change must also consider gray clayey soils that occur in far greater proportion and depth. 
+
+Precipitation and Evaporation
+The Sharkey sites were not subject to flooding and water input to the soil system is due to precipitation. No other state, except Louisiana, in the continental United States receives as much annual precipitation per square mile land area as Mississippi (Way and Walker, 1986). Despite the extensive precipitation, evaporation exceeds rainfall 7 months of the year resulting in a small surplus (Figure 9). During the 5-year study, normal, dry, and wet years were experienced (Appendix Table 5). 
+
+Extensive shrinking occurred in the Sharkey soils when evaporation exceeded precipitation. Large surface cracks typically appeared in May and periodically closed and opened at the surface until early November. The cracks would temporarily close at the surface after precipitation events of 0.5 to 1 inch and reopen within 1 to 3 days. The precipitation affected only the upper surface 3 to 4 inches, with moisture contents largely unaffected below those depths in the hot summer months. 
+
+The open cracks served as open conduit for air and water entry into the subsoils. The cracks exposed a large volume of soil to atmospheric air equilibrium about half of the year. 
+
+Soil Moisture Contents
+Average soil moisture contents over the 5-year study exhibited a very consistent distribution pattern (Figure 10) despite variable precipitation. Highest moisture contents occurred in the surface horizon and decreased with increasing depth. Sites 1, 3, and 4, which contained more clay, exhibited very little subsoil moisture variation. Site 2, which had a loamy substratum, had the lowest moisture contents and exhibited the greatest variation between surface and subsoil portions of the soil profile. The average moisture contents in the surface horizon ranged from 47 to 51%. 
+
+The seasonal effects on soil moisture contents were limited to the surface horizons (Figure 11). Soil moisture was highest in the spring and winter seasons and lowest during summer and fall seasons with spring > winter > summer > fall. The surface soil moisture levels coincide with seasonal precipitation and evaporation. 
+
+Examination of the average soil moisture content range over the 5-year study indicates 80% of the total variation occurred in the upper 20 inches (50 cm) as illustrated in Figure 12, which includes all four sites. When Site 2 with the loamy substratum is excluded, the range of variation is smaller (Figure 13). 
+
+The decrease in soil moisture with increased depths over the 5-year study was not anticipated for the sites separated by a considerable distance. The pronounced lack of seasonal variation in subsoil moisture levels over the extended study was very revealing. Field observations via soil auger readily detected the moisture gradient, with increased dryness consistently observed in subsoils. 
+
+Effects of Micro-Topography
+Spatial variation of soil moisture in the surface horizons 24 hours after a significant precipitation event is shown in Figure 14. The soil moisture content in the surface ranged from 49% to 53% over a horizontal distance of 21m (70 feet). The sites had small depressions, which were pronounced at Sites 1 and 3 of the Sharkey to 0 to % slopes. Although not recognized during the soil surveys, some people have recently referred to these depressions as gilgai features. These features are not evident in cleared, cultivated areas of Sharkey soils. Tree throws during the study produced very similar micro-topographical features. The depressions tend to temporarily collect water during precipitation events. The soil moisture 24 hours after rainfall at a representative micro-depression at site 1 is shown in Figure 15. Moisture contents were similar below 25-cm (10-inch) soil depths with variation confined to the surface. Similar data were obtained at Sites 2, 3, and 4. 
+
+Water Table Depths
+Average water table depths in Sites 1, 3, and 4 over the 5-year study were about 3m (120 inches) as shown in Figure 16. However, this was the maximum depth of the piezometers and they were dry most months, so the actual water tables were deeper. Site 2, with the loamy substratum, had the highest water table and exhibited the widest fluctuations. The water table in Site 3 came within 45 inches (112 cm) in December 1991, within 49 inches in April 1994 for short duration, and within 29 inches (72 cm) for a very brief period in July 1994 after intensive precipitation for 2 weeks. The water table in Site 3 dropped from 29 inches on July 28, 1994, to 50 inches depth on August 4, 1994, to 120 inches 2 weeks later. The water table in Site 2 came within 7 inches of the surface during the same period, and dropped rapidly to 97 inches in 6 days. 
+
+Water table measurements by Soil Conservation Service-USDA soil scientists in forested and cultivated Sharkey soils near the study sites in Washington County showed very similar water table levels (Figure 17). 
+
+The presence of high water table levels for short durations in the Sharkey site with a loamy substratum was not expected. The water levels dropped quickly in the loamy subsoil. Dissolved oxygen levels in the fluctuating groundwater indicated it was dynamic and charged with oxygen. 
+
+Dissolved Oxygen Levels
+Measurements for dissolved oxygen were limited by the lack of water tables in the piezometers. Most of the measurements were made in Site 2 and adjacent drains and puddles. The dissolved oxygen levels decreased with increased depth as shown in Figure 18. Dissolved oxygen was always present in all water measured. Zero oxygen contents were never encountered during the study. 
+
+In studies with other gray soils, Cogger et al. (1992) reported dissolved oxygen levels remained high enough in ground water to maintain oxidizing conditions. Ransom and Smeck (1986) measured 02 levels in soil water and did not correlate redox potential (Eh) with dissolved oxygen contents. 
+
+Soil Implants
+Replicated excavations 12 inches wide, 12 inches long, and 12 inches deep were made at Sites 3 and 4 on September 12, 1991. Subsoil (Bt horizon) from a yellowish-red clayey, montmorillonitic Wilcox soil, and a red, fine-loamy, kaolinitic Lucedale soil were implanted in the excavation. The implanted soils were covered with A horizon (0 to 4 inches) and forest litter. Selected properties of the implanted soils were as follows: 
+
+Soil Color Clay Org.
+Mat. pH Fe2O3 Ca Mg K H 
+    % %   % ----cmolc kg-1----- 
+Wilcox 5YR 4/8 39.6 1.4 4.9 2.7 1.38 4.36 0.33 22.5 
+Lucedale 2.5YR 3/6 34.9 0.4 5.2 4.8 1.43 0.67 0.13 6.18 
+
+
+The implanted soils were excavated 3 years after burial for field and laboratory analyses. The implanted soils had ""welded"" to the surrounding Sharkey soil and roots had extended into the soil mass. The soil hue, value, and chroma had not changed. No physical or chemical differences were detected in field or laboratory analyses. Three years of burial in the Sharkey pedosphere did not alter the implanted soils. No reduction or migration of iron or bases was detectable. Negative reactions were obtained with , -1-dipyridyl on the freshly broken peds of the exhumed soils, and no ferrous iron was detected in water extracts or exchangeable form with ammonium acetate. 
+
+Controlled Reduction Study
+Sharkey peds (1kg) from each site were subjected to intense reduction under controlled laboratory conditions for 27 months. The soil was covered with H2O with a sealed gas trap to permit CO2 discharge but no O2 entry, and sucrose was added as an energy source for microorganisms. The water column was periodically removed for analyses while maintaining a reduced condition on the soil. 
+
+Ferrous Fe and Mn were released from the soil after 33 days reduction. Ferrous Fe levels ranged from 890 ppm for Site 4 peds to 411 ppm for Site 2. Soluble Mn ranged from 61 ppm (Site 4) to 14 ppm (Site 2). A significant color change in the soil peds was detected after 7 months reduction to Blue Green (BG) and neutral hues. The color change became more pronounced with time. The soil peds still exhibited structural features after 27 months immersion conditions. The peds were removed after 27 months for analyses. Bright red reactions were pronounced when , -1-dipyridyl solution was placed on the peds after 27 months reduction. The positive reactions, indicating ferrous iron, were the only positive reactions obtained with Sharkey soils during the study. The reduction study clearly demonstrates that Sharkey peds will release ferrous iron and change from gray to blue green colors. 
+
+Mausbach and Richardson (1994) reported the presence of ferrous Fe in groundwater discharge zones of reduced soils. Daniels et al. (1961) noted neutral and gley hues relate to the presence of ferrous Fe. They reported ferrous Fe occurs only in reduced or waterlogged soils with depleted oxygen supplies. It was only in the controlled laboratory reduction studies that ferrous Fe was detected. 
+
+Vegetation of Sites
+According to Simonson (1956), ""only the major differences in the original vegetation are reflected to any extent in the soils, probably because of the general youth of the land surface."" Apparently, the Delta region originally had a dense forest broken by occasional cane breaks (Simonson, 1956). Heavy stands of cypress comprised the swampy areas, and hardwood stands occupied the better-drained soils and many of the wet ones. According to Simonson (1956), trees on the slight ridges were chiefly hickory, pecan, post oak, blackgum, and winged elm. In the swales and low places (not swampy), Tupelo gum, sweetgum, soft elm, green ash, hackberry, overcup oak, and willow oak occupied the areas. 
+
+John D. Hodges, Professor of Forestry at Mississippi State University, directed a vegetative survey of the four Sharkey Study Sites in Washington County September 1993. At each site, four 0.1-acre vegetation quadrants (N, S, E, W) were established to measure overstory and midstory vegetation, and 0.01-acre plots were used to measure understory. General characteristics of the vegetative cover are as follows: 
+
+Site 1 Age 45 to 60 years; basal area 75 to 80 ft2, willow oak, ash, sugarberry, honey locust, elm, ash, persimmon. 
+
+Site 2 Age 45 to 60 years; basal area 80 ft2; average diameter 16 inches; sweetgum dominant, water oak, willow oak, nuttall oak, sweet pecan, dogwood, mulberry, red maple, box elder. 
+
+Site 3 Age 50 to 65 years; basal area 85 to 90 ft2; willow oak dominant, nuttall oak, american elm, sugarberry, sweetgum, overcup oak. 
+
+Site 4 Age 50 to 65 years; basal area 80 to 90 ft2; willow oak dominant, nuttall oak, persimmon. 
+
+The total species by site on a per acre basis are as follows: 
+
+Site Overstory Midstory Understory Total No. Individuals 
+1 11a (520)b 12 (2,030) 10 (11,000) 13,550 
+2 6 (190) 15(1,800) 12 (8,300) 10,290 
+3 9 (300) 12 (2,260) 11 (4,600) 7,160 
+4 6 (230) 15 (2,060) 10 (5,500) 7,790 
+aNumbers reflect total number species per acre present at each site.
+bNumbers in parentheses reflect total number of individuals per acre present at each site. 
+
+The vegetation survey indicated relatively small differences among the sites (Appendix Table 6). Facultative (FAC) and Facultative Wet (FACW) species comprised 96.7% of Sites 1 and 3, and 99.3% of Sites 2 and 4. Obligate species were overcup oak, nuttall oak, water hickory, and bitter pecan. Only two bitter pecan saplings were detected on Sites 2 and 4. 
+
+Although not counted in the survey, poison ivy ground cover was lush and abundant on the Sharkey soils but disappeared abruptly on the adjacent wetter Dowling soils. The Dowling soils commonly contained sedges, cypress, and overcup oak (data not presented). 
+
+
+
+--------------------------------------------------------------------------------
+
+
+Summary
+Soil Morphology
+Intensive field and laboratory studies over 59 months of four Sharkey soils in Washington County, Mississippi revealed the following definitive soil properties. 
+
+Contained prominent intersecting slickensides within 40 inches (100 cm) of the soil surface. 
+Contained greater than 30% clay between the surface and 7.2 inches (18 cm) depth, and greater than 30% weighted average clay content between depths of 7.2 inches (18 cm) and 20 inches (50 cm). 
+Exhibited cracks each summer of the study period with widths of 3 inches and greater that extended to depths of 3 feet and greater. 
+Possessed coefficient of linear extensibility (COLE) greater than 0.09 in the clayey horizons. 
+The clay fraction was dominated by montmorillonite with fine clay (<0.2 ) exceeding coarse clay (2-0.2 ). 
+Base saturation levels exceeded 50% with Ca the dominant exchangeable cation, and high cation exchange capacities. 
+Contained high Fe levels comparable to upland well-drained Vertisols dominated by ferric (oxidized) forms. 
+Contained gypsum (CaSO4 2H2O) crystals at subsoil depths below 40 inches that apparently formed under oxidized conditions. 
+Did not have field indicators of hydric soils, and did not have Munsell values > 5 with chromas < 2 in the upper 10 inches (25 cm). 
+Soil colors became brighter with increasing depths. 
+Data in this study clearly indicate the Sharkey soil series should be classified as Vertisols. Reviews of previous soil descriptions and supporting data also clearly indicate a Vertisol classification. The Sharkey soils exhibit maximal properties definitive for Vertisols with pedogenic expression comparable to soils typifying the Vertisol order on a global basis. 
+
+Soil Hydrology
+Temporal soil moisture and water table measurements over the 5-year study encompassed normal, wet, and dry years. The hydrologic data indicated the following definitive relationships. 
+
+Average soil moisture of surface horizons ranged from 47 to 51%. The clayey, montmorillonitic horizons had high moisture retention at field capacity (0.03 MPa) with 8 to 10% moisture differential between field capacity and permanent wilting point. 
+Average soil moisture contents decreased with increased depth and subsoils exhibited relatively small seasonal variations. 
+Seasonal moisture changes were largely limited to surface horizons with 80% of the total change occurring in the upper 20 inches (50 cm). 
+Soil moisture was highest in spring and winter seasons and lowest in summer and fall seasons, with spring > winter > summer > fall. 
+Average water table depths were below 100 inches (250 cm) in pedons with clay textures extending to 60 inches depth. The site with loamy textures below 30 inches exhibited the highest water table for very brief duration and had widest fluctuations. 
+The Sharkey pedons did not have seasonal water tables within 18 inches. 
+Soil water had essentially no ferrous Fe indicating lack of reduced conditions. 
+All tests with , -1-dipyridyl were negative during all seasons indicating lack of ferrous iron. 
+Dissolved oxygen was present in all soil water measurements and tended to decrease with increased depth. 
+Vegetation
+Overstory, midstory, and understory vegetation was dominated by Facultative and Facultative Wet species. 
+Small differences (richness x diversity) existed among sites. 
+Obligate species comprised less than 1% of Sites 2, 4 and less than 3.3% of Sites 1, 3. 
+Poison ivy was abundant on the Sharkey sites but absent on adjacent Dowling soils. 
+Sedges and cypress were common on adjacent Dowling soils but absent on the Sharkey sites. 
+References Cited
+Allison, L.E. 1935. Organic soil carbon by reduction with chromic acid. Soil Sci. 40:311-320. 
+
+Arnold, J.R., and W.F. Libby. 1951. Radiocarbon dates. Science 113:111-120. 
+
+Blake, G.R. 1965. Bulk density: core method. In C. H. Black (ed.) Methods of Soil Analysis, Part 1. Agron. 9:375-377. Amer. Soc. Agron., Madison, Wis. 
+
+Bloomfield, C. 1950. Some observations on gleying. J. Soil Sci. 1:205-211. 
+
+Bloomfield, C. 1951. Experiments on mechanisms of gley formation. J. Soil Sci. 2:196-211. 
+
+Bloomfield, C. 1952, The distribution of iron and aluminum oxides in gley soils. J. Soil Sci. 3:167-171. 
+
+Blume, H.P., and U. Schwertman. 1969. Genetic evaluation of profile distribution of Al, Fe, and Mn oxides. Soil Sci. Soc. Am. Proc. 33:438-444. 
+
+Brown, L. 1970. Soils of the Southern Mississippi River Valley Alluvium. Southern Coop Series Bull. 178. Ark. Exp. Station, Univ. Arkansas, Fayetteville, AR. 112p. 
+
+Buol, S.W., F.D. Hole, and R.J. McCracken. 1973. Soil Genesis and Classification. The Iowa State University Press. 360p. 
+
+Cogger, C.G., P.E. Kennedy, and D. Carlson. 1992. Seasonally saturated soils in Puget Lowland II. Measuring and interpreting redox potentials. Soil Science 154:50-58. 
+
+Daniels, R.B., G.H. Simonson, and R.L. Handy. 1961. Ferrous iron content and color of sediments. Soil Sci. 91:378-382. 
+
+Daniels, R.B., E.E. Gamble, and S.W. Buol. 1973. Oxygen content in the ground water of some North Carolina Aquults and Udults. Field Soil Water Regime 153-166. 
+
+Day, P.R. 1965. Particle fractionation and particle size analyses. In C. A. Black (ed.) Methods of Soil Analysis, Part 1, Agron. 9:552-562. Amer. Soc. Agron., Madison, WI. 
+
+Dobos, R.R, E.J. Ciolkosz, and W.J. Waltman. 1990. The effect of organic carbon, temperature, time, and redox conditions on soil color. Soil Sci. 150:506-572. 
+
+Fowlkes, T., G.G. Morgan, J.A. Herren, D.D. Mason, and L.A. Davidson. 1956. Soil Survey of Tunica County, Mississippi, USDA Series 1942. No. 14. 86p. and maps. 
+
+Gardner, W.H. 1965. Water content of soils by direct methods. In C.A. Black (ed.) Methods of Soil Analysis, Part I, Agronomy 9:82-84. Amer. Soc. Agron., Madison, WI. 
+
+Gotoh, S., and W.H. Patrick, Jr. 1974. Transformation of iron in a waterlogged soil as influenced by redox potential and pH. Soil Sci. Soc. Amer. Proc. 38:66-70. 
+
+Holmes, R.S., and W.E. Hearn. 1942. Chemical and physical properties of some important alluvial soils of the Mississippi drainage basin. Tech. Bull. 833. USDA, Washington, DC. 82p. 
+
+Jackson, M.L. 1979. Soil chemical analysis -- Advanced Course. 2nd ed. Madison, WI. 
+
+Jackson, M.L. 1982. Method for digestion with hydrofluoric, sulfuric and perchloric acids. p. 7-8. In A.L. Page et al. (Ed.) Methods of soil analysis. Part 2. Agron. Mongr. 9. Madison, WI. 
+
+Jenny, H. 1941. Factors of Soil Formation. McGraw. 
+
+Karathanasis, A.D., and B.F. Hajek. 1985. Shrink-swell potential of montmorillonitic soils in udic moisture regimes. Soil Sci. Soc. Am. J. 49:159-166. 
+
+Klute, A. 1965. Laboratory measurements of hydraulic conductivity of saturated soil. In C.A. Black (ed.) Methods of Soil Analysis, Part I. Agron. 9:214-215. Amer. Soc. Of Agron., Madison, WI. 
+
+Logan, W.N. 1916. The soils of Mississippi. Miss. Agric. Exp. Station Tech. Bull. No. 7. Mississippi State University. 
+
+Mausbach, M.J., and J.L. Richardson. 1994. Biogeochemical processes in hydric soil formation. Current Topics in Biogeochemistry, Vol. 1:68-127. Wetland Biogeochemistry Institute, Louisiana State University. 
+
+McDaniel, P.A., and S.W. Buol. 1991. Manganese distributions in acid soils of the North Carolina Piedmont. Soil Sci. Soc. Am. J. 55:152-158. 
+
+McKeague, J.A., and J.H. Day. 1961. Dithionite and oxalate-extractable Fe and Al as aids in differentiating various classes of soils. Can. J. Soil Sci. 46:13-22. 
+
+Mermut, A.R., K. Ghebre-Egziabhier, and R.J. St. Arnaud. 1984. The nature of smectites in some fine textured lacustrine parent materials in southern Saskatchewan. Can. J. Soil Sci. 64:481-494. 
+
+Morris, W.M. 1961. Washington County Mississippi Soil Survey. USDA-SCS. U.S. Govt. Printing Office, Washington, DC. 42p. and maps. 
+
+Peech, M. 1965. Exchange acidity. In C.A. Black (ed.) Methods of Soil Analysis, Part I. Agron. 9:914-926. Amer. Soc. Agron., Madison, Wis. 
+
+Pettry, D.E. 1977. Soil resource areas of Mississippi. MAFES. Info. Sheet 1278. 
+
+Ransom, J.D., and N.E. Smeck. 1986. Water table characteristics and water chemistry of seasonally wet soils of southwestern Ohio. Soil Sci. Soc. Am. J. 50:1281-1289. 
+
+Richards, L.A. 1949. Methods of measuring soil moisture. Soil Sci. 68:95-112. 
+
+Richardson, J.L., and F. Hole. 1979. Mottling and iron distribution in a Glossoboralf-haplaquoll hydrosequence on a glacial moraine in Northwestern Wisconsin. Soil Sci. Soc. Amer. J. 43:552-557. 
+
+Santos, M.C.D., R.J. St. Arnaud, and D.W. Anderson. 1986. Iron redistribution in these Boralfs (Gray Luvisols) of Saskatchewan. Soil Sci. Soc. Am. J. 50:1272-1277. 
+
+Saucier, R.T. 1974. Quaternary geology of the Lower Mississippi River Valley. Ark. Geol. Survey Research Series No. 6, Ark. Arch. Survey. Univ. of Ark., Fayetteville, AR. 26pp. 
+
+Schumacher, B.A., W.J. Day, M.C. Amacher, and B.J. Miller. 1988. Soils of the Mississippi River Alluvial Plain in Louisiana. Louisiana Agri. Exp. Sta. Bull. 796. Louisiana State University. 275p. 
+
+Schwertmann, U., and D.S. Fanning. 1976. Iron-manganese concretions in hydrosequences of soils in loess in Bavaria. Soil Sci. Soc. Am. J. 40:730-738. 
+
+Scott, F.T., L.B. Walton, E.E. Nail, V.H. McGehee. 1975. Soil Survey of Yazoo County, Mississippi. USDA-SCS. U. S. Govt. Printing Office. Washington, DC. 51p. and maps. 
+
+Soil Conservation Service. 1987. Hydric soils of the United States. USDA. U. S. Govt. Printing Office, Washington, DC. 
+
+Schafer, W.M., and M.J. Singer. 1976. A new method of measuring shrink-swell soil pastes. Soil Sci. 143:50-55. 
+
+Simonson, R.W. 1956. Genesis, morphology, and classification of in Tunica County, Mississippi, Soil Survey, pp. 61-79. U.S. Govt. Printing Office, Washington, DC. 
+
+Soil Survey Staff. 1994. Keys to Soil Taxonomy, 6th ed. USDA-SCS, Washington, DC. 
+
+U.S. Dept. Agr. 1981. Land resource regions and major land resource areas of the United States. Agr. Handbook 296. U.S. Govt. Printing Office, Washington, DC. 
+
+U.S. Dept. Agr. Soil Survey Staff. 1992. Soil survey laboratory methods manual. Soil Survey Investigations Report No. 42. National Soil Survey Center, Lincoln, NE. 400p. 
+
+U.S. Dept. Soil Survey Staff. 1975. Soil taxonomy. A basic system of soil classification for making and interpreting soil surveys. Agric. Handbook No. 436. SCS-USDA, Washington, DC. 
+
+USDA Soil Survey Staff. 1993. Soil Survey Manual. USDA Agric. Handb. No. 18. U.S. Govt. Printing Office, Washington, DC. 
+
+Veihmeyer, F.J., and A.H. Hendrickson. 1931. The moisture equivalent as a measure of field capacity of soils. Soil Science 32:181-194. 
+
+Wax, C.L., and J.C. Walker. 1986. Climatological patterns and probabilities of weekly precipitation in Mississippi. MAFES Info. Bull. 79. Mississippi State University. 150p. 
+"|"564204"|"2592462"
+01/09/2013 00:00:00|"Miscellaneous notes"|"Quality Assurance"|"Documentation"|"Supporting Documentation for Quality Assurance
+of
+SDJR  MLRA 131A  Sharkey clay, 0 to 1 percent slopes, rarely flooded
+
+Map Units comprising: 
+-   
+-   Sharkey clay                Ascension Parish, Louisiana LA005
+-	Sharkey clay				Avoyelles Parish, Louisiana	LA009	
+-	Sharkey clay				Catahoula Parish, Louisiana	LA025
+-	Sharkey clay				Concordia Parish, Louisiana	LA029
+-	Sharkey clay				East Carroll Parish, Louisiana	LA035
+-	Sharkey clay				Franklin Parish, Louisiana	LA041
+-   Sharkey clay                Iberville Parish, Louisiana LA047
+-   Sharkey clay                Lafayette Parish, Louisiana LA055
+-	Sharkey clay				La Salle Parish, Louisiana	LA059
+-	Sharkey clay				Madison Parish, Louisiana	LA065
+-   Sharkey clay                Pointe Coupee Parish, Louisiana LA077
+-	Sharkey clay				Richland Parish, Louisiana	LA083 
+-   Sharkey clay                St. Landry Parish, Louisiana LA097
+-   Sharkey clay                St. Martin Parish, Louisiana LA099
+-	Sharkey clay				Desha County, Arkansas AR041 
+-   Sharkey clay                West Baton Rouge Parish, Louisiana LA121
+-   Sharkey clay                West Feliciana Parish, Louisiana LA125
+-	Sharkey clay, 0 to 1 percent slopes	Tensas Parish, Louisiana		LA107
+
+Project:  SDJR  MLRA 131A  Sharkey clay, 0 to 1 percent slopes, rarely flooded
+	(Rec ID: 47850)
+	
+National Map Unit Symbol: 2rv6m
+MLRA Map Unit: MLRA 131A - Sharkey clay, 0 to 1 percent slopes, rarely flooded 
+(Rec ID: 2557426)
+MLRA Data Map Unit: MLRA 131A  Sharkey C, 0-1% , rarely flooded
+(Rec ID: 646442)
+MUDs and TUDs reviewed for this project are:
+Soil Survey of Avoyelles Parish, Louisiana (Issued September 1986)
+ Sharkey clay (Sa)
+ Soil Survey of Catahoula Parish, Louisiana (Issued November 1986)
+ Sharkey clay (Sh)
+Soil Survey of Concordia Parish, Lousiana (Issued February 1988)
+Sharkey clay (Sh)
+Soil Survey of East Carroll Parish, Louisiana (Issued February 1988)
+Sharkey clay (Se)
+Soil Survey of Franklin Parish, Louisiana (Issued August 1981)
+Sharkey clay (Sh)
+Soil Survey of La Salle Parish, Louisiana (Issued October 1991)
+Sharkey clay (Sg)
+Soil Survey of Madison Parish, Lousiana (Issued May 1982)
+Sharkey clay (Sc)
+Soil Survey of Richland Parish, Louisiana (Issued September 1993)
+Sharkey clay (Sa)
+Soil Survey of Desha County, Arkansas (Issued March 1972)
+Sharkey clay (Sh)
+Soil Survey of Tensas Parish, Louisiana  (Issued 2006)
+Sharkey clay, 0 to 1 percent slopes (ShA) 
+Soil Survey of Ascension Parish, Louisiana (Issued 1976)
+Sharkey clay (Sc)
+Soil Survey of Iberville Parish, Louisiana (Issued 1977)
+Sharkey clay (Sc)
+Soil Survey of Lafayette Parish, Louisiana (Issued 1977)
+Sharkey clay (24)
+Soil Survey of Pointe Coupee and West Baton Rouge Parish, Louisiana (Issued 1982)
+Sharkey clay (Sf)
+Soil Survey of St.Landry Parish, Louisiana (Issued 1986)
+Sharkey clay (Sh)
+Soil Survey of St. Martin Parish, Louisiana (Issued 1977)
+Sharkey clay (Sh)
+Soil Survey of West Feliciana Parish, Louisiana (Issued 1991)
+Sharkey clay (Sa)
+
+
+
+
+The MUDs and TUDs entered into database for this project are:
+The Representative Profile of Sharkey clay from the Soil Survey of Avoyelles Parish, Louisiana (Issued 1986) was entered into NASIS Pedon.  (User Site ID:  1986LA009SharkeyC_0-1%, Rare_Flooding_TP; User Pedon ID: 1986LA009SharkeyC_0-1%, Rare_Flooding_MUTP).
+The Representative Profile of Sharkey clay from the Soil Survey of Catahoula Parish, Louisiana (Issued 1986) was entered into NASIS Pedon.  (User Site ID: 1986LA025SharkeyC_0-1%, Rare_Flooding_TP; User Pedon ID: 1986LA025Sharkey_C_0-1%, Rare_Flooding_MUTP).
+The Representative Profile of Sharkey clay from the Soil Survey of Concordia Parish, Louisiana (Issued 1988) was entered into NASIS Pedon.  (User Site ID: 1988LA029SharkeyC_0-1%, Rare_Flooding_TP; User Pedon ID: 1988LA029Sharkey_C_0-1%, Rare_Flooding_MUTP).
+The Representative Profile of Sharkey clay from the Soil Survey of East Carroll Parish, Louisiana (Issued 1988) was entered into NASIS Pedon.  (User Site ID: 1988LA035SharkeyC_0-1%, Rare_Flooding_TP; User Pedon ID: 1988LA035Sharkey_C_0-1%, Rare_Flooding_MUTP).
+The Representative Profile of Sharkey clay from the Soil Survey of Franklin Parish, Louisiana (Issued 1981) was entered into NASIS Pedon.  (User Site ID: 1981LA041SharkeyC_0-1%, Rare_Flooding_TP; User Pedon ID: 1981LA041Sharkey_C_0-1%, Rare_Flooding_MUTP).
+The Representative Profile of Sharkey clay from the Soil Survey of Madison Parish, Louisiana (Issued 1982) was entered into NASIS Pedon.  (User Site ID: 1982LA065SharkeyC_0-1%, Rare_Flooding_TP; User Pedon ID: 1982LA065Sharkey_C_0-1%, Rare_Flooding_MUTP).
+The Representative Profile of Sharkey clay from the Soil Survey of Richland Parish, Louisiana (Issued 1993) was entered into NASIS Pedon.  (User Site ID: 1993LA083SharkeyC_0-1%, Rare_Flooding_TP; User Pedon ID: 1993LA083Sharkey_C_0-1%, Rare_Flooding_MUTP).
+The Representative Profile of Sharkey clay from the Soil Survey of Desha County, Arkansas (Issued 1972) was entered into NASIS Pedon.  (User Site ID: 1972AR041SharkeyC_0-1%, Rare_Flooding_TP; User Pedon ID: 1972AR041Sharkey_C_0-1%, Rare_Flooding_MUTP).
+
+Representative Profiles of  Sharkey clay entered into NASIS for Louisiana 7-DEN are:(with user site ID)
+Ascension Parish   1972LA005015             Pointe Coupee Parish     1980LA077010
+St. Landey Parish  1983LA097013             St. Martin Parish    1974LA099015
+West Baton Rouge Parish 1980LA121006        West Feficiana Parish  1992LA125018
+Location of text notes:
+Text notes associated with this project can be found in Project Text, Pedon Text, Map Unit Text, and Data Map Unit Text, and Component Text tables.
+Location of MUD:
+NASIS Map Unit Text table:  Map Unit Description - MU Concept
+Future field projects:
+1) Minor Components of the Sharkey clay, 0 to 1 percent slopes, rarely flooded map unit need to be refined for each MLRA project office in the Lower Mississippi Valley.  Data needed for minor components includes:  named series components and percentages.  Due to the age of the map unit data in older soil survey manuscripts, minor components were not listed and data does not exist to support defined minor components in all areas of the LMV.  The question of how many of the minor components to include in the MLRA MU remains, as does the question of separating one MLRA MU into multiple MUs based on minor components.
+2) Determine Ecological Site Index for Sharkey clay soils.  Ecological Site Inventory data does not exist for Sharkey clay soils in the Lower Missisippi Valley.  Missouri has some data available for their Sharkey  mapunits, but it is not known whether these will apply to the entire LMV.  This is a project that involves the Ecological site specialists from all 3 MLRA 131A/134 project offices.  ESI data must be determined and then the data can be populated in each of the Sharkey clay MLRA MU as necessary.
+Possibly useful data:  USDA Forest Service Research Paper SO-127 ""Hardwood Suitability for and Properties of Important MidSouth Soils"" by Walter M. Broadfoot, Southern Forest Experiment Station, Forest Service, USDA, 1976.
+Revisions and Corrections to OSD:
+Revisions and corrections to OSD have been turned in by 7-MET Office as part of a collaborative effort between 7-MIL, 7-MET and 7-DEN.  Revisions and corrections include:  converting English units to metric units and refining the elevation data from 20 to 250 feet to 1.5 meters to 97 meters (from Louisiana to Missouri).  Also, the MO office responsible was changed from Temple, Texas to Auburn, AL.  
+Lab data available:
+KSSL lab data reviewed included a query for all Sharkey pedons available since there were none specifically sampled for Sharkey clay, 0 to 1 percent slopes, rarely flooded.  
+
+User_site_id		
+User_pedon_id
+03MO143002		03MO143002
+03MO143003		03MO143003
+03MO143004		03MO143004
+05MO201001		05MO201001
+45MS143017		45MS143017
+45MS143018		45MS143018
+57AR105001		57AR105001
+58AR105001		58AR105001
+60KY075007		60KY075007
+60KY075008		60KY075008
+71LA051012		71LA051012
+72LA123001		72LA123001
+78MO023002		78MO023002
+86LA065002		86LA065002
+88LA047002		88LA047002
+97MS000000		97MS000000
+97MS143001		97MS143001
+97MS143002		97MS143002
+97MS143003		97MS143003
+97MS143004		97MS143004
+98LA097002		98LA097002
+98LA097002A		98LA097002A
+98MS133001		98MS133001
+98MS133003		98MS133003
+99MS125002		99MS125002
+99MS125004		99MS125004
+99MS151001		99MS151001
+99MS151002		99MS151002
+99MS151004		99MS151004
+99MS151005		99MS151005
+99MS151006		99MS151006
+99MS151009		99MS151009
+99MS151010		99MS151010
+99MS151011		99MS151011
+99MS151012		99MS151012
+S05MS163		S05MS163-001
+
+
+
+
+Literature Review
+Literature reviewed for this project not only included the soil survey manuscripts, but also technical publications.  
+Geomorphology and Quaternary Geologic History of the Lower Mississippi River Valley by Roger T. Saucier, Volumes I and II, US Army Corps of Engineers, Vicksburg, 1994.
+Sharkey Soils in Mississippi by David E. Pettry and Richard E. Switzer, Technical Bulletin 1057, Mississippi Agriculture and Forestry Experiment Station, 1996.
+"|"564204"|"2592463"
+02/06/2013 00:00:00|"Miscellaneous notes"|"Projects"|"Future"|"Future Projects dealing with Sharkey clay, 0 to 1 percent slopes, rarely flooded include:
+1)  Investigating local phases drained versus undrained.  Should we split Sharkey map units into drained and undrained phases?  How would this be possible in the field (spatially) and in the database?  What would interpretations look like?  Is it necessary or does the OSD statement cover it?
+
+2) Flood phases of Sharkey clay map units in Chicot County, Arkansas need to be investigated.  Sharkey clay map units join both Desha County, AR and East Carroll Parish, LA, but do not share the ""rarely flooded"" phase.  Chicot County Sharkey clay map units are currently listed as ""none"" flood phase.  Since both Clay and Macon Bayous and their floodplains extend into Desha County, AR and East Carroll Parish, LA, respectively and each have ""rarely flooded"" Sharkey clay map units in those respective counties, the flood phases of Chicot County, AR Sharkey clay mapunits must be investigated further and likely updated to the ""rarely flooded"" phase. 
+
+3)  Minor Components:  should be refined for various parts of the LMV, soils and their percentages.
+4)  Ecological Site Inventory:  data is currently unavailable, but it should be a priority project later to develop an ESI with the 3 Ecological Site specialists in the LMV."|"564204"|"2592464"
+04/30/2013 00:00:00|"Edit notes"|"Map Unit"|"Name"|"Map Unit name was changed to add ""south"" because the 7-MIL SSO established the MLRA 131A  Sharkey clay, 0 to 1 percent slopes, rarely flooded, north map unit for Missouri's Sharkey clay, 0-1 percent slopes, rarely flooded map units. The Missouri map unit was phased as a north unit due to slightly differing climate as well as differing LCC. Therefore, ""south"" was added to this name as well."|"564204"|"2592465"
+12/10/2012 00:00:00|"Map unit description"|"map unit concept"||"SDJR MLRA MU - Sharkey clay, 0 to 1 percent slopes
+Map Unit Composition
+Major components
+Sharkey and similar soils: 80 to 95 percent
+Contrasting inclusions
+Dowling: 0 to 5 percent: these soils are depressional, lower on the landscape, and pond occasionally; hydric soil.
+Commerce soils: 0 to 5 percent; these soils are on a higher landscape position on the natural levees and are loamy throughout
+Tunica soils:  0 to 5 percent; these soils are loamy below a depth of 20 to 36 inches
+Characteristics of the Sharkey Soil
+Soil properties and qualities
+Major Land Resource Area: 131Southern Mississippi Valley Alluvium
+Landform: Backswamps on flood plains; broad flats on the lower natural levees
+Parent material: Clayey alluvium
+Slope: 0 to 1 percent
+Surface fragments: None
+Drainage class: Poorly drained
+Slowest permeability: Impermeable (about 0.00 in/hr)
+Available water capacity: Very low (about 2.9 inches)
+Shrink-swell potential: Very high (about 17.0 percent linear extensibility)
+Frequency of flooding: Rare
+Frequency of ponding: None
+Depth to seasonal water saturation: About 0 to 24 inches
+Runoff class: High
+Nonirrigated land capability classification: 3w
+Typical profile
+Surface layer:
+0 to 2 inches; dark grayish brown clay; strongly acid
+2 to 7 inches; dark gray clay; moderately acid
+Subsoil:
+7 to 11 inches; dark gray clay; moderately acid
+11 to 20 inches; dark gray clay; slightly acid
+20 to 28 inches; dark gray clay; neutral
+28 to 49 inches; gray clay; slightly alkaline
+Substratum:
+49 to 80 inches; gray clay; slightly alkaline
+Use and Management
+Major land uses: Cropland and homesites 
+Cropland
+All areas of this soil are prime farmland.
+Careful selection and application of chemicals and fertilizers can minimize
+contamination of ground water.
+Clods can form if the soil is tilled when wet.
+ Compaction can be minimized by controlling traffic.
+The rooting depth is restricted by the very high content of clay.
+Maintaining or increasing the content of organic matter in the soil helps to prevent
+crusting, improves tilth, and increases the rate of water infiltration.
+A subsurface drainage system can help to lower the seasonal high water table. The
+movement of water into the subsurface drains, however, is restricted. Drainage
+guides can be used to determine the spacing requirements for tile.
+Including deep-rooted cover crops in the rotation improves soil structure and
+provides pathways in the clayey subsoil, thereby facilitating the movement of water
+into subsurface drains.
+Pastureland
+ Excess water should be removed, or species of grasses or legumes that are
+adapted to wet soil conditions should be grown.
+Compaction can be minimized by restricting grazing during wet periods.
+Forestland
+The seasonal high water table can restrict root respiration, thereby inhibiting the
+growth of some species of seedlings.
+Because of the low strength of the soil, ruts may form, resulting in unsafe conditions
+and damage to equipment.
+Wetness in the soil can limit the use logging trucks.
+Because of the content of clay, this soil becomes sticky when wet. The stickiness
+increases the cost of constructing haul roads and log landings, reduces the
+efficiency of mechanical planting equipment, and restricts the use of equipment for
+site preparation to the drier periods.
+Building sites
+ This soil is generally unsuited to building site development. It is subject to rare
+flooding under unusual weather conditions. The flooding can result in physical
+damage and costly repairs to buildings. Special design of structures, including farm
+outbuildings, may be needed to avoid the damage.
+In some areas, the high content of clay in the subsoil increases the difficulty of
+digging, filling, and compacting the soil material in shallow excavations.
+Septic tank absorption fields
+ Because of the seasonal high water table, this soil is generally unsuitable as a site
+for septic tank absorption fields.
+ Flooding limits the absorption and proper treatment of effluent from septic systems.
+Rapidly moving floodwater can damage some components of septic systems.
+Local roads and streets
+ Because of shrinking and swelling, this soil may not be suitable as base material for
+local roads and streets.
+The seasonal high water table affects the ease of excavation and grading and limits
+the load-bearing capacity of the soil.
+ Roads and bridges need special design to avoid the damage caused by flooding.
+ 
+ Future Projects dealing with Sharkey clay, 0 to 1 percent slopes, rarely flooded include:
+1)  Investigating local phases drained versus undrained.  Should we split Sharkey map units into drained and undrained phases?  How would this be possible in the field (spatially) and in the database?  What would interpretations look like?  Is it necessary or does the OSD statement cover it?
+
+2) Flood phases of Sharkey clay map units in Chicot County, Arkansas need to be investigated.  Sharkey clay map units join both Desha County, AR and East Carroll Parish, LA, but do not share the ""rarely flooded"" phase.  Chicot County Sharkey clay map units are currently listed as ""none"" flood phase.  Since both Clay and Macon Bayous and their floodplains extend into Desha County, AR and East Carroll Parish, LA, respectively and each have ""rarely flooded"" Sharkey clay map units in those respective counties, the flood phases of Chicot County, AR Sharkey clay mapunits must be investigated further and likely updated to the ""rarely flooded"" phase. 
+
+3)  Minor Components:  should be refined for various parts of the LMV, soils and their percentages.
+4)  Ecological Site Inventory:  data is currently unavailable, but it should be a priority project later to develop an ESI with the 3 Ecological Site specialists in the LMV.
+"|"564204"|"2592466"
+12/05/2012 00:00:00|"Edit notes"|"Component"|"Minor"|"Discussion with Edgar Mersiovsky (SRSS) and joining project leaders Caleb Gulley and Burnell Muse resolved with a consensus that the 3 most common, minor, dissimilar, and limiting components would be included.  It was agreed that these are:  Commerce, Tunica, and Dowling.  Component and horizon data for each will be from LA107 (Tensas Parish, LA) for both Commerce (LA107 CcA) and Tunica (LA107 TnA) and from MS143 (Tunica County, MS) for Dowling (MS143125).  These minor components will serve as place-holders until SDJR projects on the minor soils can refine their data."|"564204"|"2592497"
+11/26/2012 00:00:00|"Edit notes"|"DMU note"|"DMU construction"|"This MLRA DMU MLRA 131A - Sharkey C, 0-1%, rare flooding is based on the Tensas Parish, LA Sharkey C, 0-1% slopes (LA107ShA) data mapunit.  Project leaders in the LMV agreed that it was a good representative DMU to use in this SDJR project.  Therefore, the components were copied and then the necessary edits have been made in it to reflect the LMV Sharkey C, 0-1% slopes, rarely flooded concept.
+
+The Tunica County, Mississippi DMU, 143270, was added to this project after it's intial QA (4-29-2013). This DMU comes from National Map Unit 1vllx. A decision was made that this MU/DMU are a fit to the concept of this MLRA MU/DMU. Missouri MUs/DMUs will become a 'north' phase of the rarely flooded Sharkey clay map units because of their differing minor components and LCC of 4w. More resolution is needed on this issue."|"564204"|"2592498"
+01/08/2013 00:00:00|"Miscellaneous notes"|"DMU note"|"Pedons"|"Pedons linked to the new MLRA MU/DMU include the following (which can also be found in Component Pedon):
+1992LA125018; 1974LA099015; 1972LA005015; 1983LA097013; 1976LA055014; 1980LA077010;LA033-SeA; 00LA047001; 1972AR041Sharkey_C_0-1%, Rare_Flooding_MUTP; 1981LA041Sharkey_C_0-1%, Rare_Flooding_MUTP; 198LA065Sharkey_C_0-1%, Rare_Flooding_MUTP; 1986LA009Sharkey_C_0-1%, Rare_Flooding_MUTP; 1986LA025Sharkey_C_0-1%, Rare_Flooding_MUTP; 1988LA029Sharkey_C_0-1%, Rare_Flooding_MUTP; 1988LA035Sharkey_C_0-1%, Rare_Flooding_MUTP; 1993LA083Sharkey_C_0-1%, Rare_Flooding_MUTP; LA107 ShA Sharkey TL.
+
+Pedons also linked to this MU/DMU include (from the 7-MIL area):
+02MS143_270_0-1_rare; MS143-SHARKEY TP; 45MS143017; 45MS143018; 97MS143001; 97MS143002; 97MS143003; 97MS143004"|"564204"|"2592499"
+02/06/2013 00:00:00|"Miscellaneous notes"|"Projects"|"Future"|"Future Projects dealing with Sharkey clay, 0 to 1 percent slopes, rarely flooded include:
+1)  Investigating local phases drained versus undrained.  Should we split Sharkey map units into drained and undrained phases?  How would this be possible in the field (spatially) and in the database?  What would interpretations look like?  Is it necessary or does the OSD statement cover it?
+
+2) Flood phases of Sharkey clay map units in Chicot County, Arkansas need to be investigated.  Sharkey clay map units join both Desha County, AR and East Carroll Parish, LA, but do not share the ""rarely flooded"" phase.  Chicot County Sharkey clay map units are currently listed as ""none"" flood phase.  Since both Clay and Macon Bayous and their floodplains extend into Desha County, AR and East Carroll Parish, LA, respectively and each have ""rarely flooded"" Sharkey clay map units in those respective counties, the flood phases of Chicot County, AR Sharkey clay mapunits must be investigated further and likely updated to the ""rarely flooded"" phase. 
+
+3)  Minor Components:  should be refined for various parts of the LMV, soils and their percentages.
+4)  Ecological Site Inventory:  data is currently unavailable, but it should be a priority project later to develop an ESI with the 3 Ecological Site specialists in the LMV.
+
+4) Evaluate LCC of this map unit with 2t22y map unit (3w vs. 4w)"|"564204"|"2592500"
+04/30/2013 00:00:00|"Edit notes"|"DMU"|"name"|"Map Unit name was changed to add ""south"" because the 7-MIL SSO established the MLRA 131A  Sharkey clay, 0 to 1 percent slopes, rarely flooded, north map unit for Missouri's Sharkey clay, 0-1 percent slopes, rarely flooded map units. The Missouri map unit was phased as a north unit due to slightly differing climate as well as differing LCC. Therefore, ""south"" was added to this name as well."|"564204"|"2592501"
+04/30/2013 00:00:00|"Miscellaneous notes"|"TP"||"The typical pedon for the Tunica County, Mississippi MU/DMU is:
+02MS143_270_0-1_rare
+
+Other pedons associated with the Tunica County, Mississippi portion of this MU are:
+02MS143_270_0-1_rare; MS143-SHARKEY TP; 45MS143017; 45MS143018; 97MS143001; 97MS143002; 97MS143003; 97MS143004
+"|"564204"|"2592502"
+11/15/2013 00:00:00|"Correlation notes"|"status-added"||"This mapunit was added to the legend with a correlated status as a result of the ""SDJR - MLRA 131A - 1 - Sharkey clay, 0 to 1 percent slopes, rarely flooded"" project 
+"|"564204"|"2592519"
+|"Nontechnical description"|"SOI"|"145"|"Coushatta is a very deep, well drained soil on natural levees and low terraces bordering major streams and their former channels. This soil formed in loamy alluvium. Permeability is moderate and the available water capacity is high. Flooding is frequent for brief periods during the winter and early spring."|"564205"|"2592467"
+|"Nontechnical description"|"AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"564205"|"2592468"
+|"Nontechnical description"|"SOI"|"143"|"Sharkey is a very deep, poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water capacity is high. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet. Flooding is frequent for brief to long periods during the winter and early spring."|"564205"|"2592469"
+|"Nontechnical description"|"SOI"|"144"|"Commerce is a very deep, somewhat poorly drained soil on natural levees. This soil formed in loamy alluvium. Permeability is moderately slow and available water capacity is high. A seasonal water table is within 1.0 to 2.0 feet of the surface during the winter and early spring. Flooding is frequent for brief to long periods during the winter and early spring."|"564205"|"2592470"
+|"Miscellaneous notes"|"NONTECH - AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"564205"|"2592520"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564206"|"2592471"
+|"Nontechnical description"|"SOI"|"066"|"Sharkey is a very deep, poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water capacity is high. This soil has very high shrink-swell potential, and shrinks and cracks when dry and the cracks seal when the soil is wet."|"564206"|"2592472"
+|"Nontechnical description"|"SOI"|"141"|"Desha is a very deep, somewhat poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water is high. This soil has high to very high shrink-swell potential, and shrinks and cracks when dry and the cracks seal when the soil is wet."|"564206"|"2592473"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"564206"|"2592521"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564207"|"2592474"
+|"Nontechnical description"|"SOI"|"066"|"Sharkey is a very deep, poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water capacity is high. This soil has very high shrink-swell potential, and shrinks and cracks when dry and the cracks seal when the soil is wet."|"564207"|"2592475"
+|"Nontechnical description"|"SOI"|"141"|"Desha is a very deep, somewhat poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water is high. This soil has high to very high shrink-swell potential, and shrinks and cracks when dry and the cracks seal when the soil is wet."|"564207"|"2592476"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564207"|"2592522"
+|"Nontechnical description"|"SOI"|"141"|"Desha is a very deep, somewhat poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water is high. This soil has high to very high shrink-swell potential, and shrinks and cracks when dry and the cracks seal when the soil is wet."|"564208"|"2592477"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564208"|"2592478"
+|"Nontechnical description"|"SOI"|"066"|"Sharkey is a very deep, poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water capacity is high. This soil has very high shrink-swell potential, and shrinks and cracks when dry and the cracks seal when the soil is wet."|"564208"|"2592479"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564208"|"2592523"
+|"Nontechnical description"|"SOI"|"016"|"This is a very deep, poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in thin beds of clayey sediments over coarser textured sediments. Permeability is very slow and available water capacity is high. This soil has high to very high shrink-swell potential, and shrinks and cracks when dry and the cracks seal when the soil is wet."|"564209"|"2592480"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564209"|"2592481"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564209"|"2592524"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564210"|"2592482"
+|"Nontechnical description"|"SOI"|"016"|"This is a very deep, poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in thin beds of clayey sediments over coarser textured sediments. Permeability is very slow and available water capacity is high. This soil has high to very high shrink-swell potential, and shrinks and cracks when dry and the cracks seal when the soil is wet."|"564210"|"2592483"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"564210"|"2592525"
+|"Nontechnical description"|"SOI"|"081"|"This is a very deep, poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in thin beds of clayey sediments over coarser textured sediments. Permeability is very slow and available water capacity is high. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet. Flooding is frequent for brief to long periods during the winter and early spring."|"564211"|"2592484"
+|"Nontechnical description"|"AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"564211"|"2592485"
+|"Miscellaneous notes"|"NONTECH - AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"564211"|"2592526"
+|"Nontechnical description"|"AGR"|"025"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, soybeans, and winter small grains. This soil responds well to fertilization, and tilth is easy to maintain by returning crop residue to the soil. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for cropland use or pasture and hayland."|"564212"|"2592486"
+|"Nontechnical description"|"SOI"|"039"|"This is a very deep, well drained soil on natural levees and low terraces bordering major streams and their former channels. This soil formed in loamy alluvium. Permeability is moderate and the available water capacity is high."|"564212"|"2592487"
+|"Miscellaneous notes"|"NONTECH - AGR"|"025"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, soybeans, and winter small grains. This soil responds well to fertilization, and tilth is easy to maintain by returning crop residue to the soil. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for cropland use or pasture and hayland."|"564212"|"2592527"
+09/26/2012 00:00:00|"Correlation notes"|"amendment"|"name change"|"This map unit name should be changed from Not Complete to Yorktown silty clay, ponded, 0 to 1 percent slopes, frequently flooded.  "|"1011978"|"2592512"

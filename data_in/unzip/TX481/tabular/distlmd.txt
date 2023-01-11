@@ -1,0 +1,6 @@
+"Non-MLRA Soil Survey Area"|"TX481"|"Wharton County, Texas"||02/01/1968 00:00:00|"certified, major components"|08/23/2022 22:11:24|"TX481
+The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s) and in the Project Correlation table.
+
+This dataset also contains the following changes:
+
+Recalculated all national, regional, and local interpretations for all components."|"13394"|"78082"|"77984"

@@ -1,0 +1,7 @@
+"Climate Factor Area (USLE)"|"0"|"Climate Factor"|601325|"15092"|"530830"
+"County or Parish"|"AR003"|"Ashley"|601325|"15092"|"530831"
+"MLRA"|"133B"|"Western Coastal Plain"|165207|"15092"|"530832"
+"MLRA"|"134"|"Southern Mississippi Valley Loess"|280057|"15092"|"530833"
+"MLRA"|"131B"|"Arkansas River Alluvium"|156061|"15092"|"530834"
+"Rainfall Factor Area (USLE)"|"375"|"Rainfall Factor"|601325|"15092"|"530835"
+"State or Territory"|"AR"|"Arkansas"|601325|"15092"|"530836"

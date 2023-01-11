@@ -1,0 +1,5 @@
+"Climate Factor Area (USLE)"|"3"|"Climate Factor"|432646|"15186"|"522776"
+"County or Parish"|"MO143"|"New Madrid"|432646|"15186"|"522777"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|432646|"15186"|"522778"
+"Rainfall Factor Area (USLE)"|"250"|"Rainfall Factor"|432646|"15186"|"522779"
+"State or Territory"|"MO"|"Missouri"|432646|"15186"|"522780"

@@ -1,0 +1,2 @@
+"Sheet erosion"|Yes|"23397215"|"2060211"
+"Rill erosion"|No |"23397215"|"2060212"

@@ -1,0 +1,296 @@
+02/23/2009 00:00:00|"Miscellaneous notes"|"evaluation"|"attribute"|"2) Laboratory Data.
+* More pedon data needs to be collected for complete aggregation of all map units.
+
+
+3) Map Unit Composition.
+* Transect data need to be collected on all map units for a comprehensive component composition.
+
+County Summary:
+* Will update fairly easy.
+* Geology breaks need to be made.
+* Base saturation studies need to be made as related to geology and map units.
+* Map units need finer slope breaks.
+
+Aa    Alligator clay                      Alligator clay, 0 to 1 percent slopes, rarely flooded
+Ad    Udifluvents                         Udifluvents , 0 to 3 percent slopes, frequently flooded
+An    Amagon sandy loam                   Amagon sandy loam, 0 to 1 percent slopes
+Br    Bowdre silty clay loam              Bowdre silty clay loam, 0 to 1 percent slopes, rarely flooded
+Bv    Bruno-Crevasse complex              Bruno-Crevasse complex, 0 to 1 percent slopes, rarely flooded
+Cm    Commerce silt loam                  Commerce silt loam, 0 to 1 percent slopes
+Cn    Convent fine sandy loam             Convent very fine sandy loam, 0 to 1 percent slopes
+Cr    Crevasse loamy sand                 Crevasse loamy sand, 0 to 1 percent slopes, rarely flooded
+Cw    Crowley silt loam                   Crowley silt loam, 0 to 1 percent slopes
+Du    Dundee silt loam                    Dundee silt loam, 0 to 1 percent slopes
+Dv    Dundee-Dubbs-Crevasse complex       Dundee-Dubbs-Crevasse complex, 0 to 1 percent slopes
+Ec    Earle clay                          Earle clay, 0 to 1 percent slopes
+Fe    Forestdale silt loam                Forestdale silt loam, 0 to 1 percent slopes, rarely flooded
+Fo    Forestdale silty clay loam          Forestdale silty clay loam, 0 to 1 percent slopes, rarely flooded
+Fr    Forestdale-Routon complex           Forestdale-Routon complex, 0 to 1 percent slopes, rarely flooded
+Ha    Hayti fine sandy loam               Hayti fine sandy loam, 0 to 1 percent slopes, rarely flooded
+Ib    Iberia clay                         Iberia clay, 0 to 1 percent slopes
+Je    Jeanerette silt loam                Jeanerette silt loam, 0 to 1 percent slopes
+Mo    Morganfield fine sandy loam         Morganfield loam, 0 to 1 percent slopes, rarely flooded
+Rd    Routon-Dundee-Crevasse complex      Routon-Dundee-Crevasse complex, 0 to 1 percent slopes
+Sc    Sharkey silty clay loam             Sharkey silty clay loam, 0 to 1 percent slopes
+Sh    Sharkey silty clay                  Sharkey silty clay, 0 to 1 percent slopes
+Sk    Sharkey-Crevasse complex            Sharkey-Crevasse complex, 0 to 1 percent slopes
+Sm    Sharkey-Steele complex              Sharkey-Steele complex, 0 to 1 percent slopes
+Sn    Sharkey and Steele soils            Sharkey and Steele silty clays, 0 to 1 percent slopes
+So    Steele loamy sand                   Steele loamy sand, 0 to 1 percent slopes, rarely flooded
+Sr    Steele silty clay loam              Steele fine sandy loam, 0 to 1 percent slopes, rarely flooded
+Ss    Steele and Crevasse soils           Steele and Crevasse loamy sands, 0 to 1 percent slopes, rarely flooded
+St    Steele and Tunica soils             Steele and Tunica loamy sands, 0 to 1 percent slopes, rarely flooded
+Td    Tiptonville and Dubbs silt loams    Tiptonville and Dubbs silt loams, 0 to 1 percent slopes
+Tu    Tunica silty clay                   Tunica silty clay, 0 to 1 percent slopes
+
+AR093               Mississippi County, Arkansas
+To correct these errors, use the corresponding query to load the data
+Follow the Missouri NASIS Guide to fix the errors in the correct order
+
+
+
+0 - horizons missing AASHTO tables
+122 - horizons with AASHTO rep yes not equal to one
+0 - components with erosion class rep yes not equal to 1
+0 - components with dual part size and only one mineralogy
+0 - horizons with sum of the RV frag volume not equal to the total frag volume
+0 - horizons with sum of the low frag volume greater than the total low frag volume
+0 - horizons with fragment volume>0 and sieves=100
+0 - horizons with wet layer not coresponding to top of restriction layer
+0 - horizons with bulk denstiy <1 and not Organic
+1 - horizons with caco3=0 and pH>7.4
+6 - horizons with CaCO3>0 and a pH<7.4
+0 - components with reaction class for psamments
+0 - horizons with Cr name that do not match the restriction table depth
+0 - horizons with total frag volume greater than 75%
+0 - horizons with sum of the high frag volume less than the total frag volume
+0 - horizons with the sum of fragvol_l >75 percent
+0 - horizons with rv frag volume>75%
+0 - horizons with fragment size class out of range
+0 - horizons with low fragment size is out of range
+0 - horizons with fragment volume=0 and sieves<100
+0 - horizons with missing fragment table with sieve data
+0 - horizons with no k in name and CaCO3 >15
+0 - components with fragipan restriction depths not match X layers
+0 - horizons with null cec7 and pH>5.5
+2 - horizons with clay=0
+0 - horizons with the same hzname
+4 - horizons with names not calculated
+0 - horizons with thickness!=(bottom depth-top depth)
+0 - horizons where sand, silt, clay do not add to 100
+0 - horizons with cec7=0
+122 - horizons with EC_r=0
+0 - horizons with flat modifiers and not flat in fragment table
+0 - horizons with flat modifiers and not flat sizes in fragment table
+0 - horizons with flat shape and not flat sizes in fragment table
+0 - C horizons with structure
+0 - horizons with Kf equal to Kw and frags >5%
+0 - horizons with Kw greater than kf
+0 - horizons with Kw not equal to kf and frags <5%
+0 - horizons with Ksat=0
+0 - horizons with ksat> 4 and lep > 6
+69 - horizons with null values (national required)
+66 - horizons with null sum of bases
+0 - horizons with particle density not 1.40 or 2.65
+0 - horizons with pH CaCl2 high out of range
+0 - horizons with pH Cacl2 low out of range
+2 - horizons with pHw high out of range
+0 - horizons with pHw low out of range
+0 - components with R horizons that do not match resdepth
+AR093               Mississippi County, Arkansas
+To correct these errors, use the corresponding query to load the data
+Follow the Missouri NASIS Guide to fix the errors in the correct order
+
+
+
+0 - components with no restriction table and R or Cr layer
+0 - horizons with sand parts not equal to total sand
+0 - horizons with silt parts not equal to total silt
+80 - horizons with missing structure table
+0 - horizons with null structure group name
+0 - horizons with texture group not calculated
+0 - horizons with missing unified table
+1 - components with weg and wei not corresponding
+0 - horizons with <15 frag not consistent with modifier
+0 - horizons with <35% rock fragments inconsistent very modifier
+0 - horizons with  35to 60 fragments inconsistent with very modifiers
+0 - horizons with >60 fragments not consistent with extreme modifier
+0 - horizons with >60% fragments not consistent with very modifer
+0 - horizons with frag volume not consistent with by modifier
+0 - horizons with frag volume not consistent with cb modifier
+0 - horizons with frag volume not consistent with cn modifier
+0 - horizons with frag volume not consistent with gr modifier
+0 - horizons with frag volume not consistent with st modifier
+80 - horizons with structure group rep !=1
+0 - horizons with densic material in restriction table with X horizon name
+0 - components missing 2D table
+27 - components missing 3D table
+0 - components missing crop table
+0 - components missing mineralolgy table
+0 - components missing moisture class table
+0 - components with two or more crops with the same name
+0 - components are not aquic and are poorly or very poorly drained
+0 - components are very poorly drained and no ponding
+0 - components have a dual texture class and no strongly contrasting layer in restiction table
+0 - components with very frequently flooded
+100 - components with rare or very rare flooding and duration
+0 - components with flooding and no duration
+0 - components missing geomorphic table
+0 - components with unique month!=12
+0 - components with moisture depth null
+0 - components with moisture status null
+317 - component months with missing moisture table
+0 - mapunits with duplicate names
+0 - components with negligible runoff, low ksat and not ponded
+0 - components with null values in component table (national required)
+0 - components with null values in restrictions table with bottom
+0 - components with null values in restrictions table with no bottom
+0 - components with null values in moisture table
+0 - comonents with null values in month table
+0 - components with missing parent material group table
+0 - components with parent material group name is null
+1 - components with parent material group name not calculated
+0 - horizons with particle density not 1.40 or 2.65
+AR093               Mississippi County, Arkansas
+To correct these errors, use the corresponding query to load the data
+Follow the Missouri NASIS Guide to fix the errors in the correct order
+
+
+
+0 - components with runoff and ponded
+0 - components with ponding and no depth
+0 - components with temp class not equal to temp regime
+0 - components with water table top depth low > bottom depth high
+0 - components with a space in the name
+0 - components with null crop yield
+42 - mapunits with no slope in the name
+70 - components with landform/landscape not having rv rows equal to 2
+0 - mapunits with consociation and >1 major component
+1 - mapunits with complex or undifferentiated group and only one major component
+0 - components with inconsistent crop coverkind
+0 - components with inconsistent tree coverkind
+0 - components with inconsistent grass coverkind
+0 - components with major compflag no and >10%
+0 - components with major compflag yes and <10%
+28 - components with null moisture subclass
+0 - datamapunits with component percentage sum not equal 100
+0 - mapunits with correlation rep count!=1
+10 - components with dual part size and missing restrictions table
+0 - mapunits with eroded in name and no erosion class
+0 - components with erosion class and missing accelerated table
+0 - components with different taxonomy classifications
+0 - components with hydric 2* and not aquic
+0 - components with hydric 2* and <poorly drained
+0 - components with hydric 2* and wet layer >30 cm
+0 - components with hydric 3 and not frequently ponded for long duration
+0 - components with hydric 4 and not frequently flooded for long duration
+0 - components not hydric 2* and poorly or very poorly drained
+0 - components not hydric 2* and aquic conditions
+0 - components not hydric 2* and wet layer <30cm
+0 - components not hydric 3 and ponded for long duration
+0 - components not hydric 4 and flooded for long duration
+0 - components with hydric properties missing hydric table
+0 - components with hydric rating no and hydric code not null
+0 - components with hydric rating no and hydriccon not null
+0 - components with hydric rating null
+0 - components with hydric rating yes and  hydric code not exists
+0 - components with hydric rating yes and  hydriccon is null
+0 - components with hydrologic group a not consistent with <low runoff
+17 - components with hydrologic group b or c  not consistent with medium runoff
+19 - components with hydrologic group d not consistent with >high runoff
+0 - mapunits with frag in name missing surface fragments table
+0 - components missing slope shape table
+27 - components with T value not 1-5 or is null
+28 - components with missing tax family mineralology"|"15123"|"78949"
+02/23/2009 00:00:00|"Miscellaneous notes"|"evaluation"|"interpretation"|"1) Known Deficiencies.
+* Flooding needs to be addressed and water table studies conducted.
+* All large scarp slopes on terraces need to have a line feature added or a polygon feature added if large enough.
+* Leveled lands need to be investigated.
+* Foot slope soil units along Crowleys Ridge need to be reevaluated.
+
+7)  The Soil-Landscape Model.
+* Amagon-Dundee-Crevasse:Poorly drained and somewhat poorly drained that are loamy throughout and excessively drained soils that are sand throughout
+* Sharkey-Steele:Poorly drained soils that have a thick clayey subsoil and moderately well drained soils that are sandy in the upper part and clayey in the lower part.
+* Sharkey-Crowley:Poorly drained soils that are clayey in some part of the subsoil
+* Tunica-Bowdre-Sharkey:Moderately well drained and poorly drained soils that are clayey in some par of the subsoil
+* Convent-Morganfield-Crevasse:Somewhat poorly drained to well drained soils that are loamy throughout and excessively drained soils that are sandy throughout
+* Alligator-Earle:Poorly drained and somewhat poorly drained soils that have a dominantly clayey subsoil"|"15123"|"78950"
+02/23/2009 00:00:00|"Miscellaneous notes"|"evaluation"|"spatial"|"4) GIS Evaluation of Line Placement.
+* Water needs adjusting
+* New water needs delineating
+* Levees need delineating
+* Crevassee seems out of place
+* MMA boundary needs adjusting, the ridge is split and does not follow a physiographic landform
+* Flooding is the same on both sides of levee
+
+
+5) Field Verification.
+* Most of the mapping appears fairly good.
+* Slope breaks need refined.
+* Series need to be confined geologically.
+* Flood plains, stream terraces, toe slopes need the most work.
+
+areasymbol	musym	muname	musym_1	muname_1	areasymbol_1
+AR093	St	Steele and Tunica soils	SN	Sharkey soils, frequently flooded	AR111
+AR093	Ha	Hayti fine sandy loam	Ha	Hayti soils	AR111
+AR093	Ha	Hayti fine sandy loam	34	Mhoon fine sandy loam	AR031
+AR093	Sk	Sharkey-Crevasse complex	37	Sharkey clay	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	An	Amagon sandy loam	1	Amagon fine sandy loam	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	Sm	Sharkey-Steele complex	37	Sharkey clay	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	Ha	Hayti fine sandy loam	34	Mhoon fine sandy loam	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	St	Steele and Tunica soils	7	Bruno loamy sand	AR031
+AR093	Je	Jeanerette silt loam	36	Roellen silty clay loam	AR031
+AR093	St	Steele and Tunica soils	7	Bruno loamy sand	AR031
+AR093	Je	Jeanerette silt loam	36	Roellen silty clay loam	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	Je	Jeanerette silt loam	36	Roellen silty clay loam	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	Je	Jeanerette silt loam	36	Roellen silty clay loam	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	So	Steele loamy sand	7	Bruno loamy sand	AR031
+AR093	So	Steele loamy sand	7	Bruno loamy sand	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	Bv	Bruno-Crevasse complex	7	Bruno loamy sand	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	Bv	Bruno-Crevasse complex	7	Bruno loamy sand	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	Td	Tiptonville and Dubbs silt loams	15	Dubbs fine sandy loam, 0 to 1 percent slopes	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	An	Amagon sandy loam	1	Amagon fine sandy loam	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	Dv	Dundee-Dubbs-Crevasse complex	18	Dundee fine sandy loam	AR031
+AR093	Rd	Routon-Dundee-Crevasse complex	20	Dundee-Bruno-Commerce complex	AR031
+AR093	An	Amagon sandy loam	1	Amagon fine sandy loam	AR031"|"15123"|"78951"
+07/14/2009 00:00:00|"Miscellaneous notes"|"evaluation"|"spatial"|"SUMMARY  ITEMS NEEDING TO BE ADDRESSED BY PROJECTS
+*Improve landscape delineation joins at county and state lines. 
+
+*Different fine silty somewhat poorly drained and poorly drained soil series have been mapped in similar landscape positions over time in different soil survey areas.  These include Commerce, Hayti, Mhoon, and Jeanerette on flood plains and the Dundee, Askew Amagon, Routon and other series on terraces.  A study is needed to determine the actual composition of these map units and if soil characteristics and resulting interpretations are sufficiently different to justify several different series for similar soils.
+
+*The extent and impact of land leveling and related alteration for water management and effects on soil properties and interpretations.  Can land-leveled areas be consistently identified and delineated, and can delineation be kept current?  Can leveled areas be described and characterized, and what is the degree of variability within delineations?  Will the delineations and interpretations provide information that is more useful than the original soil maps?  Will the variability within map units be so great that interpretations are useless?"|"15123"|"78952"
+07/14/2009 00:00:00|"Miscellaneous notes"|"evaluation"|"attribute"|"EVALUATION SUMMARY: ITEMS NEEDING TO BE ADDRESSED (PROJECTS)
+*All map units need transecting to determine composition, and physical property data and lab data is needed for all components, especially for benchmark soils.  Specific priority projects are addressed in the following summary. 
+
+*Make flooding frequencies of map units uniform across county / state lines.  New map units may be needed for map units protected / not protected by levee.
+
+*There is very little hydrology / seasonal ground water data for soil series in this survey area and other similar survey areas in this region.  This is one of the major variables in soil characteristics this area and one of the most important characteristics used to generate interpretations.  Data is needed for representative soil series.  Data is also needed for map units that represent different degrees of alteration of natural hydrology by practices including drainage ditches, levees and other alteration including land leveling.  Ground water data is also needed for the same map unit on the protected side of the levee compared to the river side of the levee (batture).
+
+*A study is needed of soil color / morphology and related hydrology / drainage classes of clayey soils including Sharkey, Tunica and associated complexes.  Establish a landscape model for separating components with different hydrology within these map units, or if not separable, characterize composition of existing map unit.  LIDAR data would be useful in this project.
+
+*A study is needed to address soil color / morphology and hydrology / drainage classes of non-clayey map units and establish a landscape model for separating components, or characterize map unit composition.  This project will be related to ongoing region-wide Dundee study.
+
+*Accurately determine composition of multi-component map units based on current series concepts.  No transect data is available.  Multi component units do not join well with surrounding surveys.  The Routon-Dundee-Crevasse complex has a large extent and does not join well with surrounding areas.  The name of this unit appears to have been changed in correlation.
+
+*Investigate extent and pattern of occurrence of Mollisols and mollic intergrades, and non-mollic dark surface horizons.  A regional study is needed to determine the extent and limits of these soils within MLRA 131 and to insure consistent mapping of these series across county and state lines.  Include investigation of whether clayey surface horizons meet structure, hardness and organic matter content required for mollic epipedon.
+
+*Study of textural family classes of loamy soils on natural levees.  Several different series including Robinsonville, Morganfield, and Carruthersville have been mapped on the same landscape position in existing soil surveys within the region.  The study should also include non-well-drained series including Convent, Adler."|"15123"|"78953"
+07/14/2009 00:00:00|"Miscellaneous notes"|"evaluation"|"interpretation"|"EVALUATION SUMMARY: ITEMS NEEDING TO BE ADDRESSED (PROJECTS)
+*Make interpretations more uniform across adjoining map units at county and state lines.  Review NASIS data and interpretation rationale and revise NASIS data to produce better matches of interpretations at county / state lines.  Focus on most frequently used interpretations, including hydric soil map units.  Review and determine which map units are considered to be acceptable joins.
+
+*Review interpretation criteria for surface irrigation.  Most map units show as very limited.  This is currently one of the most rapidly increasing practices in the county.  Can an interpretation be made for potential for precision land leveling?"|"15123"|"78954"
+08/06/2019 00:00:00|"Edit notes"|||"Changed status from ""Updated Needed"" to 
+""Published"""|"15123"|"78955"

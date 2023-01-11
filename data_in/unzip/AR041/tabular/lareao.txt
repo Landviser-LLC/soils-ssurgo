@@ -1,0 +1,6 @@
+"Climate Factor Area (USLE)"|"0"|"Climate Factor"||"15106"|"531173"
+"County or Parish"|"AR041"|"Desha"|522028|"15106"|"531174"
+"MLRA"|"131B"|"Arkansas River Alluvium"|149372|"15106"|"531175"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|372656|"15106"|"531176"
+"Rainfall Factor Area (USLE)"|"325"|"Rainfall Factor"|522028|"15106"|"531177"
+"State or Territory"|"AR"|"Arkansas"|522028|"15106"|"531178"

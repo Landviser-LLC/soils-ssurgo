@@ -1,0 +1,8 @@
+0|0|1||||"Shell fragments"|2|4|5|"Flat"|"Subrounded"|"noncoherent"|"22283928"|"4803531"
+0|2|2||||"Carbonate nodules"|5|5|20|"Nonflat"|"Subrounded"|"Weakly coherent"|"22283956"|"4803532"
+|0||||||||||||"22283963"|"4803533"
+|0||||||||||||"22283965"|"4803534"
+0|2|2||||"Carbonate nodules"|5|5|20|"Nonflat"|"Subrounded"|"Weakly coherent"|"22284076"|"4803536"
+0|1|1||||"Carbonate nodules"|2|2|2|"Nonflat"|"Subrounded"|"Strongly coherent"|"22284105"|"4803539"
+|0||||||||||||"22284535"|"4803574"
+|0||||||||||||"22284537"|"4803575"

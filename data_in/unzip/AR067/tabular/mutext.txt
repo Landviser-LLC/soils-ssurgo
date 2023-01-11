@@ -1,0 +1,1160 @@
+08/09/2005 00:00:00|"Nontechnical description"|"WQL"|"075"|"These soils have an moderate surface runoff potential and a low leaching index. Nutrient movement to surface waters could be a hazard on these soils. In addition to management practices such as soil tests and proper application rates, a system of practices that reduces runoff and erosion should be planned on these soils."|"565793"|"2596343"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565793"|"2596344"
+|"Nontechnical description"|"SOI"|"002"|"This is a very deep, poorly drained soil on broad flats and in depressions. This soil formed in loamy alluvial sediments. Permeability is slow and available water capacity is high. A perched water table is within 1.0 foot of the surface during the winter and early spring. Slope gradient is typically less than 1 percent."|"565793"|"2596345"
+08/09/2005 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"|"075"|"These soils have an moderate surface runoff potential and a low leaching index. Nutrient movement to surface waters could be a hazard on these soils. In addition to management practices such as soil tests and proper application rates, a system of practices that reduces runoff and erosion should be planned on these soils."|"565793"|"2596510"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565793"|"2596511"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2wn59
+
+MLRA MU Name: Beulah fsl, 0-8%"|"565794"|"2596346"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 131A - Beulah fsl, 0-8%
+"|"565794"|"2596347"
+12/15/2015 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Beulah fine sandy loam, 0 to 8 percent slopes (Nat'l MU Sym: 2wn59) is 
+User Pedon ID: 1971AR067004
+
+Other pedons associated with the 2wn59 MU are:
+
+
+1975AR021002
+1964AR123003 (rep is for 0-3% phase)
+"|"565794"|"2596348"
+01/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"None entered"|"565794"|"2596349"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"1971AR067002
+1975AR021002
+1964AR123003"|"565794"|"2596350"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"565794"|"2596351"
+12/15/2015 00:00:00|"Map unit description"|"map unit concept"||"Mapunit Name - Beulah fine sandy loam, 0 to 8 percent slopes
+
+MLRA 131A - Mississippi Valley Alluvium
+
+Geographic Extent: The Beulah series consists of very deep, somewhat excessively drained soils that have moderately rapid permeability. These soils formed in loamy and sandy alluvium on higher parts of natural levees bordering bayous and along abandoned stream channels. The series is of moderate extent.
+
+Climate:
+Mean annual precipitation: 1194 to 1245 mm (47 to 49 inches)
+Mean annual air temperature: 8.9 to 21.7 degrees C (47 to 70 degrees F)
+Frost-free period: 211 to 285 days
+Soil Moisture Class: Udic
+
+Geographic Setting: High positions along natural levees and broad flats on uplands.
+ 
+Major Component: Beulah	
+
+
+Parent Material: Loamy and sandy alluvium.
+
+
+Typical Vegetation or Crops: Row crops, predominantly soybeans, cotton, and wheat. 
+ 
+
+Mapunit Composition and Reliability: 96% Beulah, aquents 4% (RVs)
+ 
+
+Classification: Coarse-loamy, mixed, active, thermic Typic Dystrudepts 
+
+
+Pertinent soil properties, qualities, and interpretations: Beulah soils are somewhat excessively drained. They have slow to moderate runoff and moderately rapid permeability.
+
+
+Spatial Data Quality: Distribution is patchy, occuring in only three counties, and associated with the St. Francis and Mississippi river flood plains (MLRA 131A) "|"565794"|"2596352"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) Crop yields should be brought up to modern standards (particularly corn)
+
+2) possible state line join concerns (Arkansas to Missouri)
+"|"565794"|"2596353"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"The Beulah OSD was updated to semi-tabular format as part of this OSD project"|"565794"|"2596354"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"No lab data was found during the course of this project"|"565794"|"2596355"
+04/25/2016 00:00:00|"Miscellaneous notes"|"evaluation notes"|"joins"|"possible state line join concerns (Arkansas to Missouri)"|"565794"|"2596356"
+|"Miscellaneous notes"|"NONTECH - AGR"|"029"|"This soil is moderately suited to cultivated crops. Droughtiness, however, is a severe limitation during the summer months, and wind erosion is a severe hazard in the spring. Winter cover crops and crops that leave large amounts of residue are recommended. The main crops are soybeans and winter small grains. This soil is moderately suited to pasture and hayland. Droughtiness is the main restriction. Adapted pasture plants include bahiagrass and bermudagrass."|"565794"|"2596512"
+11/25/2015 00:00:00|"Miscellaneous notes"|"evaluation notes"|"OSD rev. & corr."|"The Bosket OSD was updated with project:
+
+SDJR - MLRA 131A - Bosket fine sandy loam, 0 to 3 percent slopes"|"565795"|"2596357"
+11/25/2015 00:00:00|"Miscellaneous notes"|"evaluation notes"|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"565795"|"2596358"
+11/25/2015 00:00:00|"Miscellaneous notes"|"evaluation notes"|"MUDS & TUDS entered"|"None entered"|"565795"|"2596359"
+11/25/2015 00:00:00|"Map unit description"|"evaluation notes"|"TP"|"The typical pedon for map unit Bosket fine sandy loam, 0 to 1 percent slopes (Nat'l MU Sym: 2wn5c) is 
+User Pedon ID: 1971AR067003
+
+Other pedons associated with the 2wn5b MU are:
+
+
+1974AR095003
+1998MO2075004*
+1973AR075005**
+
+* Rep is for Pedons: 1998MO143003, 1998MO069004, 1998MO201005
+
+** Rep is for 0-3% MU
+"|"565795"|"2596360"
+11/25/2015 00:00:00|"Miscellaneous notes"|"evaluation notes"|"MLRA DMU"|"MLRA Data Map Unit: MLRA 131A - Bosket fsl, 0-1%
+"|"565795"|"2596361"
+11/25/2015 00:00:00|"Miscellaneous notes"|"evaluation notes"|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2wn5c
+
+MLRA MU Name: Bosket fine sandy loam, 0 to 1 percent slopes"|"565795"|"2596362"
+11/25/2015 00:00:00|"Miscellaneous notes"|"evaluation notes"|"lab data"|"No lab data was found during the course of this project"|"565795"|"2596363"
+11/25/2015 00:00:00|"Miscellaneous notes"|"evaluation notes"|"MUDS & TUDS reviewed"|"1971AR067003
+1974AR095003
+1973AR075005*
+
+* Rep is for 0-3% MU
+"|"565795"|"2596364"
+11/25/2015 00:00:00|"Map unit description"|"map unit concept"||"Mapunit Name - Bosket fine sandy loam, 0 to 1 percent slopes
+
+MLRA 131A - Mississippi Valley Alluvium
+
+Geographic Extent: The Bosket series consists of very deep, well drained soils that have moderately rapid permeability. These soils formed in loamy and sandy alluvium on level to gently sloping flood plains and low stream terraces. The series is of moderate extent.
+
+Climate:
+Mean annual precipitation: 1270 to 1346 mm (50 to 53 inches)
+Mean annual air temperature: 7.7 to 21.1 degrees C (46 to 70 degrees F)
+Frost-free period: 192 to 228 days
+Soil Moisture Class: Udic
+
+Geographic Setting: Broad, level and gently sloping stream terraces and broad flats on uplands.
+ 
+Major Component: Bosket
+
+Minor Components:
+
+Aquents - place holder for hydric inclusions
+Beulah - somewhat excessively drained, Dystrudept
+Dundee - somewhat poorly drained, Endoaqualf
+
+
+Parent Material: Loamy and sandy alluvium.
+
+
+Typical Vegetation or Crops: Row crops, predominantly soybeans, cotton, and wheat. 
+ 
+
+Mapunit Composition and Reliability: 89% Bosket, Beulah 4%, aquents 4%, Dundee 3% (RVs)
+ 
+
+Classification: Coarse-loamy, mixed, active, thermic Typic Dystrudepts 
+
+
+Pertinent soil properties, qualities, and interpretations: Beulah soils are somewhat excessively drained. They have slow to moderate runoff and moderately rapid permeability.
+
+
+Spatial Data Quality: Distribution is patchy, occuring in only three counties, and associated with the St. Francis and Mississippi river flood plains (MLRA 131A)  "|"565795"|"2596365"
+11/25/2015 00:00:00|"Miscellaneous notes"|"evaluation notes"|"attribute"|"1) Some crop yield data should be brought up to modern standards (particularly corn)
+2) Invetigate joins with Wiville fine sandy loam, 0 to 1 percent slopes and Teksob loam, 0 to 1 percent slopes in Woodruff County, Arkansas. The joins with Woodruff County create a gap in the spatial distribution of this mapunit (Bosket - Teksob/Wiville in the Western Lowlands)
+
+
+"|"565795"|"2596366"
+|"Miscellaneous notes"|"NONTECH - AGR"|"025"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, soybeans, and winter small grains. This soil responds well to fertilization, and tilth is easy to maintain by returning crop residue to the soil. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for cropland use or pasture and hayland."|"565795"|"2596513"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2wn5d
+
+MLRA MU Name: Bosket fine sandy loam, 0 to 3 percent slopes"|"565796"|"2596367"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 131A - Bosket fsl, 0-3%
+"|"565796"|"2596368"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"None entered"|"565796"|"2596369"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"1976AR121004
+1973AR075005
+1971AR067003"|"565796"|"2596370"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"565796"|"2596371"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) Crop yields (particularly corn) are possibly outdated and should be edited to modern yield expectations.
+
+"|"565796"|"2596372"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"One pedon found, outside counties involved with this project:
+
+Lab data #: 84P0554
+Pedon ID#: 82AR147002"|"565796"|"2596373"
+12/15/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"The Bosket OSD was updated to semi-tabular format during the course of this project"|"565796"|"2596374"
+12/15/2015 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Bosket fine sandy loam, 0 to 3 percent slopes (Nat'l MU Sym: 2wn5d) is 
+User Pedon ID: 1973AR075005
+
+Other pedons associated with the 2wn5d MU are:
+
+1976AR121004
+1971AR067003
+
+"|"565796"|"2596375"
+12/15/2015 00:00:00|"Map unit description"|"map unit concept"||"Mapunit Name - Bosket fine sandy loam, 0 to 3 percent slopes
+
+MLRA 131A - Mississippi Valley Alluvium
+
+Geographic Extent: The Bosket series consists of very deep, well drained soils that have moderate permeability. These soils formed in loamy alluvium on level to gently sloping low stream terraces. The series is of moderate extent.
+
+Climate:
+Mean annual precipitation: 1194 to 1245 mm (47 to 49 inches)
+Mean annual air temperature: 8.9 to 21.7 degrees C (48 to 71 degrees F)
+Frost-free period: 190 to 275 days
+Soil Moisture Class: Udic
+
+Geographic Setting: Broad, level and gently sloping stream terraces and broad flats on uplands.
+ 
+Major Component: Bosket
+
+Minor Components:
+McCrory - Poorly drained, Natraqualf
+Aquents	- place holder for other hydric soils (non-natric)
+
+
+Parent Material: Loamy alluvium
+
+
+Typical Vegetation or Crops: Row crops, predominantly soybeans, cotton, and wheat. 
+ 
+
+Mapunit Composition and Reliability: 90% Bosket, McCrory 5%, Aquents 5% (RVs)
+ 
+
+Classification: Fine-loamy, mixed, active, thermic Mollic Hapludalfs 
+
+
+Pertinent soil properties, qualities, and interpretations: Bosket soils are well drained. They have moderate runoff and moderately rapid permeability.
+
+
+Spatial Data Quality: Distribution is small, occurring in only three counties, and associated with the St. Francis and Mississippi river flood plains (MLRA 131A) of North east Arkansas. "|"565796"|"2596376"
+02/17/2016 00:00:00|"Miscellaneous notes"|"evaluation notes"|"attribute"|"1) Crop yields (particularly corn) are possibly outdated and should be edited to modern yield expectations.
+"|"565796"|"2596377"
+|"Miscellaneous notes"|"NONTECH - AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565796"|"2596514"
+|"Nontechnical description"|"SOI"|"054"|"This is a very deep, somewhat poorly drained soil on broad flats of terraces. This soil formed in loamy sediments underlain by clayey alluvium. Permeability is very slow and available water capacity is high. A perched water table is within 1.0 to 2.0 feet of the surface during the winter and early spring. Depth to layers with high clay content ranges from about 12 to 30 inches."|"565797"|"2596378"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565797"|"2596379"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565797"|"2596515"
+|"Nontechnical description"|"SOI"|"054"|"This is a very deep, somewhat poorly drained soil on broad flats of terraces. This soil formed in loamy sediments underlain by clayey alluvium. Permeability is very slow and available water capacity is high. A perched water table is within 1.0 to 2.0 feet of the surface during the winter and early spring. Depth to layers with high clay content ranges from about 12 to 30 inches."|"565798"|"2596380"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565798"|"2596381"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565798"|"2596516"
+|"Nontechnical description"|"SOI"|"009"|"This is a very deep, well drained soil on higher parts of natural levees bordering abandonded stream channels. The soil formed in loamy alluvium. Permeability is moderate and available water capacity is high."|"565799"|"2596382"
+|"Nontechnical description"|"AGR"|"025"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, soybeans, and winter small grains. This soil responds well to fertilization, and tilth is easy to maintain by returning crop residue to the soil. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for cropland use or pasture and hayland."|"565799"|"2596383"
+|"Miscellaneous notes"|"NONTECH - AGR"|"025"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, soybeans, and winter small grains. This soil responds well to fertilization, and tilth is easy to maintain by returning crop residue to the soil. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for cropland use or pasture and hayland."|"565799"|"2596517"
+|"Nontechnical description"|"SOI"|"009"|"This is a very deep, well drained soil on higher parts of natural levees bordering abandonded stream channels. The soil formed in loamy alluvium. Permeability is moderate and available water capacity is high."|"565800"|"2596384"
+|"Nontechnical description"|"AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565800"|"2596385"
+|"Miscellaneous notes"|"NONTECH - AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565800"|"2596518"
+07/09/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2v7s3
+
+MLRA MU Name: Dundee silt loam, 0 to 1 percent slopes"|"565801"|"2596386"
+07/09/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 131A - Dundee sil, 0-1%
+"|"565801"|"2596387"
+07/09/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"565801"|"2596388"
+07/09/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) Numerous county line joins need to be investigated. Many misjoins are simply slope related.
+"|"565801"|"2596389"
+07/09/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"None found in NCSS Soil Characterization database"|"565801"|"2596390"
+07/09/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"No update/revision to the OSD was identified during the course of this project"|"565801"|"2596391"
+07/09/2015 00:00:00|"Map unit description"|"map unit concept"||"National Mapunit Symbol  2v7s3
+ 
+Mapunit Name - Dundee silt loam, 0 to 1 percent slopes
+
+MLRA 131A - Southern Mississippi Valley Alluvium
+
+Geographic Extent: These mapping units are level to gently sloping natural levees and low terraces along former channels of the Mississippi River and its tributaries in the Southern Mississippi Valley Alluvium Major Land Resource Area; MLRA 131
+
+
+Climate:
+Mean annual precipitation: 894 to 1545 mm (35 to 61 inches)
+Mean annual air temperature: 8.8 to 21.6 degrees C (48 to 71 degrees F)
+Frost-free period: 195 to 269 days
+Soil Moisture Class: aquic
+
+Geographic Setting: 
+Major Component: level to gently sloping soils on natural levees and low terraces along former channels of the Mississippi River and its tributaries in the Southern Mississippi Valley Alluvium Major Land Resource Area
+
+
+Minor Components: 
+Aquents: small narrow drainageways on terrace treads
+Amagon: low concave depressions on terrace treads 
+
+
+Parent Material: loamy alluvium
+
+
+Typical Vegetation or Crops: row crops - Corn, cotton, rice, soybeans, and wheat. Pasture/hayland crops - tall fescue, improved bermudagrass
+ 
+
+Mapunit Composition and Reliability:
+Dundee   89%
+Amagon    6%
+Aquents   5%
+ 
+
+Classification: Fine-silty, mixed, active, thermic Typic Endoaqualfs 
+
+
+Pertinent soil properties and qualities, and interpretations: Typically the surface is Dark grayish brown, friable silt loam; the subsurface is grayish brown friable silt loam; the upper part of the subsoil is grayish brown friable silt loam, the lower subsoil is firm, grayish brown silty clay loam; the lower solum and parent material is friable light grayish brown silt loam. 
+
+
+Reaction: Surface layer - Extremely acid to moderately except where limed; Subsurface and subsoil layers - very strongly acid to moderately acid; parent material (below solum) very strongly acid to slightly alkaline.
+
+
+Other Expert Knowledge Gained Through SDJR: Aquents component does not occur in all mapunit represented in this project. However, most of these mapunits are on very large terrace treads that do have small narrow drainageways that have narrow flood plains, and Amagon would be similar to most aqualf components, thus aquents was chosen to be an RV component.
+
+
+Spatial Data Quality: Numerous county line joins need to be investigated. Many misjoins are simply slope related.
+
+
+
+
+ 
+
+
+
+
+
+"|"565801"|"2596392"
+07/09/2015 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Dundee silt loam, 0 to 1 percent slopes (Nat'l MU Sym: 2v7s3) is 
+User Pedon ID: 1975AR021012
+
+Other pedons associated with the 2v7s4 MU are:
+
+1974AR077009
+1967AR093010
+1976AR031011
+1976AR121011
+1973AR075011
+1971AR067007
+1959AR035006
+1995AR147008
+1971AR107012
+
+
+"|"565801"|"2596393"
+07/09/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"The TUDs for all map units in this project already existed in the NASIS database. They are listed below.
+
+1974AR077009
+1967AR093010
+1975AR021012
+1976AR031011
+1976AR121011
+1973AR075011
+1971AR067007
+1959AR035006
+1995AR147008
+1971AR107012
+"|"565801"|"2596394"
+07/09/2015 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"The MUDs and corresponding TUDs reviewed for this project are:
+
+-Soil Survey of Clay County, Arkansas (Issued July1978)
+   -Dundee silt loam (25)
+   
+-Soil Survey of Craighead County, Arkansas (Issued December 1979)
+   -Dundee silt loam (19)
+   
+-Soil Survey of Crittenden County, Arkansas (Issued October 1974)
+   -Dundee silt loam, 0 to 1 percent slopes (DuA)
+   
+-Soil Survey of Jackson County, Arkansas (Issued December 1974)
+   -Dundee silt loam, 0 to 1 percent slopes (DvA)
+   
+-Soil Survey of Lawrence County, Arkansas (Issued June 1978)
+   -Dundee silt loam, 0 to 1 percent slopes (DvA)
+   
+-Soil Survey of Lee County, Arkansas (Issued August 1977)
+   -Dundee silt loam (Du)
+   
+-Soil Survey of Mississippi County, Arkansas (Issued June 1971)
+   -Dundee silt loam (Du)
+   
+-Soil Survey of Randolh County, Arkansas (Issued April 1980)
+   -Dundee silt loam (16)
+   
+-Soil Survey of Woodruff County, Arkansas (Issued 2003)
+   -Dundee silt loam, 0 to 1 percent slopes (DuA) 
+   
+-Soil Survey of Phillips County, Arkansas (Issued November 1974)
+   -Dundee silt loam (Du)"|"565801"|"2596395"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565801"|"2596519"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565802"|"2596396"
+|"Nontechnical description"|"SOI"|"010"|"This is a very deep, somewhat poorly drained soil on the lower parts of natural levees bordering abandoned stream channels. This soil formed in loamy alluvium. Permeability is moderately slow and available water capacity is high. A seasonal high water table is within 1.0 to 2.0 feet of the surface during the winter and early spring."|"565802"|"2596397"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565802"|"2596520"
+|"Nontechnical description"|"SOI"|"043"|"This is a very deep, well drained soil on floodplains of major streams and their tributaries. This soil formed in loamy alluvium. Permeability is moderate and available water capacity is high. Flooding is occasional for brief to long periods during the winter and spring."|"565803"|"2596398"
+|"Nontechnical description"|"AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565803"|"2596399"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565803"|"2596521"
+|"Nontechnical description"|"SOI"|"030"|"Enders is a deep, well drained soil on sides and tops of hills, mountains, and ridges. This soil formed in a thin layer of loamy colluvium and underlying clayey residuum from acid shale or interbedded shale, siltstone, and sandstone. Permeability is very slow and available water capacity is medium. Shrink-swell potential is high in the subsoil."|"565804"|"2596400"
+|"Nontechnical description"|"AGR"|"003"|"These soils are poorly suited for cultivated crops, and moderately suited for pasture and hay. Runoff is rapid and erosion is a very severe hazard if cultivated crops are grown. Conservation practices need to be intensified as slope length and gradient increase. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"565804"|"2596401"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"565804"|"2596402"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"565804"|"2596495"
+|"Miscellaneous notes"|"NONTECH - AGR"|"003"|"These soils are poorly suited for cultivated crops, and moderately suited for pasture and hay. Runoff is rapid and erosion is a very severe hazard if cultivated crops are grown. Conservation practices need to be intensified as slope length and gradient increase. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"565804"|"2596522"
+09/18/2014 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"||"These soils have an moderate surface runoff potential and a moderate leaching index. Nutrient movement to surface and ground waters could be a hazard on these soils. In addition to management practices such as soil tests, proper application rates and split applications of soluble forms of nutrients, a system of practices that reduces runoff and erosion and minimizes the movement of soluble nutrients below the root zone should be planned on these soils."|"565804"|"2596523"
+|"Nontechnical description"|"SOI"|"030"|"Enders is a deep, well drained soil on sides and tops of hills, mountains, and ridges. This soil formed in a thin layer of loamy colluvium and underlying clayey residuum from acid shale or interbedded shale, siltstone, and sandstone. Permeability is very slow and available water capacity is medium. Shrink-swell potential is high in the subsoil."|"565805"|"2596403"
+|"Nontechnical description"|"AGR"|"005"|"These soils are poorly suited for pasture and are unsuited for cultivated crops. Slope and surface stones restrict the use of most farm equipment. Where pasture is established, plants include tall fescue and native grasses. Some areas can be used for native grass pasture if brush is controlled; however, controlled grazing and fire protection are needed to maintain soil cover and prevent excessive erosions."|"565805"|"2596404"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"565805"|"2596405"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"565805"|"2596496"
+|"Miscellaneous notes"|"NONTECH - AGR"|"005"|"These soils are poorly suited for pasture and are unsuited for cultivated crops. Slope and surface stones restrict the use of most farm equipment. Where pasture is established, plants include tall fescue and native grasses. Some areas can be used for native grass pasture if brush is controlled; however, controlled grazing and fire protection are needed to maintain soil cover and prevent excessive erosions."|"565805"|"2596524"
+|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2v7s5
+
+MLRA MU Name: Foley-Calhoun complex, 0 to 1 percent slopes"|"565806"|"2596406"
+|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 131A - Foley-Calhoun, 0-1%
+"|"565806"|"2596407"
+|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"565806"|"2596408"
+|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedons for this map unit are: 
+
+1973AR075012 (Foley component tp)
+1973AR075006 (Calhoun component tp)
+
+Minor pedons associated with this map unit are:
+
+1973AR075018 (Lafe component tp)
+
+Other pedons:
+
+1971AR067010
+1973AR111014
+
+
+
+"|"565806"|"2596409"
+|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"None entered"|"565806"|"2596410"
+|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"None at this time"|"565806"|"2596411"
+|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"No lab data was found during the course of this project"|"565806"|"2596412"
+|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"Foley:
+1973AR111014
+1973AR075012
+1971AR067010
+
+Calhoun:
+1973AR111006
+1973AR075006
+1971AR067004"|"565806"|"2596413"
+|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) transects for percent composition confirmation
+
+2) soil characterization data possibly needed for these major components (and certainly some elements of the high Na components)
+
+"|"565806"|"2596414"
+|"Map unit description"|"map unit concept"||"National Mapunit Symbol  2v7s5
+ 
+Mapunit Name - Foley-Calhoun complex, 0 to 1 percent slopes
+
+MLRA 131A - Southern Mississippi River Alluvium
+
+Geographic Extent:
+This map unit occurs in a three county area of Arkansas on broad silty flats and low terraces.
+
+
+Climate:
+Mean annual precipitation: 1168 to 1245 mm (46 to 49 inches)
+Mean annual air temperature: 9.4 to 21.7 degrees C (49 to 72 degrees F)
+Frost-free period: 225 to 265 days
+Soil Moisture Class: aquic
+
+Geographic Setting: These soils are on Pleistocene-age terraces in the Lower Mississippi Valley (MLRA 131A)  
+Major Components:  
+Foley
+Calhoun
+
+
+Minor Components:  
+Aquents
+Lafe
+
+Parent Material:
+Foley: silty alluvium high sodium
+Calhoun: loess or loess like material [water reworked loess] with low sand content
+Lafe: silty alluvium high in sodium
+aquents: silty alluvium
+
+Typical Vegetation or Crops:
+Pasture and hayland crops such as Bahia, fescue, and bermudagrass
+Grain crops such as: soybeans, wheat, and rice
+Other crops: Cotton
+
+Mapunit Composition and Reliability (l,rv,h):
+Foley: 50-60-90
+Calhoun: 10-30-34
+
+
+Classification:
+Foley: FOLEY FINE-SILTY, MIXED, ACTIVE, THERMIC ALBIC GLOSSIC NATRAQUALFS 
+Calhoun: CALHOUN FINE-SILTY, MIXED, ACTIVE, THERMIC TYPIC GLOSSAQUALFS 
+Lafe: LAFE FINE-SILTY, MIXED, ACTIVE, THERMIC GLOSSAQUIC NATRUDALFS 
+
+
+Pertinent soil properties and qualities, and interpretations:  
+Foley soils:  Typically the surface is Dark grayish brown, friable silt loam; the subsurface is grayish brown friable silt loam; the upper part of the subsoil is made up of distinct areas of friable, gray brown silt loam with tounges of gray and grayish brown silt loam; the middle part is firm, olive gray silty clay loam; the lower part is firm, olive gray silt loam.
+
+Calhoun soils: Typically the surface is friable dark grayish brown silt loam; the subsurface is friable, gray silt loam; the upper part of the subsoil is friable, gray silt loam with tounges of gray silt loam from the subsurface; the middle part is firm, grayish brown  silty clay loam; the lower part is friable, gray silt loam.
+
+
+
+This unit is moderately suited to agriculture.  Excess water can be a severe hazard; Planting times can be delayed unless surface drainage is provided.  High sodium content in the Foley and Lafe components is also a severe limitation. 
+
+
+Reaction: extremely acid to mildly alkaline
+
+
+Other Expert Knowledge Gained Through SDJR: Historically, the Aqualfs component was included to add a hydric component to the map unit.  At some point this needs to be investigated and a series substituted.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+"|"565806"|"2596415"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565806"|"2596525"
+|"Nontechnical description"|"SOI"|"078"|"McCrory is a very deep, poorly drained soil on broad flats and in depressions. This soil formed in loamy sediments. Permeability is moderately slow and available water capacity is medium. A perched water table is within 1.0 foot of the surface during the winter and early spring. This soil has a high content of sodium and magnesium in the subsoil, typically at a depth of about 20 to 36 inches."|"565807"|"2596416"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565807"|"2596417"
+|"Nontechnical description"|"SOI"|"005"|"Calhoun is a very deep, poorly drained soil on broad flats and in depressions. This soil formed in thick deposits of silty material. Permeability is slow and available water capacity is high. A perched water table is within 1.0 foot of the surface during the winter and early spring."|"565807"|"2596418"
+|"Nontechnical description"|"SOI"|"011"|"Foley is a very deep, poorly drained soil on broad flats and in depressions. This soil formed in loamy sediments. Permeability is very slow and available water capacity is medium. A perched water table is within 1.0 foot of the surface during the winter and early spring. This soil has a high content of sodium and magnesium in the subsoil, typically at a depth of about 20 to 36 inches."|"565807"|"2596419"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565807"|"2596526"
+|"Nontechnical description"|"SOI"|"080"|"Forestdale is a very deep, poorly drained soil on broad flats and in depressions. This soil formed in thin beds of loamy alluvium underlain by clayey alluvium. Permeability is very slow and available water capacity is high. A perched water table is within 1.0 foot of the surface during the winter and early spring. This soil shrinks and cracks when dry, and the cracks seal when the soil is wet."|"565808"|"2596420"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"565808"|"2596421"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"565808"|"2596527"
+|"Nontechnical description"|"SOI"|"054"|"This is a very deep, somewhat poorly drained soil on broad flats of terraces. This soil formed in loamy sediments underlain by clayey alluvium. Permeability is very slow and available water capacity is high. A perched water table is within 1.0 to 2.0 feet of the surface during the winter and early spring. Depth to layers with high clay content ranges from about 12 to 30 inches."|"565809"|"2596422"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565809"|"2596423"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565809"|"2596528"
+10/21/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2v7s6
+
+MLRA MU Name: Jackport silty clay loam, 0 to 1 percent slopes"|"565810"|"2596424"
+10/21/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 131A - Jackport sicl, 0-1% 
+"|"565810"|"2596425"
+10/21/2014 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"The typical pedon for map unit Jackport silty clay loam, 0 to 1 percent slopes (Nat'l MU Sym: 2v7s6) is 1975AR021016
+
+Other pedons associated with the 2v7s6 MU are:"|"565810"|"2596426"
+10/21/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"The representative pedons for non-MLRA soil survey manuscripts associated with this project already existed in the NASIS database. No additional pedon entry was required. 
+
+Pedons associated with this project are as follows.
+
+Jackport component:
+
+The representative profile of Jackport silty clay, from the Soil Survey of Craighaed County, Arkansas (Issued July 1978), User Pedon ID: 1975AR021016 
+
+The representative profile of Jackport silty clay, from the Soil Survey of Jackson County, Arkansas (Issued June 1978), User Pedon ID: 1973AR075017
+
+The representative profile of Jackport silty clay, from the Soil Survey of Monroe County, Arkansas (Issued June 1978), User Pedon ID: 1973AR075017
+
+The representative profile of Jackport silty clay, from the Soil Survey of Poinsett County, Arkansas (Issued June 1978), User Pedon ID: 1973AR075017
+
+The representative profile of Jackport silty clay, from the Soil Survey of Randolf County, Arkansas (Issued June 1978), User Pedon ID: 1973AR075017
+
+The representative profile of Jackport silty clay, from the Soil Survey of White County, Arkansas (Issued June 1978), User Pedon ID: 1973AR075017
+
+The representative profile of Jackport silty clay, from the Soil Survey of Woodruff County, Arkansas (Issued June 1978), User Pedon ID: 1973AR075017"|"565810"|"2596427"
+10/21/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"The MUDs and TUDs reviewed for this project are:
+
+-Soil Survey of Craighead County, Arkansas (Issued Dec 1979)
+  -Jackpost silty clay (27)
+ 
+-Soil Survey of Jackson County, Arkansas (Issued Dec 1974)
+  -Jackpost silty clay (Ja)
+
+-Soil Survey of Monroe County, Arkansas (Issued June 1978)
+  -Jackpost silty clay (Jc)
+
+-Soil Survey of Poinsett County, Arkansas (Issued June 1977)
+  -Jackpost silty clay (Jc)
+
+-Soil Survey of Randolf County, Arkansas (Issued April 1980)
+  -Jackpost silty clay (23)  
+  
+-Soil Survey of White County, Arkansas (Issued Dec 1981)
+  -Jackpost silty clay (15)
+  
+-Soil Survey of Woodruff County, Arkansas (Issued 2003)
+  -Jackpost silty clay (JpA)  "|"565810"|"2596428"
+10/21/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"565810"|"2596429"
+10/21/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"No updates/revisions to the OSD were required as a result of this project."|"565810"|"2596430"
+10/21/2014 00:00:00|"Map unit description"|"map unit concept"||"National Mapunit Symbol  2v7s6
+ 
+Mapunit Name - Jackport silty clay loam, 0 to 1 percent slopes
+
+MLRA 131A - Southern Mississippi River Alluvium
+
+Geographic Extent: MLRA 131A -  level to nearly level soils on Pleistocene terraces in the lower Mississippi Valley.
+
+
+Climate:
+Mean annual precipitation: 894 mm to 1456 mm (35 to 57 inches)
+Mean annual air temperature: 10 to 21 degrees C (50 to 70 degrees F)
+Frost-free period: 190 to 260 days
+Soil Moisture Class: Aquic
+
+Geographic Setting: Jackport soils occur on broad low terraces of the Mississippi delta.  Typically, the surface layer is dark grayish brown, mottled silty clay loam about 5 inches thick.  The subsurface layer is gray, mottled silty clay loam about seven inches thick.  The subsoil is dark grayish brown, silty clay to a depth of about 17 inches, mottled clay to a depth of about 48 inches and olive gray to a depth of about 58 inches. The underlying material is olive gray, mottled silty clay loam that extends to a depth of 72 inches or more.
+
+Major Component: Jackport silty clay
+
+
+Minor Components:  
+
+Aqualfs - is slightly higher positions
+
+
+Parent Material: Clayey alluvium (sometimes overlying loamy alluvium)
+
+
+Typical Vegetation or Crops: Most of the acreage of this soil is used for cropland, mainly soybeans. Other common crops include rice, grain sorghum, and cotton. Fescue is the principal pasture crops. 
+ 
+
+Mapunit Composition and Reliability: 
+
+Major: Jackport 90%
+Minor: aqualfs   10%
+	  
+	   
+The mapunit composition was determined from the compositions around which this SDJR project was centered. This SDJR project reduced the number of mapunits and data mapunits from seven to one.
+This mapunit is supported by seven pedon descriptions. These seven pedon descriptions are the Taxonomic Unit Descriptions from the seven counties where this mapunit is correlated. 
+
+Classification: FINE, SMECTITIC, THERMIC CHROMIC EPIAQUERTS 
+
+
+Pertinent soil properties and qualities, and interpretations:
+The Jackport series was established in Jackson County, Arkansas in 1941.
+
+Reaction: Very strongly acid to Slightly acid
+
+
+Other Expert Knowledge Gained Through SDJR:
+The Jackport series is mapped in two different surface phases in Arkansas and misjoins are likely.  The heavier silty clay phase is limited to the northern extent of the range of the series, but flanks the lighter silty clay loam phase in two northern Arkansas counties.
+
+
+Spatial Data Quality:
+Potential mis-joins (surface texture phases) occur at county lines and should be studied as a future project. 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+"|"565810"|"2596431"
+10/21/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"future field proj."|"1) Map unit misjoins at both county and State lines
+
+2) The variability of minor inclusions is great.  Aqualfs was chosen as a common demoninator.  albaqualfs, natraqualfs, endoaqualfs, and glossaqualfs are found across the area, depending upon county.  This unit my have to be further split based on minor inclusions; field work needed."|"565810"|"2596432"
+10/21/2014 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"One pedon exists:
+
+University of Arkansas soil characterization laboratory: 84P0550
+
+User pedon ID: 78AR067001"|"565810"|"2596433"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"565810"|"2596529"
+|"Nontechnical description"|"SOI"|"053"|"Lafe is a very deep, somewhat poorly drained soil on narrow flats of loessial and fluvial terraces. This soil formed in loamy sediments. Permeability is very slow and available water capacity is low. This soil has a high content of sodium and magnesium in the subsoil, typically at at depth of 15 inches or less."|"565811"|"2596434"
+|"Nontechnical description"|"AGR"|"024"|"This soil is poorly suited to cultivated crops. Droughtiness and high concentration of sodium and magnesium in the upper part of the subsoil are the main restrictions. Excess surface water is also a severe hazard. The main crop is soybeans, but yields are usually low. Of the warm-season crops, rice usually produces the most favorable yields. Best adapted pasture plants are common bermudagrass, annual lespedeza, bahiagrass, and native grasses."|"565811"|"2596435"
+|"Miscellaneous notes"|"NONTECH - AGR"|"024"|"This soil is poorly suited to cultivated crops. Droughtiness and high concentration of sodium and magnesium in the upper part of the subsoil are the main restrictions. Excess surface water is also a severe hazard. The main crop is soybeans, but yields are usually low. Of the warm-season crops, rice usually produces the most favorable yields. Best adapted pasture plants are common bermudagrass, annual lespedeza, bahiagrass, and native grasses."|"565811"|"2596530"
+10/31/2013 00:00:00|"Miscellaneous notes"|"evaluation"|"field notes on file"|"Field notes on file for Leadvale silt loam, 1 to 3 % slopes at 6-GLE, 10-2013
+
+
+--Faulkner County: Many original 232's. Many have vague location data. No MU composition data. Good statistics on surface texture
+
+
+--Scott County: Several original 232's. Many have vague location data. No MU composition data.
+
+
+--Yell County: Several original 232's. Many have vague location data. No MU composition data.
+
+
+
+"|"565812"|"2596485"
+05/30/2008 00:00:00|"Miscellaneous notes"|"Evaluation"|"evaluation findings"|"From Field Verification in AR033 (Crawford co):
+
+ It is not unusual for Leadvale to be mapped on a first level stream terrace landscape adjacent and parallel to a Spadra occasionally flooded unit. These areas likely flood at a minumum of rarely and should be mapped as an alluvial soil."|"565812"|"2596486"
+|"Nontechnical description"|"AGR"|"001"|"IN ARKANSAS: These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565812"|"2596487"
+|"Nontechnical description"|"SOI"|"031"|"IN ARKANSAS: Leadvale is a deep, moderately well drained soil on toe slopes, benches, and terraces. This soil formed in loamy material derived from interbedded sandstone, siltstone and shale. Permeability is slow and available water capacity is medium. A perched water table is within 2.0 to 3.0 feet of the surface during the winter and early spring. This soil has a compact, brittle fragipan at about 22 to 32 inches which restricts penetration of roots and movement of water."|"565812"|"2596488"
+|"Nontechnical description"|"WOO"|"019"|"IN ARKANSAS: These soils have moderately high potential for production of commercial wood products. Common trees include shortleaf pine, loblolly pine, sweetgum, southern red oak, and white oak. Shortleaf pine has potential to produce 108 to 120 cubic feet per acre annually on these soils. Windthrow hazard is a moderate hazard due to a compact, brittle fragipan which reduces rooting depth. An occasional tree may blow down with moderate or strong winds. Plant competition is also moderate."|"565812"|"2596489"
+|"Nontechnical description"|"WQL"|"075"|"In Arkansas: These soils have an moderate surface runoff potential and a low leaching index. Nutrient movement to surface waters could be a hazard on these soils. In addition to management practices such as soil tests and proper application rates, a system of practices that reduces runoff and erosion should be planned on these soils."|"565812"|"2596490"
+12/16/2013 00:00:00|"Map unit description"|"map unit concept"||"The Leadvale silt loam, 1 to 3 percent slopes map unit in Arkansas is found in MLRA 118a and bordering portions of MLRA 119. Currently, this map unit is mapped in 16 counties in Arkansas. 
+
+The Leadvale series consists of deep to very deep, moderately well drained soils with a fragipan. Taxonomic class is: Fine-silty, siliceous, semiactive, thermic Typic Fragiudults
+
+This map unit has a loosely defined mapping concept where it is recognized.  Manuscripts define the proper landform for the map unit as old stream terraces, however, delineations encompass toe slopes as well as stream terraces and some flood plains. Silty pedisediment and silty alluvium are the parent materials for this map unit, depending on the location of the delineation.
+
+Most acreage of this map unit has been cleared and is used as pasture or hay land. 
+
+The Leadvale component often has a perched water table at around 51-cm during the winter and spring months.
+
+Flooding frequency: None
+
+Associated soils: Delineations of this map unit are known to include the Taft soil. Taft is poorly drained, has a glossic horizon, and has gray mottles in the upper 10 inches of the B horizons. Some delineations are known to contain inclusions of hydric soils, such as the Guthrie series. Guthrie soils are poorly drained and have dominant chroma of 2 or less between the base of the Ap horizons and the fragipans. It is recognized that there are inclusions that resemble the Leadvale series, with a paralithic contact at a depth of less than 130-cm.
+
+The  map unit composition was estimated from manuscripts, using modern soil series concepts. There is no map unit composition data on file for this map unit, which will need to be investigated in the future. 
+
+The map unit is delineated on several geological formations; these formations are mostly consistent in age and morphology. The series is found on different Pennsylvanian aged sandstone and shale formations. These formations cross MLRA boundaries, and thus, the Leadvale series can be found on Pennsylvanian aged shale and sandstone in MLRA 118a as well as some acreage across the MLRA 119 boundary.  
+
+Map units in Garland, Saline and Boone county were excluded from the initial SDJR harmonization project. They do not conceptually fit with the other map units proposed for harmonization due to differences in geology.
+
+The type location for the Leadvale series is located in Tennessee. The series will need to be re-corrleated in MLRAs 118a/119 in the future. 
+
+****It has been relayed by veteran mappers who are aware of the methodology of the original mapping parties or who were part of initial mapping that, oftentimes, the Leadvale, Guthrie and Taft map units were mapped by use and management, not by geology, MLRA or Taxonomy. It has been relayed that many delineations do not classify correctly in the field. They were mapped based on factors such as depth, water table depth and duration and ""fragipan"" depth. ******
+
+
+
+**Later projects will need to separate this map unit based on landform. Toeslopes, terraces and flood plains need to be separated.
+There are flooding frequency issues and soil line issues in most counties. It is not uncommon for delineations on terraces to encroach upon flood plains.   Several counties have lesser acreages of the map unit that can be found on inappropriate geological formations, including Cleburne, Jackson, Lonoke, Pulaski and White counties. For example, in Lonoke county, most of the acreage for the map unit is appropriately mapped on the Atoka formation, however, there are also delineations found on Eocene and Paleocene aged formations that could be separated during later field projects.
+
+The Leadvale series is not recognized in Oklahoma, and joins will need to be addressed to add consistency in the future. 
+
+*Roughly 1/3 of the acreage of Leadvale map units in Pulaski County, Ar are found on the wrong type of parent material (much is recent alluvium).
+
+*Delineations of Leadvale can be found on terraces of the AR river in Johnson, Pope, Franklin and Crawford counties. The chemical nature of the soil found on these positions is likely quite different than the series concept. Due to the influence of AR river alluvium, pH is likely outside of the range of the series concept. This notion is supported by lab data from known AR river terrace locations.
+
+**% Organic matter and pH values were aggregated from several lab characterizations for Leadvale from AR.
+
+**Particle size separates were aggregated from several different lab characterizations for Leadvale from AR.
+
+**Depth to perched water table was altered slightly to match horizons
+
+**Ponding frequency/duration for Guthrie component was estimated
+
+**Horizon depth ranges, depth to restrictions were aggregated from TUD pedons.
+
+**KsAT and AWC were derived from table values.
+
+** Component crop yield  and forest productivity were aggregated from historical DMUs.
+"|"565812"|"2596491"
+02/28/2013 00:00:00|"Miscellaneous notes"|"evaluation"|"spatial"|"*A review of the series concept for Leadvale in the manuscript compared to the most current OSD shows that there are no major conceptual differences in soil morphology. The series is set up for Tennessee, and will likely need to be re-corrleated in AR. Many pedon descriptions of Leadvale list a paralithic contact between 60-80 inches, and many do not list a paralithic contact. The series is deep to very deep.
+
+
+**Leadvale silt loam, 1 -3% slopes, is mapped on multiple landforms in most counties where it is recognized in AR. It can be found on toeslopes, terraces, and flood plains. A project to  compare differences in landform position with differences in soil morphology and split out landforms, is needed. 
+
+*Parent material for the map unit is silty alluvium over residuum of sandstone and shale, or silty pedisediment over residuum, depending on the location of a particular delineation. 
+
+*Commonly, Leadvale silt loam, 1 -3% slopes has delineations that cross multiple landforms, or encroach on adjacent landforms. GIS technology could be used to edit soil lines so that they more accurately follow the land. There are flooding frequency issues and soil line issues in most counties.
+
+*The map unit is delineated on several geological formations; these formations are mostly consistent in age and morphology. The series is found on different Pennsylvania aged sandstone and shale formations. These formations cross MLRA boundaries, and thus, the Leadvale series can be found on Pennsylvanian aged shale and sandstone in MLRA 118a as well as some acreage across the MLRA 119 boundary.  
+
+*The Leadvale series is mapped on the proper landform and geology in roughly half of it's acreage in Lonoke County, AR. A future project is needed to recorrelate the portions that are incorrectly located within MLRA 131D, thus benefitting interpretations for the map unit.  The map unit is improperly delineated on recently deposited alluvium in much of the county. 
+
+*Roughly 1/3 of the acreage of Leadvale map units in Pulaski County, Ar are found on the wrong type of parent material (much is recent alluvium), and will need to be investigated, thus benefitting interpretations for the map unit. 
+
+*Delineations of Leadvale can be found on terraces of the AR river in Johnson, Pope, Franklin and Crawford counties. The chemical nature of the soil found on these positions is likely quite different than the series concept. Due to the influence of AR river alluvium, pH is likely outside of the range of the series concept. This notion is supported by lab data from known AR river terrace locations. 
+
+
+
+****It has been relayed by veteran mappers who are aware of the methodology of the original mapping parties or who were part of initial mapping that, oftentimes, the Leadvale, Guthrie and Taft map units were mapped by use and management, not by geology, MLRA or Taxonomy. It has been relayed that many delineations do not classify correctly in the field. They were mapped based on factors such as depth, water table depth and duration and ""fragipan"" depth. ******"|"565812"|"2596492"
+10/31/2016 00:00:00|"Edit notes"|"Ownership Change"||"Ownership of this MLRA data was changed to a protected NASIS group to archive the data. Any further updates will be made using new rows in this database. "|"565812"|"2596493"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Transferred map unit ownership from Region 6 to Region 9 due to reassignment of 6-HOT (Hot Springs, AR) MLRA Soil Survey Office to 9-HOT. "|"565812"|"2596494"
+10/31/2016 00:00:00|"Edit notes"|"Ownership Change"||"Ownership of this MLRA data was changed to a protected NASIS group to archive the data. Any further updates will be made using new rows in this database. "|"565812"|"2596497"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Transferred Data mapunit ownership from Region 6 to Region 9 due to reassignment of 6-HOT (Hot Springs, AR) MLRA Soil Survey Office to 9-HOT. "|"565812"|"2596498"
+|"Miscellaneous notes"|"NONTECH - WOO"|"019"|"IN ARKANSAS: These soils have moderately high potential for production of commercial wood products. Common trees include shortleaf pine, loblolly pine, sweetgum, southern red oak, and white oak. Shortleaf pine has potential to produce 108 to 120 cubic feet per acre annually on these soils. Windthrow hazard is a moderate hazard due to a compact, brittle fragipan which reduces rooting depth. An occasional tree may blow down with moderate or strong winds. Plant competition is also moderate."|"565812"|"2596531"
+|"Miscellaneous notes"|"NONTECH - WQL"|"075"|"In Arkansas: These soils have an moderate surface runoff potential and a low leaching index. Nutrient movement to surface waters could be a hazard on these soils. In addition to management practices such as soil tests and proper application rates, a system of practices that reduces runoff and erosion should be planned on these soils."|"565812"|"2596532"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"IN ARKANSAS: These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565812"|"2596533"
+|"Nontechnical description"|"AGR"|"002"|"IN ARKANSAS: These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565813"|"2596477"
+|"Nontechnical description"|"WQL"|"003"|"IN ARKANSAS: These soils have an moderate surface runoff potential and a moderate leaching index. Nutrient movement to surface and ground waters could be a hazard on these soils. In addition to management practices such as soil tests, proper application rates and split applications of soluble forms of nutrients, a system of practices that reduces runoff and erosion and minimizes the movement of soluble nutrients below the root zone should be planned on these soils."|"565813"|"2596478"
+|"Nontechnical description"|"WOO"|"019"|"IN ARKANSAS: These soils have moderately high potential for production of commercial wood products. Common trees include shortleaf pine, loblolly pine, sweetgum, southern red oak, and white oak. Shortleaf pine has potential to produce 108 to 120 cubic feet per acre annually on these soils. Windthrow hazard is a moderate hazard due to a compact, brittle fragipan which reduces rooting depth. An occasional tree may blow down with moderate or strong winds. Plant competition is also moderate."|"565813"|"2596479"
+|"Nontechnical description"|"SOI"|"031"|"IN ARKANSAS: Leadvale is a deep, moderately well drained soil on toe slopes, benches, and terraces. This soil formed in loamy material derived from interbedded sandstone, siltstone and shale. Permeability is slow and available water capacity is medium. A perched water table is within 2.0 to 3.0 feet of the surface during the winter and early spring. This soil has a compact, brittle fragipan at about 22 to 32 inches which restricts penetration of roots and movement of water."|"565813"|"2596480"
+02/26/2014 00:00:00|"Map unit description"|"map unit concept"||"The MLRA 118a - Leadvale silt loam, 3 to 8 percent slopes map unit is found in MLRA 118a and bordering portions of MLRA 119 and MLRA 117.
+
+The Leadvale series consists of deep to very deep, moderately well drained soils with a fragipan. Taxonomic class is: Fine-silty, siliceous, semiactive, thermic Typic Fragiudults
+
+During the evaluation it was identified that this map unit has a consistent, yet somewhat loosely defined concept in  central Arkansas.  Manuscripts define the proper landform as old stream terraces and toe slopes, which is an accurate description of where the map unit can be found. Silty pedisediment over residuum or silty alluvium over residuum are the parent materials for this map unit, depending on the location of a particular delineation. 
+
+Most acreage of this map unit has been cleared and is used as pasture or hay land. 
+
+The Leadvale soil often has a perched water table at around 51-cm during the winter and spring months.
+Many descriptions of the soil in AR do not recognize a paralithic contact between 60-80 inches, however, many do. 
+
+Flooding frequency: None
+
+Associated soils: Delineations of this map unit are known to include the Taft soil. Taft is poorly drained, has a glossic horizon, and has gray mottles in the upper 10 inches of the B horizons. Some delineations are known to contain inclusions of hydric soils, such as the Guthrie series. Guthrie soils are poorly drained and have dominant chroma of 2 or less between the base of the Ap horizons and the fragipan. It is recognized that there are inclusions that resemble the Leadvale series, with a paralithic contact at a depth of less than 130-cm. The Enders series consists of deep, well drained, very slowly permeable soils that formed in loamy and clayey residuum from shale, or interbedded shale and sandstone. Enders is found on hill sides adjacent to this Leadvale map unit. 
+
+The  map unit composition was estimated from manuscripts, using modern soil series concepts. There is no map unit composition data on file for this map unit, which will need to be investigated in the future. 
+
+The map unit is delineated on several geological formations; these formations are mostly consistent in age and morphology. The series is found on different Pennsylvanian aged sandstone and shale formations. These formations cross MLRA boundaries, and thus, the Leadvale series can be found on Pennsylvanian aged shale and sandstone in MLRA 118a as well as some acreage across the MLRA 119 boundary.  
+Map units in Saline, Boone and Newton counties, Arkansas were excluded from this harmonization project. The map units from these counties do not follow the centralized concept due to differences in geological formations and/or landforms. 
+
+
+The type location for the Leadvale series is located in Tennessee. The series will need to be re-corrleated in MLRAs 118a/119 in the future. The Leadvale series is not recognized in Oklahoma, and joins will need to be addressed to add consistency in the future. 
+
+
+****It has been relayed by veteran mappers who are aware of the methodology of the original mapping parties or who were part of initial mapping that, oftentimes, the Leadvale, Guthrie and Taft map units were mapped by use and management, not by geology, MLRA or Taxonomy. It has been relayed that many delineations do not classify correctly in the field. They were mapped based on factors such as depth, water table depth and duration and ""fragipan"" depth. ******
+
+There are flooding frequency issues and soil line issues in most counties. It is not uncommon for delineations on terraces to encroach upon flood plains.   Several counties have lesser acreages of the map unit that can be found on inappropriate geological formations, including Cleburne, Jackson, Lonoke, and White counties. For example, in Lonoke county, most of the acreage for the map unit is appropriately mapped on the Atoka formation, however, there are also delineations found on Eocene and Paleocene aged formations that could be separated during later field projects.
+
+
+*Delineations of Leadvale can be found on terraces of the AR river in Johnson, Pope, Franklin and Crawford counties. The chemical nature of the soil found on these positions is likely quite different than the series concept. Due to the influence of AR river alluvium, pH is likely outside of the range of the series concept. This notion is supported by lab data from known AR river terrace locations. 
+
+The Leadvale silt loam, 3 to 8 percent slopes, eroded map unit from Franklin County, AR was harmonized with other map units in this project. The map unit from Franklin county joins perfectly with all surrounding Leadvale silt loam, 3 to 8 percent map units. It has the same landscape model, and use and management does not differ. There is no comparable non eroded phase in this county.  It has the same Land Capability Class as other map units proposed for consolidation in this project. Also, the range in depth listed in the map unit description coincides with listed depths for all other map units in this project. 
+
+*Partial acreage of Leadvale silt loam, 3 to 8 percent slopes in Pulaski, Scott and Yell Counties, AR is located on landforms that are more closely associated with the Ouachita Mountains, which is outside of the norm for the series.  These areas need to be checked to determine if the soil components match the map unit concept. There may be a need to split the MU based on differing geology.
+
+*The Leadvale series is mapped on the proper landform and geology in roughly half of it's acreage in Lonoke County, AR. Some delineations are located within MLRA 131D. The map unit is delineated on recently deposited alluvium in much of the county, which needs to be investigated. 
+
+*Leadvale silt loam, 3 to 8 percent slopes, is mapped on multiple landforms in most counties where it is recognized in AR. It can be found on toeslopes, terraces, and flood plains. A field project is needed to compare differences in landform position with differences in soil morphology and split out landforms, if needed. GIS technology could be used to edit soil lines so that they more accurately follow the land. 
+
+Decisions made during SDJR: 
+**% Organic matter and pH, values were aggregated from several lab characterizations for Leadvale.
+
+**Particle size separates were aggregated from several different lab characterizations for Leadvale.
+
+**Depth to perched water table was altered slightly to match horizons
+
+**Ponding frequency/duration for Guthrie component was estimated
+
+**Horizon depth ranges, depth to restrictions were aggregated from TUD pedons.
+
+**KsAT and AWC were derived from table values.
+
+** Component crop yield  and forest productivity were aggregated from historical DMUs.
+
+"|"565813"|"2596481"
+02/25/2014 00:00:00|"Miscellaneous notes"|"evaluation"|"spatial"|"During the evaluation it was identified that this map unit has a consistent concept in  central Arkansas.  Manuscripts define the proper landform as old stream terraces and toe slopes, which is an accurate description of where the map unit can be found. Silty pedisediment and silty alluvium are the parent materials for this map unit, depending on the location of a particular delineation. 
+
+*A review of series concepts in the manuscript compared to the most current OSD shows that there are no major conceptual differences in soil morphology. The series is set up for Tennessee, and will likely need to be recorrelated in AR. 
+Joins end abruptly at the Oklahoma state line. 
+*The map unit is delineated on several geological formations; these formations are mostly consistent in age and morphology. The series is found on different Pennsylvania aged sandstone and shale formations. These formations cross MLRA boundaries, and thus, the Leadvale series can be found on Pennsylvanian aged shale and sandstone in MLRA 118a as well as some acreage across the MLRA 119 boundary.  
+Map units in Saline, Boone and Newton counties, Arkansas were excluded from the initial harmonization project. The map units from these counties do not follow the centralized concept due to differences in geological formations and/or landforms. 
+
+*Commonly, Leadvale silt loam, 3 to 8 percent slopes has delineations that cross multiple landforms, or encroach on adjacent landforms. GIS technology could be used to edit soil lines so that they more accurately follow the land. 
+
+
+****It has been relayed by veteran mappers who are aware of the methodology of the original mapping parties or who were part of initial mapping that, oftentimes, the Leadvale, Guthrie and Taft map units were mapped by use and management, not by geology, MLRA or Taxonomy. It has been relayed that many delineations do not classify correctly in the field. They were mapped based on factors such as depth, water table depth and duration and ""fragipan"" depth. ******
+
+*Leadvale silt loam, 3 to 8 percent slopes, is mapped on multiple landforms in most counties where it is recognized in AR. It can be found on toeslopes, terraces, and flood plains. A field project is needed to compare differences in landform position with differences in soil morphology and split out landforms, if needed. 
+
+
+Leadvale silt loam, 3 to 8 percent slopes, eroded map unit from Franklin County, AR was harmonized with other map units in this project. The map unit from Franklin county joins perfectly with all surrounding Leadvale silt loam, 3 to 8 percent map units. It has the same landscape model, and use and management does not differ. There is no comparable non eroded phase in this county.  It has the same Land Capability Class as other map units proposed for consolidation in this project. Also, the range in depth listed in the map unit description coincides with listed depths for all other map units in this project. 
+
+
+*Delineations of Leadvale can be found on terraces of the AR river in Johnson, Pope, Franklin and Crawford counties. The chemical nature of the soil found on these positions is likely quite different than the series concept. Due to the influence of AR river alluvium, pH is likely outside of the range of the series concept. This notion is supported by lab data from known AR river terrace locations. 
+
+*Partial acreage of Leadvale silt loam, 3 to 8 percent slopes in Pulaski, Scott and Yell Counties, AR is located on landforms that are more closely associated with the Ouachita Mountains, which is outside of the norm for the series.  These areas need to be checked to determine if the soil components match the map unit concept. There may be a need to split the MU based on differing geology.
+
+*The Leadvale series is mapped on the proper landform and geology in roughly half of it's acreage in Lonoke County, AR. Some delineations are located within MLRA 131D. The map unit is delineated on recently deposited alluvium in much of the county, which needs to be investigated. 
+
+
+
+
+
+
+"|"565813"|"2596482"
+10/31/2016 00:00:00|"Edit notes"|"Ownership Change"||"Ownership of this MLRA data was changed to a protected NASIS group to archive the data. Any further updates will be made using new rows in this database. "|"565813"|"2596483"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Transferred map unit ownership from Region 6 to Region 9 due to reassignment of 6-HOT (Hot Springs, AR) MLRA Soil Survey Office to 9-HOT. "|"565813"|"2596484"
+10/31/2016 00:00:00|"Edit notes"|"Ownership Change"||"Ownership of this MLRA data was changed to a protected NASIS group to archive the data. Any further updates will be made using new rows in this database. "|"565813"|"2596499"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Transferred Data mapunit ownership from Region 6 to Region 9 due to reassignment of 6-HOT (Hot Springs, AR) MLRA Soil Survey Office to 9-HOT. "|"565813"|"2596500"
+|"Miscellaneous notes"|"NONTECH - WOO"|"019"|"IN ARKANSAS: These soils have moderately high potential for production of commercial wood products. Common trees include shortleaf pine, loblolly pine, sweetgum, southern red oak, and white oak. Shortleaf pine has potential to produce 108 to 120 cubic feet per acre annually on these soils. Windthrow hazard is a moderate hazard due to a compact, brittle fragipan which reduces rooting depth. An occasional tree may blow down with moderate or strong winds. Plant competition is also moderate."|"565813"|"2596534"
+|"Miscellaneous notes"|"NONTECH - WQL"|"003"|"IN ARKANSAS: These soils have an moderate surface runoff potential and a moderate leaching index. Nutrient movement to surface and ground waters could be a hazard on these soils. In addition to management practices such as soil tests, proper application rates and split applications of soluble forms of nutrients, a system of practices that reduces runoff and erosion and minimizes the movement of soluble nutrients below the root zone should be planned on these soils."|"565813"|"2596535"
+|"Miscellaneous notes"|"NONTECH - AGR"|"002"|"IN ARKANSAS: These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565813"|"2596536"
+|"Nontechnical description"|"AGR"|"005"|"These soils are poorly suited for pasture and are unsuited for cultivated crops. Slope and surface stones restrict the use of most farm equipment. Where pasture is established, plants include tall fescue and native grasses. Some areas can be used for native grass pasture if brush is controlled; however, controlled grazing and fire protection are needed to maintain soil cover and prevent excessive erosions."|"565814"|"2596436"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"565814"|"2596437"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"565814"|"2596501"
+|"Miscellaneous notes"|"NONTECH - AGR"|"005"|"These soils are poorly suited for pasture and are unsuited for cultivated crops. Slope and surface stones restrict the use of most farm equipment. Where pasture is established, plants include tall fescue and native grasses. Some areas can be used for native grass pasture if brush is controlled; however, controlled grazing and fire protection are needed to maintain soil cover and prevent excessive erosions."|"565814"|"2596537"
+03/15/2013 00:00:00|"Miscellaneous notes"|"evaluation"|"eval documentation"|"Supporting Documentation for Quality Assurance of
+SDJR - MLRA 117 - 6Linker fine sandy loam, 3 to 8 percent slopes
+
+Map Units comprising and ultimately harmonized, as part of SDJR: 
+Linker fine sandy loam, 3 to 8 percent slopes	Conway County, Arkansas  					AR029   	lzb4
+Linker fine sandy loam, 3 to 8 percent slopes	Crawford County, Arkansas					AR033		lzc8
+Linker fine sandy loam, 3 to 8 percent slopes	Faulkner County, Arkansas					AR045		lzfh
+Linker fine sandy loam, 3 to 8 percent slopes	Franklin County, Arkansas					AR047		lzj2
+Linker fine sandy loam, 3 to 8 percent slopes	Independence County, Arkansas				AR063		lzq4
+Linker fine sandy loam, 3 to 8 percent slopes	Jackson County, Arkansas					AR067		lzs3
+Linker fine sandy loam, 3 to 8 percent slopes	Johnson County, Arkansas					AR071		lzsy
+Linker fine sandy loam, 3 to 8 percent slopes	Logan County, Arkansas	        			AR083		lzv7
+Linker fine sandy loam, 3 to 8 percent slopes	Perry County, Arkansas	       				AR105		m01y
+Linker fine sandy loam, 3 to 8 percent slopes	Pope County, Arkansas   					AR115		m02z
+Linker fine sandy loam, 3 to 8 percent slopes	Saline County, Arkansas	       				AR125		m067
+Linker fine sandy loam, 3 to 8 percent slopes	Searcy County, Arkansas						AR129		m0g3
+Linker fine sandy loam, 3 to 8 percent slopes	Sebastian County, Arkansas					AR131		m0cd
+Linker fine sandy loam, 3 to 8 percent slopes	Stone County, Arkansas 						AR137		m0d5
+Linker fine sandy loam, 3 to 8 percent slopes	White County, Arkansas	      			  	AR145		m0mw
+Linker fine sandy loam, 3 to 8 percent slopes	Yell County, Arkansas	        			AR149		lyxc
+Linker fine sandy loam, 3 to 8 percent slopes	Cleburne and Van Buren County, Arkansas		AR640		lyqc
+SDJR  MLRA 118A  6Linker fine sandy loam, 3 to 8 percent slope                                          2sp0t
+
+The DMU from the Faulkner county legend was used as the basis to update this map unit. It had properties consistent with other map units that were also central to the series concept.
+
+MUDs and TUDs reviewed for this project are:
+
+Soil Survey of Conway County, Arkansas (Issued May 1980)
+Linker fine sandy loam, 3 to 8 percent slopes (16)
+
+
+Soil Survey of Crawford County, Arkansas (Issued September 1980)
+Linker fine sandy loam, 3 to 8 percent slopes (14)
+
+
+Soil Survey of Faulkner County, Arkansas (Issued February 1979)
+Linker fine sandy loam, 3 to 8 percent slopes (11)
+
+
+Soil Survey of Frankiln County, Arkansas (Issued February 1971)
+Linker fine sandy loam, 3 to 8 percent slopes (LnC)
+
+
+Soil Survey of Independence County, Arkansas (Issued December 1982)
+Linker fine sandy loam, 3 to 8 percent slopes (33)
+Linker fine sandy loam, 8 to 12 percent slopes (34)
+
+Soil Survey of Jackson County, Arkansas (Issued December 1974)
+Linker fine sandy loam, 3 to 8 percent slopes (LfC)
+
+
+Soil Survey of Johnson County, Arkansas (Issued November 1977)
+Linker fine sandy loam, 3 to 8 percent slopes (LnC)
+
+Soil Survey of Logan County, Arkansas (Issued November 1980)
+Linker fine sandy loam, 3 to 8 percent slopes (18)
+
+
+Soil Survey of Perry County, Arkansas (Issued May 1982)
+Linker fine sandy loam, 3 to 8 percent slopes (18)
+
+Soil Survey of Pope County, Arkansas (Issued April 1981)
+Linker fine sandy loam, 3 to 8 percent slopes (17)
+
+Soil Survey of Saline County, Arkansas (Issued April 1979)
+Linker fine sandy loam, 3 to 8 percent slopes (15)
+
+Soil Survey of Searcy County, Arkansas (Issued April 1992)
+Linker fine sandy loam, 3 to 8 percent slopes (32C)
+
+
+Soil Survey of Sebastian County, Arkansas (Issued March 1975)
+Linker fine sandy loam, 3 to 8 percent slopes (LnC)
+
+Soil Survey of Stone County, Arkansas (Issued April 1983)
+Linker fine sandy loam, 3 to 8 percent slopes (15)
+
+Soil Survey of White County, Arkansas (Issued December 1981)
+Linker fine sandy loam, 3 to 8 percent slopes (19)
+U
+Soil Survey of Yell County, Arkansas (Issued December 1988)
+Linker fine sandy loam, 3 to 8 percent slopes (28)
+
+Soil Survey of Cleburne and Van Buren County, Arkansas (Issued July 1986)
+Linker fine sandy loam, 3 to 8 percent slopes (15)
+
+
+
+Lab data available:
+KSSL lab data reviewed included a query for all Linker pedons available since there were none specifically sampled for Linker fine sandy loam, 3 to 8 percent slopes.  
+
+User_site_id	User_pedon_id
+59AR115001		59AR115001
+59AR115002		59AR115002
+80AR115001		80AR115001
+					
+University of Arkansas lab data reviewed included a query for all Linker pedons available since there were none specifically sampled for Linker fine sandy loam, 3 to 8 percent slopes.  
+
+User_site_id	User_pedon_id
+S63AR143-25		S63AR143-25
+S64AR047-01		S64AR047-01
+S64AR047-02		S64AR047-02
+S69AR009-05		S69AR009-05
+S69AR067-02		S69AR067-02
+S69AR131-08		S69AR131-08
+S70AR071-04		S70AR071-04
+
+
+TUDs entered into NASIS as part fo this SDJR project:
+
+User Site ID/USER Pedon ID
+1975AR033011
+1977AR029008
+1967AR047016
+1980AR063017
+1971AR067019
+1973AR071021
+1977AR083022
+1980AR105029
+59AR115001
+1976AR125036
+1987AR129040
+1981AR137043
+1980AR145047
+1985AR149049
+S64AR047-02
+1975AR045014
+
+
+"|"565815"|"2596438"
+04/15/2013 00:00:00|"Map unit description"|"map unit concept"||"Linker fine sandy loam, 3 to 8 percent slopes is delineated on hill tops,  mountaintops and benches in MLRA 117 and 118A.  Soil surveys included in this mapping are: AR029,   AR033,	AR045,	AR047,	AR067,	AR071,	AR083,	AR105,	AR115,	AR125,	AR129,	AR131,	AR137, AR145,  AR149 and AR640.
+
+The Linker series consists of moderately deep, well drained, moderately permeable soils that formed in loamy residuum weathered from sandstone. Mountainburg soils are found in areas of this map unit that are shallow to sandstone bedrock.  Enders soils cover small areas of this map unit that have residual shale parent material and are deep to bedrock.  Nella soils cover a few small areas of this mapunit that have colluvium and residuum of sandstone, or shale parent material and are very deep to bedrock.
+
+Future needs for this mapunit include investigations into join problems. The map unit ends abruptly at several county lines.    The Linker series in currently mapped extensively in MLRAs 118a and 117. Further projects will be needed to look at differences in morphology, landscape, elevation and rainfall across the two MLRAs.  There are areas where this mapunit is mapped out of its slope class, and GIS work is needed to tidy up soil polygons that are shifted off of some of the higher mountaintops. 
+"|"565815"|"2596439"
+10/31/2016 00:00:00|"Edit notes"|"Ownership Change"||"Ownership of this MLRA data was changed to a protected NASIS group to archive the data. Any further updates will be made using new rows in this database. "|"565815"|"2596440"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Transferred map unit ownership from Region 6 to Region 9 due to reassignment of 6-HOT (Hot Springs, AR) MLRA Soil Survey Office to 9-HOT. "|"565815"|"2596441"
+02/19/2013 00:00:00|"Correlation notes"|||"This is a SDJR project DMU that harmonized the Linker fine sandy loam, 3 to 8 percent slopes map units in MLRA 117 and 118A.
+
+
+DMU's harmonized::::
+
+DMU Description	Data Mapunit Rec ID
+047LnC			381233
+067LfC			381482
+071LnC			381508
+131LnC			382049
+29016			381057
+33014			381092
+45011			381161
+63033			381427
+83018			381556
+105018			381764
+115017			381796
+129032C			382134
+137015			382081
+145019			382320
+640015			380476
+MLRA 118A - Linker FSL, 3 to 8 percent slopes	675575
+"|"565815"|"2596502"
+10/31/2016 00:00:00|"Edit notes"|"Ownership Change"||"Ownership of this MLRA data was changed to a protected NASIS group to archive the data. Any further updates will be made using new rows in this database. "|"565815"|"2596503"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Transferred Data mapunit ownership from Region 6 to Region 9 due to reassignment of 6-HOT (Hot Springs, AR) MLRA Soil Survey Office to 9-HOT. "|"565815"|"2596504"
+09/18/2014 00:00:00|"Miscellaneous notes"|"NONTECH - AGR"||" These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565815"|"2596538"
+09/18/2014 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"||"These soils have a moderate surface runoff potential and a high leaching index. Nutrient movement to ground waters is a hazard on these soils. Nutrient movement to surface waters could be a hazard on these soils. A system of intense nutrient management practices should be applied to minimize the movement of soluble nutrients below the root zone. Soluble forms of nutrients should be applied with caution or avoided if other forms of nutrients are available.
+"|"565815"|"2596539"
+|"Nontechnical description"|"SOI"|"033"|"Linker is a moderately deep, well drained soil on hillsides, ridgetops, and benches. This soil formed in loamy residuum of sandstone. Permeability is moderate and available water capacity is medium. Depth to sandstone bedrock ranges from about 20 to 40 inches."|"565816"|"2596442"
+|"Nontechnical description"|"AGR"|"006"|"These soils are severely limited for pasture and are unsuited for cultivated crops. Slope and surface stones severely restrict the use of farm equipment. Where pasture is established, plants include tall fescue and native grasses. Some areas can be used for native grass pasture if brush is controlled; however, controlled grazing and fire protection are needed to maintain soil cover and prevent excessive erosion."|"565816"|"2596443"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"565816"|"2596444"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"565816"|"2596505"
+|"Miscellaneous notes"|"NONTECH - AGR"|"006"|"These soils are severely limited for pasture and are unsuited for cultivated crops. Slope and surface stones severely restrict the use of farm equipment. Where pasture is established, plants include tall fescue and native grasses. Some areas can be used for native grass pasture if brush is controlled; however, controlled grazing and fire protection are needed to maintain soil cover and prevent excessive erosion."|"565816"|"2596540"
+04/11/2013 00:00:00|"Miscellaneous notes"|"evaluation"|"eval documentation"|"Supporting Documentation for Quality Assurance
+of
+SDJR - MLRA 118a  3Mountainburg stony fine sandy loam, 1 to 12 percent slopes
+
+Map Units comprising: 
+-	Mountainburg stony fine sandy loam, 1 to 12 percent slopes					Franklin County, Arkansas	AR047		lzig
+-	Mountainburg stony fine sandy loam, 1 to 12 percent slopes					Johnson County, Arkansas	AR071		lzt8
+-	Mountainburg stony fine sandy loam, 1 to 12 percent slopes					Pope County, Arkansas		AR115		m038
+-	Mountainburg stony fine sandy loam, 1 to 12 percent slopes					Yell County, Arkansas		AR149		lyxl
+-	Mountainburg stony fine sandy loam, 3 to 12 percent slopes					Crawford County, Arkansas	AR033		lzcd
+-	Mountainburg stony fine sandy loam, 3 to 12 percent slopes					Independence County, Arkansas	AR063		lzqg
+-	Mountainburg stony fine sandy loam, 3 to 12 percent slopes					Jackson County, Arkansas	AR067		lzs5
+-	Mountainburg stony fine sandy loam, 3 to 12 percent slopes					Logan County, Arkansas		AR083		lzvf
+-	Mountainburg stony fine sandy loam, 3 to 12 percent slopes					White County, Arkansas		AR145		m0n1
+
+MUDs and TUDs reviewed for this project are:
+Soil Survey of Crawfordl County, Arkansas (Issued September 1979)
+Mountainburg stony fine sandy loam, 3 to 12 percent slopes (18)
+Soil Survey of Franklin County, Arkansas (Issued February 1971)
+Mountainburg gravelly fine sandy loam, 3 to 8 percent slopes (MtC)
+Mountainburg stony fine sandy loam, 1 to 12 percent slopes (MuD)
+Soil Survey of Independence County, Arkansas (Issued December 1982)
+Mountainburg stony fine sandy loam, 3 to 12 percent slopes (42)
+Soil Survey of Jackson County, Arkansas (Issued December 1974)
+Mountainburg stony fine sandy loam, 3 to 12 percent slopes (MoD)
+Soil Survey of Johnson County, Arkansas (Issued November 1977)
+Mountainburg gravelly fine sandy loam, 3 to 12 percent slopes (MoD)
+Mountainburg stony fine sandy loam, 1 to 12 percent slopes (MsD)
+Soil Survey of Logan County, Arkansas (Issued November 1980)
+Mountainburg gravelly fine sandy loam, 3 to 8 percent slopes (21)
+Mountainburg stony fine sandy loam, 3 to 12 percent slopes (23)
+Soil Survey of Pope County, Arkansas (Issued April 1981)
+Mountainburg gravelly fine sandy loam, 3 to 8 percent slopes (23)
+Mountainburg stony fine sandy loam, 1 to 12 percent slopes (25)
+Soil Survey of White County, Arkansas (Issued December 1981)
+Mountainburg stony fine sandy loam, 3 to 12 percent slopes (23)
+Soil Survey of Yell County, Arkansas (Issued December 1988)
+Mountainburg gravelly fine sandy loam, 3 to 8 percent slopes (32)
+Mountainburg stony fine sandy loam, 1 to 12 percent slopes (34)
+
+Lab data available:
+University of Arkansas lab data reviewed included a query for all Mountainburg pedons available.
+
+User_site_id	User_pedon_id
+S69AR009-02		S69AR009-02
+S69AR067-01		S69AR067-01
+S70AR071-05		S70AR071-05
+S69AR131-09		S69AR131-09
+S77AR143-05		S77AR143-05
+					
+
+"|"565817"|"2596445"
+07/29/2005 00:00:00|"Nontechnical description"|"WQL"|"004"|"In Arkansas: These soils have a moderate surface runoff potential and a high leaching index. Nutrient movement to ground waters is a hazard on these soils. Nutrient movement to surface waters could be a hazard on these soils. A system of intense nutrient management practices should be applied to minimize the movement of soluble nutrients below the root zone. Soluble forms of nutrients should be applied with caution or avoided if other forms of nutrients are available."|"565817"|"2596446"
+|"Nontechnical description"|"AGR"|"008"|"In Arkansas: This soil is severely limited for cultivated crops and poorly suited to improved pasture. This soil is droughty due to shallow depth to bedrock and high content of coarse fragments. Erosion is a severe hazard if the native vegetation is disturbed. Where pasture is established, plants include common bermudagrass, tall fescue and native grasses. Controlled grazing and fire protection are needed to maintain soil cover and prevent excessive erosion."|"565817"|"2596447"
+|"Nontechnical description"|"SOI"|"034"|"In Arkansas: Mountainburg is a shallow, well drained soil on benches, ledges, and sides and tops of hills, mountains, and ridges. This soil formed in loamy residuum of sandstone or interbedded sandstone, siltstone and shale. Permeability is moderately rapid and available water capacity is low. Depth to hard bedrock ranges from about 12 to 20 inches."|"565817"|"2596448"
+|"Nontechnical description"|"WOO"|"037"|"In Arkansas: Mountainburg soils have low potential for production of commercial wood products. Common trees include shortleaf pine, loblolly pine, post oak, blackjack oak, and eastern red cedar. Shortleaf pine has potential to produce 66 to 78 cubic feet per acre annually on these soils. Equipment use is moderately restricted due to stones on the surface. These soils are shallow to bedrock and windthrow hazard is severe. Seedling mortality is moderate. (Woodland Ordination Symbol - 5X8)"|"565817"|"2596449"
+06/24/2013 00:00:00|"Map unit description"|"map unit concept"||"Mountainburg stony fine sandy loam, 1 to 12 percent slopes is delineated on hills in MLRA 117 and 118a.  Soil surveys included in this map unit are: AR071, AR115, AR149, AR033, AR063, AR067, AR083, and AR145.  
+
+The Mountainburg series consists of shallow, well drained, moderately rapid permeable soil that formed in residuum weathered from sandstone.  Enders soils cover small areas of this map unit that have residual shale parent material and are deep to bedrock.  Linker soils cover small areas of this map unit that have loamy residuum weathered from sandstone parent material and are moderately deep to bedrock.  Nella soils cover small areas of this map unit that have alluvium or colluvium residuum of sandstone or shale parent material and are very deep to bedrock.  Rock outcrop covers small areas of this map unit.
+
+Future projects for this map unit include spatial cleanup between counties and to adjust polygons to better fit landforms. A field project is needed to determine fragment content and the surface stoniness modifier.  There needs to be sampling for lab data.  The Mountainburg stony fine sandy loam, 3 to 12 percent slopes in Pulaski county was not included in this project because it has different parent material outside the concept of the Mountainburg series.  
+"|"565817"|"2596450"
+10/31/2016 00:00:00|"Edit notes"|"Ownership Change"||"Ownership of this MLRA data was changed to a protected NASIS group to archive the data. Any further updates will be made using new rows in this database. "|"565817"|"2596451"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Transferred map unit ownership from Region 6 to Region 9 due to reassignment of 6-HOT (Hot Springs, AR) MLRA Soil Survey Office to 9-HOT. "|"565817"|"2596452"
+10/31/2016 00:00:00|"Edit notes"|"Ownership Change"||"Ownership of this MLRA data was changed to a protected NASIS group to archive the data. Any further updates will be made using new rows in this database. "|"565817"|"2596506"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Transferred Data mapunit ownership from Region 6 to Region 9 due to reassignment of 6-HOT (Hot Springs, AR) MLRA Soil Survey Office to 9-HOT. "|"565817"|"2596507"
+10/23/2013 00:00:00|"Correlation notes"|"status-added"||"This mapunit was added to the legend with a correlated status as a result of the ""SDJR - MLRA 118a - 3Mountainburg stony fine sandy loam, 1 to 12 percent slopes"" project 
+
+
+"|"565817"|"2596541"
+|"Miscellaneous notes"|"NONTECH - WOO"|"037"|"In Arkansas: Mountainburg soils have low potential for production of commercial wood products. Common trees include shortleaf pine, loblolly pine, post oak, blackjack oak, and eastern red cedar. Shortleaf pine has potential to produce 66 to 78 cubic feet per acre annually on these soils. Equipment use is moderately restricted due to stones on the surface. These soils are shallow to bedrock and windthrow hazard is severe. Seedling mortality is moderate. (Woodland Ordination Symbol - 5X8)"|"565817"|"2596542"
+|"Miscellaneous notes"|"NONTECH - AGR"|"008"|"In Arkansas: This soil is severely limited for cultivated crops and poorly suited to improved pasture. This soil is droughty due to shallow depth to bedrock and high content of coarse fragments. Erosion is a severe hazard if the native vegetation is disturbed. Where pasture is established, plants include common bermudagrass, tall fescue and native grasses. Controlled grazing and fire protection are needed to maintain soil cover and prevent excessive erosion."|"565817"|"2596543"
+07/29/2005 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"|"004"|"In Arkansas: These soils have a moderate surface runoff potential and a high leaching index. Nutrient movement to ground waters is a hazard on these soils. Nutrient movement to surface waters could be a hazard on these soils. A system of intense nutrient management practices should be applied to minimize the movement of soluble nutrients below the root zone. Soluble forms of nutrients should be applied with caution or avoided if other forms of nutrients are available."|"565817"|"2596544"
+07/29/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Natl MUSYM & MU Name"|"National Map Unit Symbol: 2wn6w
+
+MLRA MU Name: Patterson fine sandy loam, 0 to 1 percent slopes"|"565818"|"2596453"
+07/29/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MLRA DMU"|"MLRA Data Map Unit: MLRA 131A - Patterson fsl, 0-1%
+"|"565818"|"2596454"
+07/29/2016 00:00:00|"Map unit description"|"Supporting Doc."|"TP"|"1976AR121018
+"|"565818"|"2596455"
+07/29/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS reviewed"|"1976AR121021
+1976AR121018
+1973AR075021
+1971AR067021
+
+
+"|"565818"|"2596456"
+07/29/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"Text Notes Loc."|"Text notes associated with this project can be found in Site Text, Site Observation Text, Pedon Text, Pedon Horizon Text, Mapunit Text, Data Mapunit Text, Component Text and Component Horizon Text tables."|"565818"|"2596457"
+07/29/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"OSD rev. & corr."|"All proposed changes below are reflected in edited copy
+
+1) Thickness of the Eg horizon is too thick, should be adjusted downward. Currently reads ""The E horizon ranges from 18 to 24 inches thick"". All four profiles in this project have E horizons that are far thinner than the 18-24 inch range. Propose editing to read ""... 4 to 24 inches thick"" 
+
+2) Add ""where present"" to RIC for BC horizon. "|"565818"|"2596458"
+07/29/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"MUDS & TUDS entered"|"Pedons were already in NASIS"|"565818"|"2596459"
+07/29/2016 00:00:00|"Miscellaneous notes"|"Supporting Doc."|"lab data"|"Some 1982 data supplied by Edgar Mersiovsky (Arkansas) that does not appear in the National Soil Characterization site."|"565818"|"2596460"
+07/29/2016 00:00:00|"Map unit description"|"map unit concept"||"Mapunit Name - Patterson fine sandy loam, 0 to 1 percent slopes
+
+MLRA 131A - Southern Mississippi Valley Alluvium
+
+Geographic Extent: The Patterson series consists of very deep, somewhat poorly drained soils that have moderate permeability. These soils formed in loamy alluvium on level to nearly level low terraces in the Western Lowlands of northeast Arkansas and southeast Missouri. The series is of small extent.
+
+Climate:
+Mean annual precipitation: 1168 to 1245 mm (46 to 49 inches)
+Mean annual air temperature: 8.9 to 21.7 degrees C (48 to 71 degrees F)
+Frost-free period: 190 to 275 days
+Soil Moisture Class: Udic
+
+Geographic Setting: Broad, level and gently sloping stream terraces and broad flats on uplands.
+ 
+Major Component: 
+
+Patterson 
+
+Minor Components:  
+
+Bosket - Well drained, formed in local alluvium, mollic epipedon
+McCrory - Poorly drained, high sodium content in argillic horizon, higher pH's
+Aquents	- place holder for other hydric soils (non-natric)
+
+
+Parent Material: Loamy alluvium.
+
+
+Typical Vegetation or Crops: Row crops, predominantly soybeans, cotton, and wheat. 
+ 
+
+Mapunit Composition and Reliability: 91% Patterson, Bosket 5%, McCrory 4% (RVs)
+ 
+
+Classification: Fine-loamy, mixed, active, thermic Typic Endoaqualfs 
+
+
+Pertinent soil properties, qualities, and interpretations: Bosket soils are well drained. They have moderate runoff and moderately rapid permeability.
+
+
+Spatial Data Quality: Distribution is fairly small, occuring in four counties, and associated with the St. Francis and Mississippi river flood plains (MLRA 131A) of North east Arkansas. Counties of occurance: Randolph, Clay, Lawrence, Jackson"|"565818"|"2596461"
+06/03/2016 00:00:00|"Miscellaneous notes"|"evaluation notes"|"attribute"|"1) Investigation of hydric component (extent and identification)
+
+2) There is a slight join error with Jackson/Woodruff Counties (0-1% slopes joins 0-2% slopes)
+
+A future project has been created to address this concern (Patterson fsl, 0-1% (2wn6w) - Minor Component Investigation)"|"565818"|"2596462"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565818"|"2596545"
+|"Nontechnical description"|"SOI"|"050"|"This is a very deep, well drained soil on higher parts of natural levees. This soil formed in stratified loamy alluvium. Permeability is moderate to moderately rapid and available water capacity is high. Flooding is frequent for brief to long duration during the winter and early spring."|"565819"|"2596469"
+|"Nontechnical description"|"AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"565819"|"2596470"
+|"Miscellaneous notes"|"NONTECH - AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"565819"|"2596546"
+|"Nontechnical description"|"SOI"|"001"|"This is a very deep, poorly drained soil on broad flats and in depressions that were backswamps of major streams and their tributaries. This soil formed in clayey alluvium. Permeability is very slow and available water capacity is high. This soil has high to very high shrink-swell potential, and shrinks and cracks when dry, and the cracks seal when the soil is wet."|"565820"|"2596471"
+|"Nontechnical description"|"AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"565820"|"2596472"
+|"Miscellaneous notes"|"NONTECH - AGR"|"021"|"This soil is moderately suited to cultivated crops. Rice, soybeans, and grain sorghum are the main crops grown on this soil. Excess surface water is a severe hazard and surface drainage is needed in most areas. Because of high clay content, clods often form on the surface if the soil is plowed when wet. This soil is moderately suited to pasture and hayland. Wetness is the main restriction during the winter and early spring. Suitable pasture plants include bermudagrass and tall fescue."|"565820"|"2596547"
+|"Nontechnical description"|"SOI"|"043"|"This is a very deep, well drained soil on floodplains of major streams and their tributaries. This soil formed in loamy alluvium. Permeability is moderate and available water capacity is high. Flooding is occasional for brief to long periods during the winter and spring."|"565821"|"2596473"
+|"Nontechnical description"|"AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"565821"|"2596474"
+|"Miscellaneous notes"|"NONTECH - AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"565821"|"2596548"
+02/10/2022 14:28:04|"Miscellaneous notes"|"conversion data"|"mapunit_status_hist"|"correlated - muhistiid 222813"|"565822"|"2596475"
+02/10/2022 14:53:23|"Miscellaneous notes"|"conversion data"|"mapunit_status_hist"|"correlated - muhistiid 222813"|"565822"|"2596476"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"1460229"|"2596463"
+02/10/2022 14:28:04|"Miscellaneous notes"|"conversion data"|"mapunit_status_hist"|"correlated - muhistiid 222814"|"1460229"|"2596464"
+02/10/2022 14:53:23|"Miscellaneous notes"|"conversion data"|"mapunit_status_hist"|"correlated - muhistiid 222814"|"1460229"|"2596465"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"1460229"|"2596508"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"1460230"|"2596466"
+02/10/2022 14:28:04|"Miscellaneous notes"|"conversion data"|"mapunit_status_hist"|"correlated - muhistiid 222815"|"1460230"|"2596467"
+02/10/2022 14:53:23|"Miscellaneous notes"|"conversion data"|"mapunit_status_hist"|"correlated - muhistiid 222815"|"1460230"|"2596468"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Ownership changed from 6HOT to 9HOT as a result of reassignment of HOT Arkansas MLRA Soil Survey office to region 9. "|"1460230"|"2596509"

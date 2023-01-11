@@ -1,0 +1,6 @@
+"Climate Factor Area (USLE)"|"15"|"Climate Factor"|700474|"13394"|"508139"
+"County or Parish"|"TX481"|"Wharton"|700474|"13394"|"508144"
+"MLRA"|"150A"|"Gulf Coast Prairies"|700474|"13394"|"508149"
+"Rainfall Factor Area (USLE)"|"350"|"Rainfall Factor"|700474|"13394"|"508162"
+"State or Territory"|"TX"|"Texas"||"13394"|"508167"
+"Texas Administrative Zones"|"3"|"Texas Zone 3 (Corpus Christi)"||"13394"|"508172"
