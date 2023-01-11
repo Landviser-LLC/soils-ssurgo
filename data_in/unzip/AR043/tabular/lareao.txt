@@ -1,0 +1,7 @@
+"Climate Factor Area (USLE)"|"0"|"Climate Factor"|534848|"15107"|"531179"
+"County or Parish"|"AR043"|"Drew"|534848|"15107"|"531180"
+"MLRA"|"133B"|"Western Coastal Plain"|246344|"15107"|"531181"
+"MLRA"|"134"|"Southern Mississippi Valley Loess"|187626|"15107"|"531182"
+"MLRA"|"131B"|"Arkansas River Alluvium"|100878|"15107"|"531183"
+"Rainfall Factor Area (USLE)"|"375"|"Rainfall Factor"|534848|"15107"|"531184"
+"State or Territory"|"AR"|"Arkansas"|534848|"15107"|"531185"

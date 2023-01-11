@@ -1,0 +1,7 @@
+"Climate Factor Area (USLE)"|"15"|"Climate Factor"|951468|"13212"|"506473"
+"County or Parish"|"TX039"|"Brazoria"|951468|"13212"|"506474"
+"MLRA"|"150A"|"Gulf Coast Prairies"|787511|"13212"|"506475"
+"MLRA"|"150B"|"Gulf Coast Saline Prairies"|163957|"13212"|"506476"
+"Rainfall Factor Area (USLE)"|"400"|"Rainfall Factor"|951468|"13212"|"506477"
+"State or Territory"|"TX"|"Texas"||"13212"|"506478"
+"Texas Administrative Zones"|"3"|"Texas Zone 3 (Corpus Christi)"||"13212"|"506479"

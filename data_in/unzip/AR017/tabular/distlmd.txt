@@ -1,0 +1,9 @@
+"Non-MLRA Soil Survey Area"|"AR017"|"Chicot County, Arkansas"||08/01/1964 00:00:00|"certified, major components"|09/12/2022 13:31:19|"This export contains the following changes for AR017
+
+The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s) and in the Project Correlation table.
+
+This dataset also contains the following changes:
+
+Recalculated all national, regional, and local interpretations for all components.
+
+"|"15097"|"81026"|"80927"

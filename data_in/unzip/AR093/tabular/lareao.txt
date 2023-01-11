@@ -1,0 +1,7 @@
+"Climate Factor Area (USLE)"|"0"|"Climate Factor"||"15123"|"531332"
+"County or Parish"|"AR093"|"Mississippi"|591924|"15123"|"531333"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|591924|"15123"|"531334"
+"MLRA Soil Survey Area"|"7-MIL"|"Milan, Tennessee"||"15123"|"531335"
+"MLRA Soil Survey Regional Office Area"|"7"|"Auburn, AL"||"15123"|"531336"
+"Rainfall Factor Area (USLE)"|"275"|"Rainfall Factor"|591924|"15123"|"531337"
+"State or Territory"|"AR"|"Arkansas"||"15123"|"531338"

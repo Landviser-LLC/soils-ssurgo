@@ -1,0 +1,4 @@
+"TX600"|6|"WET"|"Wet spot"|A somewhat poorly drained to very poorly drained area that is at least two drainage classes wetter than the named soils in the surrounding map unit. Typically 0.1 to 4 acres.|"252749"
+"TX600"|6|"ROC"|"Rock outcrop"|An exposure of bedrock at the surface of the earth. Not used where the named soils of the surrounding map unit are shallow overbedrock or where Rock outcrop is a named component of the map unit. Typically 0.1 to 4 acres.|"252748"
+"TX600"|6|"GRA"|"Gravelly spot"|A spot where the surface layer has more than 35 percent, by volume, rock fragments that are mostly less than 3 inches in diameter in an area that has less than 15 percent rock fragments. Typically 0.1 to 4 acres.|"252747"
+"TX600"|6|"GPI"|"Gravel pit"|An open excavation from which soil and underlying material have been removed and used, without crushing, as a source of sand or gravel. Typically 0.1 to 4 acres.|"252746"

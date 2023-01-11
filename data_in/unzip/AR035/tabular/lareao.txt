@@ -1,0 +1,6 @@
+"Climate Factor Area (USLE)"|"0"|"Climate Factor"||"15104"|"531159"
+"County or Parish"|"AR035"|"Crittenden"|407616|"15104"|"531160"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|407616|"15104"|"531161"
+"MLRA Soil Survey Regional Office Area"|"7"|"Auburn, AL"||"15104"|"531162"
+"Rainfall Factor Area (USLE)"|"275"|"Rainfall Factor"|407616|"15104"|"531163"
+"State or Territory"|"AR"|"Arkansas"||"15104"|"531164"

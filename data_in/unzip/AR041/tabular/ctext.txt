@@ -1,0 +1,1463 @@
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394540"|"24053353"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry, hydric soil is a minor component."|"23394540"|"24053354"
+08/11/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Tunica soil is a minor component."|"23394469"|"24052804"
+08/09/2000 00:00:00|"Miscellaneous notes"|"RIC"||"<@33><i>Solum thickness:<p> 20 to 36 inches
+<@33><i>Clay content in the Control Section: <p> Greater than 35 percent in the upper part and less than 35 percent in the lower part below 36 inches.
+<@33><i>Redoximorphic features: <p>Iron accumulations are throughout, including oxidized rhizospheres in the A and B horizons. 
+<@33><i>Other distinctive soil features: <p> Loamy lithologic discontinuity at 20 to 36 inches deep
+<@33><i>Concentrated minerals: <p> None
+
+<@23><i>A horizon: <p>
+<@31>Color=Hue of 10YR or 2.5Y, value of 4 or 5, and chroma of 1 or 2. Some pedons have an A horizon that is less than 6 inches thick with hue of 10YR or 2.5Y, value of 3, and chroma of 2.
+<@31>Redoximorphic features= Iron accumulations in shades of brown and red are few to common.
+<@31>Texture=Silty clay or clay. Some pedons have an overwash of silt loam or silty clay loam.
+<@31>Other features=None
+<@31>Reaction=Medium acid to mildly alkaline
+<@31>Thickness=3 to 12 inches
+
+<@23><i>Bg horizon: <p>
+<@31>Color=Hue of 10YR, 2.5Y, or 5Y, value of 4 or 5, and chroma of 1, or value of 6, and chroma of 1 or 2. The Bg2 has hue of 10YR, 2.5Y, or 5Y, value of 4 to 6, and chroma of 1 or 2.
+<@31>Redoximorphic features=Iron accumulations in shades of brown and red are few to common. 
+<@31>Texture=Silty clay or clay
+<@31>Other features=None
+<@31>Reaction=Medium acid to mildly alkaline
+<@31>Thickness=17 to 29 inches
+
+<@23><i>2Cg horizon: <p>
+<@31>Color=Hue of 10YR, 2.5Y, or 5Y, value of 4 to 6, and chroma of 1 or 2.
+<@31>Redoximorphic features=Some pedons are variegated in shades of brown, yellow, and gray, below a depth of 30 inches. Iron accumulations in shades of brown are few to common.
+<@31>Texture=Silt loam, loam, silty clay loam, sandy loam or fine sandy loam, and the lower part in some pedons is loamy fine sand.
+<@31>Other features=None
+<@31>Reaction=Medium acid to moderately alkaline
+<@31>Thickness= inches"|"23394469"|"24052805"
+02/10/2022 14:26:12|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394469"|"24052806"
+02/10/2022 14:26:31|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394469"|"24052807"
+02/10/2022 14:27:05|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394469"|"24052808"
+02/10/2022 14:27:16|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394469"|"24052809"
+02/10/2022 14:27:30|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394469"|"24052810"
+02/10/2022 14:27:40|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394469"|"24052811"
+02/10/2022 14:27:52|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394469"|"24052812"
+02/10/2022 14:51:18|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394469"|"24052813"
+02/10/2022 14:51:28|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394469"|"24052814"
+02/10/2022 14:52:07|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394469"|"24052815"
+02/10/2022 14:52:19|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394469"|"24052816"
+02/10/2022 14:52:36|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394469"|"24052817"
+02/10/2022 14:52:59|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394469"|"24052818"
+02/10/2022 14:53:10|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394469"|"24052819"
+08/11/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Dowling soil is a minor component."|"23394470"|"24052820"
+03/13/2004 00:00:00|"Miscellaneous notes"|"RIC"||"<@33><i>Solum thickness:<p> 40 to more than 80 inches
+<@33><i>Clay content in the Control Section: <p> Greater than 60 percent.
+<@33><i>Redoximorphic features: <p> Iron accumulations throughout.
+<@33><i>Other distinctive soil features: <p> COLE ranges from 0.09 to 0.18 in all mineral layers.  Cracks do not form in the upper parts of the subsoil in normal years. Slickensides are in the lower part of the solum below a depth of 40 inches in some pedons, Wood fragments throughout.
+<@33><i>Concentrated minerals: <p> Barite masses in lower subsoil.
+
+<@23><i>A horizon: <p>
+<@31>Color=Hue of 10YR to 5Y, value of 3 or 4, and chroma of 1 or 2, or it is neutral with value of 4
+<@31>Redoximorphic features= Iron accumulations in shades of yellow to brown.
+<@31>Texture=Clay
+<@31>Other features=The n-value is less than 0.7
+<@31>Reaction=Strongly acid to neutral
+<@31>Thickness=3 to 8 inches
+
+<@23><i>Bg horizon: <p>
+<@31>Color=Hue of 10YR to 5GY, value of 4 or 5, and chroma of 1, or it is neutral with value of 4 or 5. Some pedons have value of 6 in the lower part.
+<@31>Redoximorphic features=Masses of iron accumulation in shades of brown range from none to common.
+<@31>Texture=Clay
+<@31>Other features=The n-value is less than 0.7
+<@31>Reaction=Slightly acid to moderately alkaline
+<@31>Thickness=More than 25 inches
+
+<@23><i>BCg horizon:    (where present)    <p>
+<@31>Color=Hue of 2.5Y to 5BG, value of 4 to 6, and chroma of 1, or it is neutral with value of 4 to 6
+<@31>Redoximorphic features=Iron accumulations in shades of yellow to brown.
+<@31>Texture=Clay, silty clay, or silty clay loam
+<@31>Other features=The n-value is less than 0.7. Organic carbon decreases irregularly with depth and/or is more than 0.2 percent at 50 inches below the soil surface.
+<@31>Reaction=Neutral to moderately alkaline
+<@31>Thickness=0 to 48 inches
+
+<@23><i>C horizon:    (where present)    <p>
+<@31>Color=Hue of 5Y to 5BG, value of 4 to 6, and chroma of 1, or it is neutral with value of 4 to 6.
+<@31>Redoximorphic features=Iron accumulations in shades of yellow to brown
+<@31>Texture=Clay, silty clay, or silty clay loam, with n-value ranging up to 1.0
+<@31>Other features=The n-value is more than 0.7 in the C horizon in some pedons.
+<@31>Reaction=Neutral to moderately alkaline
+<@31>Thickness=0 to 51 inches"|"23394470"|"24052822"
+02/10/2022 14:26:12|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"6"|"23394470"|"24052823"
+02/10/2022 14:26:31|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394470"|"24052824"
+02/10/2022 14:27:05|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394470"|"24052825"
+02/10/2022 14:27:16|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394470"|"24052826"
+02/10/2022 14:27:30|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394470"|"24052827"
+02/10/2022 14:27:40|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"severe"|"23394470"|"24052828"
+02/10/2022 14:27:52|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"severe"|"23394470"|"24052829"
+02/10/2022 14:51:18|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"6"|"23394470"|"24052830"
+02/10/2022 14:51:28|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394470"|"24052831"
+02/10/2022 14:52:07|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394470"|"24052832"
+02/10/2022 14:52:19|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394470"|"24052833"
+02/10/2022 14:52:36|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394470"|"24052834"
+02/10/2022 14:52:59|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"severe"|"23394470"|"24052835"
+02/10/2022 14:53:10|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"severe"|"23394470"|"24052836"
+12/05/2005 00:00:00|"Edit notes"|||"Removed the flood freqentcy of frequently flooded for very long durations"|"23394470"|"24052821"
+08/11/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Commerce soil is a minor component."|"23394471"|"24052837"
+07/30/2000 00:00:00|"Miscellaneous notes"|"RIC"||"<@33><i>Solum thickness:<p> 20 to more than 80 inches
+<@33><i>Clay content in the Control Section: <p> 18 to 35 percent
+<@33><i>Redoximorphic features: <p> Iron/manganese accumulations throughout.
+<@33><i>Other distinctive soil features: <p> Shell fragments throughout, slickensides and pressure faces possible in the lower B horizons if clayey textures are present.
+<@33><i>Concentrated minerals: <p> None
+
+<@23><i>Ap horizon: <p>
+<@31>Color=Hue of 10YR, value of 3 to 5, and chroma of 1 to 3
+<@31>Redoximorphic features= Masses of iron accumulation and iron depletions, where present, are in shades of brown and gray
+<@31>Texture=Very fine sandy loam, silt loam, or silty clay loam.  An overwash phase with texture of loamy fine sand is recognized.
+<@31>Other features=None
+<@31>Reaction=Moderately acid to moderately alkaline
+<@31>Thickness=4 to 12 inches
+
+<@23><i>Bw horizon: <p>
+<@31>Color=Hue of 10YR or 2.5Y, value of 4 or 5, and chroma of 2
+<@31>Redoximorphic features=Few to common masses of oxidized iron in shades of brown and iron depletions in shades of gray throughout. Some pedons have dark gray or very dark grayish brown coatings or stains on ped surfaces.
+<@31>Texture=Silt loam, loam, or silty clay loam
+<@31>Other features=tubular pores and shell fragments.
+<@31>Reaction=Slightly acid to moderately alkaline
+<@31>Thickness=6 to 20 inches
+
+<@23><i>Bg or BCg horizon: <p>
+<@31>Color=Hue of 10YR or 2.5Y , and chroma of 1
+<@31>Redoximorphic features=Few to common masses of oxidized iron in shades of brown and iron depletions in shades of gray are throughout the Bg horizon.
+<@31>Texture=Silt loam, loam, or silty clay loam. Some pedons are clayey below a depth of 50 inches.
+<@31>Other features=Tubular pores, and shell fragments
+<@31>Reaction=Neutral to moderately alkaline
+<@31>Thickness=Combined is more than 30 inches
+
+<@23><i>Ab horizon:    (where present)    <p>
+<@31>Color=Hue of 10YR, value of 3 to 5, and chroma of 1 to 3
+<@31>Redoximorphic features=Iron accumulations and depletions in shades of brown and gray are few to common.
+<@31>Texture=Very fine sandy loam, silt loam, or silty clay loam
+<@31>Other features=None
+<@31>Reaction=Neutral to moderately alkaline
+<@31>Thickness=0 to 12 inches
+
+<@23><i>Bssg, 2Bg or 2BCg horizon:    (where present)    <p>
+<@31>Color=Hue of 2.5Y to 5GY, value of 4 or 5, and chroma of 1, or it is neutral (N/)
+<@31>Redoximorphic features=Masses of iron accumulation in shades of brown or olive range from few to many.
+<@31>Texture=Clay, silty clay, or silty clay loam with more than 35 percent clay
+<@31>Other features=Slickensides are present in some pedons where this layer is thicker, snail shells and fragments may be present.
+<@31>Reaction=Neutral to moderately alkaline
+<@31>Thickness=This layer consists of one or more lenses or layers several inches thick, or it is a continuous layer that extends beyond 80 inches
+
+<@23><i>Cg horizon:    (where present)    <p>
+<@31>Color=Hue of 10YR to 5GY, value of 4 or 5, and chroma of 1 or 2
+<@31>Redoximorphic features=Masses of iron accumulation in shades of brown or olive range from none to many.
+<@31>Texture=Very fine sandy loam, loam, silt loam, or silty clay loam and is commonly stratified. Thin strata of silty clay are in some pedons.
+<@31>Other features=None
+<@31>Reaction=Neutral to moderately alkaline
+<@31>Thickness=0 to 23 inches"|"23394471"|"24052838"
+02/10/2022 14:26:12|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"13"|"23394471"|"24052839"
+02/10/2022 14:26:31|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394471"|"24052840"
+02/10/2022 14:27:05|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394471"|"24052841"
+02/10/2022 14:27:16|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394471"|"24052842"
+02/10/2022 14:27:30|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394471"|"24052843"
+02/10/2022 14:27:40|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394471"|"24052844"
+02/10/2022 14:27:52|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394471"|"24052845"
+02/10/2022 14:51:18|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"13"|"23394471"|"24052846"
+02/10/2022 14:51:28|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394471"|"24052847"
+02/10/2022 14:52:07|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394471"|"24052848"
+02/10/2022 14:52:19|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394471"|"24052849"
+02/10/2022 14:52:36|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394471"|"24052850"
+02/10/2022 14:52:59|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394471"|"24052851"
+02/10/2022 14:53:10|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394471"|"24052852"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Sharkey component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on backswamps on Mississippi River alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 0 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131AY402LA Tensas Basin - Poorly Drained Backswamp ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent. There are no saline horizons within 30 inches of the soil surface. The soil has a maximum sodium adsorption ratio of 2 within 30 inches of the soil surface."|"23394472"|"24052853"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"7"|"23394472"|"24052855"
+03/13/2004 00:00:00|"Miscellaneous notes"|"RIC"||"<@33><i>Solum thickness:<p> 36 to more than 80 inches
+<@33><i>Clay content in the Control Section: <p>Greater than 60  percent
+<@33><i>Redoximorphic features: <p> Iron-manganese accumulations throughout.
+<@33><i>Other distinctive soil features: <p> In most years, cracks 1 to 3 cm wide develop to a depth of 20 to 24 inches or more. COLE ranges from about 0.10 to 0.17 throughout the Bg, Bssg and Bssyg horizons. Slickensides and pressure faces are present in the lower B and the C horizons. Some pedons are calcareous at at more than 20 inches deep.
+<@33><i>Concentrated minerals: <p> Accumulated gypsum in the lower B and in the C horizons.
+
+<@23><i>A horizon: <p>
+<@31>Color=Hue of 10YR, value of 2 to 4, and chroma of 1 or 2.  Loamy overwash phases with less than 30 percent clay with hue of 10YR, values of 2 to 5 and chroma of 1 to 3 are recognized.
+<@31>Redoximorphic features=Iron-manganese accumulations in shades of brown are none to common. 
+<@31>Texture=Clay, silty clay, or silty clay loam with more than 30 percent clay.
+<@31>Other features=None
+<@31>Reaction=Strongly acid through moderately alkaline
+<@31>Thickness=4 to 12 inches
+
+<@23><i>Bg horizon:    (where present)    <p>
+<@31>Color=Hue of 10YR to 5Y, value of 4 to 6, and chroma of 1 or 2; or is neutral with values of 4 to 6.
+<@31>Redoximorphic features=Iron-manganese accumulations and depletions range from none to common in shades of gray, brown, yellow, and red.
+<@31>Texture=Clay
+<@31>Other features=Pressure faces.
+<@31>Reaction=Strongly acid to moderately alkaline
+<@31>Thickness=0 to 20 inches
+
+<@23><i>Bssg or Bssyg horizon: <p>
+<@31>Color=Hue of 10YR to 5Y, value of 4 to 6, and chroma of 1 or 2; or are neutral with  values of 4 to 6.
+<@31>Redoximorphic features=Iron-manganese accumulations and depletions range from few to many in shades of gray, brown, yellow, and red.
+<@31>Texture=Clay
+<@31>Other features=Slickensides and pressure faces are present. Gypsum and calcium carbonate accumulations range fron none to common. 
+<@31>Reaction=Strongly acid to moderately alkaline
+<@31>Thickness=26 to 80 inches
+
+<@23><i>BC or C horizon:    (where present)    <p>
+<@31>Color=Hue of 10YR to 5Y, value of 4 to 6, and chroma of 1 or 2; or are neutral with values of 4 to 6.
+<@31>Redoximorphic features=Iron-manganese accumulations and depletions range from few to many in shades of gray, brown, yellow, and red.
+<@31>Texture=Clay or silty clay but coarser textures are also present in some pedons below a depth of 40 inches.
+<@31>Other features=slickensides and pressure faces, gypsum and calcium carbonate accumulations range fron none to common.
+<@31>Reaction=Neutral to moderately alkaline
+<@31>Thickness= inches
+
+Correlation notes:
+1. The Sharkey lab data assigns a pH of 6.0 to the Bg horizon. Moderately acid is outside the range of the OSD as currently written (1998)."|"23394472"|"24052857"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394472"|"24052859"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394472"|"24052861"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394472"|"24052863"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394472"|"24052865"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394472"|"24052867"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394472"|"24052868"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394472"|"24052869"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394472"|"24052870"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"7"|"23394472"|"24052871"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394472"|"24052872"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394472"|"24052873"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394472"|"24052874"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394472"|"24052875"
+12/10/2012 00:00:00|"Edit notes"|"Component"|"Horizon"|"Carbonate Clay data is unavailable, and therefore, the fields are left blank."|"23394472"|"24052866"
+09/04/2013 00:00:00|"Edit notes"|"Comp. Geo. Desc."|"Feat. ID"|"Edited 'Feature ID' and 'Exists on Feature'. Sequenced Landscapes and landforms."|"23394472"|"24052864"
+12/10/2012 00:00:00|"Edit notes"|"Component"|"Excavation"|"Excavation difficulty data is unavailable and therefore, the fields are left blank."|"23394472"|"24052862"
+12/10/2012 00:00:00|"Edit notes"|"Component"|"SSP"|"Soil Slippage Potential data is not available and therefore, the fields were left blank.  "|"23394472"|"24052860"
+12/05/2012 00:00:00|"Edit notes"|"Component"|"IrrLCC"|"Irrigated Land Capability Class and Subclass are intentionally left blank because, although, almost every bit of farmland in MLRA 131A is irrigated because of a large alluvial aquifer and generous permitting, IrrLCC are not used, nor populated in any of our historic data."|"23394472"|"24052858"
+12/06/2012 00:00:00|"Edit notes"|"Horizon"|"Particle Sizes"|"Horizon Particle Size Total Sand, Sand Fractions, Total Clay, and Total Silt  numbers are left as the data from the labs.  "|"23394472"|"24052856"
+12/05/2012 00:00:00|"Edit notes"|"Component"|"Local Runoff Class"|"According to Field Book for Describing and Sampling soils v 2.0, can use Ksat class and slope percent to determine local runoff class.  DMUs in 131A for Sharkey C, 0-1%, rarely flooded ranged from low to very high runoff class.  The OSD says negligible to very high, depending on slope.  Using the Ksat class in surface (0 to 0.42, RV 0.21) = moderately low and slope percent of 0 to 1 percent slope, the chart gives the Surface Runoff Class as LOW."|"23394472"|"24052854"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Commerce component makes up 30 percent of the map unit. Slopes are 0 to 3 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is frequently flooded. It is not ponded. A seasonal zone of water saturation is at 33 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 5w.  This soil meets hydric criteria.   "|"23394565"|"24053542"
+08/18/2016 00:00:00|"Correlation notes"|||"The RV slope gradient for this component was changed from 1.5% to 1% in accordance with the NSSH Part 618.55, which specifies that RV slope gradients are only allowed to be populated to one decimal place if the slope is less than 1%.  The logic used to make this adjustment was as follows with a few exceptions.  Well drained and drier components with RV slopes containing a "".5"" were rounded up and Moderately Well Drained and wetter soils containing a "".5"" were rounded down.  "|"23394565"|"24053544"
+02/10/2022 14:26:12|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"12"|"23394565"|"24053541"
+02/10/2022 14:26:43|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0041"|"23394565"|"24053545"
+02/10/2022 14:27:05|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394565"|"24053546"
+02/10/2022 14:27:16|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394565"|"24053547"
+02/10/2022 14:27:30|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394565"|"24053548"
+02/10/2022 14:27:40|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"severe"|"23394565"|"24053549"
+02/10/2022 14:27:52|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394565"|"24053550"
+02/10/2022 14:51:18|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"12"|"23394565"|"24053551"
+02/10/2022 14:51:28|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394565"|"24053552"
+02/10/2022 14:51:47|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0041"|"23394565"|"24053553"
+02/10/2022 14:52:07|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394565"|"24053554"
+02/10/2022 14:52:19|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394565"|"24053555"
+02/10/2022 14:52:36|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394565"|"24053556"
+02/10/2022 14:52:59|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"severe"|"23394565"|"24053557"
+02/10/2022 14:53:10|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394565"|"24053558"
+02/10/2022 14:26:31|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394565"|"24053543"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394566"|"24053559"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Sharkey component makes up 40 percent of the map unit. Slopes are 0 to 3 percent. This component is on backswamps, river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is frequently flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 5w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"23394567"|"24053561"
+08/18/2016 00:00:00|"Correlation notes"|||"The RV slope gradient for this component was changed from 1.5% to 1% in accordance with the NSSH Part 618.55, which specifies that RV slope gradients are only allowed to be populated to one decimal place if the slope is less than 1%.  The logic used to make this adjustment was as follows with a few exceptions.  Well drained and drier components with RV slopes containing a "".5"" were rounded up and Moderately Well Drained and wetter soils containing a "".5"" were rounded down.  "|"23394567"|"24053563"
+02/10/2022 14:26:31|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394567"|"24053564"
+02/10/2022 14:26:43|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0133"|"23394567"|"24053565"
+02/10/2022 14:27:05|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394567"|"24053566"
+02/10/2022 14:27:16|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394567"|"24053567"
+02/10/2022 14:27:30|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394567"|"24053568"
+02/10/2022 14:27:40|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"severe"|"23394567"|"24053569"
+02/10/2022 14:27:52|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394567"|"24053570"
+02/10/2022 14:51:18|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"6"|"23394567"|"24053571"
+02/10/2022 14:51:28|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394567"|"24053572"
+02/10/2022 14:51:47|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0133"|"23394567"|"24053573"
+02/10/2022 14:52:07|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394567"|"24053574"
+02/10/2022 14:52:19|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394567"|"24053575"
+02/10/2022 14:52:36|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394567"|"24053576"
+02/10/2022 14:52:59|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"severe"|"23394567"|"24053577"
+02/10/2022 14:53:10|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394567"|"24053578"
+02/10/2022 14:26:12|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"6"|"23394567"|"24053562"
+04/04/2012 00:00:00|"Edit notes"|"Taxonomy"|"Classification"|"The classification was updated from Very-fine, montmorillonitic, nonacid, thermic Vertic Haplaquepts to Very-fine, smectitic, thermic Chromic Epiaquerts"|"23394567"|"24053560"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Robinsonville soil is a minor component."|"23394568"|"24053579"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Coushatta component makes up 20 percent of the map unit. Slopes are 0 to 3 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is low. This soil is frequently flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 5w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"23394569"|"24053583"
+08/18/2016 00:00:00|"Correlation notes"|||"The RV slope gradient for this component was changed from 1.5% to 2% in accordance with the NSSH Part 618.55, which specifies that RV slope gradients are only allowed to be populated to one decimal place if the slope is less than 1%.  The logic used to make this adjustment was as follows with a few exceptions.  Well drained and drier components with RV slopes containing a "".5"" were rounded up and Moderately Well Drained and wetter soils containing a "".5"" were rounded down.  "|"23394569"|"24053581"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394569"|"24053580"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394569"|"24053582"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394569"|"24053584"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394569"|"24053585"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394569"|"24053586"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394569"|"24053587"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0114"|"23394569"|"24053588"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394569"|"24053589"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0114"|"23394569"|"24053590"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394569"|"24053591"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"severe"|"23394569"|"24053592"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394569"|"24053593"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394569"|"24053594"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"severe"|"23394569"|"24053595"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394569"|"24053596"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394569"|"24053597"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Sharkey component makes up 50 percent of the map unit. Slopes are 0 to 1 percent. This component is on backswamps, river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131AY402LA Tensas Basin - Poorly Drained Backswamp ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"23394501"|"24053048"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394501"|"24053049"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394501"|"24053050"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394501"|"24053051"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394501"|"24053052"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394501"|"24053053"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394501"|"24053054"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394501"|"24053055"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394501"|"24053056"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394501"|"24053057"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0050"|"23394501"|"24053058"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394501"|"24053059"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"7"|"23394501"|"24053060"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"7"|"23394501"|"24053061"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0050"|"23394501"|"24053062"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394501"|"24053063"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394501"|"24053064"
+04/04/2012 00:00:00|"Edit notes"|"Taxonomy"|"Classification"|"The classification was updated from Very-fine, montmorillonitic, nonacid, thermic Vertic Haplaquepts to Very-fine, smectitic, thermic Chromic Epiaquerts"|"23394501"|"24053047"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394502"|"24053065"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey, flooded, long soil is a minor component."|"23394503"|"24053066"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Desha, flooded, long soil is a minor component."|"23394504"|"24053067"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Desha component makes up 35 percent of the map unit. Slopes are 0 to 1 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, May, December. Organic matter content in the surface horizon is about 3 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394505"|"24053069"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394505"|"24053070"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394505"|"24053071"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394505"|"24053072"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394505"|"24053073"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394505"|"24053074"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394505"|"24053075"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394505"|"24053076"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394505"|"24053077"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394505"|"24053078"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394505"|"24053079"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394505"|"24053080"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394505"|"24053081"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394505"|"24053082"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394505"|"24053083"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394505"|"24053084"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394505"|"24053068"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Sharkey component makes up 50 percent of the map unit. Slopes are 0 to 1 percent. This component is on backswamps, river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131AY402LA Tensas Basin - Poorly Drained Backswamp ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"23394476"|"24052897"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"7"|"23394476"|"24052898"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394476"|"24052899"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394476"|"24052900"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0050"|"23394476"|"24052901"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394476"|"24052902"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394476"|"24052903"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394476"|"24052904"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394476"|"24052905"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394476"|"24052906"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0050"|"23394476"|"24052907"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"7"|"23394476"|"24052908"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394476"|"24052909"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394476"|"24052910"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394476"|"24052911"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394476"|"24052912"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394476"|"24052913"
+04/04/2012 00:00:00|"Edit notes"|"Taxonomy"|"Classification"|"The classification was updated from Very-fine, montmorillonitic, nonacid, thermic Vertic Haplaquepts to Very-fine, smectitic, thermic Chromic Epiaquerts"|"23394476"|"24052896"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394477"|"24052914"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey, flooded, long soil is a minor component."|"23394478"|"24052915"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Desha component makes up 35 percent of the map unit. Slopes are 0 to 1 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, May, December. Organic matter content in the surface horizon is about 3 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394479"|"24052917"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394479"|"24052916"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394479"|"24052918"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394479"|"24052919"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394479"|"24052920"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394479"|"24052921"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394479"|"24052922"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394479"|"24052923"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394479"|"24052924"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394479"|"24052925"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394479"|"24052926"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394479"|"24052927"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394479"|"24052928"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394479"|"24052929"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394479"|"24052930"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394479"|"24052931"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394479"|"24052932"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Desha, flooded, long soil is a minor component."|"23394480"|"24052933"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Sharkey component makes up 55 percent of the map unit. Slopes are 0 to 3 percent. This component is on backswamps, river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131AY402LA Tensas Basin - Poorly Drained Backswamp ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 3 percent.  "|"23394506"|"24053085"
+08/18/2016 00:00:00|"Correlation notes"|||"The RV slope gradient for this component was changed from 1.5% to 1% in accordance with the NSSH Part 618.55, which specifies that RV slope gradients are only allowed to be populated to one decimal place if the slope is less than 1%.  The logic used to make this adjustment was as follows with a few exceptions.  Well drained and drier components with RV slopes containing a "".5"" were rounded up and Moderately Well Drained and wetter soils containing a "".5"" were rounded down.  "|"23394506"|"24053087"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394506"|"24053088"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394506"|"24053089"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0050"|"23394506"|"24053090"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394506"|"24053091"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"7"|"23394506"|"24053092"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0050"|"23394506"|"24053093"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"7"|"23394506"|"24053094"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394506"|"24053095"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394506"|"24053096"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394506"|"24053097"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394506"|"24053098"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394506"|"24053099"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394506"|"24053100"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394506"|"24053101"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394506"|"24053102"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394506"|"24053103"
+04/04/2012 00:00:00|"Edit notes"|"Taxonomy"|"Classification"|"The classification was updated from Very-fine, montmorillonitic, nonacid, thermic Vertic Haplaquepts to Very-fine, smectitic, thermic Chromic Epiaquerts"|"23394506"|"24053086"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394507"|"24053104"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Desha, flooded, long soil is a minor component."|"23394508"|"24053105"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey, flooded, long soil is a minor component."|"23394509"|"24053106"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Desha component makes up 30 percent of the map unit. Slopes are 0 to 3 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, May, December. Organic matter content in the surface horizon is about 3 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394510"|"24053108"
+08/18/2016 00:00:00|"Correlation notes"|||"The RV slope gradient for this component was changed from 1.5% to 1% in accordance with the NSSH Part 618.55, which specifies that RV slope gradients are only allowed to be populated to one decimal place if the slope is less than 1%.  The logic used to make this adjustment was as follows with a few exceptions.  Well drained and drier components with RV slopes containing a "".5"" were rounded up and Moderately Well Drained and wetter soils containing a "".5"" were rounded down.  "|"23394510"|"24053110"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394510"|"24053111"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394510"|"24053112"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394510"|"24053113"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394510"|"24053114"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394510"|"24053115"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394510"|"24053116"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394510"|"24053117"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394510"|"24053118"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394510"|"24053119"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394510"|"24053120"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394510"|"24053121"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394510"|"24053122"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394510"|"24053123"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394510"|"24053124"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394510"|"24053109"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394510"|"24053107"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394481"|"24052934"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey soil is a minor component."|"23394482"|"24052935"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Tunica component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of clayey over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is moderate. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394483"|"24052937"
+02/10/2022 14:26:12|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394483"|"24052936"
+02/10/2022 14:26:31|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394483"|"24052938"
+02/10/2022 14:26:43|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0079"|"23394483"|"24052939"
+02/10/2022 14:27:05|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394483"|"24052940"
+02/10/2022 14:27:16|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394483"|"24052941"
+02/10/2022 14:27:30|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394483"|"24052942"
+02/10/2022 14:27:40|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394483"|"24052943"
+02/10/2022 14:27:52|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394483"|"24052944"
+02/10/2022 14:51:18|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394483"|"24052945"
+02/10/2022 14:51:28|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394483"|"24052946"
+02/10/2022 14:51:47|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0079"|"23394483"|"24052947"
+02/10/2022 14:52:07|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394483"|"24052948"
+02/10/2022 14:52:19|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394483"|"24052949"
+02/10/2022 14:52:36|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394483"|"24052950"
+02/10/2022 14:52:59|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394483"|"24052951"
+02/10/2022 14:53:10|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394483"|"24052952"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Tunica, flooded, long soil is a minor component."|"23394484"|"24052953"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Tunica component makes up 85 percent of the map unit. Slopes are 1 to 3 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of clayey over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is moderate. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 3e.  This soil does not meet hydric criteria.   "|"23394525"|"24053225"
+02/10/2022 14:26:12|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394525"|"24053224"
+02/10/2022 14:26:31|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394525"|"24053226"
+02/10/2022 14:26:43|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0079"|"23394525"|"24053227"
+02/10/2022 14:27:05|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394525"|"24053228"
+02/10/2022 14:27:16|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394525"|"24053229"
+02/10/2022 14:27:30|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394525"|"24053230"
+02/10/2022 14:27:40|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394525"|"24053231"
+02/10/2022 14:27:52|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394525"|"24053232"
+02/10/2022 14:51:18|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394525"|"24053233"
+02/10/2022 14:51:28|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394525"|"24053234"
+02/10/2022 14:51:47|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0079"|"23394525"|"24053235"
+02/10/2022 14:52:07|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394525"|"24053236"
+02/10/2022 14:52:19|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394525"|"24053237"
+02/10/2022 14:52:36|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394525"|"24053238"
+02/10/2022 14:52:59|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394525"|"24053239"
+02/10/2022 14:53:10|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394525"|"24053240"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394526"|"24053241"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey soil is a minor component."|"23394527"|"24053242"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert, rarely flooded soil is a minor component."|"23394539"|"24053339"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394539"|"24053337"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394539"|"24053338"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394539"|"24053340"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394539"|"24053341"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394539"|"24053342"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394539"|"24053343"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394539"|"24053344"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394539"|"24053345"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0056"|"23394539"|"24053346"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394539"|"24053347"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394539"|"24053348"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0056"|"23394539"|"24053349"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394539"|"24053350"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394539"|"24053351"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394539"|"24053352"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394538"|"24053320"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Rilla component makes up 90 percent of the map unit. Slopes are 1 to 3 percent. This component is on natural levees, river valleys. The parent material consists of loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria.  There are no saline horizons within 30 inches of the soil surface. "|"23394538"|"24053318"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394538"|"24053319"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0066"|"23394538"|"24053321"
+09/08/2014 00:00:00|"Miscellaneous notes"|"WSG"||"This soil is well suited
+to most locally grown cultivated crops and pasture plants.
+Capability unit lle-1; woodland group 2o4."|"23394538"|"24053322"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394538"|"24053323"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394538"|"24053324"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394538"|"24053325"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394538"|"24053326"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"10"|"23394538"|"24053327"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0066"|"23394538"|"24053328"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394538"|"24053329"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394538"|"24053330"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394538"|"24053331"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394538"|"24053332"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"10"|"23394538"|"24053333"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394538"|"24053334"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394538"|"24053335"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394538"|"24053336"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert, rarely flooded soil is a minor component."|"23394537"|"24053304"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394537"|"24053302"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394537"|"24053303"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394537"|"24053305"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0056"|"23394537"|"24053306"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394537"|"24053307"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394537"|"24053308"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394537"|"24053309"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394537"|"24053310"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394537"|"24053311"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394537"|"24053312"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0056"|"23394537"|"24053313"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394537"|"24053314"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394537"|"24053315"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394537"|"24053316"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394537"|"24053317"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Rilla component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on natural levees, river valleys. The parent material consists of loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria.  There are no saline horizons within 30 inches of the soil surface. "|"23394536"|"24053286"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394536"|"24053284"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"10"|"23394536"|"24053285"
+|"Miscellaneous notes"|"WSG"||"woodland
+suitability group 2o4.
+"|"23394536"|"24053283"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394536"|"24053287"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0066"|"23394536"|"24053288"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394536"|"24053289"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394536"|"24053290"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394536"|"24053291"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394536"|"24053292"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394536"|"24053293"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"10"|"23394536"|"24053294"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394536"|"24053295"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0066"|"23394536"|"24053296"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394536"|"24053297"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394536"|"24053298"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394536"|"24053299"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394536"|"24053300"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394536"|"24053301"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Unnamed, hydric soil is a minor component."|"23394535"|"24053282"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"23394548"|"24053401"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394548"|"24053402"
+11/17/2004 00:00:00|"Edit notes"|"Hydric criteria"||"11/17/04 LK.  The Perry components that is a minor inclusion need to have the flooding vs ponding hydric criteria varified.  There may be an error to the criteria rating for this component."|"23394548"|"24053400"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland, flooded soil is a minor component."|"23394547"|"24053398"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394547"|"24053399"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"23394546"|"24053396"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394546"|"24053397"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394545"|"24053395"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Portland component makes up 80 percent of the map unit. Slopes are 0 to 1 percent. This component is on backswamps on (Arkansas) river valleys. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394544"|"24053379"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394544"|"24053377"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394544"|"24053380"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0009"|"23394544"|"24053381"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394544"|"24053382"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394544"|"24053383"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394544"|"24053384"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394544"|"24053385"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"severe"|"23394544"|"24053386"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394544"|"24053387"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394544"|"24053388"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0009"|"23394544"|"24053389"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394544"|"24053390"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394544"|"24053391"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394544"|"24053392"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394544"|"24053393"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"severe"|"23394544"|"24053394"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394544"|"24053378"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394497"|"24053024"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland, flooded, long soil is a minor component."|"23394496"|"24053022"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394496"|"24053023"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"23394495"|"24053021"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394495"|"24053019"
+11/17/2004 00:00:00|"Edit notes"|"Hydric criteria"||"11/17/04 LK.  The Perry components that is a minor inclusion need to have the flooding vs ponding hydric criteria varified.  There may be an error to the criteria rating for this component."|"23394495"|"24053020"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Portland component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on backswamps on (Arkansas) river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 3 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394494"|"24053001"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394494"|"24053003"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394494"|"24053004"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394494"|"24053005"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394494"|"24053006"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394494"|"24053007"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394494"|"24053008"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394494"|"24053009"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394494"|"24053010"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"severe"|"23394494"|"24053011"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394494"|"24053012"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394494"|"24053013"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394494"|"24053014"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394494"|"24053015"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"severe"|"23394494"|"24053016"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0009"|"23394494"|"24053017"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0009"|"23394494"|"24053018"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394494"|"24053002"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Perry component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on lower backswamps on Red River and Arkansas River river valleys. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is very high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, May, June, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria.   "|"23394493"|"24052986"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394493"|"24052984"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"3"|"23394493"|"24052983"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394493"|"24052985"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0026"|"23394493"|"24052987"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394493"|"24052988"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394493"|"24052989"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394493"|"24052990"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394493"|"24052991"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394493"|"24052992"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"3"|"23394493"|"24052993"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394493"|"24052994"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0026"|"23394493"|"24052995"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394493"|"24052996"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394493"|"24052997"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394493"|"24052998"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394493"|"24052999"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394493"|"24053000"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394492"|"24052981"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry, frequently flooded soil is a minor component."|"23394492"|"24052982"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394491"|"24052979"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland soil is a minor component."|"23394491"|"24052980"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394543"|"24053362"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Perry component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on lower backswamps on Red River and Arkansas River river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is very low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is very high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April, May, June, December. Organic matter content in the surface horizon is about 2 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil meets hydric criteria.   "|"23394543"|"24053360"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0026"|"23394543"|"24053361"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394543"|"24053363"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394543"|"24053364"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394543"|"24053365"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394543"|"24053366"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394543"|"24053367"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394543"|"24053368"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"3"|"23394543"|"24053369"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394543"|"24053370"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394543"|"24053371"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"3"|"23394543"|"24053372"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394543"|"24053373"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394543"|"24053374"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394543"|"24053375"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394543"|"24053376"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0026"|"23394543"|"24053359"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland soil is a minor component."|"23394542"|"24053357"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394542"|"24053358"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394541"|"24053355"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry, flooded, long soil is a minor component."|"23394541"|"24053356"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey soil is a minor component."|"23394524"|"24053223"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Newellton, flooded, long soil is a minor component."|"23394523"|"24053222"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394522"|"24053221"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Newellton component makes up 85 percent of the map unit. Slopes are 0 to 3 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of clayey over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is low. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 24 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394521"|"24053204"
+08/18/2016 00:00:00|"Correlation notes"|||"The RV slope gradient for this component was changed from 1.5% to 1% in accordance with the NSSH Part 618.55, which specifies that RV slope gradients are only allowed to be populated to one decimal place if the slope is less than 1%.  The logic used to make this adjustment was as follows with a few exceptions.  Well drained and drier components with RV slopes containing a "".5"" were rounded up and Moderately Well Drained and wetter soils containing a "".5"" were rounded down.  "|"23394521"|"24053206"
+02/10/2022 14:26:12|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"6"|"23394521"|"24053203"
+02/10/2022 14:26:43|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0064"|"23394521"|"24053207"
+02/10/2022 14:27:05|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394521"|"24053208"
+02/10/2022 14:27:16|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394521"|"24053209"
+02/10/2022 14:27:30|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394521"|"24053210"
+02/10/2022 14:27:40|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394521"|"24053211"
+02/10/2022 14:27:52|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394521"|"24053212"
+02/10/2022 14:51:18|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"6"|"23394521"|"24053213"
+02/10/2022 14:51:28|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394521"|"24053214"
+02/10/2022 14:51:47|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0064"|"23394521"|"24053215"
+02/10/2022 14:52:07|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394521"|"24053216"
+02/10/2022 14:52:19|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394521"|"24053217"
+02/10/2022 14:52:36|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394521"|"24053218"
+02/10/2022 14:52:59|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394521"|"24053219"
+02/10/2022 14:53:10|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394521"|"24053220"
+02/10/2022 14:26:31|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394521"|"24053205"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey soil is a minor component."|"23394520"|"24053202"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Newellton, flooded, long soil is a minor component."|"23394519"|"24053201"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394518"|"24053200"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Newellton component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of clayey over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is low. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 24 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394517"|"24053184"
+02/10/2022 14:26:12|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"6"|"23394517"|"24053183"
+02/10/2022 14:26:31|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394517"|"24053185"
+02/10/2022 14:26:43|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0064"|"23394517"|"24053186"
+02/10/2022 14:27:05|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394517"|"24053187"
+02/10/2022 14:27:16|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394517"|"24053188"
+02/10/2022 14:27:30|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394517"|"24053189"
+02/10/2022 14:27:40|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394517"|"24053190"
+02/10/2022 14:27:52|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394517"|"24053191"
+02/10/2022 14:51:18|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"6"|"23394517"|"24053192"
+02/10/2022 14:51:28|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394517"|"24053193"
+02/10/2022 14:51:47|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0064"|"23394517"|"24053194"
+02/10/2022 14:52:07|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394517"|"24053195"
+02/10/2022 14:52:19|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394517"|"24053196"
+02/10/2022 14:52:36|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394517"|"24053197"
+02/10/2022 14:52:59|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394517"|"24053198"
+02/10/2022 14:53:10|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394517"|"24053199"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"23394514"|"24053163"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394514"|"24053165"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394514"|"24053164"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394514"|"24053162"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394514"|"24053166"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"3"|"23394514"|"24053167"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394514"|"24053168"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394514"|"24053169"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"3"|"23394514"|"24053170"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0026"|"23394514"|"24053171"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394514"|"24053172"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394514"|"24053173"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394514"|"24053174"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394514"|"24053175"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394514"|"24053176"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394514"|"24053177"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0026"|"23394514"|"24053178"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394514"|"24053179"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Unnamed, hydric soil is a minor component."|"23394513"|"24053161"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Hebert soil is a minor component."|"23394512"|"24053145"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394512"|"24053143"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0056"|"23394512"|"24053144"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394512"|"24053146"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394512"|"24053147"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394512"|"24053148"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394512"|"24053149"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394512"|"24053150"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0056"|"23394512"|"24053151"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394512"|"24053152"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394512"|"24053153"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394512"|"24053154"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394512"|"24053155"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394512"|"24053156"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394512"|"24053157"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394512"|"24053158"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394512"|"24053159"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"severe"|"23394512"|"24053160"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394511"|"24053127"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The McGehee component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on Quarternary Alluvium Deposits flood plains, alluvial plains. The parent material consists of alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.  There are no saline horizons within 30 inches of the soil surface. "|"23394511"|"24053125"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394511"|"24053126"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394511"|"24053128"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394511"|"24053129"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394511"|"24053130"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394511"|"24053131"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0063"|"23394511"|"24053132"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394511"|"24053133"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394511"|"24053134"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394511"|"24053135"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394511"|"24053136"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0063"|"23394511"|"24053137"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394511"|"24053138"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394511"|"24053139"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394511"|"24053140"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394511"|"24053141"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394511"|"24053142"
+08/23/2021 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Levee is a miscellaneous area."|"23394516"|"24053182"
+09/30/2005 00:00:00|"Correlation notes"|||"Name change from Levee to Orthents to meet NSSH standards for naming miscellaneous areas."|"23394516"|"24053181"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394489"|"24052976"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Portland soil is a minor component."|"23394489"|"24052977"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394488"|"24052963"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Hebert component makes up 88 percent of the map unit. Slopes are 0 to 1 percent. This component is on natural levees on alluvial plains. The parent material consists of Holocene silty alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 27 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.  There are no saline horizons within 30 inches of the soil surface. "|"23394488"|"24052961"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0056"|"23394488"|"24052960"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394488"|"24052964"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0056"|"23394488"|"24052965"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394488"|"24052966"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394488"|"24052967"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394488"|"24052968"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394488"|"24052969"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394488"|"24052970"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394488"|"24052971"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394488"|"24052972"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394488"|"24052973"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394488"|"24052974"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394488"|"24052975"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394488"|"24052962"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394487"|"24052958"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"23394487"|"24052959"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Gallion soil is a minor component."|"23394486"|"24052956"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394486"|"24052957"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Rilla soil is a minor component."|"23394485"|"24052954"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394485"|"24052955"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Desha, flooded, long soil is a minor component."|"23394551"|"24053424"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394551"|"24053425"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394550"|"24053421"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"23394550"|"24053423"
+11/17/2004 00:00:00|"Edit notes"|"Hydric criteria"||"11/17/04 LK.  The Perry components that is a minor inclusion need to have the flooding vs ponding hydric criteria varified.  There may be an error to the criteria rating for this component."|"23394550"|"24053422"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394549"|"24053406"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Desha component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on flood plains on river valleys. The parent material consists of clayey alluvium derived from rhyolite. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, May, December. Organic matter content in the surface horizon is about 3 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394549"|"24053404"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394549"|"24053405"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394549"|"24053403"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394549"|"24053407"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394549"|"24053408"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394549"|"24053409"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394549"|"24053410"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394549"|"24053411"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394549"|"24053412"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394549"|"24053413"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394549"|"24053414"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394549"|"24053415"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394549"|"24053416"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394549"|"24053417"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394549"|"24053418"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394549"|"24053419"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394549"|"24053420"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Desha component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on flood plains on river valleys. The parent material consists of clayey alluvium derived from rhyolite. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, May, December. Organic matter content in the surface horizon is about 3 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394554"|"24053432"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394554"|"24053434"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394554"|"24053435"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394554"|"24053436"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394554"|"24053437"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394554"|"24053438"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394554"|"24053439"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394554"|"24053440"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394554"|"24053441"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394554"|"24053442"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394554"|"24053443"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394554"|"24053444"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394554"|"24053445"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394554"|"24053446"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394554"|"24053447"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394554"|"24053448"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394554"|"24053433"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394554"|"24053431"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Perry soil is a minor component."|"23394553"|"24053429"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394553"|"24053430"
+11/17/2004 00:00:00|"Edit notes"|"Hydric criteria"||"11/17/04 LK.  The Perry components that is a minor inclusion need to have the flooding vs ponding hydric criteria varified.  There may be an error to the criteria rating for this component."|"23394553"|"24053428"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Desha, flooded, long soil is a minor component."|"23394552"|"24053426"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY006AR"|"F131BY006AR - Clayey Flood Plain
+
+Ecological Site Concept
+The Clayey Floodplain ecological site has clay-textured, very deep, somewhat poorly to poorly drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring.
+
+Soil Features
+The ecological site consists of very deep, somewhat poorly to poorly drained, very slowly permeable to impermeable soils that formed in clayey alluvium. The soils have high clay content with high shrink-swell potential. Soils correlated to this site include: Alligator, Desha, Forestdale, Perry, and Portland.
+
+Reference Community
+Besides the co-dominants overcup oak and water hickory, associate species may include: green ash, hackberry (Celtis laevigata), swamp dogwood (Cornus foemina), and swamp privet (Forestiera acuminata). Buttonbush is a common understory shrub. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY006AR"|"23394552"|"24053427"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey soil is a minor component."|"23394500"|"24053045"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131AY201AR"|"No ecological site description is available."|"23394500"|"24053046"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394499"|"24053043"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Coushatta, flooded, long soil is a minor component."|"23394499"|"24053044"
+07/28/2022 00:00:00|"Nontechnical description"|"ES"|"F131BY003AR"|"F131BY003AR - Loamy Flood Plain
+
+Ecological Site Concept
+The Loamy Floodplain ecological site has loamy-textured, very deep, somewhat poorly to well drained soils that are prone to flooding. Sites can flood for prolonged periods, especially during the winter and early spring. 
+
+Soil Features
+The soils consist of very deep, somewhat poorly to well drained, very slow to moderately permeable soils. Most of the soils have a silt loam surface, but can range from very fine sandy loam to silty clay loam. Soils correlated to this site include: Caspiana, Commerce, Coushatta, Dardanelle, Gallion, Hebert, Keo, Mcgehee, Mer Rouge, Morganfield, Norwood, Oklared, Rilla, Roxana, Severn, and Sterlington.
+
+Reference Community
+Besides the co-dominants water oak and willow oak, associate species may include: sweetgum, Nuttall oak, overcup oak (Quercus lyrata), hackberry (Celtis laevigata), green ash, and red maple. Understory shrub species include: swamp dogwood (Cornus foemina), green hawthorn (Crataegus viridis), and possumhaw (Ilex decidua). Common understory herbaceous species include: peppervine (Ampelopsis arborea), trumpet-creeper (Campsis radicans), and poison ivy. Sedges and other herbaceous vegetation adapted to seasonally prolonged flooding inhabit the forest understory.
+
+Reference Plants List
+No reference plants list is available.
+
+MLRA - 131B
+Legacy Ecosite ID - F131BY003AR"|"23394498"|"24053026"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Coushatta component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent. This component is in the F131BY003AR Loamy Flood Plain ecological site. Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"23394498"|"24053028"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0003"|"23394498"|"24053029"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394498"|"24053030"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394498"|"24053031"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394498"|"24053032"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394498"|"24053033"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394498"|"24053034"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394498"|"24053035"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394498"|"24053036"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0003"|"23394498"|"24053037"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394498"|"24053038"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394498"|"24053039"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394498"|"24053040"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394498"|"24053041"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394498"|"24053042"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394498"|"24053027"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394498"|"24053025"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey soil is a minor component."|"23394475"|"24052895"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Commerce, flooded, long soil is a minor component."|"23394474"|"24052894"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Commerce component makes up 85 percent of the map unit. Slopes are 0 to 3 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 33 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria.   "|"23394473"|"24052878"
+08/18/2016 00:00:00|"Correlation notes"|||"The RV slope gradient for this component was changed from 1.5% to 1% in accordance with the NSSH Part 618.55, which specifies that RV slope gradients are only allowed to be populated to one decimal place if the slope is less than 1%.  The logic used to make this adjustment was as follows with a few exceptions.  Well drained and drier components with RV slopes containing a "".5"" were rounded up and Moderately Well Drained and wetter soils containing a "".5"" were rounded down.  "|"23394473"|"24052876"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394473"|"24052877"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394473"|"24052879"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"13"|"23394473"|"24052880"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394473"|"24052881"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394473"|"24052882"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0041"|"23394473"|"24052883"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394473"|"24052884"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394473"|"24052885"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0041"|"23394473"|"24052886"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394473"|"24052887"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"13"|"23394473"|"24052888"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394473"|"24052889"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394473"|"24052890"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394473"|"24052891"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394473"|"24052892"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394473"|"24052893"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey soil is a minor component."|"23394564"|"24053540"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Commerce, flooded, long soil is a minor component."|"23394563"|"24053539"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Commerce component makes up 85 percent of the map unit. Slopes are 0 to 1 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 33 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 2w.  This soil does not meet hydric criteria.   "|"23394562"|"24053522"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0041"|"23394562"|"24053523"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"13"|"23394562"|"24053524"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"13"|"23394562"|"24053525"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394562"|"24053526"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394562"|"24053527"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"LA0041"|"23394562"|"24053528"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394562"|"24053529"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394562"|"24053530"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394562"|"24053531"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394562"|"24053532"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394562"|"24053533"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394562"|"24053534"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394562"|"24053535"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394562"|"24053536"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394562"|"24053537"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394562"|"24053538"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Bruno component makes up 90 percent of the map unit. Slopes are 0 to 3 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of sandy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is excessively drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is very high.  Shrink-swell potential is moderate. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April, December. Organic matter content in the surface horizon is about 1 percent.  Nonirrigated land capability classification is 3s.  This soil does not meet hydric criteria.   "|"23394561"|"24053505"
+08/18/2016 00:00:00|"Correlation notes"|||"The RV slope gradient for this component was changed from 1.5% to 2% in accordance with the NSSH Part 618.55, which specifies that RV slope gradients are only allowed to be populated to one decimal place if the slope is less than 1%.  The logic used to make this adjustment was as follows with a few exceptions.  Well drained and drier components with RV slopes containing a "".5"" were rounded up and Moderately Well Drained and wetter soils containing a "".5"" were rounded down.  "|"23394561"|"24053507"
+02/10/2022 14:26:43|"Miscellaneous notes"|"conversion data"|"sir_number"|"TN0010"|"23394561"|"24053508"
+02/10/2022 14:27:05|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394561"|"24053509"
+02/10/2022 14:27:16|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394561"|"24053510"
+02/10/2022 14:27:30|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394561"|"24053511"
+02/10/2022 14:27:40|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394561"|"24053512"
+02/10/2022 14:27:52|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394561"|"24053513"
+02/10/2022 14:51:18|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394561"|"24053514"
+02/10/2022 14:51:28|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"s"|"23394561"|"24053515"
+02/10/2022 14:51:47|"Miscellaneous notes"|"conversion data"|"sir_number"|"TN0010"|"23394561"|"24053516"
+02/10/2022 14:52:07|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394561"|"24053517"
+02/10/2022 14:52:19|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394561"|"24053518"
+02/10/2022 14:52:36|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394561"|"24053519"
+02/10/2022 14:52:59|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394561"|"24053520"
+02/10/2022 14:53:10|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394561"|"24053521"
+02/10/2022 14:26:31|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"s"|"23394561"|"24053506"
+02/10/2022 14:26:12|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394561"|"24053504"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394560"|"24053503"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394559"|"24053502"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Desha component makes up 30 percent of the map unit. Slopes are 0 to 3 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of clayey alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is high. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 18 inches during January, February, March, April, May, December. Organic matter content in the surface horizon is about 3 percent. This component is in the F131BY006AR Clayey Flood Plain ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394558"|"24053485"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394558"|"24053486"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394558"|"24053487"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394558"|"24053488"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394558"|"24053489"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"AR0043"|"23394558"|"24053490"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394558"|"24053491"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394558"|"24053492"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394558"|"24053493"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394558"|"24053494"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394558"|"24053495"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394558"|"24053496"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394558"|"24053497"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394558"|"24053498"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394558"|"24053499"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394558"|"24053500"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394558"|"24053501"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Bowdre component makes up 40 percent of the map unit. Slopes are 0 to 2 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of clayey over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is somewhat poorly drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 21 inches during January, February, March, April. Organic matter content in the surface horizon is about 2 percent. This component is in the F131AY405LA Tensas Basin - Somewhat Poorly Drained Bottomland Hardwoods ecological site. Nonirrigated land capability classification is 3w.  This soil does not meet hydric criteria.   "|"23394557"|"24053468"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394557"|"24053469"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"moderate"|"23394557"|"24053470"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394557"|"24053471"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394557"|"24053472"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394557"|"24053473"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394557"|"24053474"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394557"|"24053475"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394557"|"24053476"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394557"|"24053477"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394557"|"24053478"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394557"|"24053479"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394557"|"24053480"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0055"|"23394557"|"24053481"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0055"|"23394557"|"24053482"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394557"|"24053483"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394557"|"24053484"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Robinsonville component makes up 20 percent of the map unit. Slopes are 0 to 3 percent. This component is on flood plains, alluvial plains. The parent material consists of loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is low. This soil is rarely flooded. It is not ponded. A seasonal zone of water saturation is at 60 inches during January, February, March, April. Organic matter content in the surface horizon is about 1 percent. This component is in the F131AY406LA Tensas Basin - Natural Levees and Ridge Hardwoods ecological site. Nonirrigated land capability classification is 2e.  This soil does not meet hydric criteria.   "|"23394556"|"24053452"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394556"|"24053451"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394556"|"24053453"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394556"|"24053454"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394556"|"24053455"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394556"|"24053456"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"11"|"23394556"|"24053457"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"11"|"23394556"|"24053458"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394556"|"24053459"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394556"|"24053460"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0075"|"23394556"|"24053461"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394556"|"24053462"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0075"|"23394556"|"24053463"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394556"|"24053464"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394556"|"24053465"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394556"|"24053466"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394556"|"24053467"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Pits is a miscellaneous area."|"23394555"|"24053450"
+09/30/2005 00:00:00|"Correlation notes"|||"Name change from Borrow pits to Udifluvents to meet NSSH standards for naming miscellaneous areas."|"23394555"|"24053449"
+08/19/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Tunica, flooded, long soil is a minor component."|"23394528"|"24053243"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquents soil is a minor component."|"23394529"|"24053244"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Sharkey soil is a minor component."|"23394530"|"24053245"
+03/18/2020 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Tunica component makes up 90 percent of the map unit. Slopes are 0 to 1 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of clayey over loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is poorly drained.  Water movement in the most restrictive layer is low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is moderate. This soil is frequently flooded. It is not ponded. A seasonal zone of water saturation is at 12 inches during January, February, March, April. Organic matter content in the surface horizon is about 2 percent.  Nonirrigated land capability classification is 4w.  This soil meets hydric criteria.   "|"23394531"|"24053247"
+02/10/2022 14:26:12|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394531"|"24053246"
+02/10/2022 14:26:31|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394531"|"24053248"
+02/10/2022 14:26:43|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0107"|"23394531"|"24053249"
+02/10/2022 14:27:05|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394531"|"24053250"
+02/10/2022 14:27:16|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394531"|"24053251"
+02/10/2022 14:27:30|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394531"|"24053252"
+02/10/2022 14:27:40|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394531"|"24053253"
+02/10/2022 14:27:52|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394531"|"24053254"
+02/10/2022 14:51:18|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"8"|"23394531"|"24053255"
+02/10/2022 14:51:28|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"w"|"23394531"|"24053256"
+02/10/2022 14:51:47|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0107"|"23394531"|"24053257"
+02/10/2022 14:52:07|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"severe"|"23394531"|"24053258"
+02/10/2022 14:52:19|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394531"|"24053259"
+02/10/2022 14:52:36|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394531"|"24053260"
+02/10/2022 14:52:59|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"moderate"|"23394531"|"24053261"
+02/10/2022 14:53:10|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"moderate"|"23394531"|"24053262"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aqualfs soil is a minor component."|"23394532"|"24053263"
+08/03/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Tutwiler component makes up 95 percent of the map unit. Slopes are 0 to 1 percent. This component is on flood plains on river valleys, alluvial plains. The parent material consists of loamy alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 1 percent. This component is in the F131AY406LA Tensas Basin - Natural Levees and Ridge Hardwoods ecological site. Nonirrigated land capability classification is 1.  This soil does not meet hydric criteria.   "|"23394533"|"24053265"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394533"|"24053264"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394533"|"24053266"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394533"|"24053267"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0084"|"23394533"|"24053268"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_equip_rating"|"slight"|"23394533"|"24053269"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_ero_rating"|"slight"|"23394533"|"24053270"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_seedlng_mort"|"slight"|"23394533"|"24053271"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394533"|"24053272"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"sir_number"|"MS0084"|"23394533"|"24053273"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394533"|"24053274"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_subclass"|"a"|"23394533"|"24053275"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394533"|"24053276"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394533"|"24053277"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_plant_rating"|"moderate"|"23394533"|"24053278"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"woodlnd_wndthrow_hzd"|"slight"|"23394533"|"24053279"
+02/10/2022 00:00:00|"Miscellaneous notes"|"conversion data"|"ord_symbol_class"|"9"|"23394533"|"24053280"
+09/27/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Water is a miscellaneous area."|"23394534"|"24053281"
+08/12/2022 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Dams is a miscellaneous area."|"23394515"|"24053180"
+08/14/2019 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The NOTCOM component makes up 100 percent of the map unit. Slopes are    Depth to a root restrictive layer is greater than 60 inches.   Available water to a depth of 60 inches (or restricted depth) is very low. Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches.        "|"23394490"|"24052978"

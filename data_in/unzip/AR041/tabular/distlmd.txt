@@ -1,0 +1,11 @@
+"Non-MLRA Soil Survey Area"|"AR041"|"Desha County, Arkansas"||02/01/1968 00:00:00|"certified, major components"|09/12/2022 15:05:10|"This export contains the following changes for AR041
+
+The tabular database was edited and populated according to guidance in Exhibits A and B of National Instruction (NI-305), and Part 610 of the National Soil Survey Handbook. Any spatial data edits were certified correct by the Soil Survey region GIS specialist, State Soil Scientist (SSS), and by the National Digitizing Center. The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s), and in the Project Correlation tables.
+
+The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s) and in the Project Correlation table.
+
+This dataset also contains the following changes:
+
+Recalculated all national, regional, and local interpretations for all components.
+
+"|"15106"|"81062"|"80963"

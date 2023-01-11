@@ -1,0 +1,417 @@
+05/22/2008 00:00:00|"Miscellaneous notes"|"Acres Update"||"Mapunits W and Wa were found to be swithced in the SSURGO Layer.  This error has been corrected.  Acreages have been rechecked."|"15097"|"78866"
+08/30/2011 00:00:00|"Miscellaneous notes"|"evaluations"|"attribute/spatial"|"Chicot County, Arkansas
+MLRA County Information Checklist
+
+
+A methodology for evaluating the amounts and kinds of information for county soil surveys prior to initiating update activities
+
+Preparation
+Assemble all readily available data, both digital and hard copy, including soil survey, lab data, transect data, geology, quads, hypsography, DEM, photography, etc.
+
+Examine the soil survey and develop a conceptual soil-landscape model for the area, based on the soil survey. Take notes as necessary (the SS report block diagrams show the model for the major soils). The evaluation and subsequent update process will be primarily one of refining and documenting this soil-landscape model.
+
+For each category, rate the survey area.  The a) category receives 1 points, b) 2, c) 3, and d) 4.  At the end add up score and prepare a narrative summary.
+
+
+1)	Known Deficiencies		Rating:2	Evaluator:KC
+Interview users (DCs, soil scientists (including retired mappers), extension agents, etc.). Minimum: interview with DC or FOSA Team Leader.
+
+a)	Significant problems requiring extensive field work (major soils not recognized, and/or soil concepts out of date, and/or significant and unpredictable line placement errors, etc.).
+
+b)	Moderate problems requiring some field work (one or several soils or catenas need revision, etc.).
+
+c)	Only slight, occasional errors requiring minor field work (some line placement problems noted on a few farm plans, etc.).
+
+d)	Looks pretty darn good to me (users are happy with maps as is).
+
+Narrative Summary: Document specific, perceived problems with the old survey.
+
+Nolan Beck, Chicot County District Conservationist was contact by phone and said his main problem was with areas map as water (fish ponds) that have been drain and are now in rice.  Also, many of these inactive ponds are being sign up for conservation programs and planted back to trees. 
+
+
+
+
+
+
+
+2)	Laboratory Data		Rating:  2		Evaluator: K. Crader
+a)	No lab data available in county, or only for a few pedons from special studies.
+
+b)	Lab data for series Type Locations.
+
+c)	Pedon sampled for every map unit, more or less.
+
+d)	Lab data available for multiple pedons per map unit.
+
+Narrative Summary: Discuss general lab data needs for county. Has profile or horizon data been georeferenced, described, characterized, analyzed, and/or summarized.  Include a workload analysis for entering pedon data into NASIS.  List the series and Type Locations that have lab data and the type of analysis done.
+
+University of Arkansas Soil Characterization Lab:
+Commerce (3), Hebert (2), McGehee, Gallion (2), Dundee (2), Portland (2), Sharkey, Henry, Grenada (3), Calloway (2), Perry (2), Lonoke (2), Waverly, Bowdre, Robinsonville, 
+
+In State Office files:
+
+Bowdre  Representative profile description in soil survey with physical and chemical analysis in file.
+
+Calloway  Representative profile description in soil survey with physical, chemical, and mechanical analysis in file.
+
+Commerce  Representative profile description in soil survey with physical and chemical analysis in file.  One additional profile description with physical and chemical analysis in file.
+
+Crowley  no lab data in file.
+
+Dundee  Representative profile description in soil survey with physical, chemical, and mechanical analysis in file.
+
+Gallion  Representative profile description in soil survey with physical, chemical, and mechanical analysis in file.  One additional profile description with physical and chemical analysis in file.
+
+Grenada  Representative profile description in soil survey with physical, chemical, and mechanical analysis in file.  One additional profile description with physical and chemical analysis in file.
+
+Gullied Land  no lab data in file.
+
+Hebert  Representative profile description in soil survey with physical, chemical, and mechanical analysis in file.  One additional profile description with physical and chemical analysis in file.
+
+Henry  Representative profile description in soil survey with physical, chemical, and mechanical analysis in file.
+
+Lonoke  Representative profile description in soil survey with physical and chemical analysis in file.  One additional profile description with physical and chemical analysis in file.
+
+McGehee  Representative profile description in soil survey with physical and chemical analysis in file.
+
+Mixed alluvial land  no lab data in file.
+
+Perry  Representative profile description in soil survey with physical and chemical analysis in file.  One additional profile description with physical and chemical analysis in file.
+
+Portland  Representative profile description in soil survey with physical, chemical, and mechanical analysis in file.  One additional profile description with physical and chemical analysis in file.
+
+Pulaski  no lab data in file.
+
+Robinsonville  Representative profile description in soil survey with physical and chemical analysis in file.
+
+Sharkey  Representative profile description in soil survey, but no lab data in file.  One profile description with physical, chemical, and mechanical analysis in file.
+
+Waverly  Representative profile description in soil survey with physical and chemical analysis in file.
+
+A special Highway Research Project NO. 19 Technical Report No. 6 titled Effects of Chemical and Mineralogical Properties on the Engineering Characteristics of Arkansas Soils is in file.
+
+3)	Map Unit Composition		Rating: 1	Evaluator: KC
+
+
+a)	No transect data available.
+
+b)	A few transects (less than one per map unit).
+
+c)	Roughly one transect per map unit, with or without soil property data.
+
+d)	Multiple transects per map unit, including soil properties.
+
+Narrative Summary: Discuss documentation needs for county. Has transect data been georeferenced, summarized, etc. Include a workload analysis for entering transect data into NASIS.
+
+No files.
+
+
+
+4)	GIS Evaluation of Line Placement:  1		Evaluator: KC
+
+Objective
+Evaluate the compilation precision of soil line placement, compared to hypsography lines and slope maps.
+
+Discussion
+Line placement errors may occur for a variety of reasons, including poor mapping technique, poor stereoscope technique, and line shift due to poor map compilation. Line placement errors may be random (from poor stereoscope technique), systematic (from poor map compilation technique), or some combination thereof. Even a soil survey with an excellent conceptual soils model, a well-designed legend and accurate soil identification can be virtually worthless for GIS analyses if the lines are not precisely georeferenced. This methodology evaluates the line placement precision in upland areas with subjective, visual analysis using simple map overlay via GIS.
+
+Materials Needed
+Digital soil survey
+General soil map (doesnt have to be digital)
+Hypsography lines (either as a line coverage, or as a DRG)
+Optional: Slope map or other hypsography derivative
+
+Procedure
+1)	Select sampling areas within the soil survey. Select about 10 sampling areas of roughly four sections each. Stratify your selection by general soil map unit. Dont sample floodplain GSM areas (unless you have a way of evaluating line placement in these areas). Place more sample areas in GSM units of greater extent. For example, if there are six GSM units, and one is a floodplain unit, you would distribute your sample areas among the five upland units. If one of the GSM units is of minor extent, you might only place one sample in that GSM, and three in the largest GSM. Try to locate areas in the central concept of each GSM (away from transitions), although overlaps into adjacent GSMs are OK. This is not a rigorous statistical test, just a way to look at a representative cross-section of the county uplands.
+2)	Examine each sample area by overlaying soils and hypsography in an ArcView View window. Use the DRG, hypsography line file, slope map or whatever you wish, so that you can see the relationship between the soil lines and the topography. For me, a scale of about 1:8,000 works well. Pan across the sample area, evaluating the line placement. Rate each sample area on a 4-point scale as follows:
+1  Lines are off in most areas; mapping definitely needs to be recompiled.
+2  Lines are shifted in some areas or some areas are off; recompilation is desirable.
+3  A few lines are off or shifted slightly; only minor adjustments are needed.
+4  Line placement is excellent; recompilation is unnecessary.
+3)	Summarize your results by adding all your scores and dividing by the number of samples.
+
+a)	Lines are off in most areas; mapping definitely needs to be recompiled.
+
+b)	Lines are shifted in some areas or some areas are off; recompilation is desirable.
+
+c)	A few lines are off or shifted slightly; only minor adjustments are needed.
+
+d)	Line placement is excellent; recompilation is unnecessary
+
+
+Narrative summary of your results and observations. Note systematic vs random error, recurring patterns, differences among sampled areas, etc. Include suggestions for line adjustment (if any).
+
+Line placement was check for areas West of Highway 65.  The Greenville, Mississippi MLRA Office will check areas East of Highway 65.  A total of spots were randomly checked.  The line work separating the Arkansas River Alluvium MLRA 131B parent material from the Southern Mississippi River Alluvium MLRA 131A material looks good.  Some mixing has occurred.  The Arkansas River Alluvium in most areas check was higher in elevation.  There are large tracks of Perry and Portland soils mapped in slack water areas.  Most of these delineations were wooded when mapped, but are now cleared.  Field checks will be needed to check line accuracy and areas of other soils (Keo, Rilla, Hebert) large enough to be mapped separately.  The silty uplands in the southern part of the county on Macon Ridge will need some line adjustment work.   Henry soils were mapped in wooded upland depression and drainage ways and Grenada and Calloway soils in clear areas.  Field checks will be needed to determine line accuracy.  
+
+
+5)	Field Verification		Rating: 1	Evaluator:KC
+Plot a series of road transects across the county. Conduct transects, evaluating line placement in relation to the landscape, consistency of mapping, etc. Include soil observations (optional).
+
+a)	Lines do not consistently fit the landscape, and/or units are excessively broad, and/or mapping seems inconsistent.
+
+b)	Many problem areas or soils.
+
+c)	A few problem areas or soils.
+
+d)	Couldnt have done much better myself!
+
+Narrative Summary: Discuss specific observations made along transects, including results from any direct soil observations.
+
+
+                                    Map Units- Arkansas River Alluvium-131B
+
+
+(GaB)-Gallion fine sandy loam, 1 to 3 percent slopes.  Total sites check-6.  There was 1 site that had inclusion of other soils and 5 sites that had no problems with slope. Most areas appear to be delineated properly. Field work needed:  possible re-correlated to Rilla Series;  may have very fine sandy loam surface texture.  
+
+(GnA)-Gallion silt loam, 0 to 1 percent slopes.  Total sites check-5.  There were 2 sites that had inclusion of other soils and 3 sites that had no problems with slope.  Most areas appear to be delineated properly.  Field work needed:  possible re-correlated to Rilla Series.
+
+(GnB)-Gallion silt loam, 1 to 3 percent slopes.  Total sites check-3.  There was 1 site that had inclusion of other soils and 2 sites that had no problems with slope.  Most areas appear to be delineated properly.  Field work needed:  possible re-correlated to Rilla Series.  
+
+(GPA)-Gallion and Pulaski fine sandy loams, 0 to 1 percent slopes.  Total sites check-13.  There were 4 sites that had inclusion of other soils and 9 sites that had no problem with slope.  Most areas appear to be delineated properly.  Field work needed:  transects to determine map unit composition; possible re-correlated to Rilla Series.
+
+(HC)-Hebert and Crowley silt loams.  Total sites check-10.  There were 3 sites that had inclusions of other soils and 7 sites that were Hebert.  Field work needed:  transects to determine map unit composition; possible line adjustment.
+
+(Lo)-Lonoke silt loam.  Total sites check-3.  All 3 sites had inclusion of other soils.  Field work needed:  transects to determine map unit composition; re-correlated to another series; possible line adjustment.
+
+(McA)-McGehee  silt loam, 0 to 1 percent slopes.  Total sites check-4.  There were 2 sites that had inclusion of other soils and 2 sites that had no problem with slope.  Field work needed:  transects to determine map unit composition;  possible line adjustment.
+
+(PeA)-Perry clay, 0 to 1 percent slopes.  Total sites check-38.  There were 15 sites that had inclusion of other soils and 23 sites that had no problems.  Field work needed;  large wooded tracts that were present when the county was mapped, that have since been cleared, will require field checks to determine line accuracy; some areas will need remapping.
+
+(PeU)-Perry clay, gently undulating.  Total sites check-1.  This site had no problems.  Field work needed:  large wooded tracts that were present when the county was mapped, that have since been cleared, will require field checks to determine line accuracy.  These undulating areas along drains were not delineated out in some places.
+
+(PtA)-Portland clay, 0 to 1 percent slopes.  Total sites check-5.  There were 2 sites that had inclusion of other soils and 3 sites that no problems.  Field work needed:  large wooded tracts that were present when the county was mapped, that have since been cleared, will require field checks to determine line accuracy.
+
+(PtU)-Portland clay, gently undulating.  Total sites check-2.  There was 1 site that had inclusion of other soils and 1 site that had no problems.  Field work needed:  large wooded tracts that were present when the county was mapped, that have since been cleared, will require field checks to determine line accuracy.
+
+(ShA)-Sharkey clay, 1 to 3 percent slopes.  Total sites check-6.  All 6 sites were within the Sharkey Series.  Field work needed:  slope class field check;  large wooded tracts that were present when the county was mapped, that have since been cleared, will require field checks to determine line accuracy.
+
+
+                                                Silty Upland-Macon Ridge
+
+
+(CaA)-Calloway silt loam, 0 to 1 percent slopes.  Total sites check-5.  There was 1 site that had inclusion of other soils, 1 site that cross slope class, and 3 sites that had no problems.  Field work needed:  deep borings to determine depth of silty mantle over alluvial deposits;  field studies using backhoe pits and road cuts to determine if fragipan criteria is present;  some line adjustment will also be needed.
+
+(CaB)-Calloway silt loam, 1 to 3 percent slopes.  Total sites check-4.  There was 1 site that had inclusion of other soils, 2 sites that cross slope class, and 1 site that had no problems.  Field work needed:  deep borings to determine depth of silty mantle over alluvial deposits;  field studies using backhoe pits and road cuts to determine if fragipan criteria is present;  some line adjustments will also be needed.
+
+(CGB)-Calloway-Grenada silt loam, 0 to 3 percent slopes.  Only 336 acres were mapped in the county.  This map unit needs to be remapped and combined with the Calloway and Grenada units.
+
+(CHA)-Calloway-Henry silt loam, 0 to 2 percent slopes.  Total sites check-5.  There were 2 sites that had inclusion of other soils and 3 sites with no problems.  Field work needed:  transects to determine map unit composition;  line adjustment work will also be needed.
+
+(GrA)-Grenada silt loam, 0 to 1 percent slopes.  Total sites check-2.  There was 1 site that had inclusion of other soils and 1 site with no problems.  Field work needed:  deep borings to determine depth of silty mantle over alluvial deposits;  field studies using backhoe pits and road cuts to determine if fragipan criteria is present;  some line adjustment work will also be needed. 
+
+(GrB)-Grenada silt loam, 1 to 3 percent slopes.  Total sites check-5.  All 5 sites had no problems.  Field work needed:  deep borings to determine depth of silty mantle over alluvial deposits;  field studies using backhoe pits and road cuts to determine if fragipan criteria is present;  some line adjustment work will also be needed.
+
+(GrB2)-Grenada silt loam, 1 to 3 percent slopes, eroded.  Total sites check-8.  There was 1 site that had inclusion of other soils, 3 sites that cross slope class, and 4 sites with no problems.  Field work needed:  deep borings to determine depth of silty mantle over alluvial deposits;  field studies using backhoe pits and road cuts to determine if fragipan criteria is present,  some line adjustment work will also be needed.
+
+(GrC)-Grenada silt loam, 3 to 8 percent slopes.  Total sites check-1.  This site cross slope class.  Field work needed:  deep borings to determine depth of silty mantle over alluvial deposits, field studies using backhoe pits and road cuts to determine if fragipan criteria is present, and line adjustment work will also be needed.
+
+(GrC2)-Grenada silt loam, 3 to 8 percent slopes, eroded.  Total sites check-5.  There were 2 sites that had inclusion of other soils, 2 sites that cross slope class, and 1 site with no problems.  Field work needed:  deep borings to determine depth of silty mantle over alluvial deposits, backhoe pits and road cuts to determine if fragipan criteria is present, and line adjustment work will also be needed.
+
+(GrD2)-Grenada silt loam, 8 to 12 percent slopes.  Total sites check-4.  There were 2 sites that that had inclusion of other soils, 1 site that cross slope class, and 1 site with no problems.  Field work needed:  deep borings to determine depth of silty mantle over alluvial deposits, field work using backhoe pits and road cuts to determine if fragipan criteria is present, and line adjustment work will also be needed.
+
+(Gu)-Gullied land.  This area occurs along the eastern escarpment of Macon Ridge and was mapped as a miscellaneous land type.  Field work needed:  transects to determine map unit components and re-correlated to a series.
+
+(He)-Henry silt loam.  Total sites check-12.  There were 4 sites that had inclusion of other soils and 8 sites with no problems.  Field work needed:  backhoe pits to determine if fragipan criteria is present; deep borings to determine depth of silty mantle over alluvial deposits, determine landform position (mapped on upland depression and in drainage ways), and line adjustment work. 
+
+(W)-Water.  Line adjustment work is needed:  delineated areas do not follow map image; areas with cypress, water tupelo, and button bush that may be the Yorktown Series; many reservoirs constructed on Perry and Portland delineations that were wooded when originally mapped.
+
+(Wa)-Waverly silt loam.  Total sites check-8.  All eight sites were inclusion of other soils.  Field work needed:  flooding phase;  sites check do not fit the Waverly Series;  and line adjustment is needed.      
+   
+
+  
+
+ 
+
+    
+
+
+
+
+
+
+
+6)	Regional Consistency		Rating: 2	Evaluator:  KC
+Use GIS to examine distributions of series and map units in the county as compared to their regional distributions, and compared to other regionally significant soils. Evaluate based on expert knowledge.
+
+a)	Inconsistent with regional concepts; county join problems; significant regional soils not recognized in the county, etc.
+
+b)	Many obvious join problems and inconsistencies.
+
+c)	Some join problems and inconsistencies.
+
+d)	Survey seems to be regionally consistent, and will serve as a model for other counties in the region.
+
+Narrative Summary: Discuss specific join issues and regional inconsistencies.
+
+
+
+Desha County joins Chicot County
+
+a.	Portland clay joins McGehee silt loam, 0 to 1 percent slopes
+b.	Rilla silt loam, 0 to 1 percent slopes joins Gallion and Pulaski fine sandy loam, 0 to 1 percent slopes
+c.	Rilla silt loam, 0 to 1 percent slopes joins Gallion silt loam, 0 to 1 percent slopes
+d.	Hebert silt loam joins Hebert and Crowley silt loam
+e.	Perry clay joins Perry clay, gently undulating
+
+
+Drew County joins Chicot County
+
+a.	Hebert silt loam joins Hebert and Crowley silt loam
+b.	Rilla silt loam, 0 to 1 percent slopes joins Gallion silt loam, 0 to 1 percent slopes
+c.	Rilla silt loam, 0 to 1 percent slopes joins Gallion and Pulaski fine sandy loam, 0 to 1 percent slopes
+d.	Water joins unnamed map unit
+e.	Rilla silt loam, 0 to 1 percent slopes joins Gallion silt loam, 1 to 3 percent slopes
+f.	Perry clay joins McGehee silt loam, 0 to 1 percent slopes
+g.	Portland silt loam joins McGehee silt loam, 0 to 1 percent slopes
+h.	Rilla silt loam, 0 to 1 percent slopes joins Robinsonville loam, gently undulating
+i.	Perry clay joins Perry silt loam, overwash
+j.	Rilla silt loam, undulating joins Gallion silt loam, 1 to 3 percent slopes
+k.	Hebert silt loam joins McGehee silt loam, 0 to 1 percent slopes
+l.	Portland clay joins Hebert and Crowley silt loam
+m.	Hebert silt loam joins Portland clay, 0 to 1 percent slope
+
+
+Ashley County joins Chicot County
+
+a.	Portland silty clay, 0 to 1 percent slopes joins Portland clay, 0 to 1 percent slopes
+b.	Perry clay, 0 to 1 percent slopes joins Portland clay, 0 to 1 percent slopes
+c.	Portland silty clay, 0 to 1 percent slopes joins Portland clay, gently undulating
+d.	Rilla silt loam, undulating joins Gallion fine sandy loam, 1 to 3 percent slopes
+e.	Rilla silt loam, 0 to 1 percent slopes joins Gallion and Pulaski fine sandy loam, 0 to 1 percent slopes
+f.	Hebert silt loam, 0 to 1 percent slopes joins Hebert and Crowley silt loam
+g.	Hebert silt loam, 0 to 1 percent slopes joins McGehee silt loam, 0 to 1 percent slopes
+h.	Rilla silt loam, 0 to 1 percent slopes joins Gallion silt loam, 0 to 1 percent slopes
+i.	Rilla silt loam, 0 to 1 percent slopes joins Lonoke silt loam
+ 
+
+Morehouse Parish, Louisiana Joins Chicot County, Arkansas
+
+
+a.	Perry clay, 0 to 1 percent slopes joins Perry clay, 0 to 1 percent slopes
+
+
+West Carroll Parish, Louisiana joins Chicot County, Arkansas 
+
+
+a.	Grenada-Calhoun complex, gently undulating (0 to 3 percent slopes) joins Henry silt loam
+b.	Grenada-Calhoun complex, gently undulating (0 to 3 percent slopes) joins Calloway silt loam, 1 to 3 percent slopes
+c.	Calhoun silt loam joins Henry silt loam 
+d.	Calhoun silt loam joins Waverly silt loam
+e.	Grenada-Calhoun complex, gently undulating (0 to 3 percent slopes) joins Calloway silt loam, 0 to 1 percent slopes
+f.	Grenada silt loam, 1 to 3 percent slopes joins Calloway silt loam, 1 to 3 percent slopes
+g.	Grenada-Calhoun complex, gently undulating (0 to 3 percent slopes) joins Grenada silt loam, 0 to 1 percent slopes
+h.	Grenada silt loam, 1 to 3 percent slopes joins Calloway-Henry silt loam, 0 to 2 percent slopes
+i.	Grenada-Calhoun complex, gently undulating (0 to 3 percent slopes) joins Calloway-Henry silt loams, 0 to2 percent slopes
+j.	Calloway silt loam (0.5 to 2 percent slopes) joins Calloway silt loam, 0 to 1 percent slopes
+k.	Calhoun silt loam joins Grenada silt loam, 1 to 3 percent slopes
+l.	Grenada silt loam, 1 to 3 percent slopes joins Calloway silt loam, 0 to 1 percent slopes
+m.	Grenada silt loam, 3 to 5 percent slopes joins Grenada silt loam, 3 to 8 percent slopes, eroded
+n.	Calhoun silt loam joins Calloway silt loam, 1 to 3 percent slopes
+o.	Memphis silt loam, 0 to 2 percent slopes joins Grenada silt loam, 1 to 3 percent slopes
+p.	Memphis silt loam, 8 to 20 percent slopes joins Grenada silt loam, 8 to 12 percent slopes, eroded
+q.	Memphis silt loam, 0 to 2 percent slopes joins Calloway silt loam, 1 to 3 percent slopes
+r.	Grenada-Calhoun complex, gently undulating (0 to 3 percent slopes) joins Grenada silt loam, 3 to 8 percent slopes, eroded
+s.	Calloway silt loam (0.5 to 2 percent slopes) joins Calloway silt loam, 1 to 3 percent slopes
+t.	Sharkey clay (< 1 percent slopes) joins Sharkey clay, 1 to 3 percent slopes  
+
+
+
+
+
+7)	The Soil-Landscape Model	Rating: 2	Evaluator:KC
+Based on observations and analysis made in all of the above procedures, evaluate the quality of the existing soil-landscape model, as expressed in the current soil survey.
+
+a)	Weak. Major gaps and/or inconsistencies in the model, which is simplistic or poorly defined.
+
+b)	Fair. Some significant gaps, perhaps from out-of-date concepts.
+
+c)	Pretty good. A few improvements are needed.
+
+d)	Excellent. A good template for surrounding counties.
+
+Narrative Summary: Discuss specific weaknesses with the soil survey soil-landscape model, including unanswered questions.
+
+Calloway series was establish in Calloway County, Kentucky, but the type location is in Madison County, Mississippi.  These soils formed in thick silty loess or water reworked loess deposits.  This series fits within the concept of the Southern Mississippi Valley Loess geographically associated soils.
+
+Crowley series was establish and the type location is in Acadia Parish, Louisiana.  These soils formed in clayey sediments on coastal prairies.  This series is out of place and will need to be recorrelated.
+
+Gallion series was establish in Bossier Parish, Louisiana, but the type location is in Red River Parish, Louisiana.  These soils formed in reddish silty alluvium on natural levees along the Red River and the present and abandoned channels of the Arkansas River.  This series fits within the concept of the Red River Alluvium geographically associated soils.
+
+Grenada series was establish and the type location is in Grenada County, Mississippi.  These soils formed in thick silty loess or water reworked loess.  This series fits within the concept of the Southern Mississippi Valley Loess geographically associated soils.
+
+Hebert series was establish and the type location is in Ouachita Parish, Louisiana.  These soils formed in silty alluvium on natural levees along present and abandoned channels of the Arkansas River.  This series fits well.
+
+Henry series was establish in Henry County, Tennessee, but the type location is in Shelby County, Tennessee.  These soils formed in loess.  This series fits within the concept of the Southern Mississippi Valley Loess geographically associated soils.
+
+Lonoke series is no longer active.
+
+McGehee series was establish and the type location is in Chicot County, Arkansas.  These soils formed in silty and clayey alluvium on the Arkansas and Red Rivers bottomland.  This series fits within the concept of the Arkansas River Alluvium geographically associated soils.
+
+Perry series was establish in Perry County, Arkansas, but the type location is in Morehouse Parish, Louisiana.  These soils formed in clayey alluvium in back swamp areas along the Arkansas River.  This series fits within the concept of the Arkansas  River Alluvium geographically associated soils.
+
+Portland series was establish and the type location is in Ashley County, Arkansas.  These soils formed in clayey alluvium from Permian formation on flood plain and slack water areas along the Arkansas River.  This series fits within the concept of the Arkansas River Alluvium geographically associated soils
+
+Robinsonville series was establish in Tunica County, Mississippi, but the type location is in Adams County, Mississippi.  These soils formed in loamy alluvium on natural levees along the current and former channels of the Mississippi River.  This series fits within the concept of the Southern Mississippi River Alluvium geographically associated soils.
+
+Waverly series was establish in Union County, Kentucky, but the type location is in Tallahatchie County, Mississippi.  These soils formed in silty alluvium derived mainly from loess.  This series fits within the concept of the Southern Mississippi Valley Loess geographically associated soils.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8)	Other Information:  Document all documentation that is not listed above
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scoring and Executive Summary   8
+Add up the numbers. Scores will range from 7 (a real stinker) to 28 (outstanding).
+
+Prepare an executive summary of the main problems and issues involved in updating this county. If possible, provide a rough estimate of the workload required for an update.
+ 
+
+This evaluation is for areas West of Highway 65.  The Greenville, Mississippi MLRA office is doing the evaluation East of Highway 65.    
+
+The Soil Survey in Chicot County will require major overhaul to bring it up to present day standards.  The survey started on May 10, 1956, correlated in February 1963, and the publication issued in March 1967.   The Arkansas River Alluvium MLRA 131B in most places checked, were higher in elevation than the Southern Mississippi River Alluvium MLRA 131A.  The line work separating these different parent materials, for the most part, looks good.  Some mixing has occurred.  There are large tracks of Perry and Portland soils mapped in slackwater areas.  Most of these delineations were wooded at the time of mapping, but are now  cleared.  Field checks will be needed to determine line accuracy and areas of other soils (Keo, Rilla, Hebert) large enough to be mapped separately.  The silty uplands in the southern part of the county on Macon Ridge will require field work to determine source of parent materials, and whether there is a fragipan.  Some line adjustment will also be needed.  Henry soils were mapped in wooded upland depression and drainage ways and Grenada and Calloway soils in cleared areas.  Field checks, line adjustment, and re-correlation work will be needed.
+
+Other work needed:  Update to new classification system, describe typical pedons down to 80 inches, flooding phases are needed, updated tables and interpretations, prime farmland section, update (Gu) Gullied Land a miscellaneous land type to phase of series 
+  
+
+
+
+
+
+References: Missouri Statewide Evaluation, Soil Survey Handbook, Soil Taxonomy, NSSH 610.04, 
+"|"15097"|"78867"
+08/06/2019 00:00:00|"Edit notes"|||"Changed status from ""Updated Needed"" to 
+""Published"""|"15097"|"78868"

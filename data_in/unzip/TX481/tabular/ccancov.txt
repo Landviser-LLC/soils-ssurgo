@@ -1,0 +1,5 @@
+25|"CAIL2"|"Carya illinoinensis"|"pecan"|"22283994"|"4354106"
+35|"QUNI"|"Quercus nigra"|"water oak"|"22283994"|"4354109"
+25|"CAIL2"|"Carya illinoinensis"|"pecan"|"22284240"|"4354107"
+35|"QUNI"|"Quercus nigra"|"water oak"|"22284240"|"4354108"
+45|"QUNI"|"Quercus nigra"|"water oak"|"22284469"|"4354110"

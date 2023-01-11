@@ -1,0 +1,10 @@
+"Non-MLRA Soil Survey Area"|"TX600"|"Austin and Waller Counties, Texas"||03/01/1981 00:00:00|"certified, major components"|08/23/2022 20:40:21|"TX600
+
+The ""ChD djzw-Chazos loamy fine sand, 5 to 8 percent slopes"" mapunit was combined with the ""ChD 30drt-Chazos loamy fine sand, 5 to 8 percent slopes"" map unit as a result of the ""MLRA 87 - Chazos loamy fine sand, 5 to 8 percent slopes"" EVAL project"".
+The ""FeC dk0c-Fetzer loamy fine sand, 1 to 5 percent slopes"" mapunit was combined with the ""FeC 30n1m-Fetzer loamy fine sand, 1 to 5 percent slopes"" map unit as a result of the ""MLRA 87 - Fetzer loamy fine sand, 1 to 5 percent slopes"" EVAL project"".
+The ""CoC djzy-Conroe loamy fine sand, 1 to 5 percent slopes"" mapunit was combined with the ""CoC 30drv-Conroe loamy fine sand, 1 to 5 percent slopes"" map unit as a result of the ""MLRA 87 - Conroe loamy fine sand, 1 to 5 percent slopes"" EVAL project"".
+The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s) and in the Project Correlation table.
+
+This dataset also contains the following changes:
+
+Recalculated all national, regional, and local interpretations for all components."|"13406"|"78029"|"77931"

@@ -1,0 +1,6 @@
+"Climate Factor Area (USLE)"|"3"|"Climate Factor"|272537|"17440"|"525661"
+"County or Parish"|"MO201"|"Scott"|272537|"17440"|"525662"
+"MLRA"|"134"|"Southern Mississippi Valley Loess"|74876|"17440"|"525663"
+"MLRA"|"131A"|"Southern Mississippi River Alluvium"|197661|"17440"|"525664"
+"Rainfall Factor Area (USLE)"|"250"|"Rainfall Factor"|272537|"17440"|"525665"
+"State or Territory"|"MO"|"Missouri"|272537|"17440"|"525666"

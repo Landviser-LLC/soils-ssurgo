@@ -1,0 +1,2161 @@
+11/03/2014 00:00:00|"Nontechnical description"|"PHG"|"Pasture"|"Amy silt loam, 0 to 1% slopes is faired to be well suitable for pasture usage."|"565058"|"2588007"
+07/20/2015 00:00:00|"Miscellaneous notes"|"evaluation"|"attribute"|"Evaluation of the map unit (subcategory attribute)
+PROJECT NAME: SDJR  MLRA 133B- Amy silt loam, 0 to 1 percent slopes
+List of Map Units in Project: with area info and musyms with SDJR unit included
+Use the region 9 report Project MU Info QC QA Symbols, Dmudesc, Acres, html REAL (need to edit this report to output in a text only format and do not need the project name in report)
+Natmusym 	Ssarea: Musym 	Muname 	Dmudesc 	Muacres 
+2s1z6	9-PNB: AmA	Amy silt loam, 0 to 1 percent slopes	MLRA 133B - Amy silt loam, 0 to 1 percent slopes	
+lyzp	AR003: 1	Amy silt loam, 0 to 1 percent slopes	003001	21,108
+lz98	AR027: 2	Amy silt loam, 0 to 1 percent slopes	027002	7,711
+lzd3	AR043: Ae	Amy silt loam	043Ae	48,411
+m00m	AR103: Am	Amy silt loam	103Am	42,714
+m04b	AR119: Am	Amy silt loam	119Am	7,350
+m06d	AR125: 2	Amy silt loam	125002	10,872
+m06y	AR125: 4	Amy soils	125004	3,416
+lyky	AR620: 1	Amy silt loam	620001	116,753
+lyr9	AR660: 1	Amy silt loam	660001	18,276
+lytp	AR670: 3	Amy silt loam, 0 to 1 percent slopes	670003	657
+		AR011: CT   Caddo and Tickfaw silt loams (amy, amy) 011CT 40025
+		AR011: Mb   Myatt silt loams (amy)  011Mb 42790
+Summary of Published Manuscript Map Unit Descriptions 
+(Summarize findings from map unit description in surveys. Main items that need to be summarized are: composition and minor components, landscape, landform and positions of major and minor components, erosion hazards, and major land use. This is not an all-inclusive list and other items should be added as needed. Input of all items must be kept in a format that will transfer to plain text without a loss of intended organization. Delete this paragraph and use headings listed below)
+Composition:
+Amy soils are 85 percent of the map unit based on map unit descriptions in the manuscripts and NASIS data population.
+Minor Components:
+ Leadvale, Pheba, and Aquults, are the minor components listed in the manuscripts and NASIS. Percentages for individual minor components were not listed in the manuscript. Minor components were not named in some surveys.  All of this data will be used to assign estimated percentages to the mlra mapunit components.
+Landscape, Landform and Positions for Components:
+Amy:       Landform: Stream Terraces
+                Landscape: valleys
+Aquults:  Landform: Depressions
+	  Landscape: Coastal Plains
+Leadvale: Landform: Terraces
+                  Landscape: Uplands
+Pheba:     Landform: interfluves
+                 Landscape: Coastal Plains
+
+Major Land Uses:
+About 95 percent Woodlands, 4 percent cropland and less than 1 percent Urbanland
+Additional items
+
+Describe Differences Between MLRA Map Unit and Map Units Being Harmonized:
+Describe the differences between map units and the harmonized unit
+Very little inconsistencies exist in the populated horizon data. The main differences are in the MAP, MAAT. The unit is mapped in an area with tight temperature and moisture gradients. 
+The runoff, drainage classes, and component soil moisture tables do not match, and therefore neither do the soil interpretations that use these properties and qualities.
+
+Lab Data:
+(List pedon IDs, if there is no lab data or lab data is inadequate, identify the need for a future mlra update project)
+KSSL  No KSSL Lab Data for Amy Series One pedon sampled in TX297. S95TX297000
+University -  University of Arkansas Lab
+Local  Fourteen pedons with local lab data exist. 
+
+Pedon Data in NASIS:
+(Statement of the amount and distribution of pedon data. Give numbers of pedons and transects, not a list of pedon IDs. If the distribution of pedon data is unrepresentative of the map unit range, say so. For example:)
+There are no known transect data associated with this project. There are 15 pedons currently in NASIS of the Amy series.
+
+Other Attribute Issues:
+	Costal Plain Soil
+	Established in Pulaski County, Arkansas
+	Hydric Soil
+	Mainly found in Arkansas
+	Formed during the Pleistocence Era
+
+Future Project Needs: 
+	Gather Transect/Pedon Data of Amy silt loam, 0 to 1 percent slopes to get an accurate assessment of the mapunit composition.
+	Sample Amy to send to Lincoln for KSSL Data
+	Develop Monolith of Amy for Display and Educational Purposes
+
+	Evaluate and Ground Truth Amy silt loam, 0 to 1 percent slopes delineations that cross multiple counties
+Evaluation of map unit interpretations (subcategory interpretation)
+
+Interpretation Join Issues:
+No major interpretation issues are associated with the harmonizing of Amy silt loam, 0 to 1 percent slopes
+
+Evaluation of the map unit delineations (subcategory spatial)
+
+Join Issues:
+
+Spatial Data Quality: 
+(If any are known, just make a statement about which counties have spatial data problems prompted by answering the questions at the bottom.  Such as map units that may be combined with this unit or extent is too large and needs to be refined. Also certain areas may need to be changed to a different series or split into two map units. Example:)
+Slope Analysis: 
+No spatial analysis was conducted.
+Future Project Needs:
+Some extensive revision of soil survey delineations is needed and the correction over the map unit extent of any glaring cartographic errors.
+
+
+
+"|"565058"|"2588008"
+08/20/2015 00:00:00|"Map unit description"|"map unit concept"||"Map unit name: Amy silt loam, 0 to 1 percent slopes
+
+Map Unit Setting
+
+Major land resource area: Not specified
+Landscape: Valleys
+Elevation: 49.2 to 249 feet (15.0 to 76.0 meters)
+Mean annual precipitation: 38 to 61 inches (975 to 1544 millimeters)
+Mean annual air temperature: 48 to 73 degrees F (9 to 23 degrees C)
+Frost-free period: 220 to 260 days
+Interpretive focus: Not specified
+Order of mapping: 2
+
+Composition estimates
+
+Major components:
+Amy and similar soils: 85 percent
+Minor components: 15 percent
+
+Estimates are based on observations, descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Amy soils
+
+Amy soils
+Percent of map unit: 85 percent
+Parent material and geology: Pleistocene Era silty alluvium derived from sedimentary rock
+Landforms: Stream terraces
+
+Typical Profile
+
+Oi--0 to 1 inches; black
+A--1 to 6 inches; brown silt loam; strongly acid
+Eg--6 to 12 inches; gray silt loam, with strong brown masses of oxidized iron; very strongly acid
+Btg1--12 to 20 inches; gray silt loam, with yellowish red masses of oxidized iron; very strongly acid
+Btg2--20 to 40 inches; gray silty clay loam, with strong brown masses of oxidized iron; very strongly acid
+Btg3--40 to 54 inches; gray silty clay loam, with brown masses of oxidized iron; very strongly acid
+C--54 to 72 inches; light gray silty clay loam, with yellowish red masses of oxidized iron; very strongly acid
+
+Properties and Qualities
+
+Slope: 0 to 1 percent
+Percent of area covered by surface fragments: None specified
+Depth range to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Slow (0.06 to 0.2 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Representative total available water capacity to 60 inches: High (About 10.2 inches)
+Natural drainage class: Poorly drained
+Runoff class: Low
+Flooding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Low. (2.0 LEP)
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 5w
+Land capability subclass, irrigated: None specified
+Ecological site name: None specified
+Ecological site number: None specified
+Typical vegetation: switchgrass, bluestem, beaked panicum, other  shrubs, slender woodoats, velvet panicum, flatsedge, other perennial forbs, panicum, sedge, slender woodoats
+
+Minor Component Descriptions
+
+Aquults soils
+Percent of map unit: 5 percent
+Parent material and geology: Pleistocene era silty alluvium derived from sedimentary rock
+Landforms: Depressions
+Down-slope shape: Concave
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Leadvale soils
+Percent of map unit: 5 percent
+Parent material and geology: silty alluvium derived from shale and siltstone
+Landforms: Terraces
+Down-slope shape: Concave
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Pheba soils
+Percent of map unit: 5 percent
+Parent material and geology: loamy marine deposits derived from sedimentary rock
+Landforms: Interfluves
+Down-slope shape: Concave
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Use and Managment: 
+
+"|"565058"|"2588025"
+05/07/2018 00:00:00|"Miscellaneous notes"|||"In the transition areas between MLRA 113B (Western Coastal Plains) and MLRA 119 Ouachita Mountains, the Leadvale soil can be found in areas of Amy soils."|"565058"|"2588033"
+08/09/2005 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"|"075"|"These soils have an moderate surface runoff potential and a low leaching index. Nutrient movement to surface waters could be a hazard on these soils. In addition to management practices such as soil tests and proper application rates, a system of practices that reduces runoff and erosion should be planned on these soils."|"565058"|"2588042"
+|"Miscellaneous notes"|"NONTECH - WOO"|"004"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, cherrybark oak, sweetgum and water oak. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months due to wetness. Seedling mortality may be 25 to 50 percent due to wetness on these soils. (Woodland Ordination Symbol - 9W)"|"565058"|"2588043"
+|"Miscellaneous notes"|"NONTECH - AGR"|"014"|"This soil is moderately suited to cultivated crops, and pasture and hayland. Wetness commonly delays farming operations several days after a rain and surface drains are needed. Wetness may also limit grazing during the winter and early spring on areas which are in pasture. Suitable crops include soybeans and grain sorghum. Winter small grains may also be grown on areas with adequate surface drainage. Adapted pasure plants include bermudagrass and tall fescue."|"565058"|"2588044"
+|"Miscellaneous notes"|"NONTECH - RNG"|"001"|"The soil is well suited to rangeland. The native vegetation of blue grama and galleta makes up nearly two-thirds of the vegetative cover. These two grasses combine with western wheatgrass and sideoats grama to form a mixed community. This soil cannot support a high density of plants because of the limited rainfall. Usable forage tends to be reduced. Ideally, plants grow in clumps, but clumps are spaced closely enough to prevent soil blowing. Western wheatgrass and sideoats grama decrease under mismanagement. Threeawn, sand dropseed, pricklypear, snakeweed, and ring muhly increase with deterioration of the rangeland condition. Proper grazing is the foremost need in range management. Fifty percent, by weight, of the forage needs to be left standing to protect the soil from blowing, to increase the infiltration of water, and to catch and hold snow. Range seeding speeds the revegetation of areas that have been depleted by heavy grazing, cultivation, or other disturbances. Primary varieties used for seeding are blue grama, sideoats grama, and western wheatgrass. A cover crop of sorghum, millet, sundangrass, or small grain should be planted a year before the grass is to be seeded to establish protection from the wind for the new seeding. Contour furrowing or pitting is applicable in areas where the rangeland is in poor and fair condition."|"565058"|"2588045"
+12/09/2021 00:00:00|"Miscellaneous notes"|"evaluation notes"|"attribute"|"MLRA 133B-Grenada silt loam, 1 to 3 percent slopes-Field Project
+This is a future MLRA project that was identified and documented during the processing of the Evaluation project name: MLRA 133B- Grenada silt loam, 1 to 3 percent slopes
+This project was developed to address those correlated map units of Grenada silt loam, 1 to 3 percent slopes within 9-RUS area of responsibility.
+Grenada
+Classification: fine-silty, mixed, active, thermic Oxyaquic Fraglossudalfs
+Type Location: Grenada County, MS
+Established: 1915, Grenada County, MS.
+Acres:  55355
+Geology: coastal plain sediments 
+Slope: 1 to 3 percent
+Surface texture: silt loam
+The Grenada series consists of very deep, moderately well drained soils that formed in thick loess. These soils are shallow or moderately deep to a fragipan that perches water during wet seasons in late winter and early in spring. This map unit is supported by 3 pedon descriptions. The 3 pedon descriptions in NASIS are the representative pedons (TUDs) for the correlated map units in their respective counties/parishes. The number of pedons in NASIS are not sufficient for the number of correlated acres; therefore, a future field project is needed to collect additional data and transects. 
+Lab Data: none 
+Local: none
+Ecological Site ID: F131DY004AR
+Field Projects Needed:
+	Collect field data-Pedon & Transect descriptions throughout map unit distribution, for documentation, so that range of characteristics are adequate.
+	Collect lab sample for analysis
+	Collect pedon descriptions for minor component percentages and naming
+	Evaluate and update productivity ratings to align with modern day practices
+	Evaluate spatial data, and realign polygons to fit where they are supposed to be in the world
+	Work with ESD Specialist to develop sites for map unit and update ESD. 
+"|"565059"|"2588012"
+12/09/2021 00:00:00|"Map unit description"|"map unit concept"||"National map unit symbol: 30dkb
+Map unit name: Grenada silt loam, 1 to 3 percent slopes MLRA 133B
+
+Map Unit Setting
+
+Major land resource area: Not specified
+Landscape: Fluviomarine terraces
+Elevation: 95 to 235 feet (30 to 73 meters)
+Mean annual precipitation: 46 to 63 inches (1176 to 1593 millimeters)
+Mean annual air temperature: 51 to 74 degrees F (10 to 23 degrees C)
+Frost-free period: 199 to 270 days
+Interpretive focus: Woodland
+Order of mapping: 2
+Prime Farmland Class: not rated
+
+Composition estimates
+
+Major components:
+Grenada and similar soils: 85 percent
+Minor components: 15 percent
+
+Estimates are based on field observations, soil descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Grenada soils
+
+Grenada soils
+Percent of map unit: 85 percent
+Soil Taxonomic Classification: Fine-silty, mixed, active, thermic Oxyaquic Fraglossudalfs
+Soil moisture subclass: Aquic
+Soil moisture class: udic
+Parent material and geology: loess
+Landforms: Coastal plain terraces
+Geomorphic positions, three-dimensional: Tread
+Down-slope shape: Convex
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range: All aspects
+
+Typical Profile
+
+Ap -- 0 to 4 inches; strongly acid silt loam
+Bw -- 4 to 22 inches; strongly acid silty clay loam
+E -- 22 to 26 inches; strongly acid silt loam
+Btx/E -- 26 to 37 inches; strongly acid silt loam
+Btx -- 37 to 80 inches; slightly acid silt loam
+
+Properties and Qualities
+
+Slope: 1 to 3 percent
+Percent of area covered by surface fragments: Unspecified
+Depth range to first water and root restrictive layer: Fragipan: 24 to 30 inches
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Slow (0.06 to 0.2 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: Slow (0.06 to 0.2 in/hr)
+Depth to seasonal high water table, minimum: About 12 to 24 inches, perched (see Water Features report)
+Representative total available water capacity to 60 inches: Low (About 3.5 inches)
+Natural drainage class: Moderately well drained
+Runoff class: Very high
+Flooding frequency: None
+Ponding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Low. (1.5 LEP)
+Salinity class and maximum representative value within 40 inches: Very slightly saline (2.0 mmhos/cm)
+Salinity class and maximum high value within 40 inches: Very slightly saline (2.0 mmhos/cm)
+Sodicity class and sodium adsorption ratio(SAR) maximum representative value within 40 inches: Non sodic (0 SAR)
+Sodicity class and sodium adsorption ratio(SAR) maximum high value within 40 inches: Non sodic (0 SAR)
+Calcium Carbonate Equivalent, maximum representative value within 40 inches: 0 percent
+Gypsum, maximum representative value in the soil profile: 0 percent
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 2e
+Land capability subclass, irrigated: None specified
+Ecological site name: Loess Terrace 
+Ecological site number: F131DY004AR 
+Typical vegetation: beaked panicum, unknown national vernacular name, slender woodoats, little bluestem, little bluestem, switchcane
+
+Minor Component Descriptions
+
+Calloway soils
+Percent of map unit: 8 percent
+Soil Taxonomic Classification: Not specified
+Soil moisture subclass: Not specified
+Soil moisture class: Not specified
+Parent material and geology: fine-silty loess
+Landforms: Terraces
+Geomorphic positions, three-dimensional:  Tread
+Down-slope shape: Convex
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 1 to 3 percent
+
+Arkabutla, frequently flooded soils
+Percent of map unit: 7 percent
+Soil Taxonomic Classification: Not specified
+Soil moisture subclass: Not specified
+Soil moisture class: Not specified
+Parent material and geology: fine-silty alluvium
+Landforms: Flood plains
+Geomorphic positions, three-dimensional:  Talf
+Down-slope shape: Concave
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 2 percent
+
+Use and Managment: Cropland and some pasture"|"565059"|"2588019"
+|"Miscellaneous notes"|"NONTECH - RNG"|"001"|"The soil is well suited to rangeland. The native vegetation of blue grama and galleta makes up nearly two-thirds of the vegetative cover. These two grasses combine with western wheatgrass and sideoats grama to form a mixed community. This soil cannot support a high density of plants because of the limited rainfall. Usable forage tends to be reduced. Ideally, plants grow in clumps, but clumps are spaced closely enough to prevent soil blowing. Western wheatgrass and sideoats grama decrease under mismanagement. Threeawn, sand dropseed, pricklypear, snakeweed, and ring muhly increase with deterioration of the rangeland condition. Proper grazing is the foremost need in range management. Fifty percent, by weight, of the forage needs to be left standing to protect the soil from blowing, to increase the infiltration of water, and to catch and hold snow. Range seeding speeds the revegetation of areas that have been depleted by heavy grazing, cultivation, or other disturbances. Primary varieties used for seeding are blue grama, sideoats grama, and western wheatgrass. A cover crop of sorghum, millet, sundangrass, or small grain should be planted a year before the grass is to be seeded to establish protection from the wind for the new seeding. Contour furrowing or pitting is applicable in areas where the rangeland is in poor and fair condition."|"565059"|"2588061"
+|"Miscellaneous notes"|"NONTECH - AGR"|"015"|"This soil is well suited to cultivated crops, and pasture and hayland. Erosion is a moderate hazard if row crops are grown. Practices such as conservation tillage, cover crops and contour farming help reduce runoff and control erosion. Suitable crops include soybeans, grain sorghum, winter small grains and truck crops. Adapted pasture plants include bermudagrass, tall fescue, and bahiagrass."|"565059"|"2588062"
+|"Miscellaneous notes"|"NONTECH - WOO"|"017"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, southern red oak, and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. Windthrow is a moderate hazard on these soils due to a compact, brittle fragipan which reduces rooting depth. An occasional tree may blow down with moderate or strong winds. Plant competition is also moderate on these soils."|"565059"|"2588063"
+11/26/2021 00:00:00|"Miscellaneous notes"|"evaluation notes"|"attribute"|"MLRA 133B-Grenada silt loam, 3 to 8 percent slopes-Field Project
+This is a future MLRA project that was identified and documented during the processing of the Evaluation project name: MLRA 133B- Grenada silt loam, 3 to 8 percent slopes
+This project was developed to address those correlated map units of Grenada silt loam, 3 to 8 percent slopes within 9-RUS area of responsibility.
+Amy
+Classification: fine-silty, mixed, active, thermic Oxyaquic Fraglossudalfs
+Type Location: Grenada County, MS
+Established: 1915, Grenada County, MS.
+Acres:  54257
+Geology: coastal plain sediments 
+Slope: 3 to 8 percent
+Surface texture: silt loam
+The Grenada series consists of very deep, moderately well drained soils that formed in thick loess. These soils are shallow or moderately deep to a fragipan that perches water during wet seasons in late winter and early in spring. This map unit is supported by 3 pedon descriptions. The 3 pedon descriptions in NASIS are the representative pedons (TUDs) for the correlated map units in their respective counties/parishes. The number of pedons in NASIS are not sufficient for the number of correlated acres; therefore, a future field project is needed to collect additional data and transects. 
+Lab Data: none 
+Local: none
+Ecological Site ID: F131DY004AR
+Field Projects Needed:
+	Collect field data-Pedon & Transect descriptions throughout map unit distribution, for documentation, so that range of characteristics are adequate.
+	Collect lab sample for analysis
+	Collect pedon descriptions for minor component percentages and naming
+	Evaluate and update productivity ratings to align with modern day practices
+	Evaluate spatial data, and realign polygons to fit where they are supposed to be in the world
+	Work with ESD Specialist to develop sites for map unit and update ESD. 
+"|"565060"|"2588013"
+12/07/2021 00:00:00|"Map unit description"|"map unit concept"||"National map unit symbol: 30dk9
+Map unit name: Grenada silt loam, 3 to 8 percent slopes MLRA 133B
+
+Map Unit Setting
+
+Major land resource area: Not specified
+Landscape: Fluviomarine terraces
+Elevation: 95 to 235 feet (30 to 73 meters)
+Mean annual precipitation: 46 to 63 inches (1176 to 1593 millimeters)
+Mean annual air temperature: 51 to 74 degrees F (10 to 23 degrees C)
+Frost-free period: 199 to 270 days
+Interpretive focus: Woodland
+Order of mapping: 2
+Prime Farmland Class: not rated
+
+Composition estimates
+
+Major components:
+Grenada and similar soils: 90 percent
+Minor components: 10 percent
+
+Estimates are based on field observations, soil descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Grenada soils
+
+Grenada soils
+Percent of map unit: 90 percent
+Soil Taxonomic Classification: Fine-silty, mixed, active, thermic Oxyaquic Fraglossudalfs
+Soil moisture subclass: Aquic
+Soil moisture class: udic
+Parent material and geology: loess
+Landforms: Coastal plain terraces
+Geomorphic positions, three-dimensional: Riser
+Down-slope shape: Convex
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range: All aspects
+
+Typical Profile
+
+Ap -- 0 to 4 inches; strongly acid silt loam
+Bw -- 4 to 22 inches; strongly acid silt loam
+E -- 22 to 26 inches; strongly acid silt loam
+Btx/E -- 26 to 37 inches; strongly acid silt loam
+Btx -- 37 to 72 inches; slightly acid silt loam
+
+Properties and Qualities
+
+Slope: 3 to 8 percent
+Percent of area covered by surface fragments: Unspecified
+Depth range to first water and root restrictive layer: Fragipan: 24 to 30 inches
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate (0.6 to 2.0 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: Moderate (0.6 to 2.0 in/hr)
+Depth to seasonal high water table, minimum: About 12 to 24 inches, perched (see Water Features report)
+Representative total available water capacity to 60 inches: Low (About 5.7 inches)
+Natural drainage class: Moderately well drained
+Runoff class: Very high
+Flooding frequency: None
+Ponding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Low. (1.5 LEP)
+Salinity class and maximum representative value within 40 inches: Very slightly saline (2.0 mmhos/cm)
+Salinity class and maximum high value within 40 inches: Very slightly saline (2.0 mmhos/cm)
+Sodicity class and sodium adsorption ratio(SAR) maximum representative value within 40 inches: Non sodic (0 SAR)
+Sodicity class and sodium adsorption ratio(SAR) maximum high value within 40 inches: Non sodic (0 SAR)
+Calcium Carbonate Equivalent, maximum representative value within 40 inches: 0 percent
+Gypsum, maximum representative value in the soil profile: 0 percent
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 3e
+Land capability subclass, irrigated: 3w
+Ecological site name: Loess Terrace 
+Ecological site number: F131DY004AR 
+Typical vegetation: beaked panicum, unknown national vernacular name, slender woodoats, little bluestem, little bluestem, switchcane
+
+Minor Component Descriptions
+
+Calloway soils
+Percent of map unit: 7 percent
+Soil Taxonomic Classification: Not specified
+Soil moisture subclass: Not specified
+Soil moisture class: Not specified
+Parent material and geology: silty loess
+Landforms: Stream terraces
+Geomorphic positions, three-dimensional:  Riser
+Down-slope shape: Concave
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 1 to 3 percent
+
+Arkabutla, frequently flooded soils
+Percent of map unit: 3 percent
+Soil Taxonomic Classification: Not specified
+Soil moisture subclass: Not specified
+Soil moisture class: Not specified
+Parent material and geology: silty alluvium
+Landforms: Flood plains
+Geomorphic positions, three-dimensional:  Talf
+Down-slope shape: Concave
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Use and Managment: forested with some pasture.
+"|"565060"|"2588018"
+|"Miscellaneous notes"|"NONTECH - WOO"|"017"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, southern red oak, and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. Windthrow is a moderate hazard on these soils due to a compact, brittle fragipan which reduces rooting depth. An occasional tree may blow down with moderate or strong winds. Plant competition is also moderate on these soils."|"565060"|"2588064"
+|"Miscellaneous notes"|"NONTECH - AGR"|"002"|"These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565060"|"2588065"
+|"Nontechnical description"|"AGR"|"003"|"These soils are poorly suited for cultivated crops, and moderately suited for pasture and hay. Runoff is rapid and erosion is a very severe hazard if cultivated crops are grown. Conservation practices need to be intensified as slope length and gradient increase. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"565061"|"2587974"
+|"Nontechnical description"|"WOO"|"074"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, cherrybark oak, sweetgum and southern red oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. Erosion is a moderate hazard. Windthrow is also a moderate hazard on these soils due to a compact, brittle fragipan which reduces rooting depth. (Woodland Ordination Symbol - 8R8)"|"565061"|"2587975"
+|"Miscellaneous notes"|"NONTECH - WOO"|"074"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, cherrybark oak, sweetgum and southern red oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. Erosion is a moderate hazard. Windthrow is also a moderate hazard on these soils due to a compact, brittle fragipan which reduces rooting depth. (Woodland Ordination Symbol - 8R8)"|"565061"|"2588066"
+|"Miscellaneous notes"|"NONTECH - AGR"|"003"|"These soils are poorly suited for cultivated crops, and moderately suited for pasture and hay. Runoff is rapid and erosion is a very severe hazard if cultivated crops are grown. Conservation practices need to be intensified as slope length and gradient increase. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"565061"|"2588067"
+|"Nontechnical description"|"AGR"|"014"|"This soil is moderately suited to cultivated crops, and pasture and hayland. Wetness commonly delays farming operations several days after a rain and surface drains are needed. Wetness may also limit grazing during the winter and early spring on areas which are in pasture. Suitable crops include soybeans and grain sorghum. Winter small grains may also be grown on areas with adequate surface drainage. Adapted pasure plants include bermudagrass and tall fescue."|"565062"|"2587976"
+|"Nontechnical description"|"WOO"|"004"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, cherrybark oak, sweetgum and water oak. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months due to wetness. Seedling mortality may be 25 to 50 percent due to wetness on these soils. (Woodland Ordination Symbol - 9W)"|"565062"|"2587977"
+|"Miscellaneous notes"|"NONTECH - WOO"|"004"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, cherrybark oak, sweetgum and water oak. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months due to wetness. Seedling mortality may be 25 to 50 percent due to wetness on these soils. (Woodland Ordination Symbol - 9W)"|"565062"|"2588068"
+|"Miscellaneous notes"|"NONTECH - AGR"|"014"|"This soil is moderately suited to cultivated crops, and pasture and hayland. Wetness commonly delays farming operations several days after a rain and surface drains are needed. Wetness may also limit grazing during the winter and early spring on areas which are in pasture. Suitable crops include soybeans and grain sorghum. Winter small grains may also be grown on areas with adequate surface drainage. Adapted pasure plants include bermudagrass and tall fescue."|"565062"|"2588069"
+|"Nontechnical description"|"AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"565063"|"2587978"
+|"Nontechnical description"|"WOO"|"006"|"These soils have moderate potential for production of commercial wood products. Common trees include water oak, willow oak, sweetgum and green ash. Water oak has potential to produce 85 to 94 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months due to wetness and flooding. Seedling mortality may be 50 percent or more due to wetness and flooding, and special site preparation may be needed. (Woodland Ordination Symbol - 6W)"|"565063"|"2587979"
+|"Miscellaneous notes"|"NONTECH - WOO"|"006"|"These soils have moderate potential for production of commercial wood products. Common trees include water oak, willow oak, sweetgum and green ash. Water oak has potential to produce 85 to 94 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months due to wetness and flooding. Seedling mortality may be 50 percent or more due to wetness and flooding, and special site preparation may be needed. (Woodland Ordination Symbol - 6W)"|"565063"|"2588070"
+|"Miscellaneous notes"|"NONTECH - AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"565063"|"2588071"
+03/22/2015 00:00:00|"Nontechnical description"|"PHG"||"Hebert silt loam, 0 to 1 % slopes is moderately suited for pastureland."|"565064"|"2587980"
+04/08/2015 00:00:00|"Miscellaneous notes"|"evaluation"||" PROJECT EVALUATION
+PROJECT NAME: SDJR - MLRA 131B  Hebert silt loam, 0 to 1 percent slopes
+
+Natmusym 	Ssarea: Musym 	Muname 	Dmudesc 	Muacres 
+2s1yy	9-PNB: HbA	Hebert silt loam,	MLRA 131B - Hebert silt loam, 0 to 1 percent slopes	316,490
+mfs9	AR001: 8A	Hebert silt loam, 	001008A	12,741
+lyzw	AR003: 15	Hebert silt loam, 	003015	34,514
+ly2s	AR041: He	Hebert silt loam	041He	39,489
+lzdn	AR043: Ha	Hebert silt loam	043Ha	10,877
+lyrm	AR660: 19	Hebert silt loam	660019	36,021
+ly60	AR680: 11	Hebert silt loam, 	680011	65,252
+1vxp3	LA021: He	Hebert silt loam	021He	14,789
+1vt93	LA025: Hb	Hebert silt loam	025Hb	10,659
+m3xq	LA067: Hr	Hebert silt loam	067Hr	57,648
+1vx9c	LA073: Hb	Hebert silt loam	073Hb	21,731
+1vkcn	LA083: Hb	Hebert silt loam	083Hb	12,769
+
+
+
+Summary of published manuscript Map Unit Descriptions 
+Hebert silt loam, 0 to 1 percent slopes is currently mapped in eleven soil surveys thru out the 9-PNB MLRA region. The Map Unit Descriptions in each of these surveys were all fairly consistent with one another concerning this map unit. Cropland use was the majority land use for this map unit and this map unit was found along natural levee systems thru out this MLRA. There were some degree of variations among the minor components of this map unit. Rilla, Gallion, Perry, and Portland soils were the most common minor components found in the each map unit description. The Land capability class was either a 2w or 2w5 thru out all of the surveys.
+
+Composition: Hebert soils are 88 percent of the map unit based on map unit descriptions in the manuscripts and NASIS data population.
+Minor Components:
+ Gallion, Perry, Portland, Rilla are the minor components listed in the manuscripts and NASIS. Percentages for individual minor components were not listed in the manuscript..  All of this data will be used to assign estimated percentages to the mlra map unit components.
+Landscape, Landform and Positions for Components:
+
+Major Components:
+Hebert: Landscape: Alluvial Plains
+        Landform:  Natural Levees
+
+Minor Components:
+Gallion:  Landscape: Alluvial Plains
+	      Landform:  Natural Levees
+
+Rilla:  Landscape: Alluvial Plains
+        Landform:  Natural Levees
+          
+Perry: Landscape: Alluvial Plains
+       Landform:  Backswamps
+           
+Portland:  Landscape: Alluvial Plains
+           Landform:   Flood Plains
+
+Major Land Uses:
+About 95 percent Cultivated Cropland, 3 percent pasture and 2 percent forestland.
+Additional items
+	Hebert is found along rivers and flood plain type areas
+	Series Established in Louisiana
+	Hebert silt loam, 0 to 1% covers majority of the counties within the Arkansas River Alluvium MLRA
+
+
+
+List of data inconsistencies between units being harmonized and decisions:
+No Major data inconsistencies has been noted with harmonizing of this SDJR Project
+
+
+Lab Data:
+(List pedon IDs, if there is no lab data or lab data is inadequate, identify the need for a future mlra update project)
+KSSL   084LA021020
+University University of Arkansas Pedon#s62C01, 62C027, 59DS07, 66DS15
+Local  N/A.
+
+Pedon Data in NASIS:
+There are 14pedons to support the map unit concept. LA073 Hebert Type (HbA) was the Representative Pedon selected for the development of the Hebert silt loam, 0 to 1% DMU.. 
+Other Attribute Issues:
+	The parent material consists of silty alluvium material from the Arkansas River
+	 Depth to a root restrictive layer is greater than 60 inches. 
+	The natural drainage class is somewhat poorly drained.  
+	Percent of area covered by surface fragments: None specified
+	Depth to first water and root restrictive layer: No restrictive layer
+	Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate (0.6 to 2.0 in/hr)
+	Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+	Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Moderate. (3.2 LEP)
+	Salinity class and maximum representative value within 40 inches: Non saline (0.0 mmhos/cm)
+	Salinity class and maximum high value within 40 inches: Non saline (0.0 mmhos/cm)
+	Sodicity class and sodium adsorption ratio(SAR) maximum representative value within 40 inches: Non sodic (0 SAR)
+	Sodicity class and sodium adsorption ratio(SAR) maximum high value within 40 inches: Non sodic (0 SAR)
+	Calcium Carbonate Equivalent, maximum representative value within 40 inches: 0 percent
+	Gypsum, maximum representative value in the soil profile: 0 percent
+	Representative total available water capacity to 60 inches: High (About 9.9 inches)
+	Runoff class: Negligible
+	Flooding frequency: None.
+
+
+
+
+
+
+Future Project Needs: 
+	Future Field Project: Hebert silt loam, 0 to 1 % slope Project: Retrieving 232 description/transects of Hebert map unit. Purpose: Gather 232 descriptions and Transects of Hebert silt loam, 0 to 1% slopes are needed in the Pine Bluff MLRA to have documentation on the map unit.
+	Future Field Project: Hebert silt loam, 0 to 1 % slopes Project: Ammoozemeter study of Hebert silt loam Purpose: Conduct a permeability study of the Hebert silt loam map unit to have hard data of Hebert in the Pine Bluff MLRA.
+	Future Field Project: Hebert silt loam, 0 to 1% slopes Project: Lab Characterization Sample of Hebert for KSSLPurpose: Obtain a sample of Hebert silt loam, 0 to 1% slopes to have characterization data on the series.
+	Future Field Project:  Flooding Analysis to determine if a flooding phase needs to be added to Hebert silt loam, 0 to 1 percent slopes. Reasoning being is due to the fact that this map unit is found on natural levees.
+	Future Field Project: Develop 3d-Scan of Hebert Soil Purpose: Gather additional detail information concerning the Hebert Soil Series.
+	Future Field Project:  The Hebert sampled in Caldwell Parish, LA is superactive, additional lab data from different sites in needed to determine is Hebert is active or superactive.
+
+
+
+
+
+
+
+
+
+
+Evaluation of map unit interpretations (subcategory interpretation)
+
+Interpretation Join Issues:
+No major interpretation issues were found doing the harmonization of this project.
+
+
+
+Evaluation of the map unit delineations (subcategory spatial)
+
+Join Issues:
+Hebert silt loam, 0 to 1% delineations will need to be evaluated in more detail where the map unit crosses into Chicot County, Arkansas from Drew and Desha County. In addition the Hebert silt loam, 0 to 1% map unit from Arkansas County, Arkansas will need to be evaluated where it crosses into Jefferson County, Arkansas, and in Lonoke/Prairie, County where the map unit comes into Pulaski County, Arkansas.
+
+
+Spatial Data Quality: 
+Slope Analysis: 
+No slope analysis was conducted.
+
+"|"565064"|"2588014"
+03/22/2015 00:00:00|"Map unit description"|"map unit concept"||"Edited, 04/14/2015          
+
+Mapunit concept notes and issues:  USE THIS REPORT ONLY AS AN ANALYSIS TOOL to compare mapunit descriptions in Published Soil Surveys to the mapunit descriptions generated from NASIS.  REPLACE ALL OF THE TEXT in 'Mapunit concept notes and issues:' WITH YOUR OWN CONCISE FREE FORM TEXT BASED ON THIS ANALYSIS.  After analysis, the 'Map unit concept notes and issues' is placed in mapunit text in NASIS, and completes the development of the MLRA map unit and documents the mapunit concept as required by the NSSH. This free-form text explains issues discovered when moving the historical county map unit phase concepts into the new MLRA map unit concept documented in NASIS.  It should be concise with correct spelling and proper grammar.  This section explains any significant issues and or unresolved issues discovered while creating the mlra map unit for a project and describes the methods used to create the mapunit concept documented in mapunit composition in the mlra mapunit for the completed project.  Provide additional details from your analysis, experience, and tacit knowledge about the map unit concept, that this NASIS report cannot provide.  You should describe the basis for populating the map unit composition(such as former NASIS population, manuscript MUDS, and or transects, to determine future project documentation needs.  Provide a list of all pertinent issues related to the mapunit concept, that need to be addressed in a future project. Identify any flaws in the mapunit concept related to the accuracy of delineations(spatial issues) and identify spatial areas that should be field verified.  Provide any notes on landform position or geology, that are not already in the geomorphic information for major and minor components.  Map unit concept notes created are to be entered in the map unit text table using: Kind = map unit description, Category = map unit concept, Subcategory= (Leave it Null).
+
+Map Unit Description for Mapunit Concept Analysis:
+The description and data in this report below are historical information that documents the mapunit concept description the last time it was updated.  The information in this report below should not be used for any official use of soil information except as an archived description of the concept of the soil map unit.
+
+Map unit name: Hebert silt loam, 0 to 1 percent slopes
+
+Map Unit Setting
+
+Major land resource area: MLRA 131B
+Landscape: Alluvial plains
+Elevation: 49.2 to 89 feet (15.0 to 27.0 meters)
+Mean annual precipitation: 41 to 62 inches (1049 to 1576 millimeters)
+Mean annual air temperature: 55 to 75 degrees F (13 to 24 degrees C)
+Frost-free period: 230 to 283 days
+Interpretive focus: Not specified
+Order of mapping: 2
+
+Composition estimates
+
+Major components:
+Hebert and similar soils: 88 percent
+Minor components: 12 percent
+
+Estimates are based on observations, descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Hebert soils
+
+Hebert soils
+Percent of map unit: 88 percent
+Parent material and geology: Holocene silty alluvium
+Landforms: Natural levees
+
+Typical Profile
+
+Ap--0 to 6 inches; dark grayish brown silt loam
+E--6 to 11 inches; grayish brown silt loam
+Bt--11 to 23 inches; light brownish gray silty clay loam, with strong brown masses of oxidized iron
+Bt--23 to 36 inches; reddish brown silt loam, with yellowish red masses of oxidized iron
+Bt--36 to 50 inches; dark yellowish brown silt loam, with grayish brown iron depletions
+Bc--50 to 64 inches; brown silt loam, with strong brown iron depletions
+C--64 to 80 inches; brown very fine sandy loam, with strong brown masses of oxidized iron
+
+Properties and Qualities
+
+Slope: 0 to 1 percent
+Percent of area covered by surface fragments: None specified
+Depth range to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderately slow (0.2 to 0.6 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Representative total available water capacity to 60 inches: High (About 10.8 inches)
+Natural drainage class: Somewhat poorly drained
+Runoff class: Low
+Flooding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Low. (2.8 LEP)
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 2w
+Land capability subclass, irrigated: None specified
+Ecological site name: None specified
+Ecological site number: None specified
+Typical vegetation: None specified
+
+Minor Component Descriptions
+
+Gallion soils
+Percent of map unit: 3 percent
+Parent material and geology: Holocene silty alluvium
+Landforms: Natural levees
+Geomorphic positions, three-dimensional:  Rise
+Down-slope shape: Linear, convex
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Perry soils
+Percent of map unit: 3 percent
+Parent material and geology: Holocene clayey alluvium
+Landforms: Backswamps
+Geomorphic positions, three-dimensional:  Dip
+Down-slope shape: Linear
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Portland soils
+Percent of map unit: 3 percent
+Parent material and geology: Holocene clayey alluvium
+Landforms: Flood plains
+Geomorphic positions, three-dimensional:  Talf
+Down-slope shape: Linear
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Rilla soils
+Percent of map unit: 3 percent
+Parent material and geology: Holocene loamy alluvium
+Landforms: Natural levees
+Geomorphic positions, three-dimensional:  Rise
+Down-slope shape: Linear
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Use and Managment: Cropland
+
+"|"565064"|"2588015"
+|"Miscellaneous notes"|"NONTECH - WOO"|"012"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include cherrybark oak, eastern cottonwood, American sycamore, Nuttall oak, and sweetgum. Cherrybark oak has potential to produce 126 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months because of wetness. These soils also have moderate plant competition. (Woodland Ordination Symbol - 9W8)"|"565064"|"2588072"
+|"Miscellaneous notes"|"NONTECH - AGR"|"026"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, and soybeans. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drains may be needed in some areas. This soil is well suited for pasture and hayland. Wetness is a moderate limitation during winter and early spring. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565064"|"2588073"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565065"|"2587981"
+|"Nontechnical description"|"WOO"|"010"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, cherrybark oak, sweetgum, water oak, and willow oak. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months due to wetness. Seedling mortality may be 25 to 50 percent due to wetness. (Woodland Ordination Symbol - 8W)"|"565065"|"2587982"
+|"Miscellaneous notes"|"NONTECH - WOO"|"010"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, cherrybark oak, sweetgum, water oak, and willow oak. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months due to wetness. Seedling mortality may be 25 to 50 percent due to wetness. (Woodland Ordination Symbol - 8W)"|"565065"|"2588074"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565065"|"2588075"
+|"Nontechnical description"|"AGR"|"024"|"This soil is poorly suited to cultivated crops. Droughtiness and high concentration of sodium and magnesium in the upper part of the subsoil are the main restrictions. Excess surface water is also a severe hazard. The main crop is soybeans, but yields are usually low. Of the warm-season crops, rice usually produces the most favorable yields. Best adapted pasture plants are common bermudagrass, annual lespedeza, bahiagrass, and native grasses."|"565066"|"2587983"
+|"Nontechnical description"|"SOI"|"053"|"Lafe is a very deep, somewhat poorly drained soil on narrow flats of loessial and fluvial terraces. This soil formed in loamy sediments. Permeability is very slow and available water capacity is low. This soil has a high content of sodium and magnesium in the subsoil, typically at at depth of 15 inches or less."|"565066"|"2587984"
+|"Miscellaneous notes"|"NONTECH - AGR"|"024"|"This soil is poorly suited to cultivated crops. Droughtiness and high concentration of sodium and magnesium in the upper part of the subsoil are the main restrictions. Excess surface water is also a severe hazard. The main crop is soybeans, but yields are usually low. Of the warm-season crops, rice usually produces the most favorable yields. Best adapted pasture plants are common bermudagrass, annual lespedeza, bahiagrass, and native grasses."|"565066"|"2588076"
+|"Nontechnical description"|"AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"565067"|"2587985"
+|"Nontechnical description"|"WOO"|"016"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, American sycamore, eastern cottonwood, Nuttall oak and sweetgum. Loblolly pine has potential to produce 136 to 149 cubic feet per acre annually on these soils. Equipment use may be restricted due to flooding or wetness. Seedling mortality may be 25 to 50 percent due to flooding or wetness. (Woodland Ordination Symbol - 10W)"|"565067"|"2587986"
+|"Miscellaneous notes"|"NONTECH - WOO"|"016"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, American sycamore, eastern cottonwood, Nuttall oak and sweetgum. Loblolly pine has potential to produce 136 to 149 cubic feet per acre annually on these soils. Equipment use may be restricted due to flooding or wetness. Seedling mortality may be 25 to 50 percent due to flooding or wetness. (Woodland Ordination Symbol - 10W)"|"565067"|"2588077"
+|"Miscellaneous notes"|"NONTECH - AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"565067"|"2588078"
+09/26/2012 00:00:00|"Map unit description"|"map unit concept"||"The very deep, poorly drained, very slowly permeable Perry clay, 0 to 1 percent slopes developed in the extensive clayey back swamp areas of the Arkansas River floodplain.  The landscape in most areas consist of long smooth slopes, dominantly 0 to 1 percent.  Soils in this MLRA 131B map unit is mapped in Arkansas, Chicot, Desha, Drew, Faulkner, Jefferson, Lincoln, Lonoke, Perry, and Pulaski Counties in Arkansas and Caldwell, Catahoula, Morehouse, Ouachita, Richland, Union, and West Carroll Parish, in Louisiana.  Included with this soil in mapping are a few small areas of Desha, Gallion, Hebert, Portland, Rilla, and Yorktown soils.   Desha soils are on broad flats and somewhat poorly drained.  Gallion and Rilla soils are on natural levees, are well drained, and nonvertic.  Portland soils are on adjacent broad flats and better drained than Perry soils.  Yorktown soils are on low ponded back swamps and very poorly drained.    
+
+The future needs for this map unit include investigating  differences  between  flooding phases:   Jefferson County has Perry clay, occasionally flooded joining Arkansas county Perry clay, 0 to 1 percent slopes, frequently flooded;   Morehouse, Richland, and Caldwell Parishes  has  Perry clay, 0 to 1 percent slopes joining Ouachita Parish with Perry clay, occasionally flooded.  Also, surface texture phases will need to be refine Perry clay joins Perry silty clay, or Perry silt loam. 
+"|"565068"|"2588016"
+08/04/2012 00:00:00|"Correlation notes"|||"SDJR  MLRA 133B  Perry Clay, 0 to 1 percent slopes
+
+The Perry clay map units in MLRA 133B are part of the MLRA map unit consolidation project (SDJR).  The map unit concepts will be identified from the soil survey manuscripts and the map units consolidated so that data population is consistent wherever they are mapped.  Publication map unit symbols and names for this project will stay the same.  The consolidation project will reduce the number of map units and data mapunits to as few national map unit symbols as possible.  The new data mapunits will be modified using available data from existing data mapunits, NASIS pedons, and university lab data.  The map units will meet national standards.  The official series descriptions will be reviewed and updated during this process..  Currently, this map unit is mapped in 11 counties and parishes in Arkansas and Louisiana with 11  data mapunits. These 11 data mapunits will be consolidated to 1 data mapunit 
+
+Edits will be based off of the Morehouse Parish DMU, which is the site of the OSD. An overview off all map units showed that this was a good representative DMU"|"565068"|"2588034"
+03/23/2018 00:00:00|"Map unit description"|"map unit concept"||"National map unit symbol: 2xz1z
+Map unit name: Arkabutla silt loam, 0 to 1 percent slopes, frequently flooded
+
+Map Unit Setting
+
+Major land resource area: Not specified
+Landscape: Alluvial plains
+Elevation: 225 to 360 feet (70 to 110 meters)
+Mean annual precipitation: 45 to 53 inches (1147 to 1346 millimeters)
+Mean annual air temperature: 50 to 70 degrees F (10 to 21 degrees C)
+Frost-free period: 215 to 299 days
+Interpretive focus: Not specified
+Order of mapping: 2
+
+Composition estimates
+
+Major components:
+Arkabutla and similar soils: 90 percent
+Minor components: 10 percent
+
+Estimates are based on observations, descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Arkabutla soils
+
+Arkabutla soils
+Percent of map unit: 90 percent
+Parent material and geology: silty alluvium
+Landforms: Flats
+Aspect, range: All aspects
+
+Typical Profile
+
+Ap--0 to 6 inches; brown silt loam; very strongly acid
+Ap--0 to 7 inches; dark grayish brown silt loam; moderately acid
+C--6 to 13 inches; brown silt loam; very strongly acid
+C--7 to 16 inches; brown silt loam; moderately acid
+Cg1--13 to 20 inches; light gray silt loam; very strongly acid
+Cg1--16 to 31 inches; light brownish gray silt loam; strongly acid
+Cg2--20 to 36 inches; light gray silt loam; very strongly acid
+Cg2--31 to 48 inches; light gray silt loam; strongly acid
+Cg3--36 to 72 inches; light brownish gray silt loam; very strongly acid
+
+Properties and Qualities
+
+Slope: 0 to 1 percent
+Percent of area covered by surface fragments: None specified
+Depth range to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate (0.6 to 2.0 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Depth to seasonal water table: About 12 to 22 inches (see Water Features table)
+Representative total available water capacity to 60 inches: Very high (About 13.1 inches)
+Natural drainage class: Somewhat poorly drained
+Runoff class: Low
+Flooding frequency: Frequent
+Ponding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Low. (1.3 LEP)
+Salinity class and maximum representative value within 40 inches: Non saline (1.0 mmhos/cm)
+Salinity class and maximum high value within 40 inches: Non saline (1.0 mmhos/cm)
+Sodicity class and sodium adsorption ratio(SAR) maximum representative value within 40 inches: Non sodic (0 SAR)
+Sodicity class and sodium adsorption ratio(SAR) maximum high value within 40 inches: Non sodic (0 SAR)
+Calcium Carbonate Equivalent, maximum representative value within 40 inches: 0 percent
+Gypsum, maximum representative value in the soil profile: 0 percent
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 4w
+Land capability subclass, irrigated: None specified
+Ecological site name: None specified
+Ecological site number: None specified
+Typical vegetation: little bluestem, switchcane, slender woodoats, other perennial forbs, other  shrubs
+
+Minor Component Descriptions
+
+Aquents soils
+Percent of map unit: 5 percent
+Parent material and geology: Not specified
+Landforms: Depressions
+Down-slope shape: Concave
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: Not specified
+
+Tichnor soils
+Percent of map unit: 5 percent
+Parent material and geology: Late-Pleistocene silty alluvium
+Landforms: Flood plains
+Geomorphic positions, three-dimensional:  Tread
+Down-slope shape: Concave
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Use and Managment: 
+
+"|"565069"|"2588026"
+08/09/2005 00:00:00|"Miscellaneous notes"|"NONTECH - WQL"|"071"|"These soils have a severe surface runoff potential, due to frequent flooding, and a low leaching index. Nutrient movement to surface waters is a hazard on these soils. Nutrient management practices that exclude the application of nutrients during periods when flood risk is high should be planned on these soils."|"565069"|"2588046"
+|"Miscellaneous notes"|"NONTECH - AGR"|"018"|"This soil is poorly suited to cultivated crops because of frequent flooding. Crops that require a short growing season, such as soybeans, can be grown but flooding is likely to damage the crop in some years. Field drains may be needed to prevent ponding of water during the growing season. This soil is moderately suited to pasture and hayland. Adapted pasture plants include bermudagrass and tall fescue. Seasonal wetness and flooding are the main limitations for these uses."|"565069"|"2588047"
+|"Miscellaneous notes"|"NONTECH - WOO"|"016"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, American sycamore, eastern cottonwood, Nuttall oak and sweetgum. Loblolly pine has potential to produce 136 to 149 cubic feet per acre annually on these soils. Equipment use may be restricted due to flooding or wetness. Seedling mortality may be 25 to 50 percent due to flooding or wetness. (Woodland Ordination Symbol - 10W)"|"565069"|"2588048"
+06/09/2015 00:00:00|"Nontechnical description"|"PHG"||"Pheba silt loam, 0 to 2 percent slopes is moderately suited for pastureland."|"565070"|"2587987"
+06/09/2015 00:00:00|"Miscellaneous notes"|"evaluation"|"attribute"|"PROJECT NAME: SDJR - MLRA 133B  Pheba silt loam, 0 to 2 percent slopes
+
+Natmusym 	Ssarea: Musym 	Muname 	Dmudesc 	Muacres 
+2tzs1	9-PNB: PbA	Pheba silt loam, 0 to 2 percent slopes	MLRA 133B - Pheba silt loam, 0 to 2 percent slopes	158304
+lz02	AR003: 20	Pheba silt loam, 0 to 2 percent slopes	003020	18,597
+lzdv	AR043: Ph	Pheba silt loam	043Ph	27,475
+lylw	AR620: 7	Pheba silt loam, 0 to 2 percent slopes	620007	51,529
+lyry	AR660: 28	Pheba silt loam, 0 to 2 percent slopes	660028	60,703
+
+Summary of Published Manuscript Map Unit Descriptions 
+
+Composition:
+ Pheba soils are 85 percent of the map unit based on map unit descriptions in the manuscripts and NASIS data population.
+Minor Components:
+Amy, Aquults, and Guyton, are the minor components listed in the manuscripts and NASIS. Percentages for individual minor components were not listed in the manuscript. Minor components were not named in some surveys.  All of this data will be used to assign estimated percentages to the mlra mapunit components.
+Landscape, Landform and Positions for Components:
+Major Land Uses:
+About 90 percent  cropland , 10 percent forrested and less than 1 percent Urbanland
+Additional items
+
+Describe Differences Between MLRA Map Unit and Map Units Being Harmonized:
+
+Very little data inconsistencies exist . 
+Lab Data:
+(List pedon IDs, if there is no lab data or lab data is inadequate, identify the need for a future mlra update project)
+KSSL  No Lab Data Available for any of the counties in the 9-PNB region, currently all Pheba KSSL data is from Mississippi which not apart of this SDJR project.
+Local  Eight pedons with local lab data exist, four of the eight pedon are within the 9-PNB region.
+
+Pedon Data in NASIS:
+There are 18 pedons of Pheba in NASIS 5 of the eighteen stems from a RaCA site in Louisana,  12  are TPs from  Mississippi and 1 from Arkansas. One pedon in NASIS is from the 9-PNB region.
+
+Other Attribute Issues:
+
+
+Pheba silt loam, 0 to 2 percent slopes is mapped in four counites within the 9-PNB region. The Soil Series Pheba is established in Clay Mississippi.  This map unit lies within the Western Coastal Plain regions of the MLRA. Pheba is in a taxonomic family all of its own.
+
+
+Future Project Needs: 
+Future Project: Gather transect and pedon for Pheba silt loam, 0 to 2 percent slopes.   
+Future Project Needs: Determine if the Pheba that is mapped in 9-PNB is really Pheba or if should be correlated into another series or a new series has be developed. Reason for this study is due to the fact that Pheba is established in Clay County, MS and the series sporadically delineated throughout the 7 MET, 9-RUS to 9-PNB.
+Future Project Needs: Conduct Ksat study ot Pheba silt loam, 0 to 2 % slopes to have hard data from the 9-PNB region. 
+Future Project Need: Look at Joins Pheba silt loam, 0 to 2 percent have crossing into counties/parishes that do not have Pheba mapped.
+
+Evaluation of map unit interpretations (subcategory interpretation)
+
+Interpretation Join Issues:
+No major Interpretation Join Issues were identified with harmonizing of Pheba silt loam, 0 to 2 percent slopes.
+
+
+Evaluation of the map unit delineations (subcategory spatial)
+
+Join Issues:
+Pheba silt loam, 0 to 2 percent slopes have join issues where the map unit crosses from Ashley County, Arkansas to Morehouse Parish, Louisana. Morehouse Parish,LA doesnt have Pheba mapped in the county, but Pheba coming in from Ashley County, Arkansas. Also Pheba that is mapped in Dallas/Calhoun County, Arkansas comes into Cleveland County, Arkansas where Pheba isnt mapped in Cleveland County, Ark. Pheba silt loam, 0 to 2 percent slopes from Jefferson/Lincoln County, Arkansas comes into Cleveland County, Arkansas where Pheba isnt in Cleveland County, Arkansas.
+Pheba silt loam, 0 to 2 percent slopes coming from Jefferson County, Arkansas coming into Grant County, Arkansas. Grant County, Ark.
+
+Spatial Data Quality: 
+Currently no known spatial issues are identified.
+
+Slope Analysis: 
+No spatial analysis was conducted.
+Future Project Needs:
+Some extensive revision of soil survey delineations is needed and the correction over the map unit extent of any glaring cartographic errors.
+
+
+
+
+"|"565070"|"2588010"
+06/08/2015 00:00:00|"Map unit description"|"map unit concept"||"Edited, 06/08/2015          
+
+Mapunit concept notes and issues:  USE THIS REPORT ONLY AS AN ANALYSIS TOOL to compare mapunit descriptions in Published Soil Surveys to the mapunit descriptions generated from NASIS.  REPLACE ALL OF THE TEXT in 'Mapunit concept notes and issues:' WITH YOUR OWN CONCISE FREE FORM TEXT BASED ON THIS ANALYSIS.  After analysis, the 'Map unit concept notes and issues' is placed in mapunit text in NASIS, and completes the development of the MLRA map unit and documents the mapunit concept as required by the NSSH. This free-form text explains issues discovered when moving the historical county map unit phase concepts into the new MLRA map unit concept documented in NASIS.  It should be concise with correct spelling and proper grammar.  This section explains any significant issues and or unresolved issues discovered while creating the mlra map unit for a project and describes the methods used to create the mapunit concept documented in mapunit composition in the mlra mapunit for the completed project.  Provide additional details from your analysis, experience, and tacit knowledge about the map unit concept, that this NASIS report cannot provide.  You should describe the basis for populating the map unit composition(such as former NASIS population, manuscript MUDS, and or transects, to determine future project documentation needs.  Provide a list of all pertinent issues related to the mapunit concept, that need to be addressed in a future project. Identify any flaws in the mapunit concept related to the accuracy of delineations(spatial issues) and identify spatial areas that should be field verified.  Provide any notes on landform position or geology, that are not already in the geomorphic information for major and minor components.  Map unit concept notes created are to be entered in the map unit text table using: Kind = map unit description, Category = map unit concept, Subcategory= (Leave it Null).
+
+Map Unit Description for Mapunit Concept Analysis:
+The description and data in this report below are historical information that documents the mapunit concept description the last time it was updated.  The information in this report below should not be used for any official use of soil information except as an archived description of the concept of the soil map unit.
+
+Map unit name: Pheba silt loam, 0 to 2 percent slopes
+
+Map Unit Setting
+
+Major land resource area: Not specified
+Landscape: Coastal plains
+Elevation: 49.2 to 249 feet (15.0 to 76.0 meters)
+Mean annual precipitation: 47 to 66 inches (1197 to 1682 millimeters)
+Mean annual air temperature: 50 to 73 degrees F (10 to 23 degrees C)
+Frost-free period: 205 to 280 days
+Interpretive focus: Not specified
+Order of mapping: 2
+
+Composition estimates
+
+Major components:
+Pheba and similar soils: 85 percent
+Minor components: 15 percent
+
+Estimates are based on observations, descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Pheba soils
+
+Pheba soils
+Percent of map unit: 85 percent
+Parent material and geology: loamy marine deposits
+Landforms: Interfluves
+
+Typical Profile
+
+A--0 to 4 inches; dark grayish brown, with yellowish brown masses of oxidized iron; very strongly acid
+E--4 to 9 inches; pale brown, with brownish yellow masses of oxidized iron; very strongly acid
+Bwc--9 to 23 inches; light yellowish brown, with yellowish brown masses of oxidized iron; very strongly acid
+E'--23 to 29 inches; light brownish gray, with brown masses of oxidized iron; very strongly acid
+Btx--29 to 39 inches; brown, with yellowish brown masses of oxidized iron; very strongly acid
+Btx--39 to 55 inches; light yellowish brown, with brownish yellow masses of oxidized iron; very strongly acid
+Bx--55 to 80 inches; yellowish brown, with light brownish gray iron depletions
+
+Properties and Qualities
+
+Slope: 0 to 2 percent
+Percent of area covered by surface fragments: None specified
+Depth range to first water and root restrictive layer: Fragipan: 25 to 33 inches
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate (0.6 to 2.0 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: Moderate (0.6 to 2.0 in/hr)
+Representative total available water capacity to 60 inches: Low (About 5.5 inches)
+Natural drainage class: Somewhat poorly drained
+Runoff class: Low
+Flooding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Low. (1.4 LEP)
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 3w
+Land capability subclass, irrigated: None specified
+Ecological site name: None specified
+Ecological site number: None specified
+Typical vegetation: other  shrubs, little bluestem, cutover muhly, slender woodoats
+
+Minor Component Descriptions
+
+Amy soils
+Percent of map unit: 5 percent
+Parent material and geology: Pleistocene Age silty alluvium derived from sedimentary rock
+Landforms: Depressions
+Geomorphic positions, three-dimensional:  Dip
+Down-slope shape: Concave
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 2 percent
+
+Aquults soils
+Percent of map unit: 5 percent
+Parent material and geology: Pleistocene Age silty alluvium derived from sedimentary rock
+Landforms: Depressions
+Geomorphic positions, three-dimensional:  Dip
+Down-slope shape: Concave
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 2 percent
+
+Guyton soils
+Percent of map unit: 5 percent
+Parent material and geology: Holocene Age loamy alluvium derived from sedimentary rock
+Landforms: Flood plains
+Geomorphic positions, three-dimensional:  Talf
+Down-slope shape: Linear
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 2 percent
+
+Use and Managment: 
+
+"|"565070"|"2588017"
+|"Miscellaneous notes"|"NONTECH - AGR"|"014"|"This soil is moderately suited to cultivated crops, and pasture and hayland. Wetness commonly delays farming operations several days after a rain and surface drains are needed. Wetness may also limit grazing during the winter and early spring on areas which are in pasture. Suitable crops include soybeans and grain sorghum. Winter small grains may also be grown on areas with adequate surface drainage. Adapted pasure plants include bermudagrass and tall fescue."|"565070"|"2588079"
+|"Miscellaneous notes"|"NONTECH - WOO"|"003"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, cherrybark oak and sweetgum. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months because of wetness. These soils also have moderate plant competition. (Woodland Ordination Symbol - 9W8)"|"565070"|"2588080"
+06/15/2016 00:00:00|"Map unit description"|"map unit concept"||"Map unit name: Pikeville fine sandy loam, 3 to 8 percent slopes
+
+Map Unit Setting
+
+Major land resource area: Not specified
+Landscape: Inland dissected coastal plains
+Elevation: 150 to 445 feet (46 to 137 meters)
+Mean annual precipitation: 42 to 59 inches (1067 to 1499 millimeters)
+Mean annual air temperature: 50 to 74 degrees F (10 to 23 degrees C)
+Frost-free period: 215 to 265 days
+Interpretive focus: Woodland
+Order of mapping: Not specified
+
+Composition estimates
+
+Major components:
+Pikeville and similar soils: 90 percent
+Minor components: 10 percent
+
+Estimates are based on observations, descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Pikeville soils
+
+Pikeville soils
+Percent of map unit: 90 percent
+Parent material and geology: loamy and gravelly marine deposits
+Landforms: Hills
+
+Typical Profile
+
+A--0 to 3 inches; fine sandy loam, brown, dry; strongly acid
+BE--3 to 8 inches; brown sandy loam, with brown masses of oxidized iron; strongly acid
+Bt1--8 to 19 inches; yellowish red sandy clay loam; very strongly acid
+Bt2--19 to 37 inches; yellowish red gravelly sandy clay loam; very strongly acid
+Bt3--37 to 42 inches; strong brown very gravelly sandy loam; very strongly acid
+Bt4--42 to 80 inches; strong brown very gravelly sandy loam; very strongly acid
+
+Properties and Qualities
+
+Slope: 3 to 8 percent
+Percent of area covered by surface fragments: None specified
+Depth range to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate (0.6 to 2.0 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Representative total available water capacity to 60 inches: Low (About 6.0 inches)
+Natural drainage class: Well drained
+Runoff class: Low
+Flooding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Low. (1.3 LEP)
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 4e
+Land capability subclass, irrigated: None specified
+Ecological site name: None specified
+Ecological site number: None specified
+Typical vegetation: None specified
+
+Minor Component Descriptions
+
+Warnock soils
+Percent of map unit: 10 percent
+Parent material and geology: loamy marine deposits
+Landforms: Hills
+Geomorphic positions, three-dimensional:  Side slope
+Geomorphic positions, two-dimensional:  Shoulder
+Down-slope shape: Linear
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 3 to 8 percent
+
+Use and Managment: 
+
+"|"565071"|"2588020"
+|"Miscellaneous notes"|"NONTECH - WOO"|"001"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, southern red oak and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. There are no significant limitations for woodland use and management, except for moderate plant competition. (Woodland Ordination Symbol - 8A7)"|"565071"|"2588081"
+|"Miscellaneous notes"|"NONTECH - AGR"|"002"|"These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565071"|"2588082"
+09/26/2012 00:00:00|"Map unit description"|"map unit description"||"Portland silt loam, 0 to 1 percent slopes consists of very deep, somewhat poorly drained, very slowly permeable soils on slight rises of broad flats that were clayey back swamps areas of the Arkansas River flood plain.  Slopes range from 0 to 1 percent.   Soils in this MLRA 131B map unit are mapped in Ashley, Chicot, Desha, Drew, Jefferson, Lincoln, and Lonoke Counties in Arkansas and Caldwell, Morehouse, Ouachita, Richland, and Union Parishes in Louisiana.  Included with this soil in mapping are a few small areas of Desha, Gallion, Hebert, Perry, Rilla, and Sterlington soils.  Desha soils are adjacent to Portland soils and have a mollic epipedon.    Gallion, Hebert, Rilla, and Sterlington soils are on higher positions and are loamy throughout.   The Perry soils are poorly drained and are on slightly lower positions.   
+The future needs for this map unit include investigating differences between flooding phases:  Jefferson County has Portland clay, occasionally flooded joining Arkansas County with Portland clay, 0 to 1 percent slopes, frequently flooded;  Morehouse Parish has Portland clay joining Union Parish with Portland clay, frequently flooded.    Also, surface texture phases will need to be refined Portland clay joins Portland silty clay, 0 to 1 percent slopes, Portland silt loam joins Portland silty clay, 0 to 1 percent slopes, or Portland clay joins Portland silt loam, 0 to 1 percent slopes.
+"|"565072"|"2588021"
+08/08/2012 00:00:00|"Correlation notes"|||"DMU was created as part of SDJR for  MLRA 131B Portland silt loam, 0 to 1 percent slopes
+
+The Portland silt loam, 0 to 1 percent slopes map units in MLRA 131B are part of the MLRA map unit consolidation project (SDJR).  The map unit concepts will be identified from the soil survey manuscripts and the map units consolidated so that data population is consistent wherever they are mapped.  Publication map unit symbols and names for this project will stay the same.  The consolidation project will reduce the number of map units and data mapunits to as few national map unit symbols as possible.  The new data mapunits will be modified using available data from existing data mapunits, NASIS pedons, and university lab data.  The map units will meet national standards.  The official series descriptions will be reviewed and updated during this process.  Currently, this map unit is mapped in 5 counties and parishes in Arkansas and Louisiana with 5  data mapunits. These 5 data mapunits will be consolidated to 1 data mapunit .
+
+The upated DMU will be based off of the Portland Clay, 0 to 1% slopes DMU from Arkansas County, AR. Surface texture/surface horizons will be updated when applicable and appropriate. Surface texture for this DMU was based off the Portland silt loam Ap horizon from Ashley county, AR , as was the map unit composition."|"565072"|"2588035"
+08/08/2012 00:00:00|"Miscellaneous notes"|"flood frequency"||"The Data map unit from Morehouse Parish listed rare flooding. Rare flooding was not mentioned in this manuscript.
+
+The manuscript from Ouchita parish mentions flooding, but the DMU did not rerlect any flooding. 
+
+None of the other DMU's for Portland Silt loam reflect flooding. 
+ Needs more investigation."|"565072"|"2588036"
+09/26/2012 00:00:00|"Map unit description"|"map unit concept"||"Portland silty clay, 0 to 1 percent slopes, consists of very deep, somewhat poorly drained, very slowly permeable soils on slight rises of broad flats that were clayey back swamps areas of the Arkansas River flood plain.  Slopes range from 0 to 1 percent.   Soils in this MLRA 131B map unit are mapped in Ashley, Chicot, Desha, Drew, Jefferson, Lincoln, and Lonoke Counties in Arkansas and Caldwell, Morehouse, Ouachita, Richland, and Union Parishes in Louisiana.  Included with this soil in mapping are a few small areas of Desha, Gallion, Hebert, Perry, Rilla, and Sterlington soils.  Desha soils are adjacent to Portland soils and have a mollic epipedon.    Gallion, Hebert, Rilla, and Sterlington soils are on higher positions and are loamy throughout.   The Perry soils are poorly drained and are on slightly lower positions.   
+The future needs for this map unit include investigating differences between flooding phases:  Jefferson County has Portland clay, occasionally flooded joining Arkansas County with Portland clay, 0 to 1 percent slopes, frequently flooded;  Morehouse Parish has Portland clay joining Union Parish with Portland clay, frequently flooded.    Also, surface texture phases will need to be refined Portland clay joins Portland silty clay, 0 to 1 percent slopes, Portland silt loam joins Portland silty clay, 0 to 1 percent slopes, or Portland clay joins Portland silt loam, 0 to 1 percent slopes.
+"|"565073"|"2588022"
+08/08/2012 00:00:00|"Correlation notes"|||"SDJR  MLRA 131B Portland silty clay, 0 to 1 percent slopes
+The Portland silty clay, 0 to 1 percent slopes map units in MLRA 131B are part of the MLRA map unit consolidation project (SDJR).  The map unit concepts will be identified from the soil survey manuscripts and the map units consolidated so that data population is consistent wherever they are mapped.  Publication map unit symbols and names for this project will stay the same.  The consolidation project will reduce the number of map units and data mapunits to as few national map unit symbols as possible.  The new data mapunits will be modified using available data from existing data mapunits, NASIS pedons, and university lab data.  The map units will meet national standards.  The official series descriptions will be reviewed and updated during this process.  Currently, this map unit is mapped in 2 counties in Arkansas 2  data mapunits. These 2 data mapunits will be consolidated to 1 data mapunit .
+The upated DMU will be based off of the Portland Clay, 0 to 1% slopes DMU from Arkansas County, AR. Surface texture/surface horizons will be updated as appropriate--surface texture was updated based on Lonoke/praire county Portland silty clay loam surface texture. "|"565073"|"2588037"
+|"Nontechnical description"|"AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565074"|"2587988"
+|"Nontechnical description"|"RNG"|"001"|"The soil is well suited to rangeland. The native vegetation of blue grama and galleta makes up nearly two-thirds of the vegetative cover. These two grasses combine with western wheatgrass and sideoats grama to form a mixed community. This soil cannot support a high density of plants because of the limited rainfall. Usable forage tends to be reduced. Ideally, plants grow in clumps, but clumps are spaced closely enough to prevent soil blowing. Western wheatgrass and sideoats grama decrease under mismanagement. Threeawn, sand dropseed, pricklypear, snakeweed, and ring muhly increase with deterioration of the rangeland condition. Proper grazing is the foremost need in range management. Fifty percent, by weight, of the forage needs to be left standing to protect the soil from blowing, to increase the infiltration of water, and to catch and hold snow. Range seeding speeds the revegetation of areas that have been depleted by heavy grazing, cultivation, or other disturbances. Primary varieties used for seeding are blue grama, sideoats grama, and western wheatgrass. A cover crop of sorghum, millet, sundangrass, or small grain should be planted a year before the grass is to be seeded to establish protection from the wind for the new seeding. Contour furrowing or pitting is applicable in areas where the rangeland is in poor and fair condition."|"565074"|"2587989"
+|"Nontechnical description"|"WOO"|"017"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, southern red oak, and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. Windthrow is a moderate hazard on these soils due to a compact, brittle fragipan which reduces rooting depth. An occasional tree may blow down with moderate or strong winds. Plant competition is also moderate on these soils."|"565074"|"2587990"
+|"Miscellaneous notes"|"NONTECH - RNG"|"001"|"The soil is well suited to rangeland. The native vegetation of blue grama and galleta makes up nearly two-thirds of the vegetative cover. These two grasses combine with western wheatgrass and sideoats grama to form a mixed community. This soil cannot support a high density of plants because of the limited rainfall. Usable forage tends to be reduced. Ideally, plants grow in clumps, but clumps are spaced closely enough to prevent soil blowing. Western wheatgrass and sideoats grama decrease under mismanagement. Threeawn, sand dropseed, pricklypear, snakeweed, and ring muhly increase with deterioration of the rangeland condition. Proper grazing is the foremost need in range management. Fifty percent, by weight, of the forage needs to be left standing to protect the soil from blowing, to increase the infiltration of water, and to catch and hold snow. Range seeding speeds the revegetation of areas that have been depleted by heavy grazing, cultivation, or other disturbances. Primary varieties used for seeding are blue grama, sideoats grama, and western wheatgrass. A cover crop of sorghum, millet, sundangrass, or small grain should be planted a year before the grass is to be seeded to establish protection from the wind for the new seeding. Contour furrowing or pitting is applicable in areas where the rangeland is in poor and fair condition."|"565074"|"2588083"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565074"|"2588084"
+|"Miscellaneous notes"|"NONTECH - WOO"|"017"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, southern red oak, and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. Windthrow is a moderate hazard on these soils due to a compact, brittle fragipan which reduces rooting depth. An occasional tree may blow down with moderate or strong winds. Plant competition is also moderate on these soils."|"565074"|"2588085"
+04/01/2013 00:00:00|"Correlation notes"||||"565075"|"2588038"
+|"Miscellaneous notes"|"NONTECH - AGR"|"025"|"This soil is well suited to cultivated crops. Suitable crops include cotton, grain sorghum, soybeans, and winter small grains. This soil responds well to fertilization, and tilth is easy to maintain by returning crop residue to the soil. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for cropland use or pasture and hayland."|"565075"|"2588086"
+|"Miscellaneous notes"|"NONTECH - WOO"|"015"|"These soils have high potential for production of commercial wood products. Common trees grown on these soils include cherrybark oak, American sycamore, eastern cottonwood, Nuttall oak, pecan, and sweetgum. Cherrybark oak has potential to produce 137 to 151 cubic feet per acre annually on these soils. There are no significant limitations for woodland use and management, except for moderate plant competition. (Woodland Ordination Symbol - 10A7)"|"565075"|"2588087"
+|"Miscellaneous notes"|"NONTECH - AGR"|"027"|"This soil is well suited for cultivated crops. Suitable crops include corn, cotton, grain sorghum, soybeans, and winter small grains. Erosion is a moderate hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. This soil is well suited for pasture and hayland. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565076"|"2588088"
+|"Miscellaneous notes"|"NONTECH - WOO"|"015"|"These soils have high potential for production of commercial wood products. Common trees grown on these soils include cherrybark oak, American sycamore, eastern cottonwood, Nuttall oak, pecan, and sweetgum. Cherrybark oak has potential to produce 137 to 151 cubic feet per acre annually on these soils. There are no significant limitations for woodland use and management, except for moderate plant competition. (Woodland Ordination Symbol - 10A7)"|"565076"|"2588089"
+|"Nontechnical description"|"AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565077"|"2587991"
+|"Nontechnical description"|"WOO"|"001"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, southern red oak and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. There are no significant limitations for woodland use and management, except for moderate plant competition. (Woodland Ordination Symbol - 8A7)"|"565077"|"2587992"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565077"|"2588090"
+|"Miscellaneous notes"|"NONTECH - WOO"|"001"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, southern red oak and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. There are no significant limitations for woodland use and management, except for moderate plant competition. (Woodland Ordination Symbol - 8A7)"|"565077"|"2588091"
+12/16/2015 00:00:00|"Miscellaneous notes"|"evaluation"|"attribute"|"Evaluation of Map Unit Attributes
+
+PROJECT NAME: SDJR  MLRA 133B  Ruston fine sandy loam, 3 to 8 percent slopes
+
+List of Map Units in Project
+Natmusym Ssarea:  Musym 	Muname 	                          Dmudesc 	                     Leg Muacres 
+2wdl1	  9-RUS:  2wdl1	  Ruston fine sandy loam,     MLRA 133B - Ruston fine sandy loam, 
+                          3 to 8 percent slopes       3 to 8 percent slopes    	
+lz7w      LA025:  RuC     Ruston fine sandy loam,     025RuC                                    1077                             
+                          3 to 8 percent slopes
+1vwjs	  LA031:  Ru	  Ruston fine sandy loam,     031Ru	                                   3,721
+                          3 to 8 percent slopes
+1qq3y     LA059   Rt      Ruston fine sandy loam,     059Rt                                    29,913
+                          3 to 8 percent slopes
+1vxb2	  LA073:  RsD	  Ruston fine sandy loam,  	  073RsD	                                  696
+                          3 to 8 percent slopes 
+m43p	  LA079:  RsC	  Ruston fine sandy loam,  	  079RsC	                               54,981
+                          3 to 8 percent slopes
+1vxlk	  LA115:  RuD	  Ruston fine sandy loam,     115RuD	                               36,422
+                          3 to 8 percent slopes
+Analysis of Published Manuscript Map Unit Descriptions and NASIS Data 
+Composition: 
+ Map Unit Composition and Reliability:
+Composition:
+Minor Components:
+MU Name	Area Sym	Area Name	Shown in NASIS	Shown in PSS Manuscript
+Ruston fine sandy loam, 3 to 8 percent slopes	AR025	Cleveland C. AR	none
+	Bowie, Saffell, Savannah, Shubuta
+Ruston fine sandy loam, 3 to 8 percent slopes	LA031	De Soto P. LA	unnamed	Bowie, Larue
+Ruston fine sandy loam, 3 to 8 percent slopes	LA059	LaSalle P. LA	unnamed	Lexington, Malbis, Providence, Smithdale
+Ruston fine sandy loam, 3 to 8 percent slopes	LA073	Ouachita P. LA	Ora (5%), Savannah (5%)	Ora, Savannah
+Ruston fine sandy loam, 3 to 8 percent slopes	LA079	Rapides P. LA	unnamed	Malbis, Lucy, Smithdale
+Ruston fine sandy loam, 3 to 8 percent slopes	LA115	Vernon P. LA	Unnamed	Briley, Malbis
+Ruston fine sandy loam, 3 to 8 percent slopes	AR003	Ashley C. AR	None	Sacul, Savannah, Smithdale
+Ruston fine sandy loam, 3 to 8 percent slopes	TX037	Bowie C. TX	unnamed	Woodtell, McKamie, Eylau
+Ruston fine sandy loam, 3 to 8 percent slopes	LA021	Caldwell P. LA	unnamed	Guyton, Larue, Sacul, Savannah, Smithdale
+Ruston fine sandy loam, gently sloping phase	AR011	Bradley C. AR	none	Orangeburge, Saffell, Savannah
+Ruston fine sandy loam, sloping	TX073	Cherokee C. TX	none	Bowie, Lakeland, Eustis
+
+Minor Components: Minor components selected to be representative
+	Savannah  8%
+	Smithdale  5%
+ 	Malbis  2%
+
+Geology:
+	Coastal Plain Uplands of Pleistocene Age
+
+Landscape, Landform and Positions for Components:
+Ruston soils
+    Landscape: Uplands of the Coastal Plains
+    Landform: hillslopes
+    Position: backslope
+
+Savannah soils
+    Landscape: Coastal Plains
+    Landform: broad interstream divides
+    Position: shoulder
+
+Smithdale soils
+    Landscape: Uplands of the Coastal Plains
+    Landform: hillslopes
+    Position: backslope
+
+Malbis soils
+    Landscape: Coastal Plains
+    Landform: interfluves
+    Position: summit
+
+Major Land Uses: 
+Timber production and some pasture land
+
+Additional items:
+Ecological Site: F133BY032TX
+Farmland Classification: 
+Prime - Ashley, Bradley, Cleveland Co., AR and De Soto, LaSalle, Vernon Pa., LA
+Non-Prime  Caldwell, Ouachita, Rapides Pa., LA and Bowie, Cherokee Co., TX
+
+Describe Differences Between MLRA Map Unit and Map Units Being Harmonized:
+The climatic data was the main inconsistency that was noted. But not significantly impacting interpretations.
+
+Lab Data:
+KSSL: Correlated pedons of Ruston (These pedons are not for the 3 to 8 percent slopes map unit) -- 61KY-035-001, 74-OK127-64-5, 74-OK127-64-6, 81LA027001, 81LA079001, 87LA059001, 87LA073001, 87LA079001, 87LA119008, 88LA013013, 90LA011013, S1945LA111001, S1957LA015001, S1957LA015002, S1966LA119001
+
+University: S86LA-21-01, S82LA-31-4, S82LA-31-7, S67LA-37-2, S86LA-115-11 fertility analysis run by Louisiana Agricultural Experiment Station Laboratory, Baton Rouge, Louisiana
+
+Local: none
+
+Pedon Data in NASIS:
+There are 5 pedons in NASIS that support this map unit. These 5 pedons are the Taxonomic Unit Descriptions (TUD) for the 5 map units correlated that are included in this project. Due to so few pedon descriptions for this map unit a field project is need to collect additional pedon/transect descriptions throughout the map units distribution.
+
+Evaluation of Map Unit Interpretations:
+The interpretations were consistent throughout the map units that are listed in this project.
+
+Interpretation Join Issues:
+The horizon data for the major component for this map unit was originally recorded in the soil interpretation record (SOI5 form-blue sheets). The data was then transferred to the 3SD system and eventually migrated to the NASIS database. Few changes have been made to the original data. The data evaluated in this project is essentially the data originally recorded for the series
+
+Evaluation of the Spatial Data:
+
+Spatial Join Issues: 
+-MU-28Ruston fine sandy loam, 3 to 8 percent slopes in Bowie Co. TX. (TX037) joining Mu 74Smithdale fine sandy loam, 5 to 8 percent slopes in Miller Co. AR (AR670)
+- MU-28Ruston fine sandy loam, 3 to 8 percent slopes in Bowie Co. TX. (TX037) joining Mu 18Eylau fine sandy loam, 1 to 3 percent slopes in Miller Co. AR. (AR670)
+-MU-RbRuston fine sandy loam, sloping in Cherokee Co. TX (TX073) joining MU-BvB-Bienville loamy fine sand, 0 to 2 percent slopes in Rusk Co. TX (TX401)
+MU-RuRuston fine sandy loam, 3 to 8 percent slopes in Caldwell P. LA. (LA021) joining MU-RuCRuston fine sandy loam, 1 to 5 percent slopes in Jackson P. LA. (LA049)
+-MU-RuDRuston fine sandy loam, 3 to 8 percent slopes in Vernon P. (LA115) joining MU-RtRuston fine sandy loam, 1 to 5 percent slopes in Allen P. LA. (LA003)
+- MU-RuDRuston fine sandy loam, 3 to 8 percent slopes in Vernon P. (LA115) joining MU-RuDRuston fine sandy loam, 5 to 8 percent slopes in Beauregard P. (LA011)
+
+Spatial Data Quality:
+This map unit is located on the correct landform, however, the lines have been shifted somewhat. The soil lines need to be redrafted to place this map unit on the correct landform more accurately.
+
+Slope Analysis:
+No slope analysis conducted
+
+Future Project Needs:
+Project Name:  MLRA 133B  Ruston fine sandy loam, 1 to 5 percent slopes
+	Collect pedon and transect data throughout map units distribution to determine true minor components and other pertinent data
+	Collect soil samples throughout distribution to determine surface texture 
+	Conduct spatial edits 
+	Conduct investigation to determine Ruston soils correlated on Tertiary landscapes are really Ruston and not Sailes. 
+	Evaluate lab data to determine dominant base saturation, alfisols vs ultisols
+"|"565078"|"2588011"
+12/14/2015 00:00:00|"Map unit description"|"map unit concept"||"Map Unit Concept
+
+National map unit symbol: 2wdl1
+Map unit name: Ruston fine sandy loam, 3 to 8 percent slopes
+
+Notes(non-generated):Climatic data was edited to conform to the distribution of the map unit in MLRA 133B. 
+
+Map Unit Setting
+
+Major land resource area: 133B-Western Coastal Plain
+Landscape: Coastal plains
+Elevation: 49.2 to 400 feet (15.0 to 122.0 meters)
+Mean annual precipitation: 47 to 66 inches (1197 to 1682 millimeters)
+Mean annual air temperature: 48 to 72 degrees F (9 to 22 degrees C)
+Frost-free period: 205 to 300 days
+Interpretive focus: Woodland
+Order of mapping: 2
+Prime Farmland Class: not rated
+
+Composition estimates
+
+Major components:
+Ruston and similar soils: 85 percent
+Minor components: 15 percent
+
+Estimates are based on observations, descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Ruston soils
+
+Ruston soils
+Percent of map unit: 85 percent
+Soil Taxonomic Classification: Fine-loamy, siliceous, semiactive, thermic Typic Paleudults
+Soil moisture subclass: Udic
+Soil moisture class: udic
+Parent material and geology: Pleistocene loamy fluviomarine deposits
+Landforms: Coastal plain interfluves
+Geomorphic positions, three-dimensional: Interfluve
+Geomorphic positions, two-dimensional: Backslope
+Down-slope shape: Linear
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range: All aspects
+
+Typical Profile
+
+A -- 0 to 4 inches; strongly acid fine sandy loam
+E -- 4 to 9 inches; strongly acid fine sandy loam
+Bt -- 9 to 46 inches; strongly acid sandy clay loam
+B/E -- 46 to 55 inches; strongly acid fine sandy loam
+B't -- 55 to 80 inches; strongly acid sandy clay loam
+
+Properties and Qualities
+
+Slope: 3 to 8 percent
+Percent of area covered by surface fragments: Unspecified
+Depth range to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate (0.6 to 2.0 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Depth to seasonal water table: More than 72 inches
+Representative total available water capacity to 60 inches: Moderate (About 8.7 inches)
+Natural drainage class: Well drained
+Runoff class: Medium
+Flooding frequency: None
+Ponding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Low. (0.5 LEP)
+Salinity class and maximum representative value within 40 inches: Non saline (1.0 mmhos/cm)
+Salinity class and maximum high value within 40 inches: Non saline (1.0 mmhos/cm)
+Sodicity class and sodium adsorption ratio(SAR) maximum representative value within 40 inches: Non sodic (0 SAR)
+Sodicity class and sodium adsorption ratio(SAR) maximum high value within 40 inches: Non sodic (0 SAR)
+Calcium Carbonate Equivalent, maximum representative value within 40 inches: 0 percent
+Gypsum, maximum representative value in the soil profile: 0 percent
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 3e
+Land capability subclass, irrigated: None specified
+Ecological site name: Loamy Upland 
+Ecological site number: F133BY032TX 
+Typical vegetation: slender woodoats, little bluestem, other annual grasses, beaked panicum, panicum
+
+Minor Component Descriptions
+
+Savannah soils
+Percent of map unit: 8 percent
+Soil Taxonomic Classification: Not specified
+Soil moisture subclass: Not specified
+Soil moisture class: Not specified
+Parent material and geology: loamy fluviomarine deposits
+Landforms: Upland terraces
+Geomorphic positions, three-dimensional:  Tread
+Down-slope shape: Convex
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 3 to 8 percent
+
+Smithdale soils
+Percent of map unit: 5 percent
+Soil Taxonomic Classification: Not specified
+Soil moisture subclass: Not specified
+Soil moisture class: Not specified
+Parent material and geology: loamy fluviomarine deposits
+Landforms: Interfluves
+Geomorphic positions, three-dimensional:  Interfluve
+Geomorphic positions, two-dimensional:  Backslope
+Down-slope shape: Convex
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 3 to 8 percent
+
+Malbis soils
+Percent of map unit: 2 percent
+Soil Taxonomic Classification: Not specified
+Soil moisture subclass: Not specified
+Soil moisture class: Not specified
+Parent material and geology: loamy marine deposits
+Landforms: Interfluves
+Geomorphic positions, three-dimensional:  Interfluve
+Geomorphic positions, two-dimensional:  Backslope
+Down-slope shape: Convex
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 3 to 8 percent
+
+Use and Managment: This map unit is primarily used for timber production. There are small areas of pasture land and home sites."|"565078"|"2588024"
+01/09/2021 00:00:00|"Edit notes"|||"FY22 MLRA 133B Ruston fine sandy loam, 3-8 percent slopes"|"565078"|"2588039"
+|"Miscellaneous notes"|"NONTECH - AGR"|"002"|"These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565078"|"2588092"
+|"Miscellaneous notes"|"NONTECH - WOO"|"001"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, southern red oak and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. There are no significant limitations for woodland use and management, except for moderate plant competition. (Woodland Ordination Symbol - 8A7)"|"565078"|"2588093"
+|"Nontechnical description"|"WSG"|"014"|"3c2 - Clayey texture may cause moderate equipment limitations and seedling mortality. Erosion hazard increases with slope. Important commercial tree species include loblolly pine and shortleaf pine. These soils are suited for pines, and the site index for loblolly pine is 80. The yield from an unmanaged stand over a 50-year period is approximately 230 board feet (Doyle rule) for loblolly pine, per acre per year. Native species important to wildlife include red oak, American beautyberry, yauupon, and tickclover. High value grasses and forbs used by livestock include pinehill bluestem, big bluestem, longleaf uniola, and indiangrass. Stocking rates depend on canopy density and range from 6-40 acres per animal unit."|"565079"|"2587993"
+07/25/2002 00:00:00|"Nontechnical description"|"PHG"|"8A"|"8A - TIGHT LOAMY UPLAND - Moderately deep to very deep uplands with loamy surfaces and dense subsoils; slopes 0 to 5 percent; low natural fertility; seasonally wet or droughty; medium water holding capacity but poor to fair plant-soil-moisture relationship; medium to high production potential."|"565079"|"2587994"
+03/12/2015 00:00:00|"Miscellaneous notes"|"evaluation"|"attribute"|"Evaluation of the Map Unit Attributes
+
+PROJECT NAME: SDJR - MLRA 133B - Sacul fine sandy loamy, 1 to 3 percent slopes
+
+List of Map Units in Project:
+  
+ Area Sym	 Natl MUSym/MUSym	 MU Name	 									MU Acres	 dmudesc
+TX225		m9x4 - SaB			Sacul fine sandy loam, 1 to 3 percent slopes	7101		225SaB
+TX401		mdq2 - SaB			Sacul fine sandy loam, 1 to 3 percent slopes	13371		401SaB
+TX073		m9n9 - Bc			Sacul fine sandy loam, gently sloping			3574		073Bc
+AR003       lz0c - 29           Sacul fine sandy loam, 1 to 3 percent slopes    2142        003029
+AR027       lz9f - 24           Sacul fine sandy loam, 1 to 3 percent slopes    5473        027024
+AR099       s6rs - SaB          Sacul fine sandy loam, 1 to 3 percent slopes    4185        099310B
+AR103       m01f - SaB          Sacul fine sandy loam, 1 to 3 percent slopes    3791        103SaB
+AR620       lyl4 - 15           Sacul fine sandy loam, 1 to 3 percent slopes    1919        620015
+AR660       lysb - 39           Sacul fine sandy loam, 1 to 3 percent slopes    8996        660039
+AR670       lyvp - 58           Sacul fine sandy loam, 1 to 3 percent slopes    6567        670058
+ 
+	Analysis of Published Manuscript Map Unit Descriptions and NASIS Data
+Composition:
+
+	Mapunit Composition and Reliability:
+
+Minor Components:
+MU Name	                                       Area Sym    Area Name	 Shown in NASIS	  Shown in PSS Manuscript
+Sacul fine sandy loam, 1 to 3 percent slopes	AR003    Ashley Co. AR	    Aqults          Ruston, Savannah, Smithdale
+	                                       
+Sacul fine sandy loam, 1 to 3 percent slopes	AR027	 Columbia Co. AR	none            Angie, Bowie, Smithdale, Warnock
+Sacul fine sandy loam, 1 to 3 percent slopes	AR099	 Nevada Co. AR	    Aqults	        Angie, Bibb, Bowie, Briley, Darden,
+                                                                                            Harleston, Rosalie, Sawyer, Smithdale
+																							Smithton, Warnock
+Sacul fine sandy loam, 1 to 3 percent slopes	AR103	 Ouachita Co. AR    Aqults, Leaf	Leaf, Kirvin 
+
+Sacul fine sandy loam, 1 to 3 percent slopes	AR620	 Calhoun &  	    Aqults 	        Ruston, Savannah, Sawyer, Smithdale
+                                                         Dallas Co. AR
+Sacul fine sandy loam, 1 to 3 percent slopes	AR660	 Jefferson &	    None  	        Sawyer, Savannah, Ruston, Smithdale 
+                                                         Lincoln Co. AR
+Sacul fine sandy loam, 1 to 3 percent slopes	AR670	 Lafayette, Little  Aqults          Bowie, Eylay, Ruston, Sawyer,
+                                                         River & Miller Co.                  Smithdale
+														 AR	
+Sacul fine sandy loam, 1 to 3 percent slopes    TX073    Cherokee Co. TX    Lilbert
+Sacul fine sandy loam, 1 to 3 percent slopes    TX401    Rusk Co. TX        Lilbert         Bowie, Lilbert
+
+
+Selected Minor Components:
+	Lilbert: 5 percent
+	Smithdale: 3 percent
+
+	
+Geology:
+
+	Reklaw 
+	Sparta Sand
+	Queen City
+    Cook Mountain
+    Yegua
+	Carrizo Sand
+	Weches
+	Wilcox
+
+Landscape, Landform and Positions for Components:
+
+	Sacul  Coastal Plain, interfluve
+	Lilbert - Coastal Plain, interfluve
+	Smithdale - Coastal Plain, interfluve
+	
+Major Land Uses:
+
+	The major use is for woodland, with some area in pasture. The forest vegetation is shortleaf and loblolly pine, red oak, sweetgum, and dogwood. Bermudagrass and bahiagrass are the principal pasture grasses used.
+
+Additional items:
+
+Describe Differences Between MLRA Map Unit and Map Units Being Harmonized:
+There is some difference in minor components and geology across the area. 
+Climatic data was different but edited to fit the distribution of the map unit.
+
+Lab Data:
+
+KSSL: There are no pedons sampled for the Sacul series in the project area. 
+
+University: There are no pedons sampled for Sacul series in the project area.
+
+Local: There are six pedons sampled for the Sacul series for BS and one for COLE in Rusk County. 
+
+Pedon Data in NASIS:
+
+	Number of Pedons: There are 3 pedons in Nasis that support this mapunit.
+
+	Distribution of Pedons:	Pedons are poorly distributed throughout the range of the map unit and there is insufficient data.
+
+	Number of Transects: There are no transects in Nasis that support this mapunit.
+
+Distribution of Transects: 
+
+	Since there is little pedon and no transect data in NASIS that supports this mapunit, the amount and distribution of the pedon descriptions and transect data is insufficient.  Additional pedon description and documentation spaced throughout the range of the mapunit is needed to sufficiently support the correlation of this mapunit.
+
+Other Attribute Issues: Undifferentiated
+
+This unit occurs mainly on the Claiborne and Wilcox group.  The Sparta, Cook Mountain, Yegua, and small areas of Weches are found in Houston County.  Reklaw, Queen City, Cook Mountain and small areas of Sparta are in Cherokee County.  Reklaw, Carrizo Sand, and small areas of Queen City and Wilcox are found in Rusk County. It could be that the soil delineations do not actually occur on all of these formations but the scale of the geology map does not allow such small geological units to be shown.  A future field project is needed to determine which geology this units belongs on.
+
+Evaluation of Map Unit Interpretations
+
+Interpretation Join Issues:
+
+	The horizon data for the major component for this map unit in every survey was originally recorded in the soil interpretation record (SOL5 form -- blue sheet).  The data was then transferred to the 3SD system and eventually migrated to the NASIS database.  Few changes have been made to the original data.  The data evaluated in this project is essentially the data originally recorded for the series.
+
+Evaluation of the Spatial Data
+
+Spatial Join Issues:
+
+Misjoins:
+
+Houston Co: Sacul fsl, 1-3% JOINS Anderson Co: Annona fsl, 1-5%
+Cherokee Co: Sacul fsl, gently slop JOINS Smith Co: Kirvin fsl, 1-5%
+Cherokee Co: Sacul fsl, gently slop JOINS Rusk Co: Gallime-Alazan comp, 0-2%
+Rusk Co: Sacul fsl, 1-3% JOINS Cherokee Co: Woodtell fsl, slop, eroded 
+Rusk Co: Sacul fsl, 1-3% JOINS Cherokee Co: Sacul fsl, strongly sloping
+Rusk Co: Sacul fsl, 1-3% JOINS Cherokee Co: Bowie fsl, gently sloping
+Rusk Co: Sacul fsl, 1-3% JOINS Cherokee Co: Sacul fsl, sloping
+Rusk Co: Sacul fsl, 1-3% JOINS Nacogdoches Co: Sacul fsl, 1-5%
+Rusk Co: Sacul fsl, 1-3% JOINS Nacogdoches Co: Bowie fsl, 1-8%
+Rusk Co: Sacul fsl, 1-3% JOINS Nacogdoches Co: Kirvin fsl, 1-8%
+Rusk Co: Sacul fsl, 1-3% JOINS Shelby Co: Sacul fsl, 1-5%
+Rusk Co: Sacul fsl, 1-3% JOINS Panola Co: Sacul fsl, 1-5%
+Rusk Co: Sacul fsl, 1-3% JOINS Gregg Co: Sacul fsl, 2-5%
+Rusk Co: Sacul fsl, 1-3% JOINS Gregg Co: Cuthbert fsl, 8-25%
+Columbia Co. AR: Sacul fsl, 1-3% JOINS Webster P., LA.: Sa-Sacul fsl, 1-5%
+Columbia Co. AR: Sacul fsl, 1-3% JOINS Claiborne P., LA.: Ea-Eastwood vfsl, 1-5%
+Columbia Co. AR: Sacul fsl, 1-3% JOINS Union Co., AR: ScC-Sacul-Sawyer complex, 1-8%
+Nevada Co., AR: Sacul fsl, 1-3% JOINS Ouachita Co., AR: SaC-Sacul fsl, 3-8%
+Jefferson & Lincoln Co., AR: Sacul fsl, 1-3% JOINS Cleveland Co., AR: Susquahanna vfsl, 1-3% eroded
+Jefferson & Lincoln Co., AR: Sacul fsl, 1-3% JOINS Drew Co., AR: Sacul fsl, 1-3% eroded
+Jefferson & Lincoln Co., AR: Sacul fsl, 1-3% JOINS Grant Co., AR: Sacul fsl, 1-8%
+Jefferson & Lincoln Co., AR: Sacul fsl, 1-3% JOINS Grant Co., AR: Stough fsl, 1-3% 
+Jefferson & Lincoln Co., AR: Sacul fsl, 1-3% JOINS Grant Co., AR: Warnock fsl, 1-7%
+
+Spatial Data Quality: 
+
+	This map unit is located mainly on nearly level to very gently sloping interfluves on the Coastal Plain. It is mapped on interfluves and on heads of drains which are the correct landforms.  Some areas that are ridges or steeper slopes may be incorrectly mapped or the lines may have been shifted somewhat and over mapped in some areas.  The soil lines need to be redrafted in some areas to place the map unit on the correct landform more accurately.
+
+Slope Analysis: 
+
+	None performed
+
+
+Future Project Needs:
+
+	Future Project Name:
+
+	MLRA 133B - Sacul on Summit - Field Project
+
+Series: Sacul
+Classification: Fine, mixed, active, thermic Aquic Hapludults 
+
+Type Location:  Ouachita County, Arkansas
+Geology: mapped mainly in the Claiborne, Jackson and Wilcox groups.  
+Landform: Occurs on interfluves on loamy and clayey fluviomarine sediments of Tertiary Age
+
+Texture and Slope:
+There are two texture phases: fine sandy loam and very fine sandy loam
+There are four slope ranges: 1 - 3%, 1 - 5%, 2 - 5%, and 3 - 8%
+There is also an urban phase
+
+Geology
+The Sacul fine sandy loam is mapped on interfluves and the geology map shows it is mapped on Queen City, Reklaw, Wilcox, and Yegua geologies in northeast Texas, southwest and southern central Arkansas, and northwest Louisiana.  Smaller areas have been mapped on the Sparta geology in northeast Texas. The geology maps in northeast Texas, southwest Arkansas, and northwest Louisiana lack a lot of detail due to the scale in which they were produced as compared to soils surveys.  The soils mapped in the soil surveys are small in size and the geologies are not accurately reflected. 
+
+The Sacul series has a ""water table"" described at 61 to 122 cm (2 to 4 ft) and is perched from Dec to April.  Field soil scientist that have mapped and described Sacul only note ""water tables"" where the soil occurs at the head of drains and or in a concave water receiving position. 
+
+Proposed Project
+
+A field project is needed to study the Sacul on the summit to:
+1)	Determine which geology and landform Sacul should be mapped on
+2)	Collect transects to determine map unit composition, determine minor components, and current taxonomic classification
+3)	Collect lab data over the entire range of the soil to be able to adequately populate NASIS with correct data
+4)	Collect saturated hydraulic conductivity data to adequately populate NASIS
+5)	Collect pedon data to be able to adequately determine the range of characteristics for the series
+6)	Determine if a new series or two is needed for the soils on any of the geologies or landforms on which the Sacul is currently mapped or if the lines on the geology maps are off
+7)	Determine the predominate slope phases and how many are needed  
+8)  Determine the correct texture phase or if two are needed
+9)	Determine the soil moisture to adequately populate NASIS
+10)	Correct line placement spatially to return soil delineations to correct landform
+11)	Correct map miss-joins across survey areas
+12) Determine proper depth class (very deep and/or deep), solum thickness, C horizon suffixes (C, Cd, Cr) and definitions for C material descriptions
+13) Determine if the Sacul as it is mapped has a ""water table"" and is indeed Sacul or it does not have a ""water table"" and it is another series or if in the concave head of drain positions have a ""water table"" and the other positions do not have a ""water table"". If the Sacul does not have a ""water table"" determine which series would best fit the soil or if a new series is needed. 
+"|"565079"|"2588009"
+03/12/2015 00:00:00|"Map unit description"|"map unit concept"||"Mapunit Concept
+
+National map unit symbol: 2tlkc
+Map unit name: Sacul fine sandy loam, 1 to 3 percent slopes
+
+Map Unit Description for Mapunit Concept Analysis:
+The description and data in this report below are historical information that documents the mapunit concept description the last time it was updated.  The information in this report below should not be used for any official use of soil information except as an archived description of the concept of the soil map unit.
+
+Mapunit concept notes and issues:  This very deep, moderately well drained soil occurs on interfluves and uplands in the Coastal Plains. This map unit is correlated in MLRA 133B and 135B. At this time the map unit correlated in MLRA 135B will not be included in this project, further data is needed to determine if it should be harmonized with the map unit in MLRA 133B. 
+Climatic data was edited to fit the range for correlated map units througout its distribution in MLRA 133B. 
+The LL & PI were not changed becasue of statement in CHECK2HOR LL & PI; l,rv,h versus derived (New Algor) htm?-Comparison of Stored vs Calculated - LL and PI. IF POPULATED LL or PI DONT MATCH CALCULATED VALUES, DONT CHANGE STORED VALUES WITHOUT ENGINEERING LAB DATA!! 
+CHECK8 Comp LCC, Subclass Comparison v6 LOC Sel Set- calculates LCC as 2e but is populated as a 3e.  
+
+Map Unit Setting
+
+Major land resource area: MLRA 133B - Western Coastal Plain
+Landscape: Coastal plains
+Elevation: 205 to 700 feet (63 to 214 meters)
+Mean annual precipitation: 45 to 54 inches (1143 to 1372 millimeters)
+Mean annual air temperature: 57 to 66 degrees F (14 to 19 degrees C)
+Frost-free period: 223 to 241 days
+Interpretive focus: Woodland
+Order of mapping: 2
+Prime Farmland Class: not rated
+
+Composition estimates
+
+Major components:
+Sacul and similar soils: 92 percent
+Minor components: 8 percent
+
+Estimates are based on field observations, soil descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Sacul soils
+
+Sacul soils
+Percent of map unit: 92 percent
+Soil Taxonomic Classification: Fine, mixed, active, thermic Aquic Hapludults
+Soil moisture subclass: Aquic
+Soil moisture class: udic
+Parent material and geology: clayey fluviomarine deposits
+Landforms: Interfluves
+Geomorphic positions, three-dimensional: Interfluve
+Geomorphic positions, two-dimensional: Summit
+Down-slope shape: Convex
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range: All aspects
+
+Typical Profile
+
+A -- 0 to 3 inches; strongly acid fine sandy loam
+E -- 3 to 8 inches; strongly acid fine sandy loam
+Bt -- 8 to 37 inches; very strongly acid clay
+Btg1 -- 37 to 42 inches; very strongly acid clay
+Btg2 -- 42 to 53 inches; very strongly acid clay
+Cd -- 53 to 80 inches; very strongly acid clay loam
+
+Properties and Qualities
+
+Slope: 1 to 3 percent
+Percent of area covered by surface fragments: Unspecified
+Depth range to first water and root restrictive layer: Densic bedrock: 40 to 80 inches
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Slow (0.06 to 0.2 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: Slow (0.06 to 0.2 in/hr)
+Depth to seasonal high water table, minimum: About 24 to 48 inches, perched (see Water Features report)
+Representative total available water capacity to 60 inches: Moderate (About 8.6 inches)
+Natural drainage class: Moderately well drained
+Runoff class: High
+Flooding frequency: None
+Ponding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Moderate. (4.8 LEP)
+Salinity class and maximum representative value within 40 inches: Non saline (1.0 mmhos/cm)
+Salinity class and maximum high value within 40 inches: Non saline (1.0 mmhos/cm)
+Sodicity class and sodium adsorption ratio(SAR) maximum representative value within 40 inches: Non sodic (0 SAR)
+Sodicity class and sodium adsorption ratio(SAR) maximum high value within 40 inches: Non sodic (0 SAR)
+Calcium Carbonate Equivalent, maximum representative value within 40 inches: 0 percent
+Gypsum, maximum representative value in the soil profile: 0 percent
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 3e
+Land capability subclass, irrigated: 3e
+Ecological site name: Clayey Upland 
+Ecological site number: F133BY012TX 
+Typical vegetation: bluestem, beaked panicum, other  shrubs, other perennial forbs, other perennial grasses, uniola, plumegrass, panicum, sedge
+
+Minor Component Descriptions
+
+Lilbert soils
+Percent of map unit: 5 percent
+Soil Taxonomic Classification: Loamy, siliceous, semiactive, thermic Arenic Plinthic Paleudults
+Soil moisture subclass: Typic
+Soil moisture class: udic
+Parent material and geology: sandy marine deposits and/or loamy marine deposits
+Landforms: Interfluves
+Geomorphic positions, three-dimensional:  Interfluve
+Geomorphic positions, two-dimensional:  Summit
+Down-slope shape: Convex
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 2 to 5 percent
+
+Smithdale soils
+Percent of map unit: 3 percent
+Soil Taxonomic Classification: Not specified
+Soil moisture subclass: Not specified
+Soil moisture class: Not specified
+Parent material and geology: loamy marine deposits
+Landforms: Interfluves
+Geomorphic positions, three-dimensional:  Interfluve
+Geomorphic positions, two-dimensional:  Shoulder
+Down-slope shape: Convex
+Across-slope shape: Linear
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 2 to 5 percent
+
+Use and Managment: Timber production is the primary use. Small areas of pasture and home sites occur. 
+
+"|"565079"|"2588023"
+|"Miscellaneous notes"|"NONTECH - WOO"|"007"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine and shortleaf pine. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. Equipment use is moderately restricted because of high clay content near the surface which reduces the load bearing capacity of these soils when they are moist. Plant competition is also moderate on these soils. (Woodland Ordination Symbol - 8C2)"|"565079"|"2588094"
+|"Miscellaneous notes"|"NONTECH - AGR"|"002"|"These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565079"|"2588095"
+|"Nontechnical description"|"WOO"|"003"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, cherrybark oak and sweetgum. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months because of wetness. These soils also have moderate plant competition. (Woodland Ordination Symbol - 9W8)"|"565080"|"2588004"
+|"Nontechnical description"|"AGR"|"017"|"This soil is well suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drainage may be needed in a few areas. This soil is well suited for pasture and hayland. Wetness is also a moderate limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565080"|"2588005"
+|"Nontechnical description"|"RNG"|"001"|"The soil is well suited to rangeland. The native vegetation of blue grama and galleta makes up nearly two-thirds of the vegetative cover. These two grasses combine with western wheatgrass and sideoats grama to form a mixed community. This soil cannot support a high density of plants because of the limited rainfall. Usable forage tends to be reduced. Ideally, plants grow in clumps, but clumps are spaced closely enough to prevent soil blowing. Western wheatgrass and sideoats grama decrease under mismanagement. Threeawn, sand dropseed, pricklypear, snakeweed, and ring muhly increase with deterioration of the rangeland condition. Proper grazing is the foremost need in range management. Fifty percent, by weight, of the forage needs to be left standing to protect the soil from blowing, to increase the infiltration of water, and to catch and hold snow. Range seeding speeds the revegetation of areas that have been depleted by heavy grazing, cultivation, or other disturbances. Primary varieties used for seeding are blue grama, sideoats grama, and western wheatgrass. A cover crop of sorghum, millet, sundangrass, or small grain should be planted a year before the grass is to be seeded to establish protection from the wind for the new seeding. Contour furrowing or pitting is applicable in areas where the rangeland is in poor and fair condition."|"565080"|"2588006"
+|"Miscellaneous notes"|"NONTECH - RNG"|"001"|"The soil is well suited to rangeland. The native vegetation of blue grama and galleta makes up nearly two-thirds of the vegetative cover. These two grasses combine with western wheatgrass and sideoats grama to form a mixed community. This soil cannot support a high density of plants because of the limited rainfall. Usable forage tends to be reduced. Ideally, plants grow in clumps, but clumps are spaced closely enough to prevent soil blowing. Western wheatgrass and sideoats grama decrease under mismanagement. Threeawn, sand dropseed, pricklypear, snakeweed, and ring muhly increase with deterioration of the rangeland condition. Proper grazing is the foremost need in range management. Fifty percent, by weight, of the forage needs to be left standing to protect the soil from blowing, to increase the infiltration of water, and to catch and hold snow. Range seeding speeds the revegetation of areas that have been depleted by heavy grazing, cultivation, or other disturbances. Primary varieties used for seeding are blue grama, sideoats grama, and western wheatgrass. A cover crop of sorghum, millet, sundangrass, or small grain should be planted a year before the grass is to be seeded to establish protection from the wind for the new seeding. Contour furrowing or pitting is applicable in areas where the rangeland is in poor and fair condition."|"565080"|"2588049"
+|"Miscellaneous notes"|"NONTECH - WOO"|"003"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, cherrybark oak and sweetgum. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months because of wetness. These soils also have moderate plant competition. (Woodland Ordination Symbol - 9W8)"|"565080"|"2588050"
+|"Miscellaneous notes"|"NONTECH - AGR"|"017"|"This soil is well suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drainage may be needed in a few areas. This soil is well suited for pasture and hayland. Wetness is also a moderate limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565080"|"2588051"
+09/24/2014 00:00:00|"Nontechnical description"|"WSG"|"3o7"|"Woodland Suitability Group: 3o7"|"565081"|"2587995"
+09/24/2014 00:00:00|"Map unit description"|"map unit concept"||"National Mapunit Symbol-- Mapunit Name
+2tzrs Savannah fine sandy loam, 1 to 3 percent slopes
+
+MLRA:  133B Western Coastal Plains
+
+Geographic Extent:
+This mapunit is correlated in a total of nine counties and six soil surveys in the state of Arkansas. Ashley, Calhoun, Clark, Dallas, Drew, Hot Spring, Jefferson, Lincoln, Saline county, Arkansas. Savannah was established in Hardin County, Tenn. Auburn Alabama is the SSR responsible for the Savannah series.
+
+Geographic Setting: 
+Soil Moisture Class: Udic
+Mean annual precipitation: 976 to 1544mm
+Mean annual air temperature: 11 to 23 degrees Fahrenheit
+Frost-free period: 220 to 260 days
+Elevation: No elevation data currently available (Future Field Project)
+
+Geomorphic Setting: 
+Major Component(s):
+The Savannah series consists of moderately well
+drained, moderately permeable soils that formed in thick
+beds of loamy sediment. These nearly level and gently
+sloping soils are on uplands of the Coastal Plain. 
+
+Minor Components
+Amy soils, which are level and are on uplands, are fine-silty
+and do not have a fragipan
+
+
+Parent Material and Geology:
+
+Typical Vegetation or Crops:
+	Soybean
+	Cotton
+	Small grains
+	Loblolly pine
+	Shortleaf pine
+	Southern Red Oak
+Mapunit Composition and Reliability:
+Savannah and similar soils 95 percent
+Amy and similar soils 5 percent
+
+The mapunit composition was estimated from the mapunit description in the published manuscripts and needs to be verified with transects in a future MLRA project.  
+
+Classification:
+Savannah: Fine loamy, siliceous, semiactive, thermic Typic Fragiudults
+
+
+Pertinent soil properties and qualities, and interpretations:
+	Strongly Acidic Soil
+	Moderate to moderately slow permeability due to fragipan
+	Wetness is a moderate limitation for dwellings and industrial sites.
+	Low strength is a moderate limitation for roads and streets.
+	Moderately slow permeability is a severe limitation for septic tank absorption fields. 
+	Capability unit IIe-1;
+	Woodland suitability group 3o7.
+
+Other Expert Knowledge Gained Through SDJR:
+	Coastal Plain Soil
+	Savannah is a soil with Fragic Properties
+	Series was established in Tennessee
+	Moderately well drained soil
+"|"565081"|"2588031"
+|"Miscellaneous notes"|"NONTECH - AGR"|"001"|"These soils are well suited for cultivated crops, and pasture and hay. Suitable crops include corn, soybeans, small grain and truck crops. Erosion is a moderate hazard if cultivated crops are grown. Practices such as conservation tillage, contour farming, and the use of cover crops help reduce runoff and control erosion. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565081"|"2588096"
+|"Miscellaneous notes"|"NONTECH - WOO"|"017"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, southern red oak, and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. Windthrow is a moderate hazard on these soils due to a compact, brittle fragipan which reduces rooting depth. An occasional tree may blow down with moderate or strong winds. Plant competition is also moderate on these soils."|"565081"|"2588097"
+08/24/2014 00:00:00|"Nontechnical description"|"WSG"|"3o7"|"Woodland Suitability Group: 3o7 "|"565082"|"2587996"
+09/24/2014 00:00:00|"Map unit description"|"map unit concept"||"National Mapunit Symbol-- Mapunit Name
+2tzrt Savannah fine sandy loam, 3 to 8 percent slopes
+
+MLRA:  133B Western Coastal Plains
+
+Geographic Extent:
+This mapunit is correlated in a total of nine counties and six soil surveys in the state of Arkansas. Ashley, Calhoun, Clark, Dallas, Drew, Hot Spring, Jefferson, Lincoln, Saline county, Arkansas. Savannah was established in Hardin County, Tenn. Auburn Alabama is the SSR responsible for Savannah.
+
+Geographic Setting: 
+Soil Moisture Class: Udic
+Mean annual precipitation: 976 to 1544mm
+Mean annual air temperature: 11 to 23 degrees Fahrenheit
+Frost-free period: 220 to 260 days
+Elevation: No elevation data currently available (Future Field Project)
+
+Geomorphic Setting: 
+Major Component(s):
+The Savannah series consists of moderately well
+drained, moderately permeable soils that formed in thick
+beds of loamy sediment. These nearly level and gently
+sloping soils are on uplands of the Coastal Plain. 
+
+Minor Components
+Amy soils, which are level and are on uplands, are fine-silty
+and do not have a fragipan
+
+
+Parent Material and Geology:
+
+Typical Vegetation or Crops:
+	Soybean
+	Cotton
+	Small grains
+	Loblolly pine
+	Shortleaf pine
+	Southern Red Oak
+Mapunit Composition and Reliability:
+Savannah and similar soils 95 percent
+Amy and similar soils 5 percent
+
+The mapunit composition was estimated from the mapunit description in the published manuscripts and needs to be verified with transects in a future MLRA project.  
+
+Classification:
+
+Savannah: Fine loamy, siliceous, semiactive, thermic Typic Fragiudults
+
+
+
+Pertinent soil properties and qualities, and interpretations:
+	Strongly Acidic Soil
+	Moderate to moderately slow permeability due to fragipan
+	Wetness is a moderate limitation for dwellings and industrial sites.
+	Low strength is a moderate limitation for roads and streets.
+	Moderately slow permeability is a severe limitation for septic tank absorption fields. 
+	Capability unit IIIe-1.
+	Woodland suitability group 3o7.
+.
+
+Other Expert Knowledge Gained Through SDJR:
+	Coastal Plain Soil
+	Savannah is a soil with Fragic Properties
+	Series was established in Tennessee
+	Moderately well drained soil
+
+
+Spatial Data Quality:  No spatial data errors identified
+"|"565082"|"2588032"
+|"Miscellaneous notes"|"NONTECH - AGR"|"002"|"These soils are moderately suited for cultivated crops, and well suited for pasture and hayland. Runoff is medium to rapid and erosion is a severe hazard if cultivated crops are grown. Practices which help reduce runoff and control erosion are recommended. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. There are no significant limitations for pasture."|"565082"|"2588098"
+|"Miscellaneous notes"|"NONTECH - WOO"|"017"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, southern red oak, and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. Windthrow is a moderate hazard on these soils due to a compact, brittle fragipan which reduces rooting depth. An occasional tree may blow down with moderate or strong winds. Plant competition is also moderate on these soils."|"565082"|"2588099"
+09/16/2016 00:00:00|"Map unit description"||"map unit concept"|"Edited, 09/15/2016          
+
+Mapunit concept notes and issues:  USE THIS REPORT ONLY AS AN ANALYSIS TOOL to compare mapunit descriptions in Published Soil Surveys to the mapunit descriptions generated from NASIS.  REPLACE ALL OF THE TEXT in 'Mapunit concept notes and issues:' WITH YOUR OWN CONCISE FREE FORM TEXT BASED ON THIS ANALYSIS.  After analysis, the 'Map unit concept notes and issues' is placed in mapunit text in NASIS, and completes the development of the MLRA map unit and documents the mapunit concept as required by the NSSH. This free-form text explains issues discovered when moving the historical county map unit phase concepts into the new MLRA map unit concept documented in NASIS.  It should be concise with correct spelling and proper grammar.  This section explains any significant issues and or unresolved issues discovered while creating the mlra map unit for a project and describes the methods used to create the mapunit concept documented in mapunit composition in the mlra mapunit for the completed project.  Provide additional details from your analysis, experience, and tacit knowledge about the map unit concept, that this NASIS report cannot provide.  You should describe the basis for populating the map unit composition(such as former NASIS population, manuscript MUDS, and or transects, to determine future project documentation needs.  Provide a list of all pertinent issues related to the mapunit concept, that need to be addressed in a future project. Identify any flaws in the mapunit concept related to the accuracy of delineations(spatial issues) and identify spatial areas that should be field verified.  Provide any notes on landform position or geology, that are not already in the geomorphic information for major and minor components.  Map unit concept notes created are to be entered in the map unit text table using: Kind = map unit description, Category = map unit concept, Subcategory= (Leave it Null).
+
+Map Unit Description for Mapunit Concept Analysis:
+The description and data in this report below are historical information that documents the mapunit concept description the last time it was updated.  The information in this report below should not be used for any official use of soil information except as an archived description of the concept of the soil map unit.
+
+Map unit name: Smithdale fine sandy loam, 8 to 12 percent slopes
+
+Map Unit Setting
+
+Major land resource area: MLRA 133B
+Landscape: Coastal plains
+Elevation: 49.2 to 249 feet (15.0 to 76.0 meters)
+Mean annual precipitation: 38 to 61 inches (976 to 1544 millimeters)
+Mean annual air temperature: 52 to 73 degrees F (11 to 23 degrees C)
+Frost-free period: 220 to 260 days
+Interpretive focus: Cropland and woodland
+Order of mapping: 2
+
+Composition estimates
+
+Major components:
+Smithdale and similar soils: 100 percent
+Minor components: 
+
+Estimates are based on observations, descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Smithdale soils
+
+Smithdale soils
+Percent of map unit: 100 percent
+Parent material and geology: loamy marine deposits
+Landforms: Upland interfluves
+
+Typical Profile
+
+A--0 to 4 inches; brown fine sandy loam; moderately acid
+BE--4 to 13 inches; yellowish red fine sandy loam; strongly acid
+Bt1--13 to 32 inches; red sandy clay loam; strongly acid
+Bt2--32 to 55 inches; red sandy loam; strongly acid
+Bt3--55 to 80 inches; red sandy loam; strongly acid
+
+Properties and Qualities
+
+Slope: 8 to 12 percent
+Percent of area covered by surface fragments: None specified
+Depth range to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Moderate (0.6 to 2.0 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Representative total available water capacity to 60 inches: High (About 9.4 inches)
+Natural drainage class: Well drained
+Runoff class: Medium
+Flooding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Low. (0.9 LEP)
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 4e
+Land capability subclass, irrigated: None specified
+Ecological site name: None specified
+Ecological site number: None specified
+Typical vegetation: slender woodoats, other perennial forbs, little bluestem, beaked panicum, panicum, other  shrubs
+
+Use and Managment: 
+
+"|"565083"|"2588030"
+|"Miscellaneous notes"|"NONTECH - WOO"|"001"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, southern red oak and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. There are no significant limitations for woodland use and management, except for moderate plant competition. (Woodland Ordination Symbol - 8A7)"|"565083"|"2588100"
+|"Miscellaneous notes"|"NONTECH - AGR"|"003"|"These soils are poorly suited for cultivated crops, and moderately suited for pasture and hay. Runoff is rapid and erosion is a very severe hazard if cultivated crops are grown. Conservation practices need to be intensified as slope length and gradient increase. Adapted pasture plants include common bermudagrass, improved bermudagrass, and tall fescue. Good management practices include controlled grazing, proper stocking, and weed and brush control."|"565083"|"2588101"
+|"Nontechnical description"|"AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"565084"|"2587997"
+|"Nontechnical description"|"WOO"|"016"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, American sycamore, eastern cottonwood, Nuttall oak and sweetgum. Loblolly pine has potential to produce 136 to 149 cubic feet per acre annually on these soils. Equipment use may be restricted due to flooding or wetness. Seedling mortality may be 25 to 50 percent due to flooding or wetness. (Woodland Ordination Symbol - 10W)"|"565084"|"2587998"
+|"Miscellaneous notes"|"NONTECH - AGR"|"012"|"This soil is well suited to pasture and hayland, and cultivated crops. Occasional flooding during the late fall, winter, and early spring is a moderate hazard. Suitable crops include corn, soybeans, grain sorghum, and truck crops. Adapted pasture plants include bermudagrass, bahiagrass, tall fescue and white clover."|"565084"|"2588102"
+|"Miscellaneous notes"|"NONTECH - WOO"|"016"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, American sycamore, eastern cottonwood, Nuttall oak and sweetgum. Loblolly pine has potential to produce 136 to 149 cubic feet per acre annually on these soils. Equipment use may be restricted due to flooding or wetness. Seedling mortality may be 25 to 50 percent due to flooding or wetness. (Woodland Ordination Symbol - 10W)"|"565084"|"2588103"
+07/21/2016 00:00:00|"Map unit description"|"map unit concept"||"Map unit name: Tippah silt loam, 1 to 3 percent slopes
+
+Map Unit Setting
+
+Major land resource area: Not specified
+Landscape: Coastal plains
+Elevation: 49.2 to 249 feet (15.0 to 76.0 meters)
+Mean annual precipitation: 47 to 66 inches (1197 to 1682 millimeters)
+Mean annual air temperature: 48 to 73 degrees F (9 to 23 degrees C)
+Frost-free period: 205 to 275 days
+Interpretive focus: Cropland
+Order of mapping: 2
+
+Composition estimates
+
+Major components:
+Tippah and similar soils: 95 percent
+Minor components: 5 percent
+
+Estimates are based on observations, descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Tippah soils
+
+Tippah soils
+Percent of map unit: 95 percent
+Parent material and geology: loess over clayey marine deposits
+Landforms: Coastal plain terraces
+
+Typical Profile
+
+Ap--0 to 6 inches; dark grayish brown silt loam; strongly acid
+Bt1--6 to 16 inches; strong brown silty clay loam; strongly acid
+Bt2--16 to 26 inches; strong brown silty clay loam, with red masses of oxidized iron; strongly acid
+2Bt3--26 to 46 inches; red clay, with strong brown masses of oxidized iron; very strongly acid
+2Bt4--46 to 72 inches; 45 percent gray and 35 percent strong brown and 20 percent yellowish red clay; very strongly acid
+
+Properties and Qualities
+
+Slope: 1 to 3 percent
+Percent of area covered by surface fragments: None specified
+Depth range to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Slow (0.06 to 0.2 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Representative total available water capacity to 60 inches: High (About 11.0 inches)
+Natural drainage class: Moderately well drained
+Runoff class: Low
+Flooding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Moderate. (4.9 LEP)
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 2e
+Land capability subclass, irrigated: None specified
+Ecological site name: None specified
+Ecological site number: None specified
+Typical vegetation: slender woodoats, beaked panicum, other perennial forbs, panicum
+
+Minor Component Descriptions
+
+Aqualfs soils
+Percent of map unit: 5 percent
+Parent material and geology: loess over clayey marine deposits
+Landforms: Depressions
+Geomorphic positions, three-dimensional:  Dip
+Down-slope shape: Concave
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 1 to 3 percent
+
+Use and Managment: 
+
+"|"565085"|"2588028"
+|"Miscellaneous notes"|"NONTECH - WOO"|"001"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, southern red oak and white oak. Loblolly pine has potential to produce 107 to 120 cubic feet per acre annually on these soils. There are no significant limitations for woodland use and management, except for moderate plant competition. (Woodland Ordination Symbol - 8A7)"|"565085"|"2588104"
+09/26/2012 00:00:00|"Map unit description"|"map unit concept"||"Map unit name: Yorktown silty clay, 0 to 1 percent slopes, frequently flooded, frequently ponded
+
+Map Unit Setting
+
+Major land resource area: Not specified
+Landscape: River valleys
+Elevation: 95 to 245 feet (30 to 76 meters)
+Mean annual precipitation: 38 to 61 inches (976 to 1544 millimeters)
+Mean annual air temperature: 52 to 73 degrees F (11 to 23 degrees C)
+Frost-free period: 220 to 260 days
+Interpretive focus: Woodland
+Order of mapping: 2
+
+Composition estimates
+
+Major components:
+Yorktown and similar soils: 95 percent
+Minor components: 5 percent
+
+Estimates are based on observations, descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Yorktown soils
+
+Yorktown soils
+Percent of map unit: 95 percent
+Parent material and geology: clayey alluvium derived from sedimentary rock
+Landforms: Backswamps
+
+Typical Profile
+
+Oe--0 to 2 inches; dark brown moderately decomposed plant material; moderately acid
+A--2 to 8 inches; gray silty clay, with dark brown manganese masses; moderately acid
+Bg1--8 to 24 inches; gray clay, with 5YR 4/8 masses of oxidized iron; moderately acid
+Bg2--24 to 35 inches; dark gray clay, with yellowish red masses of oxidized iron; moderately acid
+Bg3--35 to 42 inches; greenish gray clay, with yellowish red masses of oxidized iron; moderately acid
+2Bw--42 to 60 inches; reddish brown clay, with greenish gray iron depletions; slightly alkaline
+
+Properties and Qualities
+
+Slope: 0 to 1 percent
+Percent of area covered by surface fragments: None specified
+Depth range to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Very slow (0.001 to 0.06 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Representative total available water capacity to 60 inches: Moderate (About 7.6 inches)
+Natural drainage class: Very poorly drained
+Runoff class: Negligible
+Flooding frequency: Frequent
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Very high. (16.7 LEP)
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 7w
+Land capability subclass, irrigated: None specified
+Ecological site name: None specified
+Ecological site number: None specified
+Typical vegetation: None specified
+
+Minor Component Descriptions
+
+Perry soils
+Percent of map unit: 5 percent
+Parent material and geology: clayey alluvium derived from sedimentary rock
+Landforms: Backswamps
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Use and Managment: 
+
+"|"565086"|"2588029"
+08/15/2012 00:00:00|"Correlation notes"|||"This data map unit was developed as part of the SDJR, to harmonize map units across political boundaries. "|"565086"|"2588040"
+09/26/2012 00:00:00|"Correlation notes"|"amendment"|"name change"|"The map unit name was updated from Yorktown silty clay to Yorktown silty clay, ponded, 0 to 1 percent slopes, frequently flooded."|"565086"|"2588105"
+06/28/2016 00:00:00|"Map unit description"|"map unit concept"||"Map unit name: Calhoun silt loam, 0 to 1 percent slopes
+
+Map Unit Setting
+
+Major land resource area: MLRA 131D
+Landscape: Alluvial plains
+Major land resource area: Not specified
+Landscape: Loess uplands
+Elevation: 175 to 195 feet (54 to 60 meters)
+Mean annual precipitation: 47 to 66 inches (1197 to 1682 millimeters)
+Mean annual air temperature: 54 to 75 degrees F (12 to 24 degrees C)
+Frost-free period: 205 to 290 days
+Interpretive focus: Cropland
+Order of mapping: 2
+
+Composition estimates
+
+Major components:
+Calhoun and similar soils: 85 percent
+Minor components: 15 percent
+
+Estimates are based on observations, descriptions, and or transects of the mapunit
+
+Major Component Descriptions
+
+Description of Calhoun soils
+
+Calhoun soils
+Percent of map unit: 85 percent
+Parent material and geology: Pleistocene age loess derived from sedimentary rock
+Landforms: Stream terraces
+
+Typical Profile
+
+Ap--0 to 5 inches; dark grayish brown silt loam, with grayish brown iron depletions; moderately acid
+Eg1--5 to 10 inches; grayish brown silt loam, with yellowish brown masses of oxidized iron; strongly acid
+Eg2--10 to 18 inches; light brownish gray silt loam, with yellowish brown masses of oxidized iron; very strongly acid
+Btg1--18 to 29 inches; grayish brown silty clay loam, with dark grayish brown manganese coatings; very strongly acid
+Btg2--29 to 41 inches; grayish brown silty clay loam, with yellowish brown masses of oxidized iron; very strongly acid
+Btg3--41 to 52 inches; light brownish gray silty clay loam, with yellowish brown masses of oxidized iron; strongly acid
+BCg--52 to 72 inches; gray silty clay loam, with yellowish brown masses of oxidized iron; strongly acid
+
+Properties and Qualities
+
+Slope: 0 to 1 percent
+Percent of area covered by surface fragments: None specified
+Depth range to first water and root restrictive layer: No restrictive layer
+Slowest soil permeability to 60 inches, above first water and root restrictive layer: Slow (0.06 to 0.2 in/hr)
+Slowest permeability from first water and root restrictive layer to 60 inches: No restrictive layer, so the results above are the most restrictive class
+Representative total available water capacity to 60 inches: Very high (About 13.1 inches)
+Natural drainage class: Poorly drained
+Runoff class: Low
+Flooding frequency: None
+Shrink-swell potential, weighted average of representative value linear extensibility percentage (LEP) in 10 to 60 inches: Low. (1.4 LEP)
+
+Interpretive Groups
+
+Land capability subclass, nonirrigated: 3w
+Land capability subclass, irrigated: None specified
+Ecological site name: None specified
+Ecological site number: None specified
+Typical vegetation: None specified
+
+Minor Component Descriptions
+
+Aqualfs soils
+Percent of map unit: 5 percent
+Parent material and geology: Pleistocene age loess derived from sedimentary rock
+Landforms: Depressions
+Down-slope shape: Concave
+Across-slope shape: Convex
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Calloway soils
+Percent of map unit: 5 percent
+Parent material and geology: Pleistocene age loess derived from sedimentary rock
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Grenada soils
+Percent of map unit: 5 percent
+Parent material and geology: Pleistocene age loess derived from sedimentary rock
+Aspect, representative: Southeast
+Aspect, range:  All aspects
+Slope: 0 to 1 percent
+
+Use and Managment: 
+
+"|"565087"|"2588027"
+|"Miscellaneous notes"|"NONTECH - WOO"|"010"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, cherrybark oak, sweetgum, water oak, and willow oak. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months due to wetness. Seedling mortality may be 25 to 50 percent due to wetness. (Woodland Ordination Symbol - 8W)"|"565087"|"2588052"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565087"|"2588053"
+|"Miscellaneous notes"|"NONTECH - WOO"|"011"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, cherrybark oak, sweetgum, and water oak. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months because of wetness. These soils also have moderate plant competition. (Woodland Ordination Symbol - 8W8)"|"565088"|"2588054"
+|"Miscellaneous notes"|"NONTECH - AGR"|"017"|"This soil is well suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Winter small grain can be grown where surface drainage is adequate. Excess surface water is a moderate hazard and surface drainage may be needed in a few areas. This soil is well suited for pasture and hayland. Wetness is also a moderate limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565088"|"2588055"
+|"Nontechnical description"|"WOO"|"011"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, cherrybark oak, sweetgum, and water oak. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months because of wetness. These soils also have moderate plant competition. (Woodland Ordination Symbol - 8W8)"|"565089"|"2588002"
+|"Nontechnical description"|"AGR"|"015"|"This soil is well suited to cultivated crops, and pasture and hayland. Erosion is a moderate hazard if row crops are grown. Practices such as conservation tillage, cover crops and contour farming help reduce runoff and control erosion. Suitable crops include soybeans, grain sorghum, winter small grains and truck crops. Adapted pasture plants include bermudagrass, tall fescue, and bahiagrass."|"565089"|"2588003"
+|"Miscellaneous notes"|"NONTECH - WOO"|"011"|"These soils have moderately high potential for production of commercial wood products. Common trees grown on these soils include loblolly pine, shortleaf pine, cherrybark oak, sweetgum, and water oak. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months because of wetness. These soils also have moderate plant competition. (Woodland Ordination Symbol - 8W8)"|"565089"|"2588056"
+|"Miscellaneous notes"|"NONTECH - AGR"|"015"|"This soil is well suited to cultivated crops, and pasture and hayland. Erosion is a moderate hazard if row crops are grown. Practices such as conservation tillage, cover crops and contour farming help reduce runoff and control erosion. Suitable crops include soybeans, grain sorghum, winter small grains and truck crops. Adapted pasture plants include bermudagrass, tall fescue, and bahiagrass."|"565089"|"2588057"
+|"Nontechnical description"|"AGR"|"030"|"This soil is generally not suited to cultivated crops because of droughtiness and flooding. This soil is moderately suited to pasture. Adapted pasture plants include bermudagrass and bahiagrass. Droughtiness and flooding are the main limitations for forage production. Good management practices include proper stocking, rotation grazing, and weed and brush control."|"565090"|"2588001"
+|"Miscellaneous notes"|"NONTECH - AGR"|"030"|"This soil is generally not suited to cultivated crops because of droughtiness and flooding. This soil is moderately suited to pasture. Adapted pasture plants include bermudagrass and bahiagrass. Droughtiness and flooding are the main limitations for forage production. Good management practices include proper stocking, rotation grazing, and weed and brush control."|"565090"|"2588058"
+|"Nontechnical description"|"WOO"|"010"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, cherrybark oak, sweetgum, water oak, and willow oak. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months due to wetness. Seedling mortality may be 25 to 50 percent due to wetness. (Woodland Ordination Symbol - 8W)"|"565091"|"2587999"
+|"Nontechnical description"|"AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565091"|"2588000"
+|"Miscellaneous notes"|"NONTECH - AGR"|"016"|"This soil is moderately suited to cultivated crops. Rice, grain sorghum, and soybeans are the main crops grown on this soil. Excess surface water is a severe limitation and surface drainage will be needed in most areas. This soil is moderately suited for pasture and hayland. Wetness during winter and early spring is the main limitation to these uses. Adapted pasture plants include common bermudagrass, improved bermudagrasses, bahiagrass and tall fescue."|"565091"|"2588059"
+|"Miscellaneous notes"|"NONTECH - WOO"|"010"|"These soils have moderately high potential for production of commercial wood products. Common trees include loblolly pine, shortleaf pine, cherrybark oak, sweetgum, water oak, and willow oak. Loblolly pine has potential to produce 123 to 133 cubic feet per acre annually on these soils. Equipment use may be restricted for 1 to 3 months due to wetness. Seedling mortality may be 25 to 50 percent due to wetness. (Woodland Ordination Symbol - 8W)"|"565091"|"2588060"
+03/11/2021 00:00:00|"Edit notes"|"ownership"||"Transferred Data mapunit ownership from Region 6 to Region 9 due to reassignment of 6-HOT (Hot Springs, AR) MLRA Soil Survey Office to 9-HOT. "|"1602154"|"2588041"
