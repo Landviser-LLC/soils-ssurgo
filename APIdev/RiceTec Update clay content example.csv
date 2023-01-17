@@ -1,0 +1,2 @@
+[A] grower name,[B] old plot name,[C] date of when the plot was active (today if empty) - used to distinguish between similarly named plots or between seasons,[D] new date of when the plot was created,[E] new date of when the plot was closed,[F] new name,[G] new localized name,[H] new second localized name,[I] new plot area in square meters,[J] new latitude,[K] new longitude,[L] new plot polygon in WKT format,[M] new external ID, clay_content_percentage
+FR11Q3S2Z,AL598077Z,,,,,,,,,,,,20
