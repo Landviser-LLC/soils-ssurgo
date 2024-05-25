@@ -2,6 +2,9 @@
 
 Planning this SSURGO repo. This is a learning repo on basics of Git, Python, Virtual Environments, Spatial Data, ArcGIS, QGIS, PostgreSQL, Geoserver, webmaps.
 
+# Get soil data (USA)
+link to download STATSGO, NATSGO, and SSURGO in ESRI geodatabase format https://nrcs.app.box.com/v/soils/folder/17971946225
+
 ## Beginner: clone and contribute to this repo
 
 `git clone `
